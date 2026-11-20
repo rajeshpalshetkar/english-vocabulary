@@ -3,139 +3,139 @@
   "slug": "quiz-0795",
   "title": "English Practice Quiz 0795",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Conversation",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q061",
-      "category": "Reading",
-      "question": "Read: 'Mina takes the bus at 8 a.m. and reaches work at 8:45.' How does Mina travel?",
+      "id": "q12041",
+      "category": "Logistics and Transport",
+      "question": "Logistics and Transport 01: A delivery note lists?",
       "options": [
-        "By train",
-        "By bus",
-        "By car",
-        "On foot"
-      ],
-      "answer": 1,
-      "explanation": "The passage clearly says Mina takes the bus."
-    },
-    {
-      "id": "q080",
-      "category": "Punctuation",
-      "question": "Choose the correctly written date phrase.",
-      "options": [
-        "on monday",
-        "on Monday",
-        "On monday",
-        "on Monday."
-      ],
-      "answer": 1,
-      "explanation": "Days of the week begin with a capital letter."
-    },
-    {
-      "id": "q099",
-      "category": "Reported Speech",
-      "question": "She said, 'Please sit down.'",
-      "options": [
-        "She told me sit down.",
-        "She asked me to sit down.",
-        "She said me to sit.",
-        "She asked that I sat."
-      ],
-      "answer": 1,
-      "explanation": "A request can be reported with asked + object + to-infinitive."
-    },
-    {
-      "id": "q003",
-      "category": "Grammar",
-      "question": "I ___ a new notebook yesterday.",
-      "options": [
-        "buy",
-        "buys",
-        "bought",
-        "buying"
-      ],
-      "answer": 2,
-      "explanation": "Yesterday signals the past simple. The past form of buy is bought."
-    },
-    {
-      "id": "q022",
-      "category": "Vocabulary",
-      "question": "Choose the opposite of 'polite'.",
-      "options": [
-        "kind",
-        "rude",
-        "helpful",
-        "calm"
-      ],
-      "answer": 1,
-      "explanation": "Rude is the opposite of polite."
-    },
-    {
-      "id": "q041",
-      "category": "Modals",
-      "question": "___ I borrow your pen, please?",
-      "options": [
-        "May",
-        "Must",
-        "Should",
-        "Would have"
+        "goods supplied with a delivery",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
       ],
       "answer": 0,
-      "explanation": "May is a polite way to ask permission."
+      "explanation": "Option A is correct: goods supplied with a delivery."
     },
     {
-      "id": "q060",
-      "category": "Pronunciation",
-      "question": "How many syllables are in 'computer'?",
+      "id": "q12042",
+      "category": "Logistics and Transport",
+      "question": "Logistics and Transport 02: Before dispatch, staff should verify?",
       "options": [
-        "one",
-        "two",
-        "three",
-        "four"
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "items, quantities and destination details"
+      ],
+      "answer": 3,
+      "explanation": "Option D is correct: items, quantities and destination details."
+    },
+    {
+      "id": "q12043",
+      "category": "Logistics and Transport",
+      "question": "Logistics and Transport 03: A route plan should consider?",
+      "options": [
+        "make an unsupported assumption",
+        "share the information publicly",
+        "distance, traffic and delivery windows",
+        "ignore the issue and continue"
       ],
       "answer": 2,
-      "explanation": "Computer is commonly pronounced with three syllables: com-pu-ter."
+      "explanation": "Option C is correct: distance, traffic and delivery windows."
     },
     {
-      "id": "q079",
-      "category": "Punctuation",
-      "question": "Which is a complete sentence?",
+      "id": "q12044",
+      "category": "Logistics and Transport",
+      "question": "Logistics and Transport 04: When a shipment is delayed, the coordinator should?",
       "options": [
-        "Because it was raining.",
-        "After the meeting.",
-        "The team finished the work.",
-        "When I arrived."
+        "share the information publicly",
+        "provide accurate updates to affected parties",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
       ],
-      "answer": 2,
-      "explanation": "The team finished the work contains a subject and a complete predicate."
+      "answer": 1,
+      "explanation": "Option B is correct: provide accurate updates to affected parties."
     },
     {
-      "id": "q098",
-      "category": "Reported Speech",
-      "question": "He asked, 'Where do you live?'",
+      "id": "q12045",
+      "category": "Logistics and Transport",
+      "question": "Logistics and Transport 05: Proof of delivery confirms?",
       "options": [
-        "He asked where I lived.",
-        "He asked where do I live.",
-        "He asked where did I lived.",
-        "He asked where I live do."
+        "that goods were received with relevant details",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
       ],
       "answer": 0,
-      "explanation": "Reported questions use statement word order; do is removed."
+      "explanation": "Option A is correct: that goods were received with relevant details."
     },
     {
-      "id": "q002",
-      "category": "Grammar",
-      "question": "They ___ ready for the meeting.",
+      "id": "q12046",
+      "category": "Logistics and Transport",
+      "question": "Logistics and Transport 06: A vehicle inspection before a trip helps?",
       "options": [
-        "is",
-        "am",
-        "are",
-        "be"
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "identify safety or mechanical issues"
+      ],
+      "answer": 3,
+      "explanation": "Option D is correct: identify safety or mechanical issues."
+    },
+    {
+      "id": "q12047",
+      "category": "Logistics and Transport",
+      "question": "Logistics and Transport 07: A consignment number is useful for?",
+      "options": [
+        "make an unsupported assumption",
+        "share the information publicly",
+        "tracking a shipment",
+        "ignore the issue and continue"
       ],
       "answer": 2,
-      "explanation": "Use are with the plural subject they."
+      "explanation": "Option C is correct: tracking a shipment."
+    },
+    {
+      "id": "q12048",
+      "category": "Logistics and Transport",
+      "question": "Logistics and Transport 08: Perishable goods should be transported?",
+      "options": [
+        "share the information publicly",
+        "under required temperature and handling conditions",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
+      ],
+      "answer": 1,
+      "explanation": "Option B is correct: under required temperature and handling conditions."
+    },
+    {
+      "id": "q12049",
+      "category": "Logistics and Transport",
+      "question": "Logistics and Transport 09: Vehicle loading should ensure weight is?",
+      "options": [
+        "distributed safely within permitted limits",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: distributed safely within permitted limits."
+    },
+    {
+      "id": "q12050",
+      "category": "Logistics and Transport",
+      "question": "Logistics and Transport 10: A returned delivery should be?",
+      "options": [
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "recorded with its reason and next action"
+      ],
+      "answer": 3,
+      "explanation": "Option D is correct: recorded with its reason and next action."
     }
   ]
 }
