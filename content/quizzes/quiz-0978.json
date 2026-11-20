@@ -3,139 +3,139 @@
   "slug": "quiz-0978",
   "title": "English Practice Quiz 0978",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q067",
-      "category": "Workplace English",
-      "question": "You have completed a task. You say:",
+      "id": "q10271",
+      "category": "Leadership and Teamwork",
+      "question": "A good team leader should ___.",
       "options": [
-        "The task is complete.",
-        "The task complete yesterday tomorrow.",
-        "I task finish.",
-        "Task is completing me."
+        "listen to team members and set clear expectations",
+        "avoid giving any direction",
+        "take credit for every task",
+        "discourage questions"
       ],
       "answer": 0,
-      "explanation": "The task is complete is a clear status update."
+      "explanation": "Listening and clear expectations support effective teamwork."
     },
     {
-      "id": "q098",
-      "category": "Reported Speech",
-      "question": "He asked, 'Where do you live?'",
+      "id": "q10272",
+      "category": "Leadership and Teamwork",
+      "question": "Delegating a task means ___.",
       "options": [
-        "He asked where I lived.",
-        "He asked where do I live.",
-        "He asked where did I lived.",
-        "He asked where I live do."
+        "assigning responsibility to another person",
+        "refusing all responsibility",
+        "doing every task alone",
+        "cancelling the work"
       ],
       "answer": 0,
-      "explanation": "Reported questions use statement word order; do is removed."
+      "explanation": "Delegation assigns work and appropriate responsibility."
     },
     {
-      "id": "q014",
-      "category": "Tenses",
-      "question": "I think it ___ tomorrow.",
+      "id": "q10273",
+      "category": "Leadership and Teamwork",
+      "question": "Constructive feedback should focus on ___.",
       "options": [
-        "rains",
-        "rained",
-        "will rain",
-        "raining"
-      ],
-      "answer": 2,
-      "explanation": "Will plus the base verb can express a future prediction."
-    },
-    {
-      "id": "q045",
-      "category": "Modals",
-      "question": "It ___ rain later; take an umbrella.",
-      "options": [
-        "might",
-        "mustn't",
-        "shouldn't",
-        "has"
+        "specific behaviour and ways to improve",
+        "personal attacks",
+        "unrelated mistakes from years ago",
+        "rumours about colleagues"
       ],
       "answer": 0,
-      "explanation": "Might expresses possibility."
+      "explanation": "Specific feedback is more useful and fair than personal criticism."
     },
     {
-      "id": "q076",
-      "category": "Punctuation",
-      "question": "Choose the correctly punctuated sentence.",
+      "id": "q10274",
+      "category": "Leadership and Teamwork",
+      "question": "A team member who is 'cooperative' is willing to ___.",
       "options": [
-        "where are you.",
-        "Where are you?",
-        "Where are you,",
-        "where are you!"
-      ],
-      "answer": 1,
-      "explanation": "Start with a capital letter and use a question mark."
-    },
-    {
-      "id": "q107",
-      "category": "Adjectives",
-      "question": "She is the ___ student in the class.",
-      "options": [
-        "tall",
-        "taller",
-        "tallest",
-        "more tall"
-      ],
-      "answer": 2,
-      "explanation": "Use the superlative tallest when comparing one with the whole class."
-    },
-    {
-      "id": "q023",
-      "category": "Vocabulary",
-      "question": "A synonym of 'begin' is ___.",
-      "options": [
-        "finish",
-        "start",
-        "stop",
-        "close"
-      ],
-      "answer": 1,
-      "explanation": "Start has the same basic meaning as begin."
-    },
-    {
-      "id": "q054",
-      "category": "Conversation",
-      "question": "You need a moment to think. You say:",
-      "options": [
-        "Let me think for a moment.",
-        "I no idea ever.",
-        "Wait your mouth.",
-        "I am think."
+        "work with others",
+        "avoid every discussion",
+        "hide useful information",
+        "reject all shared goals"
       ],
       "answer": 0,
-      "explanation": "This phrase politely signals that you need a little time."
+      "explanation": "Cooperative people work together towards shared outcomes."
     },
     {
-      "id": "q085",
-      "category": "Confusing Words",
-      "question": "The bus is ___ than the car today.",
+      "id": "q10275",
+      "category": "Leadership and Teamwork",
+      "question": "When two colleagues disagree, a manager should first ___.",
       "options": [
-        "fast",
-        "faster",
-        "fastest",
-        "more fast"
+        "hear both sides calmly",
+        "choose a side without listening",
+        "spread the disagreement",
+        "ignore the issue indefinitely"
       ],
-      "answer": 1,
-      "explanation": "Use the comparative form faster when comparing two things."
+      "answer": 0,
+      "explanation": "Hearing both sides helps establish the facts."
     },
     {
-      "id": "q001",
-      "category": "Grammar",
-      "question": "She ___ to work every day.",
+      "id": "q10276",
+      "category": "Leadership and Teamwork",
+      "question": "A shared team objective is a goal that ___.",
       "options": [
-        "go",
-        "goes",
-        "going",
-        "gone"
+        "members work towards together",
+        "belongs to one unrelated customer",
+        "must remain secret from the team",
+        "changes every hour without reason"
       ],
-      "answer": 1,
-      "explanation": "With he, she or it in the present simple, add -s or -es to most verbs."
+      "answer": 0,
+      "explanation": "A shared objective aligns team effort."
+    },
+    {
+      "id": "q10277",
+      "category": "Leadership and Teamwork",
+      "question": "To 'mentor' a new employee means to ___.",
+      "options": [
+        "guide and support their development",
+        "assign blame for every error",
+        "avoid answering questions",
+        "replace their employment contract"
+      ],
+      "answer": 0,
+      "explanation": "Mentoring helps someone develop skills and confidence."
+    },
+    {
+      "id": "q10278",
+      "category": "Leadership and Teamwork",
+      "question": "Which action builds trust within a team?",
+      "options": [
+        "keeping commitments and communicating honestly",
+        "making promises without follow-through",
+        "hiding important updates",
+        "sharing confidential details"
+      ],
+      "answer": 0,
+      "explanation": "Reliability and honesty are foundations of trust."
+    },
+    {
+      "id": "q10279",
+      "category": "Leadership and Teamwork",
+      "question": "A team briefing should make responsibilities ___.",
+      "options": [
+        "clear to everyone involved",
+        "different for each person without explanation",
+        "impossible to understand",
+        "unrelated to the task"
+      ],
+      "answer": 0,
+      "explanation": "Clear responsibilities reduce confusion and overlap."
+    },
+    {
+      "id": "q10280",
+      "category": "Leadership and Teamwork",
+      "question": "Recognising a colleague's contribution means ___.",
+      "options": [
+        "acknowledging the work they have done",
+        "claiming their work as your own",
+        "ignoring their effort",
+        "criticising them in public"
+      ],
+      "answer": 0,
+      "explanation": "Acknowledgement shows that contributions are valued."
     }
   ]
 }
