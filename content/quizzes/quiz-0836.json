@@ -3,139 +3,139 @@
   "slug": "quiz-0836",
   "title": "English Practice Quiz 0836",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q068",
-      "category": "Workplace English",
-      "question": "You need to report a problem. You say:",
+      "id": "q11651",
+      "category": "Incident Prevention and Risk",
+      "question": "Incident Prevention and Risk 01: A risk control is intended to:",
       "options": [
-        "There is an issue with the printer.",
-        "Printer bad you.",
-        "I issue printer.",
-        "No printer yesterday."
+        "Eliminate a hazard or reduce its risk",
+        "Increase exposure",
+        "Hide an incident",
+        "Replace training"
       ],
       "answer": 0,
-      "explanation": "There is an issue with... clearly introduces a problem."
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q091",
-      "category": "Passive Voice",
-      "question": "Choose the passive form: 'They clean the room.'",
+      "id": "q11652",
+      "category": "Incident Prevention and Risk",
+      "question": "Incident Prevention and Risk 02: A dynamic risk assessment means:",
       "options": [
-        "The room cleaned them.",
-        "The room is cleaned by them.",
-        "The room is cleaning.",
-        "The room has clean."
-      ],
-      "answer": 1,
-      "explanation": "Present simple passive: am/is/are + past participle."
-    },
-    {
-      "id": "q114",
-      "category": "Gerunds",
-      "question": "They finished ___ the room.",
-      "options": [
-        "clean",
-        "to clean",
-        "cleaning",
-        "cleaned"
-      ],
-      "answer": 2,
-      "explanation": "Finish is followed by a gerund."
-    },
-    {
-      "id": "q022",
-      "category": "Vocabulary",
-      "question": "Choose the opposite of 'polite'.",
-      "options": [
-        "kind",
-        "rude",
-        "helpful",
-        "calm"
-      ],
-      "answer": 1,
-      "explanation": "Rude is the opposite of polite."
-    },
-    {
-      "id": "q045",
-      "category": "Modals",
-      "question": "It ___ rain later; take an umbrella.",
-      "options": [
-        "might",
-        "mustn't",
-        "shouldn't",
-        "has"
+        "Reviewing risks as conditions change",
+        "Completing one form forever",
+        "Ignoring new hazards",
+        "Removing supervision"
       ],
       "answer": 0,
-      "explanation": "Might expresses possibility."
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q068",
-      "category": "Workplace English",
-      "question": "You need to report a problem. You say:",
+      "id": "q11653",
+      "category": "Incident Prevention and Risk",
+      "question": "Incident Prevention and Risk 03: A blocked fire exit should be:",
       "options": [
-        "There is an issue with the printer.",
-        "Printer bad you.",
-        "I issue printer.",
-        "No printer yesterday."
+        "Cleared or reported immediately under procedure",
+        "Used for storage",
+        "Ignored",
+        "Locked"
       ],
       "answer": 0,
-      "explanation": "There is an issue with... clearly introduces a problem."
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q091",
-      "category": "Passive Voice",
-      "question": "Choose the passive form: 'They clean the room.'",
+      "id": "q11654",
+      "category": "Incident Prevention and Risk",
+      "question": "Incident Prevention and Risk 04: A hazard observation should include:",
       "options": [
-        "The room cleaned them.",
-        "The room is cleaned by them.",
-        "The room is cleaning.",
-        "The room has clean."
-      ],
-      "answer": 1,
-      "explanation": "Present simple passive: am/is/are + past participle."
-    },
-    {
-      "id": "q114",
-      "category": "Gerunds",
-      "question": "They finished ___ the room.",
-      "options": [
-        "clean",
-        "to clean",
-        "cleaning",
-        "cleaned"
-      ],
-      "answer": 2,
-      "explanation": "Finish is followed by a gerund."
-    },
-    {
-      "id": "q022",
-      "category": "Vocabulary",
-      "question": "Choose the opposite of 'polite'.",
-      "options": [
-        "kind",
-        "rude",
-        "helpful",
-        "calm"
-      ],
-      "answer": 1,
-      "explanation": "Rude is the opposite of polite."
-    },
-    {
-      "id": "q045",
-      "category": "Modals",
-      "question": "It ___ rain later; take an umbrella.",
-      "options": [
-        "might",
-        "mustn't",
-        "shouldn't",
-        "has"
+        "Location, condition and potential harm",
+        "Rumours",
+        "Unrelated complaints",
+        "Assumptions only"
       ],
       "answer": 0,
-      "explanation": "Might expresses possibility."
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11655",
+      "category": "Incident Prevention and Risk",
+      "question": "Incident Prevention and Risk 05: The hierarchy of controls prioritises:",
+      "options": [
+        "Eliminating the hazard where reasonably possible",
+        "Warning signs alone",
+        "Personal preference",
+        "Doing nothing"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11656",
+      "category": "Incident Prevention and Risk",
+      "question": "Incident Prevention and Risk 06: After a near miss, the organisation should:",
+      "options": [
+        "Review causes and strengthen controls",
+        "Wait for injury",
+        "Delete the report",
+        "Blame someone"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11657",
+      "category": "Incident Prevention and Risk",
+      "question": "Incident Prevention and Risk 07: A safety drill is conducted to:",
+      "options": [
+        "Practise emergency roles and response",
+        "Test salaries",
+        "Replace equipment checks",
+        "Create a spectacle"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11658",
+      "category": "Incident Prevention and Risk",
+      "question": "Incident Prevention and Risk 08: PPE should be selected based on:",
+      "options": [
+        "Hazards and required protection",
+        "Colour preference",
+        "Lowest price alone",
+        "Staff seniority"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11659",
+      "category": "Incident Prevention and Risk",
+      "question": "Incident Prevention and Risk 09: A risk matrix commonly compares:",
+      "options": [
+        "Likelihood and severity",
+        "Age and salary",
+        "Time and distance",
+        "Cost and popularity"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11660",
+      "category": "Incident Prevention and Risk",
+      "question": "Incident Prevention and Risk 10: A corrective action is effective when:",
+      "options": [
+        "It addresses the cause and its results are checked",
+        "It is merely announced",
+        "It has no owner",
+        "It is never reviewed"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
     }
   ]
 }
