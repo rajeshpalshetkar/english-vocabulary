@@ -3,139 +3,139 @@
   "slug": "quiz-0801",
   "title": "English Practice Quiz 0801",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q048",
-      "category": "Sentence Building",
-      "question": "Choose the correct sentence.",
+      "id": "q11901",
+      "category": "Workplace Communication",
+      "question": "Workplace Communication 01: A colleague gives unclear instructions. What should you say?",
       "options": [
-        "Because I was tired, I went to bed early.",
-        "Because I tired, went bed early.",
-        "I because was tired bed early.",
-        "Because tired I went early bed."
+        "Could you clarify the expected outcome?",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
       ],
       "answer": 0,
-      "explanation": "The subordinate clause beginning with because explains the reason."
+      "explanation": "Option A is correct: Could you clarify the expected outcome?. This is the appropriate professional practice or standard English usage."
     },
     {
-      "id": "q057",
-      "category": "Pronunciation",
-      "question": "Which word has a silent 'k'?",
+      "id": "q11902",
+      "category": "Workplace Communication",
+      "question": "Workplace Communication 02: Which response shows active listening?",
       "options": [
-        "kite",
-        "know",
-        "keep",
-        "kind"
+        "Let me confirm that I understood you correctly.",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
       ],
-      "answer": 1,
-      "explanation": "The k in know is silent."
+      "answer": 0,
+      "explanation": "Option A is correct: Let me confirm that I understood you correctly.. This is the appropriate professional practice or standard English usage."
     },
     {
-      "id": "q066",
-      "category": "Workplace English",
-      "question": "A professional way to ask for a file is:",
+      "id": "q11903",
+      "category": "Workplace Communication",
+      "question": "Workplace Communication 03: A concise update should focus on:",
       "options": [
-        "Give file now.",
-        "Could you please share the file?",
-        "File give me.",
-        "You must file."
+        "Key progress, issues and next steps",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
       ],
-      "answer": 1,
-      "explanation": "Could you please is a polite and professional request."
+      "answer": 0,
+      "explanation": "Option A is correct: Key progress, issues and next steps. This is the appropriate professional practice or standard English usage."
     },
     {
-      "id": "q075",
-      "category": "Questions",
-      "question": "Choose the correct question tag: 'You are ready, ___?'",
+      "id": "q11904",
+      "category": "Workplace Communication",
+      "question": "Workplace Communication 04: Which phrase politely interrupts?",
       "options": [
-        "are you",
-        "aren't you",
-        "do you",
-        "don't you"
+        "May I add one point here?",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
       ],
-      "answer": 1,
-      "explanation": "A positive statement with are usually takes the negative tag aren't you."
+      "answer": 0,
+      "explanation": "Option A is correct: May I add one point here?. This is the appropriate professional practice or standard English usage."
     },
     {
-      "id": "q084",
-      "category": "Confusing Words",
-      "question": "I have ___ my keys.",
+      "id": "q11905",
+      "category": "Workplace Communication",
+      "question": "Workplace Communication 05: When a message is misunderstood, you should:",
       "options": [
-        "loose",
-        "lose",
-        "lost",
-        "loss"
+        "Restate it in simpler terms",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
       ],
-      "answer": 2,
-      "explanation": "Lost is the past participle of lose."
+      "answer": 0,
+      "explanation": "Option A is correct: Restate it in simpler terms. This is the appropriate professional practice or standard English usage."
     },
     {
-      "id": "q093",
-      "category": "Passive Voice",
-      "question": "The work ___ tomorrow.",
+      "id": "q11906",
+      "category": "Workplace Communication",
+      "question": "Workplace Communication 06: Which word means easy to understand?",
       "options": [
-        "will complete",
-        "will be completed",
-        "completed",
-        "is completing"
+        "Clear",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
       ],
-      "answer": 1,
-      "explanation": "Future passive uses will be + past participle."
+      "answer": 0,
+      "explanation": "Option A is correct: Clear. This is the appropriate professional practice or standard English usage."
     },
     {
-      "id": "q102",
-      "category": "Determiners",
-      "question": "How ___ apples do you need?",
+      "id": "q11907",
+      "category": "Workplace Communication",
+      "question": "Workplace Communication 07: A team briefing is intended to:",
       "options": [
-        "much",
-        "many",
-        "little",
-        "any"
+        "Share relevant information and coordinate work",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
       ],
-      "answer": 1,
-      "explanation": "Apples are countable plural nouns, so use many."
+      "answer": 0,
+      "explanation": "Option A is correct: Share relevant information and coordinate work. This is the appropriate professional practice or standard English usage."
     },
     {
-      "id": "q111",
-      "category": "Gerunds",
-      "question": "I enjoy ___ books.",
+      "id": "q11908",
+      "category": "Workplace Communication",
+      "question": "Workplace Communication 08: Which sentence is professionally worded?",
       "options": [
-        "read",
-        "to read",
-        "reading",
-        "reads"
+        "Please inform me if the schedule changes.",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
       ],
-      "answer": 2,
-      "explanation": "Enjoy is followed by a gerund (-ing form)."
+      "answer": 0,
+      "explanation": "Option A is correct: Please inform me if the schedule changes.. This is the appropriate professional practice or standard English usage."
     },
     {
-      "id": "q005",
-      "category": "Grammar",
-      "question": "Choose the correct sentence.",
+      "id": "q11909",
+      "category": "Workplace Communication",
+      "question": "Workplace Communication 09: Choose a suitable communication channel based on:",
       "options": [
-        "She don't like tea.",
-        "She doesn't likes tea.",
-        "She doesn't like tea.",
-        "She not like tea."
+        "Urgency, sensitivity and purpose",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
       ],
-      "answer": 2,
-      "explanation": "After doesn't, use the base form of the verb: like."
+      "answer": 0,
+      "explanation": "Option A is correct: Urgency, sensitivity and purpose. This is the appropriate professional practice or standard English usage."
     },
     {
-      "id": "q014",
-      "category": "Tenses",
-      "question": "I think it ___ tomorrow.",
+      "id": "q11910",
+      "category": "Workplace Communication",
+      "question": "Workplace Communication 10: After receiving an important instruction, you should:",
       "options": [
-        "rains",
-        "rained",
-        "will rain",
-        "raining"
+        "Confirm your understanding and any deadline",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
       ],
-      "answer": 2,
-      "explanation": "Will plus the base verb can express a future prediction."
+      "answer": 0,
+      "explanation": "Option A is correct: Confirm your understanding and any deadline. This is the appropriate professional practice or standard English usage."
     }
   ]
 }
