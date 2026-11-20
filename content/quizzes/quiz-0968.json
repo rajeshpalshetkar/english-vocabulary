@@ -3,139 +3,139 @@
   "slug": "quiz-0968",
   "title": "English Practice Quiz 0968",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q012",
-      "category": "Tenses",
-      "question": "We ___ here since 2022.",
+      "id": "q10371",
+      "category": "Digital Skills",
+      "question": "A strong password should generally be ___.",
       "options": [
-        "live",
-        "lived",
-        "have lived",
-        "are live"
-      ],
-      "answer": 2,
-      "explanation": "Since gives a starting point; the present perfect connects the past to now."
-    },
-    {
-      "id": "q043",
-      "category": "Modals",
-      "question": "When I was five, I ___ swim.",
-      "options": [
-        "can",
-        "could",
-        "may",
-        "must"
-      ],
-      "answer": 1,
-      "explanation": "Could expresses past ability."
-    },
-    {
-      "id": "q074",
-      "category": "Questions",
-      "question": "Which question asks for a reason?",
-      "options": [
-        "What happened?",
-        "Where are you?",
-        "Why are you late?",
-        "When is lunch?"
-      ],
-      "answer": 2,
-      "explanation": "Why asks for a reason."
-    },
-    {
-      "id": "q105",
-      "category": "Determiners",
-      "question": "___ student must bring an ID card.",
-      "options": [
-        "Each",
-        "Many",
-        "Few",
-        "Several"
+        "long, unique and difficult to guess",
+        "the word password",
+        "your birth date alone",
+        "the same on every website"
       ],
       "answer": 0,
-      "explanation": "Each refers to every individual in a group."
+      "explanation": "Long, unique passwords are harder to guess and limit damage from reuse."
     },
     {
-      "id": "q021",
-      "category": "Vocabulary",
-      "question": "A person who repairs water pipes is a ___.",
+      "id": "q10372",
+      "category": "Digital Skills",
+      "question": "Two-factor authentication adds ___.",
       "options": [
-        "carpenter",
-        "plumber",
-        "tailor",
-        "baker"
-      ],
-      "answer": 1,
-      "explanation": "A plumber installs and repairs water pipes and fittings."
-    },
-    {
-      "id": "q052",
-      "category": "Conversation",
-      "question": "You did not hear someone. You say:",
-      "options": [
-        "Speak now!",
-        "Could you repeat that, please?",
-        "What your problem?",
-        "I don't hear you yesterday."
-      ],
-      "answer": 1,
-      "explanation": "Could you repeat that, please? is a polite request."
-    },
-    {
-      "id": "q083",
-      "category": "Confusing Words",
-      "question": "Please ___ the correct answer.",
-      "options": [
-        "choose",
-        "chose",
-        "choice",
-        "chosen"
+        "an additional verification step",
+        "a second username for every person",
+        "automatic public access",
+        "a replacement for all passwords"
       ],
       "answer": 0,
-      "explanation": "Choose is the base verb used after please."
+      "explanation": "It requires another proof of identity beyond the password."
     },
     {
-      "id": "q114",
-      "category": "Gerunds",
-      "question": "They finished ___ the room.",
+      "id": "q10373",
+      "category": "Digital Skills",
+      "question": "A phishing message often tries to ___.",
       "options": [
-        "clean",
-        "to clean",
-        "cleaning",
-        "cleaned"
-      ],
-      "answer": 2,
-      "explanation": "Finish is followed by a gerund."
-    },
-    {
-      "id": "q030",
-      "category": "Vocabulary",
-      "question": "Choose the best word: The road is very ___. There are many cars.",
-      "options": [
-        "crowded",
-        "empty",
-        "quietly",
-        "soft"
+        "trick people into revealing sensitive information",
+        "teach safe computer use",
+        "repair a damaged screen",
+        "improve internet speed"
       ],
       "answer": 0,
-      "explanation": "Crowded means filled with many people or things; it can describe busy roads."
+      "explanation": "Phishing uses deceptive messages to steal information or access."
     },
     {
-      "id": "q061",
-      "category": "Reading",
-      "question": "Read: 'Mina takes the bus at 8 a.m. and reaches work at 8:45.' How does Mina travel?",
+      "id": "q10374",
+      "category": "Digital Skills",
+      "question": "A browser is software used to ___.",
       "options": [
-        "By train",
-        "By bus",
-        "By car",
-        "On foot"
+        "access websites",
+        "print banknotes",
+        "repair a keyboard",
+        "charge a mobile phone"
       ],
-      "answer": 1,
-      "explanation": "The passage clearly says Mina takes the bus."
+      "answer": 0,
+      "explanation": "A web browser opens and displays websites."
+    },
+    {
+      "id": "q10375",
+      "category": "Digital Skills",
+      "question": "Cloud storage allows files to be ___.",
+      "options": [
+        "stored on remote servers and accessed online",
+        "printed without a printer",
+        "kept only inside a keyboard",
+        "deleted automatically from every device"
+      ],
+      "answer": 0,
+      "explanation": "Cloud storage keeps data on remote systems accessible over a network."
+    },
+    {
+      "id": "q10376",
+      "category": "Digital Skills",
+      "question": "A software update may include ___.",
+      "options": [
+        "security fixes and improvements",
+        "a guaranteed increase in battery size",
+        "a new physical screen",
+        "free mobile data from every provider"
+      ],
+      "answer": 0,
+      "explanation": "Updates can fix vulnerabilities and improve software."
+    },
+    {
+      "id": "q10377",
+      "category": "Digital Skills",
+      "question": "A spreadsheet is especially useful for ___.",
+      "options": [
+        "organising data and performing calculations",
+        "washing clothes",
+        "recording sound only",
+        "replacing an internet connection"
+      ],
+      "answer": 0,
+      "explanation": "Spreadsheets organise information in cells and can calculate results."
+    },
+    {
+      "id": "q10378",
+      "category": "Digital Skills",
+      "question": "Before opening an unexpected email attachment, you should ___.",
+      "options": [
+        "verify the sender and check whether it is safe",
+        "open it immediately",
+        "disable all security tools",
+        "forward it to your contacts"
+      ],
+      "answer": 0,
+      "explanation": "Unexpected attachments can contain malicious content."
+    },
+    {
+      "id": "q10379",
+      "category": "Digital Skills",
+      "question": "A QR code can store information that a phone camera can ___.",
+      "options": [
+        "scan and interpret",
+        "turn into a battery",
+        "use to repair a screen",
+        "convert into a paper document automatically"
+      ],
+      "answer": 0,
+      "explanation": "A camera and suitable software can read the encoded information."
+    },
+    {
+      "id": "q10380",
+      "category": "Digital Skills",
+      "question": "A backup is a separate copy of data kept to ___.",
+      "options": [
+        "help restore information if the original is lost",
+        "make passwords public",
+        "slow every computer",
+        "replace software licences"
+      ],
+      "answer": 0,
+      "explanation": "Backups help recover data after loss or damage."
     }
   ]
 }
