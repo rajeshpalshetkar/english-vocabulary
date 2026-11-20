@@ -3,139 +3,139 @@
   "slug": "quiz-0791",
   "title": "English Practice Quiz 0791",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Conversation",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q108",
-      "category": "Adverbs",
-      "question": "He speaks English ___.",
+      "id": "q12001",
+      "category": "Interview Skills",
+      "question": "Interview Skills 01: Before an interview, a candidate should?",
       "options": [
-        "clear",
-        "clearly",
-        "clarity",
-        "clearest"
+        "research the organisation and role",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
       ],
-      "answer": 1,
-      "explanation": "Clearly is the adverb describing how he speaks."
+      "answer": 0,
+      "explanation": "Option A is correct: research the organisation and role."
     },
     {
-      "id": "q002",
-      "category": "Grammar",
-      "question": "They ___ ready for the meeting.",
+      "id": "q12002",
+      "category": "Interview Skills",
+      "question": "Interview Skills 02: A strong example-based answer should explain?",
       "options": [
-        "is",
-        "am",
-        "are",
-        "be"
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "the situation, action and result"
+      ],
+      "answer": 3,
+      "explanation": "Option D is correct: the situation, action and result."
+    },
+    {
+      "id": "q12003",
+      "category": "Interview Skills",
+      "question": "Interview Skills 03: If a question is unclear, a candidate should?",
+      "options": [
+        "make an unsupported assumption",
+        "share the information publicly",
+        "politely ask for clarification",
+        "ignore the issue and continue"
       ],
       "answer": 2,
-      "explanation": "Use are with the plural subject they."
+      "explanation": "Option C is correct: politely ask for clarification."
     },
     {
-      "id": "q011",
-      "category": "Tenses",
-      "question": "Listen! The baby ___.",
+      "id": "q12004",
+      "category": "Interview Skills",
+      "question": "Interview Skills 04: A suitable interview greeting is?",
       "options": [
-        "cries",
-        "is crying",
-        "cry",
-        "cried"
+        "share the information publicly",
+        "polite and confident",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
       ],
       "answer": 1,
-      "explanation": "Listen! suggests an action happening now, so use the present continuous."
+      "explanation": "Option B is correct: polite and confident."
     },
     {
-      "id": "q020",
-      "category": "Tenses",
-      "question": "By next June, he ___ the course.",
+      "id": "q12005",
+      "category": "Interview Skills",
+      "question": "Interview Skills 05: A CV should contain?",
       "options": [
-        "completes",
-        "completed",
-        "will have completed",
-        "has complete"
+        "relevant experience and accurate details",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: relevant experience and accurate details."
+    },
+    {
+      "id": "q12006",
+      "category": "Interview Skills",
+      "question": "Interview Skills 06: When discussing a weakness, mention?",
+      "options": [
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "a genuine area you are improving"
+      ],
+      "answer": 3,
+      "explanation": "Option D is correct: a genuine area you are improving."
+    },
+    {
+      "id": "q12007",
+      "category": "Interview Skills",
+      "question": "Interview Skills 07: If an interview is delayed, you should?",
+      "options": [
+        "make an unsupported assumption",
+        "share the information publicly",
+        "wait professionally and request an update if appropriate",
+        "ignore the issue and continue"
       ],
       "answer": 2,
-      "explanation": "The future perfect describes an action completed before a future time."
+      "explanation": "Option C is correct: wait professionally and request an update if appropriate."
     },
     {
-      "id": "q029",
-      "category": "Vocabulary",
-      "question": "What is the meaning of 'available'?",
+      "id": "q12008",
+      "category": "Interview Skills",
+      "question": "Interview Skills 08: An appropriate question at the end concerns?",
       "options": [
-        "not possible to use",
-        "ready or able to be used",
-        "very expensive",
-        "already broken"
+        "share the information publicly",
+        "the main priorities of the role",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
       ],
       "answer": 1,
-      "explanation": "Available means ready for use or accessible."
+      "explanation": "Option B is correct: the main priorities of the role."
     },
     {
-      "id": "q038",
-      "category": "Prepositions",
-      "question": "We have a meeting ___ Monday.",
+      "id": "q12009",
+      "category": "Interview Skills",
+      "question": "Interview Skills 09: A candidate should arrive?",
       "options": [
-        "in",
-        "at",
-        "on",
-        "by"
+        "on time and prepared",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
       ],
-      "answer": 2,
-      "explanation": "Use on with days and dates."
+      "answer": 0,
+      "explanation": "Option A is correct: on time and prepared."
     },
     {
-      "id": "q047",
-      "category": "Sentence Building",
-      "question": "Choose the correct question.",
+      "id": "q12010",
+      "category": "Interview Skills",
+      "question": "Interview Skills 10: A brief post-interview message should?",
       "options": [
-        "Where you live?",
-        "Where do you live?",
-        "Where does you live?",
-        "Where are live you?"
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "thank the interviewer for their time"
       ],
-      "answer": 1,
-      "explanation": "Use do + subject + base verb for present simple questions with you."
-    },
-    {
-      "id": "q056",
-      "category": "Pronunciation",
-      "question": "Which word has a different beginning sound?",
-      "options": [
-        "think",
-        "three",
-        "this",
-        "thank"
-      ],
-      "answer": 2,
-      "explanation": "This begins with the voiced /ð/ sound; the others begin with the unvoiced /θ/ sound."
-    },
-    {
-      "id": "q065",
-      "category": "Reading",
-      "question": "Read: 'Please keep the floor dry to prevent accidents.' What is the instruction?",
-      "options": [
-        "Wash the floor now",
-        "Keep the floor dry",
-        "Close the office",
-        "Move the furniture"
-      ],
-      "answer": 1,
-      "explanation": "The notice instructs people to keep the floor dry."
-    },
-    {
-      "id": "q074",
-      "category": "Questions",
-      "question": "Which question asks for a reason?",
-      "options": [
-        "What happened?",
-        "Where are you?",
-        "Why are you late?",
-        "When is lunch?"
-      ],
-      "answer": 2,
-      "explanation": "Why asks for a reason."
+      "answer": 3,
+      "explanation": "Option D is correct: thank the interviewer for their time."
     }
   ]
 }
