@@ -3,139 +3,139 @@
   "slug": "quiz-0838",
   "title": "English Practice Quiz 0838",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q102",
-      "category": "Determiners",
-      "question": "How ___ apples do you need?",
+      "id": "q11671",
+      "category": "Financial and Procurement Basics",
+      "question": "Financial and Procurement Basics 01: An invoice is issued to:",
       "options": [
-        "much",
-        "many",
-        "little",
-        "any"
-      ],
-      "answer": 1,
-      "explanation": "Apples are countable plural nouns, so use many."
-    },
-    {
-      "id": "q018",
-      "category": "Tenses",
-      "question": "I ___ him last week.",
-      "options": [
-        "see",
-        "have seen",
-        "saw",
-        "seeing"
-      ],
-      "answer": 2,
-      "explanation": "Use the past simple with a finished past time such as last week."
-    },
-    {
-      "id": "q049",
-      "category": "Sentence Building",
-      "question": "Choose the correct plural of 'child'.",
-      "options": [
-        "childs",
-        "childes",
-        "children",
-        "childrens"
-      ],
-      "answer": 2,
-      "explanation": "Children is the irregular plural of child."
-    },
-    {
-      "id": "q080",
-      "category": "Punctuation",
-      "question": "Choose the correctly written date phrase.",
-      "options": [
-        "on monday",
-        "on Monday",
-        "On monday",
-        "on Monday."
-      ],
-      "answer": 1,
-      "explanation": "Days of the week begin with a capital letter."
-    },
-    {
-      "id": "q111",
-      "category": "Gerunds",
-      "question": "I enjoy ___ books.",
-      "options": [
-        "read",
-        "to read",
-        "reading",
-        "reads"
-      ],
-      "answer": 2,
-      "explanation": "Enjoy is followed by a gerund (-ing form)."
-    },
-    {
-      "id": "q027",
-      "category": "Vocabulary",
-      "question": "Choose the correct word: Please ___ the details.",
-      "options": [
-        "confirm",
-        "crowded",
-        "repairing",
-        "hungry"
+        "Request payment for supplied goods or services",
+        "Record attendance",
+        "Record a fire drill",
+        "Approve leave"
       ],
       "answer": 0,
-      "explanation": "Confirm means to check or establish that something is correct."
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q058",
-      "category": "Pronunciation",
-      "question": "Which word has the /ʃ/ sound as in 'ship'?",
+      "id": "q11672",
+      "category": "Financial and Procurement Basics",
+      "question": "Financial and Procurement Basics 02: A receipt confirms:",
       "options": [
-        "sip",
-        "shop",
-        "zip",
-        "tip"
+        "Payment has been received",
+        "A quotation was requested",
+        "Stock was ordered",
+        "A meeting occurred"
       ],
-      "answer": 1,
-      "explanation": "Shop begins with the /ʃ/ sound."
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q089",
-      "category": "Conditionals",
-      "question": "If she studies, she ___ the test.",
+      "id": "q11673",
+      "category": "Financial and Procurement Basics",
+      "question": "Financial and Procurement Basics 03: A budget variance is:",
       "options": [
-        "passes",
-        "passed",
-        "will pass",
-        "would passed"
+        "The difference between budgeted and actual figures",
+        "A supplier address",
+        "A payment password",
+        "A stock label"
       ],
-      "answer": 2,
-      "explanation": "Use will + base verb in the main clause of the first conditional."
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q005",
-      "category": "Grammar",
-      "question": "Choose the correct sentence.",
+      "id": "q11674",
+      "category": "Financial and Procurement Basics",
+      "question": "Financial and Procurement Basics 04: Petty cash should be supported by:",
       "options": [
-        "She don't like tea.",
-        "She doesn't likes tea.",
-        "She doesn't like tea.",
-        "She not like tea."
+        "Receipts and an accurate cash record",
+        "Verbal estimates",
+        "Undated personal notes",
+        "No documents"
       ],
-      "answer": 2,
-      "explanation": "After doesn't, use the base form of the verb: like."
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q036",
-      "category": "Prepositions",
-      "question": "The meeting starts ___ 9 a.m.",
+      "id": "q11675",
+      "category": "Financial and Procurement Basics",
+      "question": "Financial and Procurement Basics 05: A three-way match compares:",
       "options": [
-        "in",
-        "on",
-        "at",
-        "by"
+        "Purchase order, goods receipt and supplier invoice",
+        "Three attendance sheets",
+        "Three passwords",
+        "Three minutes"
       ],
-      "answer": 2,
-      "explanation": "Use at for a specific clock time."
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11676",
+      "category": "Financial and Procurement Basics",
+      "question": "Financial and Procurement Basics 06: A quotation should be compared using:",
+      "options": [
+        "Price, specifications, delivery and terms",
+        "Logo only",
+        "Friendship",
+        "Document length"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11677",
+      "category": "Financial and Procurement Basics",
+      "question": "Financial and Procurement Basics 07: An outstanding payable is:",
+      "options": [
+        "An amount the organisation still owes",
+        "An amount refunded",
+        "A completed deposit",
+        "A cancelled order"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11678",
+      "category": "Financial and Procurement Basics",
+      "question": "Financial and Procurement Basics 08: Reconciliation means:",
+      "options": [
+        "Comparing records and resolving differences",
+        "Approving leave",
+        "Hiring staff",
+        "Deleting invoices"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11679",
+      "category": "Financial and Procurement Basics",
+      "question": "Financial and Procurement Basics 09: A purchase approval limit defines:",
+      "options": [
+        "The maximum value a person may authorise",
+        "Box capacity",
+        "A delivery route",
+        "Supplier profit"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11680",
+      "category": "Financial and Procurement Basics",
+      "question": "Financial and Procurement Basics 10: An expense claim should include:",
+      "options": [
+        "Purpose, amount and supporting evidence",
+        "A verbal request",
+        "A password",
+        "An unrelated invoice"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
     }
   ]
 }
