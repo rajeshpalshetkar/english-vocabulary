@@ -3,139 +3,139 @@
   "slug": "quiz-0865",
   "title": "English Practice Quiz 0865",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q101",
-      "category": "Determiners",
-      "question": "There isn't ___ milk left.",
+      "id": "q11341",
+      "category": "Meeting Skills",
+      "question": "Meeting Skills: Move to the next item means:",
       "options": [
-        "many",
-        "much",
-        "few",
-        "several"
-      ],
-      "answer": 1,
-      "explanation": "Milk is uncountable, so use much in a negative sentence."
-    },
-    {
-      "id": "q005",
-      "category": "Grammar",
-      "question": "Choose the correct sentence.",
-      "options": [
-        "She don't like tea.",
-        "She doesn't likes tea.",
-        "She doesn't like tea.",
-        "She not like tea."
-      ],
-      "answer": 2,
-      "explanation": "After doesn't, use the base form of the verb: like."
-    },
-    {
-      "id": "q024",
-      "category": "Vocabulary",
-      "question": "If a task is 'urgent', it needs ___.",
-      "options": [
-        "no attention",
-        "quick attention",
-        "a holiday",
-        "a receipt"
-      ],
-      "answer": 1,
-      "explanation": "Urgent means requiring immediate or prompt attention."
-    },
-    {
-      "id": "q043",
-      "category": "Modals",
-      "question": "When I was five, I ___ swim.",
-      "options": [
-        "can",
-        "could",
-        "may",
-        "must"
-      ],
-      "answer": 1,
-      "explanation": "Could expresses past ability."
-    },
-    {
-      "id": "q062",
-      "category": "Reading",
-      "question": "Read: 'The shop closes at 9 p.m., but it opens at 10 a.m.' When does it open?",
-      "options": [
-        "9 a.m.",
-        "10 a.m.",
-        "9 p.m.",
-        "10 p.m."
-      ],
-      "answer": 1,
-      "explanation": "The opening time given is 10 a.m."
-    },
-    {
-      "id": "q081",
-      "category": "Confusing Words",
-      "question": "Choose the correct word: ___ going to arrive soon.",
-      "options": [
-        "Their",
-        "There",
-        "They're",
-        "Theirs"
-      ],
-      "answer": 2,
-      "explanation": "They're is the contraction of they are."
-    },
-    {
-      "id": "q100",
-      "category": "Reported Speech",
-      "question": "They said, 'We have finished.'",
-      "options": [
-        "They said they had finished.",
-        "They said they have finish.",
-        "They told finished.",
-        "They said we finished have."
+        "progress through the agenda",
+        "cancel the meeting",
+        "ask for salary",
+        "end a call"
       ],
       "answer": 0,
-      "explanation": "Present perfect commonly shifts to past perfect in reported speech."
+      "explanation": "It moves discussion to the next agenda item."
     },
     {
-      "id": "q004",
-      "category": "Grammar",
-      "question": "There ___ two chairs in the room.",
+      "id": "q11342",
+      "category": "Meeting Skills",
+      "question": "Meeting Skills: A consensus decision has:",
       "options": [
-        "is",
-        "are",
-        "am",
-        "was"
+        "general agreement among participants",
+        "no discussion",
+        "one person's decision only",
+        "no review"
       ],
-      "answer": 1,
-      "explanation": "Use are with the plural noun chairs."
+      "answer": 0,
+      "explanation": "Consensus means broad agreement."
     },
     {
-      "id": "q023",
-      "category": "Vocabulary",
-      "question": "A synonym of 'begin' is ___.",
+      "id": "q11343",
+      "category": "Meeting Skills",
+      "question": "Meeting Skills: Which phrase politely asks to speak?",
       "options": [
-        "finish",
-        "start",
-        "stop",
-        "close"
+        "May I make a brief comment?",
+        "Stop everyone",
+        "I speak now",
+        "Be quiet"
       ],
-      "answer": 1,
-      "explanation": "Start has the same basic meaning as begin."
+      "answer": 0,
+      "explanation": "It respectfully requests an opportunity to contribute."
     },
     {
-      "id": "q042",
-      "category": "Modals",
-      "question": "You ___ smoke inside the hospital.",
+      "id": "q11344",
+      "category": "Meeting Skills",
+      "question": "Meeting Skills: An agenda item needs more time. The chair may:",
       "options": [
-        "must",
-        "mustn't",
-        "should",
-        "could"
+        "allocate time or defer it",
+        "ignore participants",
+        "remove notes",
+        "change topic without explanation"
       ],
-      "answer": 1,
-      "explanation": "Mustn't expresses prohibition."
+      "answer": 0,
+      "explanation": "The chair manages time and may defer an item."
+    },
+    {
+      "id": "q11345",
+      "category": "Meeting Skills",
+      "question": "Meeting Skills: An action owner is:",
+      "options": [
+        "the person responsible for completing a task",
+        "a refreshments guest",
+        "every email writer",
+        "all salary approvers"
+      ],
+      "answer": 0,
+      "explanation": "The action owner is accountable for the task."
+    },
+    {
+      "id": "q11346",
+      "category": "Meeting Skills",
+      "question": "Meeting Skills: Which sentence summarises a decision?",
+      "options": [
+        "The team agreed to review the policy next Monday",
+        "People said many things",
+        "We talked for ages",
+        "Nobody knows"
+      ],
+      "answer": 0,
+      "explanation": "It states the agreed action and timing."
+    },
+    {
+      "id": "q11347",
+      "category": "Meeting Skills",
+      "question": "Meeting Skills: A tentative date is:",
+      "options": [
+        "provisional and not yet confirmed",
+        "final and unchangeable",
+        "already missed",
+        "unrelated"
+      ],
+      "answer": 0,
+      "explanation": "Tentative means not definite or confirmed."
+    },
+    {
+      "id": "q11348",
+      "category": "Meeting Skills",
+      "question": "Meeting Skills: Meeting minutes contain an error. You should:",
+      "options": [
+        "request a correction through the agreed process",
+        "alter them secretly",
+        "delete the meeting",
+        "ignore it"
+      ],
+      "answer": 0,
+      "explanation": "Corrections should be transparent and follow procedure."
+    },
+    {
+      "id": "q11349",
+      "category": "Meeting Skills",
+      "question": "Meeting Skills: A round-table discussion encourages:",
+      "options": [
+        "contributions from all participants",
+        "one speaker only",
+        "no questions",
+        "written complaints only"
+      ],
+      "answer": 0,
+      "explanation": "It invites shared participation."
+    },
+    {
+      "id": "q11350",
+      "category": "Meeting Skills",
+      "question": "Meeting Skills: A facilitator should remain:",
+      "options": [
+        "neutral and focused on the process",
+        "biased",
+        "unconcerned with time",
+        "hostile to questions"
+      ],
+      "answer": 0,
+      "explanation": "Neutral facilitation helps fair participation."
     }
   ]
 }
