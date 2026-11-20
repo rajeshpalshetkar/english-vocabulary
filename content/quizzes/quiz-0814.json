@@ -3,139 +3,139 @@
   "slug": "quiz-0814",
   "title": "English Practice Quiz 0814",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q039",
-      "category": "Prepositions",
-      "question": "She is interested ___ music.",
+      "id": "q11831",
+      "category": "Workplace Vocabulary",
+      "question": "Workplace Vocabulary 01: What does 'reliable' mean?",
       "options": [
-        "on",
-        "at",
-        "in",
-        "for"
-      ],
-      "answer": 2,
-      "explanation": "The adjective interested is followed by in."
-    },
-    {
-      "id": "q056",
-      "category": "Pronunciation",
-      "question": "Which word has a different beginning sound?",
-      "options": [
-        "think",
-        "three",
-        "this",
-        "thank"
-      ],
-      "answer": 2,
-      "explanation": "This begins with the voiced /ð/ sound; the others begin with the unvoiced /θ/ sound."
-    },
-    {
-      "id": "q073",
-      "category": "Questions",
-      "question": "Choose the correct question.",
-      "options": [
-        "Does she work here?",
-        "Do she work here?",
-        "Is she works here?",
-        "Does she works here?"
+        "Able to be trusted",
+        "Frequently inaccurate",
+        "Unwilling to help",
+        "Difficult to locate"
       ],
       "answer": 0,
-      "explanation": "Use does + subject + base verb with he, she or it."
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q090",
-      "category": "Conditionals",
-      "question": "If I were you, I ___ apologise.",
+      "id": "q11832",
+      "category": "Workplace Vocabulary",
+      "question": "Workplace Vocabulary 02: Please ___ the meeting for 3 p.m.",
       "options": [
-        "will",
-        "would",
-        "am",
-        "did"
+        "schedule",
+        "schedules",
+        "scheduled",
+        "scheduling"
       ],
-      "answer": 1,
-      "explanation": "If I were you is followed by would for advice."
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q107",
-      "category": "Adjectives",
-      "question": "She is the ___ student in the class.",
+      "id": "q11833",
+      "category": "Workplace Vocabulary",
+      "question": "Workplace Vocabulary 03: A 'mandatory' instruction is:",
       "options": [
-        "tall",
-        "taller",
-        "tallest",
-        "more tall"
+        "Required",
+        "Optional",
+        "Unclear",
+        "Cancelled"
       ],
-      "answer": 2,
-      "explanation": "Use the superlative tallest when comparing one with the whole class."
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q009",
-      "category": "Grammar",
-      "question": "Choose the correct comparative form.",
+      "id": "q11834",
+      "category": "Workplace Vocabulary",
+      "question": "Workplace Vocabulary 04: What does 'prioritise' mean?",
       "options": [
-        "more tall",
-        "taller",
-        "tallest than",
-        "most tall"
+        "Arrange tasks by importance",
+        "Delay every task",
+        "Remove all deadlines",
+        "Repeat a task"
       ],
-      "answer": 1,
-      "explanation": "The comparative form of the short adjective tall is taller."
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q026",
-      "category": "Vocabulary",
-      "question": "What does 'borrow' mean?",
+      "id": "q11835",
+      "category": "Workplace Vocabulary",
+      "question": "Workplace Vocabulary 05: Choose the correct phrase:",
       "options": [
-        "give something forever",
-        "take something temporarily and return it",
-        "break something",
-        "buy something"
+        "Responsible for the report",
+        "Responsible of the report",
+        "Responsible at the report",
+        "Responsible with the report"
       ],
-      "answer": 1,
-      "explanation": "Borrow means to take something for a period and return it."
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q043",
-      "category": "Modals",
-      "question": "When I was five, I ___ swim.",
+      "id": "q11836",
+      "category": "Workplace Vocabulary",
+      "question": "Workplace Vocabulary 06: A 'temporary' arrangement is:",
       "options": [
-        "can",
-        "could",
-        "may",
-        "must"
+        "Intended to last for a limited time",
+        "Permanent",
+        "Unchangeable",
+        "Already expired"
       ],
-      "answer": 1,
-      "explanation": "Could expresses past ability."
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q060",
-      "category": "Pronunciation",
-      "question": "How many syllables are in 'computer'?",
+      "id": "q11837",
+      "category": "Workplace Vocabulary",
+      "question": "Workplace Vocabulary 07: Choose the correct sentence:",
       "options": [
-        "one",
-        "two",
-        "three",
-        "four"
+        "The staff members are ready.",
+        "The staff members is ready.",
+        "The staff member are ready.",
+        "The staffs is ready."
       ],
-      "answer": 2,
-      "explanation": "Computer is commonly pronounced with three syllables: com-pu-ter."
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q077",
-      "category": "Punctuation",
-      "question": "Which sentence uses the apostrophe correctly?",
+      "id": "q11838",
+      "category": "Workplace Vocabulary",
+      "question": "Workplace Vocabulary 08: What does 'clarify' mean?",
       "options": [
-        "The guards uniform is blue.",
-        "The guard's uniform is blue.",
-        "The guards' uniform is blue. (one guard)",
-        "The guard uniform's is blue."
+        "Make something easier to understand",
+        "Make it more confusing",
+        "Delete information",
+        "Delay a decision"
       ],
-      "answer": 1,
-      "explanation": "Guard's shows possession by one guard."
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11839",
+      "category": "Workplace Vocabulary",
+      "question": "Workplace Vocabulary 09: She arrived ___ time for the briefing.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "by"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11840",
+      "category": "Workplace Vocabulary",
+      "question": "Workplace Vocabulary 10: A 'prompt' response is:",
+      "options": [
+        "Quick and timely",
+        "Unnecessarily delayed",
+        "Unrelated",
+        "Incomplete by design"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     }
   ]
 }
