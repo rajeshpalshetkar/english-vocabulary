@@ -3,139 +3,139 @@
   "slug": "quiz-0802",
   "title": "English Practice Quiz 0802",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q065",
-      "category": "Reading",
-      "question": "Read: 'Please keep the floor dry to prevent accidents.' What is the instruction?",
+      "id": "q11911",
+      "category": "Public Relations and Front Desk",
+      "question": "Public Relations and Front Desk 01: A visitor asks for an unavailable employee. You should:",
       "options": [
-        "Wash the floor now",
-        "Keep the floor dry",
-        "Close the office",
-        "Move the furniture"
-      ],
-      "answer": 1,
-      "explanation": "The notice instructs people to keep the floor dry."
-    },
-    {
-      "id": "q076",
-      "category": "Punctuation",
-      "question": "Choose the correctly punctuated sentence.",
-      "options": [
-        "where are you.",
-        "Where are you?",
-        "Where are you,",
-        "where are you!"
-      ],
-      "answer": 1,
-      "explanation": "Start with a capital letter and use a question mark."
-    },
-    {
-      "id": "q087",
-      "category": "Conditionals",
-      "question": "If I had more time, I ___ another language.",
-      "options": [
-        "learn",
-        "will learn",
-        "would learn",
-        "am learn"
-      ],
-      "answer": 2,
-      "explanation": "The second conditional uses would + base verb for an unreal or imagined situation."
-    },
-    {
-      "id": "q098",
-      "category": "Reported Speech",
-      "question": "He asked, 'Where do you live?'",
-      "options": [
-        "He asked where I lived.",
-        "He asked where do I live.",
-        "He asked where did I lived.",
-        "He asked where I live do."
+        "Politely offer an approved way to leave a message",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
       ],
       "answer": 0,
-      "explanation": "Reported questions use statement word order; do is removed."
+      "explanation": "Option A is correct: Politely offer an approved way to leave a message. This is the appropriate professional practice or standard English usage."
     },
     {
-      "id": "q109",
-      "category": "Adverbs",
-      "question": "She arrived ___.",
+      "id": "q11912",
+      "category": "Public Relations and Front Desk",
+      "question": "Public Relations and Front Desk 02: A front desk register is used to:",
       "options": [
-        "late",
-        "lately",
-        "latest",
-        "laterly"
+        "Record visitor details according to policy",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
       ],
       "answer": 0,
-      "explanation": "Late is the correct adverb meaning not on time."
+      "explanation": "Option A is correct: Record visitor details according to policy. This is the appropriate professional practice or standard English usage."
     },
     {
-      "id": "q005",
-      "category": "Grammar",
-      "question": "Choose the correct sentence.",
+      "id": "q11913",
+      "category": "Public Relations and Front Desk",
+      "question": "Public Relations and Front Desk 03: A visitor is upset about waiting. You should:",
       "options": [
-        "She don't like tea.",
-        "She doesn't likes tea.",
-        "She doesn't like tea.",
-        "She not like tea."
-      ],
-      "answer": 2,
-      "explanation": "After doesn't, use the base form of the verb: like."
-    },
-    {
-      "id": "q016",
-      "category": "Tenses",
-      "question": "Water ___ at 100°C at sea level.",
-      "options": [
-        "boil",
-        "boils",
-        "is boiling",
-        "boiled"
-      ],
-      "answer": 1,
-      "explanation": "Use the present simple for general facts."
-    },
-    {
-      "id": "q027",
-      "category": "Vocabulary",
-      "question": "Choose the correct word: Please ___ the details.",
-      "options": [
-        "confirm",
-        "crowded",
-        "repairing",
-        "hungry"
+        "Acknowledge the delay and provide an honest update",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
       ],
       "answer": 0,
-      "explanation": "Confirm means to check or establish that something is correct."
+      "explanation": "Option A is correct: Acknowledge the delay and provide an honest update. This is the appropriate professional practice or standard English usage."
     },
     {
-      "id": "q038",
-      "category": "Prepositions",
-      "question": "We have a meeting ___ Monday.",
+      "id": "q11914",
+      "category": "Public Relations and Front Desk",
+      "question": "Public Relations and Front Desk 04: When answering a business phone, you should:",
       "options": [
-        "in",
-        "at",
-        "on",
-        "by"
+        "Identify the organisation and offer assistance",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
       ],
-      "answer": 2,
-      "explanation": "Use on with days and dates."
+      "answer": 0,
+      "explanation": "Option A is correct: Identify the organisation and offer assistance. This is the appropriate professional practice or standard English usage."
     },
     {
-      "id": "q049",
-      "category": "Sentence Building",
-      "question": "Choose the correct plural of 'child'.",
+      "id": "q11915",
+      "category": "Public Relations and Front Desk",
+      "question": "Public Relations and Front Desk 05: Confidential visitor information should be:",
       "options": [
-        "childs",
-        "childes",
-        "children",
-        "childrens"
+        "Accessed and shared only by authorised people",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
       ],
-      "answer": 2,
-      "explanation": "Children is the irregular plural of child."
+      "answer": 0,
+      "explanation": "Option A is correct: Accessed and shared only by authorised people. This is the appropriate professional practice or standard English usage."
+    },
+    {
+      "id": "q11916",
+      "category": "Public Relations and Front Desk",
+      "question": "Public Relations and Front Desk 06: A guest asks for directions. You should:",
+      "options": [
+        "Give clear directions or contact an appropriate escort",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: Give clear directions or contact an appropriate escort. This is the appropriate professional practice or standard English usage."
+    },
+    {
+      "id": "q11917",
+      "category": "Public Relations and Front Desk",
+      "question": "Public Relations and Front Desk 07: A professional greeting should be:",
+      "options": [
+        "Courteous and appropriate",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: Courteous and appropriate. This is the appropriate professional practice or standard English usage."
+    },
+    {
+      "id": "q11918",
+      "category": "Public Relations and Front Desk",
+      "question": "Public Relations and Front Desk 08: If you do not know an answer, you should:",
+      "options": [
+        "Check with the relevant person or source",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: Check with the relevant person or source. This is the appropriate professional practice or standard English usage."
+    },
+    {
+      "id": "q11919",
+      "category": "Public Relations and Front Desk",
+      "question": "Public Relations and Front Desk 09: A queue management system helps:",
+      "options": [
+        "Organise service fairly and efficiently",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: Organise service fairly and efficiently. This is the appropriate professional practice or standard English usage."
+    },
+    {
+      "id": "q11920",
+      "category": "Public Relations and Front Desk",
+      "question": "Public Relations and Front Desk 10: A public announcement should be:",
+      "options": [
+        "Brief, accurate and easy to hear",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: Brief, accurate and easy to hear. This is the appropriate professional practice or standard English usage."
     }
   ]
 }
