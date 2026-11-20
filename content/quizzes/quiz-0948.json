@@ -3,139 +3,139 @@
   "slug": "quiz-0948",
   "title": "English Practice Quiz 0948",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q017",
-      "category": "Tenses",
-      "question": "They ___ football every Sunday.",
+      "id": "q10571",
+      "category": "Civic Awareness",
+      "question": "A municipal corporation is primarily responsible for many ___.",
       "options": [
-        "plays",
-        "are play",
-        "play",
-        "playing"
-      ],
-      "answer": 2,
-      "explanation": "Use the base verb with the plural subject they in the present simple."
-    },
-    {
-      "id": "q048",
-      "category": "Sentence Building",
-      "question": "Choose the correct sentence.",
-      "options": [
-        "Because I was tired, I went to bed early.",
-        "Because I tired, went bed early.",
-        "I because was tired bed early.",
-        "Because tired I went early bed."
+        "local civic services",
+        "international airline routes",
+        "national currency printing",
+        "private school examinations"
       ],
       "answer": 0,
-      "explanation": "The subordinate clause beginning with because explains the reason."
+      "explanation": "Municipal bodies manage local services such as sanitation and roads, according to law."
     },
     {
-      "id": "q079",
-      "category": "Punctuation",
-      "question": "Which is a complete sentence?",
+      "id": "q10572",
+      "category": "Civic Awareness",
+      "question": "A birth certificate is an official record of a person's ___.",
       "options": [
-        "Because it was raining.",
-        "After the meeting.",
-        "The team finished the work.",
-        "When I arrived."
+        "birth",
+        "employment history",
+        "bank balance",
+        "travel itinerary"
       ],
-      "answer": 2,
-      "explanation": "The team finished the work contains a subject and a complete predicate."
+      "answer": 0,
+      "explanation": "A birth certificate records details of birth."
     },
     {
-      "id": "q110",
-      "category": "Adverbs",
-      "question": "Please drive ___.",
+      "id": "q10573",
+      "category": "Civic Awareness",
+      "question": "A public grievance is a complaint made about ___.",
       "options": [
-        "careful",
-        "carefully",
-        "care",
-        "caring"
+        "a public service or authority",
+        "a private holiday plan",
+        "a personal shopping choice",
+        "a sports result"
       ],
-      "answer": 1,
-      "explanation": "Carefully is the adverb modifying drive."
+      "answer": 0,
+      "explanation": "A grievance raises a concern about a service or decision."
     },
     {
-      "id": "q026",
-      "category": "Vocabulary",
-      "question": "What does 'borrow' mean?",
+      "id": "q10574",
+      "category": "Civic Awareness",
+      "question": "The right to vote in an election is commonly called ___.",
       "options": [
-        "give something forever",
-        "take something temporarily and return it",
-        "break something",
-        "buy something"
+        "suffrage",
+        "taxation",
+        "arbitration",
+        "licensing"
       ],
-      "answer": 1,
-      "explanation": "Borrow means to take something for a period and return it."
+      "answer": 0,
+      "explanation": "Suffrage means the right to vote in political elections."
     },
     {
-      "id": "q057",
-      "category": "Pronunciation",
-      "question": "Which word has a silent 'k'?",
+      "id": "q10575",
+      "category": "Civic Awareness",
+      "question": "A local ward is generally a division used for ___.",
       "options": [
-        "kite",
-        "know",
-        "keep",
-        "kind"
+        "municipal administration and representation",
+        "international trade",
+        "railway ticket pricing",
+        "weather forecasting"
       ],
-      "answer": 1,
-      "explanation": "The k in know is silent."
+      "answer": 0,
+      "explanation": "Wards are local administrative or electoral divisions."
     },
     {
-      "id": "q088",
-      "category": "Conditionals",
-      "question": "If you heat ice, it ___.",
+      "id": "q10576",
+      "category": "Civic Awareness",
+      "question": "A public notice should clearly state the message and ___.",
       "options": [
-        "melt",
-        "melts",
-        "will melted",
-        "melting"
+        "relevant date or action required",
+        "private passwords",
+        "unrelated advertisements",
+        "unverified claims"
       ],
-      "answer": 1,
-      "explanation": "The zero conditional uses present simple for general truths."
+      "answer": 0,
+      "explanation": "Dates and required actions help readers understand the notice."
     },
     {
-      "id": "q004",
-      "category": "Grammar",
-      "question": "There ___ two chairs in the room.",
+      "id": "q10577",
+      "category": "Civic Awareness",
+      "question": "A government department's official website is useful for checking ___.",
       "options": [
-        "is",
-        "are",
-        "am",
-        "was"
+        "verified public information and services",
+        "anonymous forwarded rumours",
+        "private employee passwords",
+        "unpublished personal conversations"
       ],
-      "answer": 1,
-      "explanation": "Use are with the plural noun chairs."
+      "answer": 0,
+      "explanation": "Official websites can provide authoritative information about public services."
     },
     {
-      "id": "q035",
-      "category": "Articles",
-      "question": "Mount Everest is ___ highest mountain in the world.",
+      "id": "q10578",
+      "category": "Civic Awareness",
+      "question": "A traffic rule is intended to promote ___.",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
+        "road safety and orderly movement",
+        "faster driving in every situation",
+        "unrestricted parking",
+        "ignoring pedestrians"
       ],
-      "answer": 2,
-      "explanation": "Use the with superlative adjectives."
+      "answer": 0,
+      "explanation": "Traffic rules help reduce risk and organise road use."
     },
     {
-      "id": "q066",
-      "category": "Workplace English",
-      "question": "A professional way to ask for a file is:",
+      "id": "q10579",
+      "category": "Civic Awareness",
+      "question": "A public library primarily provides access to ___.",
       "options": [
-        "Give file now.",
-        "Could you please share the file?",
-        "File give me.",
-        "You must file."
+        "books and information resources",
+        "vehicle registration plates",
+        "medical prescriptions",
+        "bank loans"
       ],
-      "answer": 1,
-      "explanation": "Could you please is a polite and professional request."
+      "answer": 0,
+      "explanation": "Libraries provide reading and information resources to the public."
+    },
+    {
+      "id": "q10580",
+      "category": "Civic Awareness",
+      "question": "A citizen submitting an application should keep ___.",
+      "options": [
+        "the acknowledgement or reference number",
+        "the form's colour only",
+        "an unrelated receipt",
+        "a stranger's password"
+      ],
+      "answer": 0,
+      "explanation": "An acknowledgement number helps track the application."
     }
   ]
 }
