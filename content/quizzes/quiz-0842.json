@@ -3,139 +3,139 @@
   "slug": "quiz-0842",
   "title": "English Practice Quiz 0842",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q055",
-      "category": "Conversation",
-      "question": "A colleague asks for help. A polite reply is:",
+      "id": "q11511",
+      "category": "First Aid and Emergency Communication",
+      "question": "First Aid and Emergency Communication 01: An emergency caller should first state:",
       "options": [
-        "Certainly. What do you need?",
-        "Never ask me.",
-        "You do yourself.",
-        "No speaking."
+        "Exact location and nature of emergency",
+        "Personal opinion",
+        "Unrelated history",
+        "Social username"
       ],
       "answer": 0,
-      "explanation": "Certainly. What do you need? is helpful and polite."
+      "explanation": "An emergency caller should first state: The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q066",
-      "category": "Workplace English",
-      "question": "A professional way to ask for a file is:",
+      "id": "q11512",
+      "category": "First Aid and Emergency Communication",
+      "question": "First Aid and Emergency Communication 02: An unconscious person not breathing normally needs:",
       "options": [
-        "Give file now.",
-        "Could you please share the file?",
-        "File give me.",
-        "You must file."
+        "Immediate emergency response and CPR by a trained person",
+        "Water",
+        "To be left alone",
+        "Food"
       ],
-      "answer": 1,
-      "explanation": "Could you please is a polite and professional request."
+      "answer": 0,
+      "explanation": "An unconscious person not breathing normally needs: The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q077",
-      "category": "Punctuation",
-      "question": "Which sentence uses the apostrophe correctly?",
+      "id": "q11513",
+      "category": "First Aid and Emergency Communication",
+      "question": "First Aid and Emergency Communication 03: Gloves are important when there may be contact with:",
       "options": [
-        "The guards uniform is blue.",
-        "The guard's uniform is blue.",
-        "The guards' uniform is blue. (one guard)",
-        "The guard uniform's is blue."
+        "Blood or body fluids",
+        "A timetable",
+        "A telephone",
+        "An email"
       ],
-      "answer": 1,
-      "explanation": "Guard's shows possession by one guard."
+      "answer": 0,
+      "explanation": "Gloves are important when there may be contact with: The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q088",
-      "category": "Conditionals",
-      "question": "If you heat ice, it ___.",
+      "id": "q11514",
+      "category": "First Aid and Emergency Communication",
+      "question": "First Aid and Emergency Communication 04: A minor burn should generally be cooled with:",
       "options": [
-        "melt",
-        "melts",
-        "will melted",
-        "melting"
+        "Cool running water",
+        "Butter",
+        "Firm rubbing",
+        "A pin"
       ],
-      "answer": 1,
-      "explanation": "The zero conditional uses present simple for general truths."
+      "answer": 0,
+      "explanation": "A minor burn should generally be cooled with: The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q099",
-      "category": "Reported Speech",
-      "question": "She said, 'Please sit down.'",
+      "id": "q11515",
+      "category": "First Aid and Emergency Communication",
+      "question": "First Aid and Emergency Communication 05: During a fire evacuation, use:",
       "options": [
-        "She told me sit down.",
-        "She asked me to sit down.",
-        "She said me to sit.",
-        "She asked that I sat."
+        "The designated safe exit route",
+        "A locked door",
+        "A lift",
+        "A smoke-filled route"
       ],
-      "answer": 1,
-      "explanation": "A request can be reported with asked + object + to-infinitive."
+      "answer": 0,
+      "explanation": "During a fire evacuation, use: The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q110",
-      "category": "Adverbs",
-      "question": "Please drive ___.",
+      "id": "q11516",
+      "category": "First Aid and Emergency Communication",
+      "question": "First Aid and Emergency Communication 06: A near miss is:",
       "options": [
-        "careful",
-        "carefully",
-        "care",
-        "caring"
+        "An event that could have caused harm but did not",
+        "A confirmed injury",
+        "An inspection",
+        "A purchase"
       ],
-      "answer": 1,
-      "explanation": "Carefully is the adverb modifying drive."
+      "answer": 0,
+      "explanation": "A near miss is: The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q006",
-      "category": "Grammar",
-      "question": "He is ___ honest man.",
+      "id": "q11517",
+      "category": "First Aid and Emergency Communication",
+      "question": "First Aid and Emergency Communication 07: A first aider should:",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
+        "Stay within training and seek professional help",
+        "Attempt unfamiliar procedures",
+        "Ignore scene safety",
+        "Delay calling"
       ],
-      "answer": 1,
-      "explanation": "Use an before a vowel sound. Honest begins with a silent h."
+      "answer": 0,
+      "explanation": "A first aider should: The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q017",
-      "category": "Tenses",
-      "question": "They ___ football every Sunday.",
+      "id": "q11518",
+      "category": "First Aid and Emergency Communication",
+      "question": "First Aid and Emergency Communication 08: An emergency announcement should include:",
       "options": [
-        "plays",
-        "are play",
-        "play",
-        "playing"
+        "What happened, where to go and what to do",
+        "Rumours",
+        "Patient details",
+        "Unrelated instructions"
       ],
-      "answer": 2,
-      "explanation": "Use the base verb with the plural subject they in the present simple."
+      "answer": 0,
+      "explanation": "An emergency announcement should include: The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q028",
-      "category": "Vocabulary",
-      "question": "A place where medicines are dispensed is a ___.",
+      "id": "q11519",
+      "category": "First Aid and Emergency Communication",
+      "question": "First Aid and Emergency Communication 09: During a seizure, you should:",
       "options": [
-        "bakery",
-        "pharmacy",
-        "library",
-        "garage"
+        "Protect the person from hazards and time the seizure",
+        "Restrain them",
+        "Put an object in the mouth",
+        "Give water"
       ],
-      "answer": 1,
-      "explanation": "A pharmacy is a place where medicines are prepared or supplied."
+      "answer": 0,
+      "explanation": "During a seizure, you should: The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q039",
-      "category": "Prepositions",
-      "question": "She is interested ___ music.",
+      "id": "q11520",
+      "category": "First Aid and Emergency Communication",
+      "question": "First Aid and Emergency Communication 10: After an incident, records should be:",
       "options": [
-        "on",
-        "at",
-        "in",
-        "for"
+        "Completed accurately under policy",
+        "Altered to avoid scrutiny",
+        "Published publicly",
+        "Left blank"
       ],
-      "answer": 2,
-      "explanation": "The adjective interested is followed by in."
+      "answer": 0,
+      "explanation": "After an incident, records should be: The first option is correct because it reflects the relevant principle or standard."
     }
   ]
 }
