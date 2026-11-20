@@ -3,139 +3,139 @@
   "slug": "quiz-0819",
   "title": "English Practice Quiz 0819",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q009",
-      "category": "Grammar",
-      "question": "Choose the correct comparative form.",
+      "id": "q11881",
+      "category": "Advanced English Usage",
+      "question": "Advanced English Usage 01: Choose the correct sentence:",
       "options": [
-        "more tall",
-        "taller",
-        "tallest than",
-        "most tall"
-      ],
-      "answer": 1,
-      "explanation": "The comparative form of the short adjective tall is taller."
-    },
-    {
-      "id": "q046",
-      "category": "Sentence Building",
-      "question": "Choose the correct word order.",
-      "options": [
-        "Always I am late.",
-        "I am always late.",
-        "I late am always.",
-        "Am always I late."
-      ],
-      "answer": 1,
-      "explanation": "Frequency adverbs such as always usually come after the verb be."
-    },
-    {
-      "id": "q083",
-      "category": "Confusing Words",
-      "question": "Please ___ the correct answer.",
-      "options": [
-        "choose",
-        "chose",
-        "choice",
-        "chosen"
+        "Had the team received the notice, it would have prepared earlier.",
+        "Had the team receive the notice, it would prepare earlier.",
+        "If the team would receive the notice, it prepared.",
+        "Had received the team notice, it will prepare."
       ],
       "answer": 0,
-      "explanation": "Choose is the base verb used after please."
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q005",
-      "category": "Grammar",
-      "question": "Choose the correct sentence.",
+      "id": "q11882",
+      "category": "Advanced English Usage",
+      "question": "Advanced English Usage 02: The report, together with its attachments, ___ ready.",
       "options": [
-        "She don't like tea.",
-        "She doesn't likes tea.",
-        "She doesn't like tea.",
-        "She not like tea."
+        "is",
+        "are",
+        "were",
+        "have"
       ],
-      "answer": 2,
-      "explanation": "After doesn't, use the base form of the verb: like."
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q042",
-      "category": "Modals",
-      "question": "You ___ smoke inside the hospital.",
+      "id": "q11883",
+      "category": "Advanced English Usage",
+      "question": "Advanced English Usage 03: Choose the correct phrase:",
       "options": [
-        "must",
-        "mustn't",
-        "should",
-        "could"
+        "Comply with the regulation",
+        "Comply to the regulation",
+        "Comply at the regulation",
+        "Comply for the regulation"
       ],
-      "answer": 1,
-      "explanation": "Mustn't expresses prohibition."
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q079",
-      "category": "Punctuation",
-      "question": "Which is a complete sentence?",
+      "id": "q11884",
+      "category": "Advanced English Usage",
+      "question": "Advanced English Usage 04: Which word means 'to make less severe'?",
       "options": [
-        "Because it was raining.",
-        "After the meeting.",
-        "The team finished the work.",
-        "When I arrived."
+        "Mitigate",
+        "Aggravate",
+        "Prolong",
+        "Neglect"
       ],
-      "answer": 2,
-      "explanation": "The team finished the work contains a subject and a complete predicate."
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q001",
-      "category": "Grammar",
-      "question": "She ___ to work every day.",
+      "id": "q11885",
+      "category": "Advanced English Usage",
+      "question": "Advanced English Usage 05: Choose the correct sentence:",
       "options": [
-        "go",
-        "goes",
-        "going",
-        "gone"
+        "No sooner had the shift started than the alarm sounded.",
+        "No sooner the shift had started than alarm sounded.",
+        "No sooner had started the shift when alarm sounded.",
+        "No sooner did the shift started than alarm sounded."
       ],
-      "answer": 1,
-      "explanation": "With he, she or it in the present simple, add -s or -es to most verbs."
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q038",
-      "category": "Prepositions",
-      "question": "We have a meeting ___ Monday.",
+      "id": "q11886",
+      "category": "Advanced English Usage",
+      "question": "Advanced English Usage 06: The manager asked that every form ___ signed.",
       "options": [
-        "in",
-        "at",
-        "on",
-        "by"
+        "be",
+        "is",
+        "was",
+        "being"
       ],
-      "answer": 2,
-      "explanation": "Use on with days and dates."
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q075",
-      "category": "Questions",
-      "question": "Choose the correct question tag: 'You are ready, ___?'",
+      "id": "q11887",
+      "category": "Advanced English Usage",
+      "question": "Advanced English Usage 07: Choose the correct use of 'ensure':",
       "options": [
-        "are you",
-        "aren't you",
-        "do you",
-        "don't you"
+        "Please ensure that the gate is secured.",
+        "Please insure that the gate is secured.",
+        "Please assure that the gate is secured.",
+        "Please ensuring the gate secured."
       ],
-      "answer": 1,
-      "explanation": "A positive statement with are usually takes the negative tag aren't you."
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q112",
-      "category": "Gerunds",
-      "question": "He decided ___ early.",
+      "id": "q11888",
+      "category": "Advanced English Usage",
+      "question": "Advanced English Usage 08: The information was useful, ___ it arrived too late.",
       "options": [
-        "leave",
-        "leaving",
-        "to leave",
-        "leaves"
+        "although",
+        "because",
+        "unless",
+        "therefore"
       ],
-      "answer": 2,
-      "explanation": "Decide is commonly followed by a to-infinitive."
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11889",
+      "category": "Advanced English Usage",
+      "question": "Advanced English Usage 09: A 'transparent' process is:",
+      "options": [
+        "Open and understandable",
+        "Hidden from everyone",
+        "Impossible to review",
+        "Always informal"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11890",
+      "category": "Advanced English Usage",
+      "question": "Advanced English Usage 10: Choose the correct sentence:",
+      "options": [
+        "Each of the reports has been checked.",
+        "Each of the reports have been checked.",
+        "Each reports has been checked.",
+        "Each of reports have checked."
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     }
   ]
 }
