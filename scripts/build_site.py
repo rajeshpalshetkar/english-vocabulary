@@ -103,6 +103,7 @@ def main():
     sitemap='<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join(f'<url><loc>{esc(u)}</loc></url>' for u in sorted(set(urls+[BASE+"/",BASE+"/library/"])))+'</urlset>'
     write("sitemap.xml",sitemap)
     write("robots.txt","User-agent: *\nAllow: /\nSitemap: "+BASE+"/sitemap.xml\n")
+    write("CNAME", BASE.split("://",1)[-1].split("/",1)[0])
     write("404.html",page("Page Not Found","The requested English lesson could not be found.",BASE+"/404.html",'<h1>Page not found</h1><p>The lesson may have moved. Visit the <a href="/library/">Learning Library</a>.</p>'))
     print(f"Built {len(lesson_map)} full lessons, {len(CAT.get('core_library',{}))} topic pages, challenge pages, sitemap and home page.")
 
