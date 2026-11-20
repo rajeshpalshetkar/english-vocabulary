@@ -3,139 +3,139 @@
   "slug": "quiz-0847",
   "title": "English Practice Quiz 0847",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q025",
-      "category": "Vocabulary",
-      "question": "A person you can trust is ___.",
+      "id": "q11561",
+      "category": "Time Management",
+      "question": "Time Management 01: A priority matrix classifies tasks by:",
       "options": [
-        "reliable",
-        "careless",
-        "silent",
-        "narrow"
+        "Urgency and importance",
+        "Furniture type",
+        "Biometrics",
+        "Tax rate"
       ],
       "answer": 0,
-      "explanation": "Reliable means dependable or trustworthy."
+      "explanation": "A priority matrix classifies tasks by: The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q054",
-      "category": "Conversation",
-      "question": "You need a moment to think. You say:",
+      "id": "q11562",
+      "category": "Time Management",
+      "question": "Time Management 02: Time blocking means:",
       "options": [
-        "Let me think for a moment.",
-        "I no idea ever.",
-        "Wait your mouth.",
-        "I am think."
+        "Allocating periods to planned tasks",
+        "Working without breaks",
+        "Deleting calendars",
+        "Doing unrelated tasks simultaneously"
       ],
       "answer": 0,
-      "explanation": "This phrase politely signals that you need a little time."
+      "explanation": "Time blocking means: The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q083",
-      "category": "Confusing Words",
-      "question": "Please ___ the correct answer.",
+      "id": "q11563",
+      "category": "Time Management",
+      "question": "Time Management 03: A realistic deadline considers:",
       "options": [
-        "choose",
-        "chose",
-        "choice",
-        "chosen"
+        "Complexity, resources and dependencies",
+        "Optimism only",
+        "Unrelated holidays",
+        "Email count"
       ],
       "answer": 0,
-      "explanation": "Choose is the base verb used after please."
+      "explanation": "A realistic deadline considers: The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q112",
-      "category": "Gerunds",
-      "question": "He decided ___ early.",
+      "id": "q11564",
+      "category": "Time Management",
+      "question": "Time Management 04: A useful task list contains:",
       "options": [
-        "leave",
-        "leaving",
-        "to leave",
-        "leaves"
-      ],
-      "answer": 2,
-      "explanation": "Decide is commonly followed by a to-infinitive."
-    },
-    {
-      "id": "q026",
-      "category": "Vocabulary",
-      "question": "What does 'borrow' mean?",
-      "options": [
-        "give something forever",
-        "take something temporarily and return it",
-        "break something",
-        "buy something"
-      ],
-      "answer": 1,
-      "explanation": "Borrow means to take something for a period and return it."
-    },
-    {
-      "id": "q055",
-      "category": "Conversation",
-      "question": "A colleague asks for help. A polite reply is:",
-      "options": [
-        "Certainly. What do you need?",
-        "Never ask me.",
-        "You do yourself.",
-        "No speaking."
+        "Clear actions and priorities",
+        "Vague wishes",
+        "Rumours",
+        "Passwords"
       ],
       "answer": 0,
-      "explanation": "Certainly. What do you need? is helpful and polite."
+      "explanation": "A useful task list contains: The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q084",
-      "category": "Confusing Words",
-      "question": "I have ___ my keys.",
+      "id": "q11565",
+      "category": "Time Management",
+      "question": "Time Management 05: Delegation involves:",
       "options": [
-        "loose",
-        "lose",
-        "lost",
-        "loss"
-      ],
-      "answer": 2,
-      "explanation": "Lost is the past participle of lose."
-    },
-    {
-      "id": "q113",
-      "category": "Gerunds",
-      "question": "She is good at ___.",
-      "options": [
-        "swim",
-        "to swim",
-        "swimming",
-        "swam"
-      ],
-      "answer": 2,
-      "explanation": "A preposition such as at is followed by a noun or gerund."
-    },
-    {
-      "id": "q027",
-      "category": "Vocabulary",
-      "question": "Choose the correct word: Please ___ the details.",
-      "options": [
-        "confirm",
-        "crowded",
-        "repairing",
-        "hungry"
+        "Assigning responsibility and suitable authority",
+        "Avoiding accountability",
+        "Transferring blame",
+        "Cancelling work"
       ],
       "answer": 0,
-      "explanation": "Confirm means to check or establish that something is correct."
+      "explanation": "Delegation involves: The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q056",
-      "category": "Pronunciation",
-      "question": "Which word has a different beginning sound?",
+      "id": "q11566",
+      "category": "Time Management",
+      "question": "Time Management 06: A schedule buffer provides:",
       "options": [
-        "think",
-        "three",
-        "this",
-        "thank"
+        "Extra time for unexpected delays",
+        "Permission to ignore deadlines",
+        "A duplicate task",
+        "A holiday"
       ],
-      "answer": 2,
-      "explanation": "This begins with the voiced /ð/ sound; the others begin with the unvoiced /θ/ sound."
+      "answer": 0,
+      "explanation": "A schedule buffer provides: The first option is correct because it reflects the relevant principle or standard."
+    },
+    {
+      "id": "q11567",
+      "category": "Time Management",
+      "question": "Time Management 07: Which task is urgent and important?",
+      "options": [
+        "Responding to an active safety incident",
+        "Rearranging an old folder",
+        "Choosing desk décor",
+        "Reading unrelated news"
+      ],
+      "answer": 0,
+      "explanation": "Which task is urgent and important? The first option is correct because it reflects the relevant principle or standard."
+    },
+    {
+      "id": "q11568",
+      "category": "Time Management",
+      "question": "Time Management 08: Multitasking may reduce accuracy when:",
+      "options": [
+        "Tasks need focused attention",
+        "Tasks are automated",
+        "No task is active",
+        "A break is scheduled"
+      ],
+      "answer": 0,
+      "explanation": "Multitasking may reduce accuracy when: The first option is correct because it reflects the relevant principle or standard."
+    },
+    {
+      "id": "q11569",
+      "category": "Time Management",
+      "question": "Time Management 09: An end-of-day review should:",
+      "options": [
+        "Check completed work and set tomorrow's priorities",
+        "Delete reminders",
+        "Ignore unfinished tasks",
+        "Rewrite past records"
+      ],
+      "answer": 0,
+      "explanation": "An end-of-day review should: The first option is correct because it reflects the relevant principle or standard."
+    },
+    {
+      "id": "q11570",
+      "category": "Time Management",
+      "question": "Time Management 10: A recurring task is best managed by:",
+      "options": [
+        "A regular reminder or schedule",
+        "Memory alone",
+        "Ignoring due dates",
+        "Random timing"
+      ],
+      "answer": 0,
+      "explanation": "A recurring task is best managed by: The first option is correct because it reflects the relevant principle or standard."
     }
   ]
 }
