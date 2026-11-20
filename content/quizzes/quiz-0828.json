@@ -3,139 +3,139 @@
   "slug": "quiz-0828",
   "title": "English Practice Quiz 0828",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q047",
-      "category": "Sentence Building",
-      "question": "Choose the correct question.",
+      "id": "q11771",
+      "category": "Financial Literacy",
+      "question": "Financial Literacy 01: Cash flow describes:",
       "options": [
-        "Where you live?",
-        "Where do you live?",
-        "Where does you live?",
-        "Where are live you?"
-      ],
-      "answer": 1,
-      "explanation": "Use do + subject + base verb for present simple questions with you."
-    },
-    {
-      "id": "q078",
-      "category": "Punctuation",
-      "question": "Choose the correct sentence.",
-      "options": [
-        "I like tea, coffee and milk.",
-        "I like tea coffee and milk",
-        "I like, tea coffee, and milk.",
-        "i like tea, coffee and milk"
+        "Money moving into and out of an organisation",
+        "Employees on leave",
+        "Furniture value only",
+        "Stock quantity"
       ],
       "answer": 0,
-      "explanation": "Use commas to separate items in a list and capitalise the first word."
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
     },
     {
-      "id": "q109",
-      "category": "Adverbs",
-      "question": "She arrived ___.",
+      "id": "q11772",
+      "category": "Financial Literacy",
+      "question": "Financial Literacy 02: A balance sheet reports:",
       "options": [
-        "late",
-        "lately",
-        "latest",
-        "laterly"
+        "Assets, liabilities and equity at a point in time",
+        "Daily cash sales only",
+        "Weather conditions",
+        "Attendance by shift"
       ],
       "answer": 0,
-      "explanation": "Late is the correct adverb meaning not on time."
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
     },
     {
-      "id": "q025",
-      "category": "Vocabulary",
-      "question": "A person you can trust is ___.",
+      "id": "q11773",
+      "category": "Financial Literacy",
+      "question": "Financial Literacy 03: An operating expense is:",
       "options": [
-        "reliable",
-        "careless",
-        "silent",
-        "narrow"
+        "A cost incurred in day-to-day business operations",
+        "A shareholder's personal purchase",
+        "A refund request",
+        "A safety observation"
       ],
       "answer": 0,
-      "explanation": "Reliable means dependable or trustworthy."
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
     },
     {
-      "id": "q056",
-      "category": "Pronunciation",
-      "question": "Which word has a different beginning sound?",
+      "id": "q11774",
+      "category": "Financial Literacy",
+      "question": "Financial Literacy 04: Gross profit is calculated as:",
       "options": [
-        "think",
-        "three",
-        "this",
-        "thank"
-      ],
-      "answer": 2,
-      "explanation": "This begins with the voiced /ð/ sound; the others begin with the unvoiced /θ/ sound."
-    },
-    {
-      "id": "q087",
-      "category": "Conditionals",
-      "question": "If I had more time, I ___ another language.",
-      "options": [
-        "learn",
-        "will learn",
-        "would learn",
-        "am learn"
-      ],
-      "answer": 2,
-      "explanation": "The second conditional uses would + base verb for an unreal or imagined situation."
-    },
-    {
-      "id": "q003",
-      "category": "Grammar",
-      "question": "I ___ a new notebook yesterday.",
-      "options": [
-        "buy",
-        "buys",
-        "bought",
-        "buying"
-      ],
-      "answer": 2,
-      "explanation": "Yesterday signals the past simple. The past form of buy is bought."
-    },
-    {
-      "id": "q034",
-      "category": "Articles",
-      "question": "He wants to become ___ engineer.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "Engineer begins with a vowel sound, so use an."
-    },
-    {
-      "id": "q065",
-      "category": "Reading",
-      "question": "Read: 'Please keep the floor dry to prevent accidents.' What is the instruction?",
-      "options": [
-        "Wash the floor now",
-        "Keep the floor dry",
-        "Close the office",
-        "Move the furniture"
-      ],
-      "answer": 1,
-      "explanation": "The notice instructs people to keep the floor dry."
-    },
-    {
-      "id": "q096",
-      "category": "Reported Speech",
-      "question": "He said, 'I am tired.' Reported speech:",
-      "options": [
-        "He said that he was tired.",
-        "He said I am tired.",
-        "He says that I tired.",
-        "He said he is tire."
+        "Revenue minus cost of goods sold",
+        "Assets minus liabilities",
+        "Cash minus salaries only",
+        "Revenue plus tax payable"
       ],
       "answer": 0,
-      "explanation": "In standard backshift, am changes to was after a past reporting verb."
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
+    },
+    {
+      "id": "q11775",
+      "category": "Financial Literacy",
+      "question": "Financial Literacy 05: A financial forecast is:",
+      "options": [
+        "An estimate of future results based on assumptions",
+        "A historical receipt",
+        "An employee address list",
+        "A delivery note"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
+    },
+    {
+      "id": "q11776",
+      "category": "Financial Literacy",
+      "question": "Financial Literacy 06: A credit note is commonly issued to:",
+      "options": [
+        "Reduce or adjust an amount previously invoiced",
+        "Request an employee",
+        "Record a fire drill",
+        "Confirm a staff transfer"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
+    },
+    {
+      "id": "q11777",
+      "category": "Financial Literacy",
+      "question": "Financial Literacy 07: An asset is:",
+      "options": [
+        "A resource controlled by an organisation with economic value",
+        "A bill to be paid",
+        "A staff complaint",
+        "An unapproved quotation"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
+    },
+    {
+      "id": "q11778",
+      "category": "Financial Literacy",
+      "question": "Financial Literacy 08: A liability is:",
+      "options": [
+        "An obligation the organisation is required to settle",
+        "A resource owned by the organisation",
+        "A sales target",
+        "A training objective"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
+    },
+    {
+      "id": "q11779",
+      "category": "Financial Literacy",
+      "question": "Financial Literacy 09: A break-even point occurs when:",
+      "options": [
+        "Total revenue equals total costs",
+        "Revenue is always zero",
+        "Cash exceeds every budget",
+        "All invoices are overdue"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
+    },
+    {
+      "id": "q11780",
+      "category": "Financial Literacy",
+      "question": "Financial Literacy 10: Variance analysis is used to:",
+      "options": [
+        "Understand differences between planned and actual results",
+        "Change bank passwords",
+        "Approve visitor access",
+        "Replace a supplier contract"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
     }
   ]
 }
