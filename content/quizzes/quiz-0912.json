@@ -3,139 +3,139 @@
   "slug": "quiz-0912",
   "title": "English Practice Quiz 0912",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q095",
-      "category": "Passive Voice",
-      "question": "The windows ___ every week.",
+      "id": "q10811",
+      "category": "Procurement",
+      "question": "A purchase requisition requests approval to ___.",
       "options": [
-        "are cleaned",
-        "clean",
-        "is cleaned",
-        "cleaning"
-      ],
-      "answer": 0,
-      "explanation": "Plural subject windows takes are + past participle."
-    },
-    {
-      "id": "q106",
-      "category": "Adjectives",
-      "question": "The test was ___ than I expected.",
-      "options": [
-        "easy",
-        "easier",
-        "easiest",
-        "more easy"
+        "confirm attendance",
+        "buy goods or services",
+        "cancel a bank account",
+        "record feedback"
       ],
       "answer": 1,
-      "explanation": "Use the comparative form easier."
+      "explanation": "buy goods or services is the correct choice based on the meaning and context of the question."
     },
     {
-      "id": "q002",
-      "category": "Grammar",
-      "question": "They ___ ready for the meeting.",
+      "id": "q10812",
+      "category": "Procurement",
+      "question": "A supplier quotation usually provides ___.",
       "options": [
-        "is",
-        "am",
-        "are",
-        "be"
+        "a staff appraisal",
+        "a medical diagnosis",
+        "a driver's licence",
+        "a proposed price and terms"
       ],
-      "answer": 2,
-      "explanation": "Use are with the plural subject they."
+      "answer": 3,
+      "explanation": "a proposed price and terms is the correct choice based on the meaning and context of the question."
     },
     {
-      "id": "q013",
-      "category": "Tenses",
-      "question": "At 8 p.m. yesterday, I ___ dinner.",
+      "id": "q10813",
+      "category": "Procurement",
+      "question": "Why compare supplier quotations?",
       "options": [
-        "cook",
-        "cooked",
-        "was cooking",
-        "am cooking"
-      ],
-      "answer": 2,
-      "explanation": "Use the past continuous for an action in progress at a specific past time."
-    },
-    {
-      "id": "q024",
-      "category": "Vocabulary",
-      "question": "If a task is 'urgent', it needs ___.",
-      "options": [
-        "no attention",
-        "quick attention",
-        "a holiday",
-        "a receipt"
+        "To choose the longest document",
+        "To assess price, quality and terms",
+        "To avoid specifications",
+        "To select randomly"
       ],
       "answer": 1,
-      "explanation": "Urgent means requiring immediate or prompt attention."
+      "explanation": "To assess price, quality and terms is the correct choice based on the meaning and context of the question."
     },
     {
-      "id": "q035",
-      "category": "Articles",
-      "question": "Mount Everest is ___ highest mountain in the world.",
+      "id": "q10814",
+      "category": "Procurement",
+      "question": "A purchase order is issued to ___.",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
+        "record a complaint",
+        "approve leave",
+        "close an office",
+        "formally place an order with a supplier"
       ],
-      "answer": 2,
-      "explanation": "Use the with superlative adjectives."
+      "answer": 3,
+      "explanation": "formally place an order with a supplier is the correct choice based on the meaning and context of the question."
     },
     {
-      "id": "q046",
-      "category": "Sentence Building",
-      "question": "Choose the correct word order.",
+      "id": "q10815",
+      "category": "Procurement",
+      "question": "What is lead time in purchasing?",
       "options": [
-        "Always I am late.",
-        "I am always late.",
-        "I late am always.",
-        "Am always I late."
-      ],
-      "answer": 1,
-      "explanation": "Frequency adverbs such as always usually come after the verb be."
-    },
-    {
-      "id": "q057",
-      "category": "Pronunciation",
-      "question": "Which word has a silent 'k'?",
-      "options": [
-        "kite",
-        "know",
-        "keep",
-        "kind"
+        "Time spent interviewing staff",
+        "Time between placing an order and receiving it",
+        "Supplier lunch break",
+        "Shelf life of every product"
       ],
       "answer": 1,
-      "explanation": "The k in know is silent."
+      "explanation": "Time between placing an order and receiving it is the correct choice based on the meaning and context of the question."
     },
     {
-      "id": "q068",
-      "category": "Workplace English",
-      "question": "You need to report a problem. You say:",
+      "id": "q10816",
+      "category": "Procurement",
+      "question": "A product specification describes ___.",
       "options": [
-        "There is an issue with the printer.",
-        "Printer bad you.",
-        "I issue printer.",
-        "No printer yesterday."
+        "buyer's hobbies",
+        "office seating plan",
+        "supplier's family history",
+        "the required features or standards of an item"
       ],
-      "answer": 0,
-      "explanation": "There is an issue with... clearly introduces a problem."
+      "answer": 3,
+      "explanation": "the required features or standards of an item is the correct choice based on the meaning and context of the question."
     },
     {
-      "id": "q079",
-      "category": "Punctuation",
-      "question": "Which is a complete sentence?",
+      "id": "q10817",
+      "category": "Procurement",
+      "question": "A procurement conflict of interest should be ___.",
       "options": [
-        "Because it was raining.",
-        "After the meeting.",
-        "The team finished the work.",
-        "When I arrived."
+        "kept secret",
+        "declared according to policy",
+        "ignored if price is low",
+        "shared with competitors"
       ],
-      "answer": 2,
-      "explanation": "The team finished the work contains a subject and a complete predicate."
+      "answer": 1,
+      "explanation": "declared according to policy is the correct choice based on the meaning and context of the question."
+    },
+    {
+      "id": "q10818",
+      "category": "Procurement",
+      "question": "A delivery note helps verify ___.",
+      "options": [
+        "staff leave balances",
+        "customer passwords",
+        "electricity use",
+        "goods delivered against the order"
+      ],
+      "answer": 3,
+      "explanation": "goods delivered against the order is the correct choice based on the meaning and context of the question."
+    },
+    {
+      "id": "q10819",
+      "category": "Procurement",
+      "question": "A supplier evaluation may consider ___.",
+      "options": [
+        "favourite sport",
+        "quality, reliability and delivery performance",
+        "unrelated opinions",
+        "office decoration"
+      ],
+      "answer": 1,
+      "explanation": "quality, reliability and delivery performance is the correct choice based on the meaning and context of the question."
+    },
+    {
+      "id": "q10820",
+      "category": "Procurement",
+      "question": "Before approving an invoice, compare it with ___.",
+      "options": [
+        "a social media post",
+        "a personal diary",
+        "an unrelated quotation",
+        "the purchase order and evidence of receipt"
+      ],
+      "answer": 3,
+      "explanation": "the purchase order and evidence of receipt is the correct choice based on the meaning and context of the question."
     }
   ]
 }
