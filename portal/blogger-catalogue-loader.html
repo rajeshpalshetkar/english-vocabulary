@@ -33,7 +33,7 @@
   var grid=root.querySelector(".efg-catalogue-grid");
   var title=root.querySelector(".efg-catalogue-title");
   var desc=root.querySelector(".efg-catalogue-description");
-  var view=root.getAttribute("data-view")||"library";
+  var view=root.getAttribute("data-view")||"library";\n  var lessonBase="https://vocab.prasiddhbharat.com/";
   function card(name,summary,href,count){
     var a=document.createElement("a"); a.className="efg-catalogue-card"; a.href=href;
     var strong=document.createElement("strong"); strong.textContent=name; a.appendChild(strong);
@@ -56,7 +56,7 @@
       Object.keys(catalogue.core_library||{}).forEach(function(label){
         var slug=safeSlug(label);
         var items=catalogue.core_library[label]||[];
-        grid.appendChild(card(label,"Structured lessons, examples and exercises.", "/p/"+slug+".html",items.length+" lessons"));
+        grid.appendChild(card(label,"Structured lessons, examples and exercises.", "/topics/"+slug+"/",items.length+" lessons"));
       });
       status.textContent="Choose a learning category.";
     } else if(view==="challenge30"){
@@ -65,14 +65,14 @@
       (catalogue.challenge_30_days||[]).forEach(function(item,i){
         var name=Array.isArray(item)?item[0]:item.title;
         var label=Array.isArray(item)?item[1]:(item.label||"Basic English");
-        grid.appendChild(card("Day "+String(i+1).padStart(2,"0")+": "+name,"Daily topic: "+label,"/p/lesson-"+String(i+1).padStart(2,"0")+"-"+safeSlug(name)+".html","Day "+(i+1)+" of 30"));
+        grid.appendChild(card("Day "+String(i+1).padStart(2,"0")+": "+name,"Daily topic: "+label,lessonBase+"lessons/"+safeSlug(name)+"/","Day "+(i+1)+" of 30"));
       });
       status.textContent="30 daily lessons.";
     } else if(view==="practice365"){
       title.textContent="365-Day English Practice";
       desc.textContent="A year of structured English practice, organised into 52 weekly lessons.";
       (catalogue.year_practice_52_weeks||[]).forEach(function(name,i){
-        grid.appendChild(card("Week "+String(i+1).padStart(2,"0")+": "+name,"Seven activities from Monday to Sunday.","/p/week-"+String(i+1).padStart(2,"0")+"-"+safeSlug(name)+".html","Week "+(i+1)+" of 52"));
+        grid.appendChild(card("Week "+String(i+1).padStart(2,"0")+": "+name,"Seven activities from Monday to Sunday.",lessonBase+"lessons/"+safeSlug(name)+"/","Week "+(i+1)+" of 52"));
       });
       status.textContent="52 weekly practice plans.";
     } else {
@@ -80,7 +80,7 @@
       title.textContent=matching||view;
       desc.textContent="Explore lessons in "+(matching||view)+".";
       (catalogue.core_library[matching]||[]).forEach(function(name,i){
-        grid.appendChild(card(name,"Lesson "+(i+1)+" • "+(matching||view),"/p/lesson-"+safeSlug(name)+".html","Lesson "+(i+1)));
+        grid.appendChild(card(name,"Lesson "+(i+1)+" • "+(matching||view),lessonBase+"lessons/"+safeSlug(name)+"/","Lesson "+(i+1)));
       });
       status.textContent="Lessons in "+(matching||view)+".";
     }
