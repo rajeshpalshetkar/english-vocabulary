@@ -3,139 +3,139 @@
   "slug": "quiz-0804",
   "title": "English Practice Quiz 0804",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q099",
-      "category": "Reported Speech",
-      "question": "She said, 'Please sit down.'",
+      "id": "q11931",
+      "category": "Records and Documentation",
+      "question": "Records and Documentation 01: A good record entry should be:",
       "options": [
-        "She told me sit down.",
-        "She asked me to sit down.",
-        "She said me to sit.",
-        "She asked that I sat."
+        "Accurate, dated and legible",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
       ],
-      "answer": 1,
-      "explanation": "A request can be reported with asked + object + to-infinitive."
+      "answer": 0,
+      "explanation": "Option A is correct: Accurate, dated and legible. This is the appropriate professional practice or standard English usage."
     },
     {
-      "id": "q001",
-      "category": "Grammar",
-      "question": "She ___ to work every day.",
+      "id": "q11932",
+      "category": "Records and Documentation",
+      "question": "Records and Documentation 02: If you make an error in a controlled paper record, you should:",
       "options": [
-        "go",
-        "goes",
-        "going",
-        "gone"
+        "Correct it according to the approved procedure",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
       ],
-      "answer": 1,
-      "explanation": "With he, she or it in the present simple, add -s or -es to most verbs."
+      "answer": 0,
+      "explanation": "Option A is correct: Correct it according to the approved procedure. This is the appropriate professional practice or standard English usage."
     },
     {
-      "id": "q018",
-      "category": "Tenses",
-      "question": "I ___ him last week.",
+      "id": "q11933",
+      "category": "Records and Documentation",
+      "question": "Records and Documentation 03: A document version number helps users:",
       "options": [
-        "see",
-        "have seen",
-        "saw",
-        "seeing"
+        "Identify the current approved revision",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
       ],
-      "answer": 2,
-      "explanation": "Use the past simple with a finished past time such as last week."
+      "answer": 0,
+      "explanation": "Option A is correct: Identify the current approved revision. This is the appropriate professional practice or standard English usage."
     },
     {
-      "id": "q035",
-      "category": "Articles",
-      "question": "Mount Everest is ___ highest mountain in the world.",
+      "id": "q11934",
+      "category": "Records and Documentation",
+      "question": "Records and Documentation 04: A retention schedule specifies:",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
+        "How long records should be kept and their disposal method",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
       ],
-      "answer": 2,
-      "explanation": "Use the with superlative adjectives."
+      "answer": 0,
+      "explanation": "Option A is correct: How long records should be kept and their disposal method. This is the appropriate professional practice or standard English usage."
     },
     {
-      "id": "q052",
-      "category": "Conversation",
-      "question": "You did not hear someone. You say:",
+      "id": "q11935",
+      "category": "Records and Documentation",
+      "question": "Records and Documentation 05: An audit trail records:",
       "options": [
-        "Speak now!",
-        "Could you repeat that, please?",
-        "What your problem?",
-        "I don't hear you yesterday."
+        "Who did what and when in a system or process",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
       ],
-      "answer": 1,
-      "explanation": "Could you repeat that, please? is a polite request."
+      "answer": 0,
+      "explanation": "Option A is correct: Who did what and when in a system or process. This is the appropriate professional practice or standard English usage."
     },
     {
-      "id": "q069",
-      "category": "Workplace English",
-      "question": "A polite way to disagree is:",
+      "id": "q11936",
+      "category": "Records and Documentation",
+      "question": "Records and Documentation 06: A signed form generally provides:",
       "options": [
-        "You are totally wrong.",
-        "I see your point, but I have a different view.",
-        "No, stop.",
-        "That is stupid."
+        "Evidence of acknowledgement or authorisation as defined by policy",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
       ],
-      "answer": 1,
-      "explanation": "This phrase acknowledges the other person before presenting a different view."
+      "answer": 0,
+      "explanation": "Option A is correct: Evidence of acknowledgement or authorisation as defined by policy. This is the appropriate professional practice or standard English usage."
     },
     {
-      "id": "q086",
-      "category": "Conditionals",
-      "question": "If it rains, we ___ indoors.",
+      "id": "q11937",
+      "category": "Records and Documentation",
+      "question": "Records and Documentation 07: A document marked confidential should be:",
       "options": [
-        "stay",
-        "will stay",
-        "stayed",
-        "would stayed"
+        "Handled under the organisation's access rules",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
       ],
-      "answer": 1,
-      "explanation": "The first conditional uses if + present simple, will + base verb."
+      "answer": 0,
+      "explanation": "Option A is correct: Handled under the organisation's access rules. This is the appropriate professional practice or standard English usage."
     },
     {
-      "id": "q103",
-      "category": "Determiners",
-      "question": "I have ___ friends in this city.",
+      "id": "q11938",
+      "category": "Records and Documentation",
+      "question": "Records and Documentation 08: A missing record should be:",
       "options": [
-        "a little",
-        "a few",
-        "much",
-        "anyone"
+        "Reported and investigated under procedure",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
       ],
-      "answer": 1,
-      "explanation": "A few is used with countable plural nouns."
+      "answer": 0,
+      "explanation": "Option A is correct: Reported and investigated under procedure. This is the appropriate professional practice or standard English usage."
     },
     {
-      "id": "q005",
-      "category": "Grammar",
-      "question": "Choose the correct sentence.",
+      "id": "q11939",
+      "category": "Records and Documentation",
+      "question": "Records and Documentation 09: A checklist is useful because it:",
       "options": [
-        "She don't like tea.",
-        "She doesn't likes tea.",
-        "She doesn't like tea.",
-        "She not like tea."
+        "Helps ensure required steps are not missed",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
       ],
-      "answer": 2,
-      "explanation": "After doesn't, use the base form of the verb: like."
+      "answer": 0,
+      "explanation": "Option A is correct: Helps ensure required steps are not missed. This is the appropriate professional practice or standard English usage."
     },
     {
-      "id": "q022",
-      "category": "Vocabulary",
-      "question": "Choose the opposite of 'polite'.",
+      "id": "q11940",
+      "category": "Records and Documentation",
+      "question": "Records and Documentation 10: Before archiving a file, verify:",
       "options": [
-        "kind",
-        "rude",
-        "helpful",
-        "calm"
+        "Its identity, completeness and retention requirements",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
       ],
-      "answer": 1,
-      "explanation": "Rude is the opposite of polite."
+      "answer": 0,
+      "explanation": "Option A is correct: Its identity, completeness and retention requirements. This is the appropriate professional practice or standard English usage."
     }
   ]
 }
