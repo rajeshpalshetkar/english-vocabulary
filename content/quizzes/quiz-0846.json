@@ -3,139 +3,139 @@
   "slug": "quiz-0846",
   "title": "English Practice Quiz 0846",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q008",
-      "category": "Grammar",
-      "question": "This is the woman ___ helped me.",
+      "id": "q11551",
+      "category": "Customer Care",
+      "question": "Customer Care 01: When a customer explains a problem, first:",
       "options": [
-        "which",
-        "who",
-        "where",
-        "when"
-      ],
-      "answer": 1,
-      "explanation": "Who is used for people."
-    },
-    {
-      "id": "q031",
-      "category": "Articles",
-      "question": "I saw ___ elephant at the zoo.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "Use an before a vowel sound."
-    },
-    {
-      "id": "q054",
-      "category": "Conversation",
-      "question": "You need a moment to think. You say:",
-      "options": [
-        "Let me think for a moment.",
-        "I no idea ever.",
-        "Wait your mouth.",
-        "I am think."
+        "Listen without interrupting",
+        "Argue immediately",
+        "Change the subject",
+        "Blame another customer"
       ],
       "answer": 0,
-      "explanation": "This phrase politely signals that you need a little time."
+      "explanation": "When a customer explains a problem, first: The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q077",
-      "category": "Punctuation",
-      "question": "Which sentence uses the apostrophe correctly?",
+      "id": "q11552",
+      "category": "Customer Care",
+      "question": "Customer Care 02: A service-level agreement defines:",
       "options": [
-        "The guards uniform is blue.",
-        "The guard's uniform is blue.",
-        "The guards' uniform is blue. (one guard)",
-        "The guard uniform's is blue."
-      ],
-      "answer": 1,
-      "explanation": "Guard's shows possession by one guard."
-    },
-    {
-      "id": "q100",
-      "category": "Reported Speech",
-      "question": "They said, 'We have finished.'",
-      "options": [
-        "They said they had finished.",
-        "They said they have finish.",
-        "They told finished.",
-        "They said we finished have."
+        "Expected service standards and responsibilities",
+        "A diary",
+        "A slogan",
+        "A floor plan"
       ],
       "answer": 0,
-      "explanation": "Present perfect commonly shifts to past perfect in reported speech."
+      "explanation": "A service-level agreement defines: The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q008",
-      "category": "Grammar",
-      "question": "This is the woman ___ helped me.",
+      "id": "q11553",
+      "category": "Customer Care",
+      "question": "Customer Care 03: When a request will be delayed:",
       "options": [
-        "which",
-        "who",
-        "where",
-        "when"
-      ],
-      "answer": 1,
-      "explanation": "Who is used for people."
-    },
-    {
-      "id": "q031",
-      "category": "Articles",
-      "question": "I saw ___ elephant at the zoo.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "Use an before a vowel sound."
-    },
-    {
-      "id": "q054",
-      "category": "Conversation",
-      "question": "You need a moment to think. You say:",
-      "options": [
-        "Let me think for a moment.",
-        "I no idea ever.",
-        "Wait your mouth.",
-        "I am think."
+        "Explain the delay and give a realistic update",
+        "Promise an impossible time",
+        "Stop responding",
+        "Mark it complete"
       ],
       "answer": 0,
-      "explanation": "This phrase politely signals that you need a little time."
+      "explanation": "When a request will be delayed: The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q077",
-      "category": "Punctuation",
-      "question": "Which sentence uses the apostrophe correctly?",
+      "id": "q11554",
+      "category": "Customer Care",
+      "question": "Customer Care 04: Service recovery aims to:",
       "options": [
-        "The guards uniform is blue.",
-        "The guard's uniform is blue.",
-        "The guards' uniform is blue. (one guard)",
-        "The guard uniform's is blue."
-      ],
-      "answer": 1,
-      "explanation": "Guard's shows possession by one guard."
-    },
-    {
-      "id": "q100",
-      "category": "Reported Speech",
-      "question": "They said, 'We have finished.'",
-      "options": [
-        "They said they had finished.",
-        "They said they have finish.",
-        "They told finished.",
-        "They said we finished have."
+        "Resolve the issue and restore confidence",
+        "Hide the complaint",
+        "Discourage feedback",
+        "Avoid responsibility"
       ],
       "answer": 0,
-      "explanation": "Present perfect commonly shifts to past perfect in reported speech."
+      "explanation": "Service recovery aims to: The first option is correct because it reflects the relevant principle or standard."
+    },
+    {
+      "id": "q11555",
+      "category": "Customer Care",
+      "question": "Customer Care 05: Which question clarifies a customer's need?",
+      "options": [
+        "What outcome are you hoping for?",
+        "Why are you confused?",
+        "Do you always complain?",
+        "Can you stop asking?"
+      ],
+      "answer": 0,
+      "explanation": "Which question clarifies a customer's need? The first option is correct because it reflects the relevant principle or standard."
+    },
+    {
+      "id": "q11556",
+      "category": "Customer Care",
+      "question": "Customer Care 06: A request should be prioritised by:",
+      "options": [
+        "Urgency, impact and policy",
+        "Who shouts loudest",
+        "Personal preference",
+        "Appearance"
+      ],
+      "answer": 0,
+      "explanation": "A request should be prioritised by: The first option is correct because it reflects the relevant principle or standard."
+    },
+    {
+      "id": "q11557",
+      "category": "Customer Care",
+      "question": "Customer Care 07: Accessible service should:",
+      "options": [
+        "Consider people with different abilities",
+        "Assume all needs are identical",
+        "Create barriers",
+        "Refuse reasonable help"
+      ],
+      "answer": 0,
+      "explanation": "Accessible service should: The first option is correct because it reflects the relevant principle or standard."
+    },
+    {
+      "id": "q11558",
+      "category": "Customer Care",
+      "question": "Customer Care 08: A procedure should be explained using:",
+      "options": [
+        "Plain language",
+        "More jargon",
+        "Mockery",
+        "Silence"
+      ],
+      "answer": 0,
+      "explanation": "A procedure should be explained using: The first option is correct because it reflects the relevant principle or standard."
+    },
+    {
+      "id": "q11559",
+      "category": "Customer Care",
+      "question": "Customer Care 09: A satisfaction survey collects:",
+      "options": [
+        "Feedback about service experience",
+        "Passwords",
+        "Automatic praise",
+        "Staff medical details"
+      ],
+      "answer": 0,
+      "explanation": "A satisfaction survey collects: The first option is correct because it reflects the relevant principle or standard."
+    },
+    {
+      "id": "q11560",
+      "category": "Customer Care",
+      "question": "Customer Care 10: A recurring complaint trend may indicate:",
+      "options": [
+        "A problem needing investigation",
+        "All complaints are false",
+        "Records should be deleted",
+        "Staff should stop listening"
+      ],
+      "answer": 0,
+      "explanation": "A recurring complaint trend may indicate: The first option is correct because it reflects the relevant principle or standard."
     }
   ]
 }
