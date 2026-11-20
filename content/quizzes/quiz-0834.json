@@ -3,139 +3,139 @@
   "slug": "quiz-0834",
   "title": "English Practice Quiz 0834",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q034",
-      "category": "Articles",
-      "question": "He wants to become ___ engineer.",
+      "id": "q11631",
+      "category": "Customer Communication",
+      "question": "Customer Communication 01: An effective opening in a service conversation is:",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "Engineer begins with a vowel sound, so use an."
-    },
-    {
-      "id": "q051",
-      "category": "Conversation",
-      "question": "Someone says, 'Thank you for your help.' You reply:",
-      "options": [
-        "Never mind you.",
-        "You're welcome.",
-        "I am welcome you.",
-        "No thank."
-      ],
-      "answer": 1,
-      "explanation": "You're welcome is a natural response to thank you."
-    },
-    {
-      "id": "q068",
-      "category": "Workplace English",
-      "question": "You need to report a problem. You say:",
-      "options": [
-        "There is an issue with the printer.",
-        "Printer bad you.",
-        "I issue printer.",
-        "No printer yesterday."
+        "How may I assist you today?",
+        "What do you want now?",
+        "You are wasting time.",
+        "Come back later."
       ],
       "answer": 0,
-      "explanation": "There is an issue with... clearly introduces a problem."
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q085",
-      "category": "Confusing Words",
-      "question": "The bus is ___ than the car today.",
+      "id": "q11632",
+      "category": "Customer Communication",
+      "question": "Customer Communication 02: A customer repeats a concern. You should:",
       "options": [
-        "fast",
-        "faster",
-        "fastest",
-        "more fast"
-      ],
-      "answer": 1,
-      "explanation": "Use the comparative form faster when comparing two things."
-    },
-    {
-      "id": "q102",
-      "category": "Determiners",
-      "question": "How ___ apples do you need?",
-      "options": [
-        "much",
-        "many",
-        "little",
-        "any"
-      ],
-      "answer": 1,
-      "explanation": "Apples are countable plural nouns, so use many."
-    },
-    {
-      "id": "q004",
-      "category": "Grammar",
-      "question": "There ___ two chairs in the room.",
-      "options": [
-        "is",
-        "are",
-        "am",
-        "was"
-      ],
-      "answer": 1,
-      "explanation": "Use are with the plural noun chairs."
-    },
-    {
-      "id": "q021",
-      "category": "Vocabulary",
-      "question": "A person who repairs water pipes is a ___.",
-      "options": [
-        "carpenter",
-        "plumber",
-        "tailor",
-        "baker"
-      ],
-      "answer": 1,
-      "explanation": "A plumber installs and repairs water pipes and fittings."
-    },
-    {
-      "id": "q038",
-      "category": "Prepositions",
-      "question": "We have a meeting ___ Monday.",
-      "options": [
-        "in",
-        "at",
-        "on",
-        "by"
-      ],
-      "answer": 2,
-      "explanation": "Use on with days and dates."
-    },
-    {
-      "id": "q055",
-      "category": "Conversation",
-      "question": "A colleague asks for help. A polite reply is:",
-      "options": [
-        "Certainly. What do you need?",
-        "Never ask me.",
-        "You do yourself.",
-        "No speaking."
+        "Acknowledge it and clarify what remains unresolved",
+        "Interrupt repeatedly",
+        "Dismiss it",
+        "Change the subject"
       ],
       "answer": 0,
-      "explanation": "Certainly. What do you need? is helpful and polite."
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q072",
-      "category": "Questions",
-      "question": "Which question asks about time?",
+      "id": "q11633",
+      "category": "Customer Communication",
+      "question": "Customer Communication 03: An apology should:",
       "options": [
-        "Who is calling?",
-        "When does the train leave?",
-        "Where is the station?",
-        "Why are you here?"
+        "Acknowledge inconvenience without false promises",
+        "Blame the customer",
+        "Avoid the issue",
+        "Guarantee impossible results"
       ],
-      "answer": 1,
-      "explanation": "When asks about time."
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11634",
+      "category": "Customer Communication",
+      "question": "Customer Communication 04: A service update is useful when it:",
+      "options": [
+        "Explains progress and the next expected step",
+        "Repeats vague assurances",
+        "Hides delays",
+        "Uses unexplained jargon"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11635",
+      "category": "Customer Communication",
+      "question": "Customer Communication 05: If a customer requests something outside policy, you should:",
+      "options": [
+        "Explain the limit and offer an allowed alternative",
+        "Agree secretly",
+        "Invent an exception",
+        "Argue personally"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11636",
+      "category": "Customer Communication",
+      "question": "Customer Communication 06: Active listening includes:",
+      "options": [
+        "Paying attention and checking understanding",
+        "Ignoring the speaker",
+        "Interrupting",
+        "Changing topics"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11637",
+      "category": "Customer Communication",
+      "question": "Customer Communication 07: A customer complaint should be recorded:",
+      "options": [
+        "Accurately using the approved process",
+        "Only if customer is popular",
+        "With personal opinions",
+        "In a public chat"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11638",
+      "category": "Customer Communication",
+      "question": "Customer Communication 08: Which phrase is most courteous?",
+      "options": [
+        "Thank you for bringing this to our attention.",
+        "That is your problem.",
+        "You should know better.",
+        "Stop asking."
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11639",
+      "category": "Customer Communication",
+      "question": "Customer Communication 09: You lack a requested update. You should:",
+      "options": [
+        "Verify the status and follow up",
+        "Invent a status",
+        "Ignore the request",
+        "Promise immediate completion"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11640",
+      "category": "Customer Communication",
+      "question": "Customer Communication 10: A service interaction is complete when:",
+      "options": [
+        "The agreed action is completed or properly handed over",
+        "The conversation becomes difficult",
+        "The customer stops speaking",
+        "The shift ends"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
     }
   ]
 }
