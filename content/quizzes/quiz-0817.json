@@ -3,139 +3,139 @@
   "slug": "quiz-0817",
   "title": "English Practice Quiz 0817",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q090",
-      "category": "Conditionals",
-      "question": "If I were you, I ___ apologise.",
+      "id": "q11861",
+      "category": "Office Technology",
+      "question": "Office Technology 01: A spreadsheet cell is:",
       "options": [
-        "will",
-        "would",
-        "am",
-        "did"
+        "The intersection of a row and a column",
+        "A complete workbook only",
+        "A printer setting",
+        "A file password"
       ],
-      "answer": 1,
-      "explanation": "If I were you is followed by would for advice."
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q004",
-      "category": "Grammar",
-      "question": "There ___ two chairs in the room.",
+      "id": "q11862",
+      "category": "Office Technology",
+      "question": "Office Technology 02: A PDF is commonly used to:",
       "options": [
-        "is",
-        "are",
-        "am",
-        "was"
+        "Share documents while preserving layout",
+        "Run a vehicle engine",
+        "Store only audio",
+        "Replace databases"
       ],
-      "answer": 1,
-      "explanation": "Use are with the plural noun chairs."
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q033",
-      "category": "Articles",
-      "question": "Please close ___ door.",
+      "id": "q11863",
+      "category": "Office Technology",
+      "question": "Office Technology 03: A strong password should not be:",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
+        "Reused across important accounts",
+        "Long",
+        "Unique",
+        "Difficult to guess"
       ],
-      "answer": 2,
-      "explanation": "The refers to a specific door known to the speaker and listener."
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q062",
-      "category": "Reading",
-      "question": "Read: 'The shop closes at 9 p.m., but it opens at 10 a.m.' When does it open?",
+      "id": "q11864",
+      "category": "Office Technology",
+      "question": "Office Technology 04: A phishing message often attempts to:",
       "options": [
-        "9 a.m.",
-        "10 a.m.",
-        "9 p.m.",
-        "10 p.m."
+        "Trick users into revealing information or opening harmful links",
+        "Improve office lighting",
+        "Schedule a meeting",
+        "Repair a computer"
       ],
-      "answer": 1,
-      "explanation": "The opening time given is 10 a.m."
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q091",
-      "category": "Passive Voice",
-      "question": "Choose the passive form: 'They clean the room.'",
+      "id": "q11865",
+      "category": "Office Technology",
+      "question": "Office Technology 05: A file backup helps:",
       "options": [
-        "The room cleaned them.",
-        "The room is cleaned by them.",
-        "The room is cleaning.",
-        "The room has clean."
+        "Recover information after loss or damage",
+        "Increase brightness",
+        "Change an author's name",
+        "Approve payment"
       ],
-      "answer": 1,
-      "explanation": "Present simple passive: am/is/are + past participle."
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q005",
-      "category": "Grammar",
-      "question": "Choose the correct sentence.",
+      "id": "q11866",
+      "category": "Office Technology",
+      "question": "Office Technology 06: A spreadsheet filter is used to:",
       "options": [
-        "She don't like tea.",
-        "She doesn't likes tea.",
-        "She doesn't like tea.",
-        "She not like tea."
+        "Display rows matching selected criteria",
+        "Delete every row",
+        "Encrypt a computer",
+        "Change an operating system"
       ],
-      "answer": 2,
-      "explanation": "After doesn't, use the base form of the verb: like."
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q034",
-      "category": "Articles",
-      "question": "He wants to become ___ engineer.",
+      "id": "q11867",
+      "category": "Office Technology",
+      "question": "Office Technology 07: Before sharing a cloud document, check:",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
+        "Access permissions and recipient list",
+        "Only its icon",
+        "Wallpaper",
+        "Font colour"
       ],
-      "answer": 1,
-      "explanation": "Engineer begins with a vowel sound, so use an."
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q063",
-      "category": "Reading",
-      "question": "Read: 'Ravi practises English for twenty minutes every evening.' How long does he practise?",
+      "id": "q11868",
+      "category": "Office Technology",
+      "question": "Office Technology 08: A database record represents:",
       "options": [
-        "Ten minutes",
-        "Twenty minutes",
-        "Thirty minutes",
-        "One hour"
+        "Related fields about one item or entity",
+        "A monitor",
+        "An envelope",
+        "A keyboard shortcut"
       ],
-      "answer": 1,
-      "explanation": "The passage states twenty minutes."
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q092",
-      "category": "Passive Voice",
-      "question": "Choose the passive form: 'The manager signed the letter.'",
+      "id": "q11869",
+      "category": "Office Technology",
+      "question": "Office Technology 09: Two-factor authentication adds:",
       "options": [
-        "The letter is signed.",
-        "The letter was signed by the manager.",
-        "The letter signed the manager.",
-        "The letter has sign."
+        "An additional verification step",
+        "A second username for everyone",
+        "An automatic backup",
+        "A public link"
       ],
-      "answer": 1,
-      "explanation": "Past simple passive: was/were + past participle."
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q006",
-      "category": "Grammar",
-      "question": "He is ___ honest man.",
+      "id": "q11870",
+      "category": "Office Technology",
+      "question": "Office Technology 10: A suspicious attachment should be:",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
+        "Verified before opening and reported if unsafe",
+        "Opened to see what happens",
+        "Forwarded to all colleagues",
+        "Executed after renaming"
       ],
-      "answer": 1,
-      "explanation": "Use an before a vowel sound. Honest begins with a silent h."
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     }
   ]
 }
