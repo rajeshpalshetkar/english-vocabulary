@@ -3,139 +3,139 @@
   "slug": "quiz-0858",
   "title": "English Practice Quiz 0858",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q097",
-      "category": "Reported Speech",
-      "question": "She said, 'I can swim.'",
+      "id": "q11471",
+      "category": "Advanced Vocabulary",
+      "question": "Advanced Vocabulary: What does meticulous describe?",
       "options": [
-        "She said she can swam.",
-        "She said that she could swim.",
-        "She said she swims can.",
-        "She told that could swim."
-      ],
-      "answer": 1,
-      "explanation": "Can commonly changes to could in reported speech after a past reporting verb."
-    },
-    {
-      "id": "q013",
-      "category": "Tenses",
-      "question": "At 8 p.m. yesterday, I ___ dinner.",
-      "options": [
-        "cook",
-        "cooked",
-        "was cooking",
-        "am cooking"
-      ],
-      "answer": 2,
-      "explanation": "Use the past continuous for an action in progress at a specific past time."
-    },
-    {
-      "id": "q044",
-      "category": "Modals",
-      "question": "You look tired. You ___ get some rest.",
-      "options": [
-        "should",
-        "mustn't",
-        "can't",
-        "wouldn't"
+        "Very careful about details",
+        "Frequently late",
+        "Unwilling to learn",
+        "Easily distracted"
       ],
       "answer": 0,
-      "explanation": "Should gives advice."
+      "explanation": "Meticulous means showing great attention to detail."
     },
     {
-      "id": "q075",
-      "category": "Questions",
-      "question": "Choose the correct question tag: 'You are ready, ___?'",
+      "id": "q11472",
+      "category": "Advanced Vocabulary",
+      "question": "Advanced Vocabulary: What does feasible mean?",
       "options": [
-        "are you",
-        "aren't you",
-        "do you",
-        "don't you"
-      ],
-      "answer": 1,
-      "explanation": "A positive statement with are usually takes the negative tag aren't you."
-    },
-    {
-      "id": "q106",
-      "category": "Adjectives",
-      "question": "The test was ___ than I expected.",
-      "options": [
-        "easy",
-        "easier",
-        "easiest",
-        "more easy"
-      ],
-      "answer": 1,
-      "explanation": "Use the comparative form easier."
-    },
-    {
-      "id": "q022",
-      "category": "Vocabulary",
-      "question": "Choose the opposite of 'polite'.",
-      "options": [
-        "kind",
-        "rude",
-        "helpful",
-        "calm"
-      ],
-      "answer": 1,
-      "explanation": "Rude is the opposite of polite."
-    },
-    {
-      "id": "q053",
-      "category": "Conversation",
-      "question": "A visitor asks, 'Where is reception?' You say:",
-      "options": [
-        "It is near the main entrance.",
-        "I am reception.",
-        "Yesterday at home.",
-        "No, it isn't."
+        "Practical and possible to carry out",
+        "Impossible to explain",
+        "Already cancelled",
+        "Entirely unrelated"
       ],
       "answer": 0,
-      "explanation": "Give a clear location using a complete sentence."
+      "explanation": "Feasible means capable of being done."
     },
     {
-      "id": "q084",
-      "category": "Confusing Words",
-      "question": "I have ___ my keys.",
+      "id": "q11473",
+      "category": "Advanced Vocabulary",
+      "question": "Advanced Vocabulary: What does concise mean?",
       "options": [
-        "loose",
-        "lose",
-        "lost",
-        "loss"
+        "Brief but clear",
+        "Long and repetitive",
+        "Deliberately confusing",
+        "Unsupported"
       ],
-      "answer": 2,
-      "explanation": "Lost is the past participle of lose."
+      "answer": 0,
+      "explanation": "Concise writing expresses ideas briefly and clearly."
     },
     {
-      "id": "q115",
-      "category": "Gerunds",
-      "question": "I want ___ English fluently.",
+      "id": "q11474",
+      "category": "Advanced Vocabulary",
+      "question": "Advanced Vocabulary: What does mitigate mean?",
       "options": [
-        "speak",
-        "speaking",
-        "to speak",
-        "spoke"
+        "Reduce likelihood or impact",
+        "Make unavoidable",
+        "Ignore existence",
+        "Transfer every record"
       ],
-      "answer": 2,
-      "explanation": "Want is followed by a to-infinitive."
+      "answer": 0,
+      "explanation": "Mitigate means make something less severe."
     },
     {
-      "id": "q031",
-      "category": "Articles",
-      "question": "I saw ___ elephant at the zoo.",
+      "id": "q11475",
+      "category": "Advanced Vocabulary",
+      "question": "Advanced Vocabulary: What does provisional mean?",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
+        "Temporary and subject to confirmation",
+        "Permanent and final",
+        "Already withdrawn",
+        "Unrelated"
       ],
-      "answer": 1,
-      "explanation": "Use an before a vowel sound."
+      "answer": 0,
+      "explanation": "Provisional means arranged for now but not final."
+    },
+    {
+      "id": "q11476",
+      "category": "Advanced Vocabulary",
+      "question": "Advanced Vocabulary: What does compelling mean?",
+      "options": [
+        "Convincing and persuasive",
+        "Irrelevant",
+        "Difficult to read",
+        "Entirely speculative"
+      ],
+      "answer": 0,
+      "explanation": "Compelling evidence strongly persuades."
+    },
+    {
+      "id": "q11477",
+      "category": "Advanced Vocabulary",
+      "question": "Advanced Vocabulary: What is a discrepancy?",
+      "options": [
+        "A difference or inconsistency",
+        "A formal greeting",
+        "A confirmed agreement",
+        "A celebration"
+      ],
+      "answer": 0,
+      "explanation": "A discrepancy is a mismatch or inconsistency."
+    },
+    {
+      "id": "q11478",
+      "category": "Advanced Vocabulary",
+      "question": "Advanced Vocabulary: What does scrutinise mean?",
+      "options": [
+        "Examine very carefully",
+        "Destroy",
+        "Approve without reading",
+        "Translate automatically"
+      ],
+      "answer": 0,
+      "explanation": "Scrutinise means inspect closely."
+    },
+    {
+      "id": "q11479",
+      "category": "Advanced Vocabulary",
+      "question": "Advanced Vocabulary: What does redundant mean?",
+      "options": [
+        "No longer necessary or useful",
+        "Essential to every task",
+        "Newly introduced",
+        "Legally confidential"
+      ],
+      "answer": 0,
+      "explanation": "Redundant means unnecessary because it is no longer needed."
+    },
+    {
+      "id": "q11480",
+      "category": "Advanced Vocabulary",
+      "question": "Advanced Vocabulary: What does impartial mean?",
+      "options": [
+        "Fair and not favouring either side",
+        "Personally involved",
+        "Always critical",
+        "Unwilling to listen"
+      ],
+      "answer": 0,
+      "explanation": "Impartial means unbiased."
     }
   ]
 }
