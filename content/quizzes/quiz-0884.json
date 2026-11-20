@@ -3,139 +3,139 @@
   "slug": "quiz-0884",
   "title": "English Practice Quiz 0884",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q079",
-      "category": "Punctuation",
-      "question": "Which is a complete sentence?",
+      "id": "q11131",
+      "category": "Data Protection",
+      "question": "Personal data should be shared only when:",
       "options": [
-        "Because it was raining.",
-        "After the meeting.",
-        "The team finished the work.",
-        "When I arrived."
-      ],
-      "answer": 2,
-      "explanation": "The team finished the work contains a subject and a complete predicate."
-    },
-    {
-      "id": "q096",
-      "category": "Reported Speech",
-      "question": "He said, 'I am tired.' Reported speech:",
-      "options": [
-        "He said that he was tired.",
-        "He said I am tired.",
-        "He says that I tired.",
-        "He said he is tire."
-      ],
-      "answer": 0,
-      "explanation": "In standard backshift, am changes to was after a past reporting verb."
-    },
-    {
-      "id": "q113",
-      "category": "Gerunds",
-      "question": "She is good at ___.",
-      "options": [
-        "swim",
-        "to swim",
-        "swimming",
-        "swam"
-      ],
-      "answer": 2,
-      "explanation": "A preposition such as at is followed by a noun or gerund."
-    },
-    {
-      "id": "q015",
-      "category": "Tenses",
-      "question": "She ___ the report before the manager arrived.",
-      "options": [
-        "finished",
-        "has finished",
-        "had finished",
-        "finishes"
-      ],
-      "answer": 2,
-      "explanation": "Use the past perfect for an action completed before another past action."
-    },
-    {
-      "id": "q032",
-      "category": "Articles",
-      "question": "She is ___ university student.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 0,
-      "explanation": "University begins with the consonant sound /y/, so use a."
-    },
-    {
-      "id": "q049",
-      "category": "Sentence Building",
-      "question": "Choose the correct plural of 'child'.",
-      "options": [
-        "childs",
-        "childes",
-        "children",
-        "childrens"
-      ],
-      "answer": 2,
-      "explanation": "Children is the irregular plural of child."
-    },
-    {
-      "id": "q066",
-      "category": "Workplace English",
-      "question": "A professional way to ask for a file is:",
-      "options": [
-        "Give file now.",
-        "Could you please share the file?",
-        "File give me.",
-        "You must file."
+        "any colleague asks",
+        "there is a legitimate authorised reason",
+        "it seems interesting",
+        "a visitor requests it"
       ],
       "answer": 1,
-      "explanation": "Could you please is a polite and professional request."
+      "explanation": "Access and sharing require a legitimate authorised purpose."
     },
     {
-      "id": "q083",
-      "category": "Confusing Words",
-      "question": "Please ___ the correct answer.",
+      "id": "q11132",
+      "category": "Data Protection",
+      "question": "A strong password should be:",
       "options": [
-        "choose",
-        "chose",
-        "choice",
-        "chosen"
+        "your name and birth year",
+        "unique and difficult to guess",
+        "12345678",
+        "the same on every account"
+      ],
+      "answer": 1,
+      "explanation": "Unique complex passwords reduce the impact of account compromise."
+    },
+    {
+      "id": "q11133",
+      "category": "Data Protection",
+      "question": "You receive an unexpected link asking for login details. This may be:",
+      "options": [
+        "phishing",
+        "a routine greeting",
+        "a printer update",
+        "a harmless signature"
       ],
       "answer": 0,
-      "explanation": "Choose is the base verb used after please."
+      "explanation": "Phishing attempts to trick users into revealing sensitive information."
     },
     {
-      "id": "q100",
-      "category": "Reported Speech",
-      "question": "They said, 'We have finished.'",
+      "id": "q11134",
+      "category": "Data Protection",
+      "question": "What should you do before sending a file containing personal details?",
       "options": [
-        "They said they had finished.",
-        "They said they have finish.",
-        "They told finished.",
-        "They said we finished have."
+        "check the recipient and permission",
+        "forward it to everyone",
+        "remove the subject line",
+        "upload it publicly"
       ],
       "answer": 0,
-      "explanation": "Present perfect commonly shifts to past perfect in reported speech."
+      "explanation": "Verify the recipient and authorisation before sharing sensitive data."
     },
     {
-      "id": "q002",
-      "category": "Grammar",
-      "question": "They ___ ready for the meeting.",
+      "id": "q11135",
+      "category": "Data Protection",
+      "question": "A screen containing confidential records should be:",
       "options": [
-        "is",
-        "am",
-        "are",
-        "be"
+        "left visible to visitors",
+        "locked when unattended",
+        "photographed for convenience",
+        "shared on a public display"
       ],
-      "answer": 2,
-      "explanation": "Use are with the plural subject they."
+      "answer": 1,
+      "explanation": "Locking the screen prevents unauthorised viewing."
+    },
+    {
+      "id": "q11136",
+      "category": "Data Protection",
+      "question": "'Data breach' refers to:",
+      "options": [
+        "an authorised backup",
+        "unauthorised access, disclosure or loss of data",
+        "routine filing",
+        "a software tutorial"
+      ],
+      "answer": 1,
+      "explanation": "A breach involves compromise of protected information."
+    },
+    {
+      "id": "q11137",
+      "category": "Data Protection",
+      "question": "Which is the safest response to a suspected phishing email?",
+      "options": [
+        "click to test it",
+        "report it through the approved channel",
+        "forward it to friends",
+        "reply with your password"
+      ],
+      "answer": 1,
+      "explanation": "Reporting allows the organisation to investigate safely."
+    },
+    {
+      "id": "q11138",
+      "category": "Data Protection",
+      "question": "You should dispose of confidential printed records by:",
+      "options": [
+        "putting them in an open bin",
+        "using the approved secure disposal method",
+        "leaving them at reception",
+        "taking them home"
+      ],
+      "answer": 1,
+      "explanation": "Secure disposal prevents unauthorised recovery of information."
+    },
+    {
+      "id": "q11139",
+      "category": "Data Protection",
+      "question": "The principle of least privilege means users receive:",
+      "options": [
+        "access to everything",
+        "only the access needed for their duties",
+        "permanent administrator rights",
+        "shared passwords"
+      ],
+      "answer": 1,
+      "explanation": "Least privilege limits access to what is necessary for a role."
+    },
+    {
+      "id": "q11140",
+      "category": "Data Protection",
+      "question": "If a document is sent to the wrong recipient, you should:",
+      "options": [
+        "conceal the mistake",
+        "report it promptly under procedure",
+        "delete your sent folder only",
+        "wait for a complaint"
+      ],
+      "answer": 1,
+      "explanation": "Prompt reporting enables the organisation to contain a possible breach."
     }
   ]
 }
