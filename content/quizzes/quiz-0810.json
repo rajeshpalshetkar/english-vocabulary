@@ -3,139 +3,139 @@
   "slug": "quiz-0810",
   "title": "English Practice Quiz 0810",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q086",
-      "category": "Conditionals",
-      "question": "If it rains, we ___ indoors.",
+      "id": "q11991",
+      "category": "Business and Financial Basics",
+      "question": "Business and Financial Basics 01: Cash flow describes:",
       "options": [
-        "stay",
-        "will stay",
-        "stayed",
-        "would stayed"
-      ],
-      "answer": 1,
-      "explanation": "The first conditional uses if + present simple, will + base verb."
-    },
-    {
-      "id": "q093",
-      "category": "Passive Voice",
-      "question": "The work ___ tomorrow.",
-      "options": [
-        "will complete",
-        "will be completed",
-        "completed",
-        "is completing"
-      ],
-      "answer": 1,
-      "explanation": "Future passive uses will be + past participle."
-    },
-    {
-      "id": "q100",
-      "category": "Reported Speech",
-      "question": "They said, 'We have finished.'",
-      "options": [
-        "They said they had finished.",
-        "They said they have finish.",
-        "They told finished.",
-        "They said we finished have."
+        "Money moving into and out of an organisation",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
       ],
       "answer": 0,
-      "explanation": "Present perfect commonly shifts to past perfect in reported speech."
+      "explanation": "Option A is correct: Money moving into and out of an organisation. This is the appropriate professional practice or standard English usage."
     },
     {
-      "id": "q107",
-      "category": "Adjectives",
-      "question": "She is the ___ student in the class.",
+      "id": "q11992",
+      "category": "Business and Financial Basics",
+      "question": "Business and Financial Basics 02: A balance sheet reports:",
       "options": [
-        "tall",
-        "taller",
-        "tallest",
-        "more tall"
-      ],
-      "answer": 2,
-      "explanation": "Use the superlative tallest when comparing one with the whole class."
-    },
-    {
-      "id": "q114",
-      "category": "Gerunds",
-      "question": "They finished ___ the room.",
-      "options": [
-        "clean",
-        "to clean",
-        "cleaning",
-        "cleaned"
-      ],
-      "answer": 2,
-      "explanation": "Finish is followed by a gerund."
-    },
-    {
-      "id": "q006",
-      "category": "Grammar",
-      "question": "He is ___ honest man.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "Use an before a vowel sound. Honest begins with a silent h."
-    },
-    {
-      "id": "q013",
-      "category": "Tenses",
-      "question": "At 8 p.m. yesterday, I ___ dinner.",
-      "options": [
-        "cook",
-        "cooked",
-        "was cooking",
-        "am cooking"
-      ],
-      "answer": 2,
-      "explanation": "Use the past continuous for an action in progress at a specific past time."
-    },
-    {
-      "id": "q020",
-      "category": "Tenses",
-      "question": "By next June, he ___ the course.",
-      "options": [
-        "completes",
-        "completed",
-        "will have completed",
-        "has complete"
-      ],
-      "answer": 2,
-      "explanation": "The future perfect describes an action completed before a future time."
-    },
-    {
-      "id": "q027",
-      "category": "Vocabulary",
-      "question": "Choose the correct word: Please ___ the details.",
-      "options": [
-        "confirm",
-        "crowded",
-        "repairing",
-        "hungry"
+        "Assets, liabilities and equity at a point in time",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
       ],
       "answer": 0,
-      "explanation": "Confirm means to check or establish that something is correct."
+      "explanation": "Option A is correct: Assets, liabilities and equity at a point in time. This is the appropriate professional practice or standard English usage."
     },
     {
-      "id": "q034",
-      "category": "Articles",
-      "question": "He wants to become ___ engineer.",
+      "id": "q11993",
+      "category": "Business and Financial Basics",
+      "question": "Business and Financial Basics 03: An operating expense is:",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
+        "A cost incurred in day-to-day business operations",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
       ],
-      "answer": 1,
-      "explanation": "Engineer begins with a vowel sound, so use an."
+      "answer": 0,
+      "explanation": "Option A is correct: A cost incurred in day-to-day business operations. This is the appropriate professional practice or standard English usage."
+    },
+    {
+      "id": "q11994",
+      "category": "Business and Financial Basics",
+      "question": "Business and Financial Basics 04: Gross profit is calculated as:",
+      "options": [
+        "Revenue minus cost of goods sold",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: Revenue minus cost of goods sold. This is the appropriate professional practice or standard English usage."
+    },
+    {
+      "id": "q11995",
+      "category": "Business and Financial Basics",
+      "question": "Business and Financial Basics 05: A financial forecast is:",
+      "options": [
+        "An estimate of future results based on assumptions",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: An estimate of future results based on assumptions. This is the appropriate professional practice or standard English usage."
+    },
+    {
+      "id": "q11996",
+      "category": "Business and Financial Basics",
+      "question": "Business and Financial Basics 06: A credit note is commonly issued to:",
+      "options": [
+        "Reduce or adjust an amount previously invoiced",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: Reduce or adjust an amount previously invoiced. This is the appropriate professional practice or standard English usage."
+    },
+    {
+      "id": "q11997",
+      "category": "Business and Financial Basics",
+      "question": "Business and Financial Basics 07: An asset is:",
+      "options": [
+        "A resource controlled by an organisation with economic value",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: A resource controlled by an organisation with economic value. This is the appropriate professional practice or standard English usage."
+    },
+    {
+      "id": "q11998",
+      "category": "Business and Financial Basics",
+      "question": "Business and Financial Basics 08: A liability is:",
+      "options": [
+        "An obligation the organisation is required to settle",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: An obligation the organisation is required to settle. This is the appropriate professional practice or standard English usage."
+    },
+    {
+      "id": "q11999",
+      "category": "Business and Financial Basics",
+      "question": "Business and Financial Basics 09: A break-even point occurs when:",
+      "options": [
+        "Total revenue equals total costs",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: Total revenue equals total costs. This is the appropriate professional practice or standard English usage."
+    },
+    {
+      "id": "q12000",
+      "category": "Business and Financial Basics",
+      "question": "Business and Financial Basics 10: Variance analysis is used to:",
+      "options": [
+        "Understand differences between planned and actual results",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: Understand differences between planned and actual results. This is the appropriate professional practice or standard English usage."
     }
   ]
 }
