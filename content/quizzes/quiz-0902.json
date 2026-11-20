@@ -3,139 +3,139 @@
   "slug": "quiz-0902",
   "title": "English Practice Quiz 0902",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q040",
-      "category": "Prepositions",
-      "question": "The hospital is ___ the bank and the post office.",
+      "id": "q10911",
+      "category": "Office Administration",
+      "question": "A filing system helps an office ___.",
       "options": [
-        "among",
-        "between",
-        "inside",
-        "over"
+        "increase paper waste",
+        "organise and retrieve documents efficiently",
+        "avoid record keeping",
+        "replace every approval"
       ],
       "answer": 1,
-      "explanation": "Between is used for a position separating two things."
+      "explanation": "organise and retrieve documents efficiently is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q051",
-      "category": "Conversation",
-      "question": "Someone says, 'Thank you for your help.' You reply:",
+      "id": "q10912",
+      "category": "Office Administration",
+      "question": "An incoming mail register records ___.",
       "options": [
-        "Never mind you.",
-        "You're welcome.",
-        "I am welcome you.",
-        "No thank."
-      ],
-      "answer": 1,
-      "explanation": "You're welcome is a natural response to thank you."
-    },
-    {
-      "id": "q062",
-      "category": "Reading",
-      "question": "Read: 'The shop closes at 9 p.m., but it opens at 10 a.m.' When does it open?",
-      "options": [
-        "9 a.m.",
-        "10 a.m.",
-        "9 p.m.",
-        "10 p.m."
-      ],
-      "answer": 1,
-      "explanation": "The opening time given is 10 a.m."
-    },
-    {
-      "id": "q073",
-      "category": "Questions",
-      "question": "Choose the correct question.",
-      "options": [
-        "Does she work here?",
-        "Do she work here?",
-        "Is she works here?",
-        "Does she works here?"
+        "details of correspondence received",
+        "staff lunch choices",
+        "visitor opinions only",
+        "office decoration"
       ],
       "answer": 0,
-      "explanation": "Use does + subject + base verb with he, she or it."
+      "explanation": "details of correspondence received is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q084",
-      "category": "Confusing Words",
-      "question": "I have ___ my keys.",
+      "id": "q10913",
+      "category": "Office Administration",
+      "question": "A document marked 'draft' is generally ___.",
       "options": [
-        "loose",
-        "lose",
-        "lost",
-        "loss"
+        "already legally approved",
+        "ready for disposal",
+        "a payment receipt",
+        "not yet the final approved version"
+      ],
+      "answer": 3,
+      "explanation": "not yet the final approved version is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q10914",
+      "category": "Office Administration",
+      "question": "A reference number on correspondence helps ___.",
+      "options": [
+        "change its contents automatically",
+        "replace the sender's name",
+        "identify and track the document",
+        "hide its date"
       ],
       "answer": 2,
-      "explanation": "Lost is the past participle of lose."
+      "explanation": "identify and track the document is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q095",
-      "category": "Passive Voice",
-      "question": "The windows ___ every week.",
+      "id": "q10915",
+      "category": "Office Administration",
+      "question": "Before archiving a record, staff should check ___.",
       "options": [
-        "are cleaned",
-        "clean",
-        "is cleaned",
-        "cleaning"
+        "paper colour",
+        "the retention and classification procedure",
+        "writer's age",
+        "weather"
+      ],
+      "answer": 1,
+      "explanation": "the retention and classification procedure is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q10916",
+      "category": "Office Administration",
+      "question": "A circular is commonly used to ___.",
+      "options": [
+        "communicate the same information to a group",
+        "record one private payment",
+        "replace a contract",
+        "measure stock"
       ],
       "answer": 0,
-      "explanation": "Plural subject windows takes are + past participle."
+      "explanation": "communicate the same information to a group is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q106",
-      "category": "Adjectives",
-      "question": "The test was ___ than I expected.",
+      "id": "q10917",
+      "category": "Office Administration",
+      "question": "A duplicate document is ___.",
       "options": [
-        "easy",
-        "easier",
-        "easiest",
-        "more easy"
+        "a document with no date",
+        "a confidential password",
+        "a signed original only",
+        "an additional copy of an existing document"
       ],
-      "answer": 1,
-      "explanation": "Use the comparative form easier."
+      "answer": 3,
+      "explanation": "an additional copy of an existing document is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q002",
-      "category": "Grammar",
-      "question": "They ___ ready for the meeting.",
+      "id": "q10918",
+      "category": "Office Administration",
+      "question": "A dispatch register records correspondence ___.",
       "options": [
-        "is",
-        "am",
-        "are",
-        "be"
-      ],
-      "answer": 2,
-      "explanation": "Use are with the plural subject they."
-    },
-    {
-      "id": "q013",
-      "category": "Tenses",
-      "question": "At 8 p.m. yesterday, I ___ dinner.",
-      "options": [
-        "cook",
-        "cooked",
-        "was cooking",
-        "am cooking"
+        "received from visitors only",
+        "stored in a cupboard",
+        "sent out by the organisation",
+        "deleted from a computer"
       ],
       "answer": 2,
-      "explanation": "Use the past continuous for an action in progress at a specific past time."
+      "explanation": "sent out by the organisation is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q024",
-      "category": "Vocabulary",
-      "question": "If a task is 'urgent', it needs ___.",
+      "id": "q10919",
+      "category": "Office Administration",
+      "question": "Why withdraw obsolete forms?",
       "options": [
-        "no attention",
-        "quick attention",
-        "a holiday",
-        "a receipt"
+        "To increase confusion",
+        "To prevent staff from using outdated versions",
+        "To remove all records",
+        "To avoid staff training"
       ],
       "answer": 1,
-      "explanation": "Urgent means requiring immediate or prompt attention."
+      "explanation": "To prevent staff from using outdated versions is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q10920",
+      "category": "Office Administration",
+      "question": "Document control helps ensure staff use ___.",
+      "options": [
+        "the correct and current version",
+        "any version they find",
+        "unapproved copies",
+        "documents without titles"
+      ],
+      "answer": 0,
+      "explanation": "the correct and current version is the correct answer based on the meaning and context of the question."
     }
   ]
 }
