@@ -3,139 +3,139 @@
   "slug": "quiz-0988",
   "title": "English Practice Quiz 0988",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q007",
-      "category": "Grammar",
-      "question": "The keys are ___ the table.",
+      "id": "q10171",
+      "category": "Health and Wellbeing",
+      "question": "A balanced diet includes ___.",
       "options": [
-        "in",
-        "at",
-        "on",
-        "by"
-      ],
-      "answer": 2,
-      "explanation": "On describes something resting on a surface."
-    },
-    {
-      "id": "q038",
-      "category": "Prepositions",
-      "question": "We have a meeting ___ Monday.",
-      "options": [
-        "in",
-        "at",
-        "on",
-        "by"
-      ],
-      "answer": 2,
-      "explanation": "Use on with days and dates."
-    },
-    {
-      "id": "q069",
-      "category": "Workplace English",
-      "question": "A polite way to disagree is:",
-      "options": [
-        "You are totally wrong.",
-        "I see your point, but I have a different view.",
-        "No, stop.",
-        "That is stupid."
-      ],
-      "answer": 1,
-      "explanation": "This phrase acknowledges the other person before presenting a different view."
-    },
-    {
-      "id": "q100",
-      "category": "Reported Speech",
-      "question": "They said, 'We have finished.'",
-      "options": [
-        "They said they had finished.",
-        "They said they have finish.",
-        "They told finished.",
-        "They said we finished have."
+        "a variety of nutritious foods",
+        "only sugary drinks",
+        "one food every day",
+        "no water"
       ],
       "answer": 0,
-      "explanation": "Present perfect commonly shifts to past perfect in reported speech."
+      "explanation": "A balanced diet provides a range of nutrients."
     },
     {
-      "id": "q016",
-      "category": "Tenses",
-      "question": "Water ___ at 100°C at sea level.",
+      "id": "q10172",
+      "category": "Health and Wellbeing",
+      "question": "Regular physical activity can help ___.",
       "options": [
-        "boil",
-        "boils",
-        "is boiling",
-        "boiled"
-      ],
-      "answer": 1,
-      "explanation": "Use the present simple for general facts."
-    },
-    {
-      "id": "q047",
-      "category": "Sentence Building",
-      "question": "Choose the correct question.",
-      "options": [
-        "Where you live?",
-        "Where do you live?",
-        "Where does you live?",
-        "Where are live you?"
-      ],
-      "answer": 1,
-      "explanation": "Use do + subject + base verb for present simple questions with you."
-    },
-    {
-      "id": "q078",
-      "category": "Punctuation",
-      "question": "Choose the correct sentence.",
-      "options": [
-        "I like tea, coffee and milk.",
-        "I like tea coffee and milk",
-        "I like, tea coffee, and milk.",
-        "i like tea, coffee and milk"
+        "support general health",
+        "replace all sleep",
+        "remove the need for water",
+        "guarantee no illness"
       ],
       "answer": 0,
-      "explanation": "Use commas to separate items in a list and capitalise the first word."
+      "explanation": "Physical activity supports physical and mental wellbeing."
     },
     {
-      "id": "q109",
-      "category": "Adverbs",
-      "question": "She arrived ___.",
+      "id": "q10173",
+      "category": "Health and Wellbeing",
+      "question": "If someone feels dizzy, a sensible first step is to ___.",
       "options": [
-        "late",
-        "lately",
-        "latest",
-        "laterly"
+        "sit or lie down safely",
+        "run quickly",
+        "climb stairs",
+        "ignore every symptom"
       ],
       "answer": 0,
-      "explanation": "Late is the correct adverb meaning not on time."
+      "explanation": "Getting into a safe position can help prevent a fall."
     },
     {
-      "id": "q025",
-      "category": "Vocabulary",
-      "question": "A person you can trust is ___.",
+      "id": "q10174",
+      "category": "Health and Wellbeing",
+      "question": "Adequate sleep is important for ___.",
       "options": [
-        "reliable",
-        "careless",
-        "silent",
-        "narrow"
+        "recovery and concentration",
+        "avoiding all meals",
+        "replacing exercise entirely",
+        "increasing screen time"
       ],
       "answer": 0,
-      "explanation": "Reliable means dependable or trustworthy."
+      "explanation": "Sleep supports recovery, memory and attention."
     },
     {
-      "id": "q056",
-      "category": "Pronunciation",
-      "question": "Which word has a different beginning sound?",
+      "id": "q10175",
+      "category": "Health and Wellbeing",
+      "question": "A 'dehydrated' person has ___.",
       "options": [
-        "think",
-        "three",
-        "this",
-        "thank"
+        "lost more body fluid than they have taken in",
+        "eaten too much fibre",
+        "slept for too long",
+        "developed stronger eyesight"
       ],
-      "answer": 2,
-      "explanation": "This begins with the voiced /ð/ sound; the others begin with the unvoiced /θ/ sound."
+      "answer": 0,
+      "explanation": "Dehydration occurs when the body lacks sufficient fluid."
+    },
+    {
+      "id": "q10176",
+      "category": "Health and Wellbeing",
+      "question": "Which habit supports good hand hygiene?",
+      "options": [
+        "washing hands with soap and water",
+        "sharing used tissues",
+        "touching food with dirty hands",
+        "wiping hands on clothing only"
+      ],
+      "answer": 0,
+      "explanation": "Soap and water remove dirt and many germs."
+    },
+    {
+      "id": "q10177",
+      "category": "Health and Wellbeing",
+      "question": "A routine health check is intended to ___.",
+      "options": [
+        "monitor health and identify concerns",
+        "guarantee perfect health",
+        "replace emergency care",
+        "provide a diagnosis without assessment"
+      ],
+      "answer": 0,
+      "explanation": "Checks can help identify issues that need follow-up."
+    },
+    {
+      "id": "q10178",
+      "category": "Health and Wellbeing",
+      "question": "When using medicine, you should follow ___.",
+      "options": [
+        "the directions provided by a qualified professional or label",
+        "a stranger's social media comment",
+        "an old unrelated prescription",
+        "a guessed dose"
+      ],
+      "answer": 0,
+      "explanation": "Medicine should be used according to appropriate instructions."
+    },
+    {
+      "id": "q10179",
+      "category": "Health and Wellbeing",
+      "question": "A 'sedentary' lifestyle involves ___.",
+      "options": [
+        "a lot of sitting and little movement",
+        "daily long-distance running",
+        "regular swimming",
+        "frequent outdoor work"
+      ],
+      "answer": 0,
+      "explanation": "Sedentary describes a lifestyle with little physical activity."
+    },
+    {
+      "id": "q10180",
+      "category": "Health and Wellbeing",
+      "question": "If a health problem is severe or sudden, seek ___.",
+      "options": [
+        "appropriate urgent medical help",
+        "an online guess only",
+        "advice from an unrelated advert",
+        "no assistance"
+      ],
+      "answer": 0,
+      "explanation": "Severe or sudden symptoms need prompt professional assessment."
     }
   ]
 }
