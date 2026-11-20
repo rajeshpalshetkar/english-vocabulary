@@ -63,7 +63,22 @@ def main():
     def find_lesson(planned_title, planned_slug):
         found=lesson_map.get(planned_slug)
         if found: return planned_slug, found
-        return title_map.get(title_key(planned_title), (None, None))
+        found=title_map.get(title_key(planned_title))
+        if found: return found
+        # Catalogue titles are often shorter than editorial lesson titles
+        # (for example, "Asking for Directions" vs "Asking for Directions in English").
+        # Match only when all meaningful catalogue words occur in exactly one lesson slug.
+        stop={"a","an","and","the","in","on","at","for","of","to","your","you","with","about"}
+        wanted={w for w in re.findall(r"[a-z0-9]+", str(planned_title).lower()) if w not in stop}
+        if wanted:
+            candidates=[]
+            for candidate_slug, candidate in lesson_map.items():
+                words=set(re.findall(r"[a-z0-9]+", candidate_slug.lower()))
+                if wanted.issubset(words):
+                    candidates.append((candidate_slug,candidate))
+            if len(candidates)==1:
+                return candidates[0]
+        return (None, None)
 
     urls=[]
     for slug,a in lesson_map.items():
