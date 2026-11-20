@@ -3,139 +3,139 @@
   "slug": "quiz-0943",
   "title": "English Practice Quiz 0943",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q047",
-      "category": "Sentence Building",
-      "question": "Choose the correct question.",
+      "id": "q10521",
+      "category": "Telephone Skills",
+      "question": "When answering a business call, you should begin with ___.",
       "options": [
-        "Where you live?",
-        "Where do you live?",
-        "Where does you live?",
-        "Where are live you?"
-      ],
-      "answer": 1,
-      "explanation": "Use do + subject + base verb for present simple questions with you."
-    },
-    {
-      "id": "q060",
-      "category": "Pronunciation",
-      "question": "How many syllables are in 'computer'?",
-      "options": [
-        "one",
-        "two",
-        "three",
-        "four"
-      ],
-      "answer": 2,
-      "explanation": "Computer is commonly pronounced with three syllables: com-pu-ter."
-    },
-    {
-      "id": "q073",
-      "category": "Questions",
-      "question": "Choose the correct question.",
-      "options": [
-        "Does she work here?",
-        "Do she work here?",
-        "Is she works here?",
-        "Does she works here?"
+        "a polite greeting and your organisation or name",
+        "an argument",
+        "silence for a long time",
+        "a request for the caller's password"
       ],
       "answer": 0,
-      "explanation": "Use does + subject + base verb with he, she or it."
+      "explanation": "A greeting identifies the person or organisation and sets a professional tone."
     },
     {
-      "id": "q086",
-      "category": "Conditionals",
-      "question": "If it rains, we ___ indoors.",
+      "id": "q10522",
+      "category": "Telephone Skills",
+      "question": "If you need to place a caller on hold, you should ___.",
       "options": [
-        "stay",
-        "will stay",
-        "stayed",
-        "would stayed"
+        "ask permission and explain briefly",
+        "disconnect without warning",
+        "leave the phone unattended indefinitely",
+        "play loud music without notice"
       ],
-      "answer": 1,
-      "explanation": "The first conditional uses if + present simple, will + base verb."
+      "answer": 0,
+      "explanation": "Asking first is courteous and gives the caller a choice."
     },
     {
-      "id": "q099",
-      "category": "Reported Speech",
-      "question": "She said, 'Please sit down.'",
+      "id": "q10523",
+      "category": "Telephone Skills",
+      "question": "A caller's message should include the caller's name and ___.",
       "options": [
-        "She told me sit down.",
-        "She asked me to sit down.",
-        "She said me to sit.",
-        "She asked that I sat."
+        "a contact number and reason for calling",
+        "their online banking PIN",
+        "unrelated personal details",
+        "a guessed address"
       ],
-      "answer": 1,
-      "explanation": "A request can be reported with asked + object + to-infinitive."
+      "answer": 0,
+      "explanation": "These details help the intended recipient return the call."
     },
     {
-      "id": "q112",
-      "category": "Gerunds",
-      "question": "He decided ___ early.",
+      "id": "q10524",
+      "category": "Telephone Skills",
+      "question": "If a call is difficult to hear, you can say ___.",
       "options": [
-        "leave",
-        "leaving",
-        "to leave",
-        "leaves"
+        "Could you please repeat that?",
+        "Speak properly.",
+        "I will guess the rest.",
+        "Stop calling."
       ],
-      "answer": 2,
-      "explanation": "Decide is commonly followed by a to-infinitive."
+      "answer": 0,
+      "explanation": "This politely asks the caller to repeat the information."
     },
     {
-      "id": "q010",
-      "category": "Grammar",
-      "question": "You ___ wear your identity card at work.",
+      "id": "q10525",
+      "category": "Telephone Skills",
+      "question": "A call transfer should ideally be made after ___.",
       "options": [
-        "should to",
-        "should",
-        "are should",
-        "shoulds"
+        "explaining who will take the call",
+        "hanging up immediately",
+        "sharing the caller's details publicly",
+        "asking the caller to dial random numbers"
       ],
-      "answer": 1,
-      "explanation": "Modal verbs such as should are followed by the base verb without to."
+      "answer": 0,
+      "explanation": "A brief explanation makes the transfer smoother."
     },
     {
-      "id": "q023",
-      "category": "Vocabulary",
-      "question": "A synonym of 'begin' is ___.",
+      "id": "q10526",
+      "category": "Telephone Skills",
+      "question": "When taking an important phone message, it is useful to ___.",
       "options": [
-        "finish",
-        "start",
-        "stop",
-        "close"
+        "repeat key details to confirm accuracy",
+        "rely on memory only",
+        "leave out the caller's number",
+        "change the message to sound better"
       ],
-      "answer": 1,
-      "explanation": "Start has the same basic meaning as begin."
+      "answer": 0,
+      "explanation": "Repeating details helps prevent errors."
     },
     {
-      "id": "q036",
-      "category": "Prepositions",
-      "question": "The meeting starts ___ 9 a.m.",
+      "id": "q10527",
+      "category": "Telephone Skills",
+      "question": "If the intended person is unavailable, offer to ___.",
       "options": [
-        "in",
-        "on",
-        "at",
-        "by"
+        "take a message or suggest an appropriate time to call",
+        "share their private schedule with everyone",
+        "end the call rudely",
+        "promise an immediate response without checking"
       ],
-      "answer": 2,
-      "explanation": "Use at for a specific clock time."
+      "answer": 0,
+      "explanation": "Offering a message or callback option is helpful and respectful."
     },
     {
-      "id": "q049",
-      "category": "Sentence Building",
-      "question": "Choose the correct plural of 'child'.",
+      "id": "q10528",
+      "category": "Telephone Skills",
+      "question": "A voicemail greeting should be ___.",
       "options": [
-        "childs",
-        "childes",
-        "children",
-        "childrens"
+        "brief, clear and professional",
+        "very long and confusing",
+        "full of private information",
+        "difficult to understand"
       ],
-      "answer": 2,
-      "explanation": "Children is the irregular plural of child."
+      "answer": 0,
+      "explanation": "A concise greeting tells callers whose mailbox they reached and what to do."
+    },
+    {
+      "id": "q10529",
+      "category": "Telephone Skills",
+      "question": "The phrase 'May I know who is calling?' is used to ask for the caller's ___.",
+      "options": [
+        "identity",
+        "home password",
+        "salary details",
+        "medical history"
+      ],
+      "answer": 0,
+      "explanation": "It is a polite way to ask who is on the line."
+    },
+    {
+      "id": "q10530",
+      "category": "Telephone Skills",
+      "question": "Before ending a service call, it is useful to ___.",
+      "options": [
+        "confirm whether the caller needs anything else",
+        "hang up while they are speaking",
+        "repeat confidential details loudly",
+        "promise something outside your authority"
+      ],
+      "answer": 0,
+      "explanation": "A final check helps ensure the caller's concern has been addressed."
     }
   ]
 }
