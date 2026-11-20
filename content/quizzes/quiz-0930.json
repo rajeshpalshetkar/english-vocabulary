@@ -3,139 +3,139 @@
   "slug": "quiz-0930",
   "title": "English Practice Quiz 0930",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
+  "category": "Practical English",
   "level": "Advanced",
   "question_count": 10,
   "questions": [
     {
-      "id": "q056",
-      "category": "Pronunciation",
-      "question": "Which word has a different beginning sound?",
+      "id": "q10791",
+      "category": "Workplace Safety",
+      "question": "A near miss is an event that ___.",
       "options": [
-        "think",
-        "three",
-        "this",
-        "thank"
+        "always causes injury",
+        "is a planned drill",
+        "means equipment is new",
+        "could have caused harm but did not"
       ],
-      "answer": 2,
-      "explanation": "This begins with the voiced /ð/ sound; the others begin with the unvoiced /θ/ sound."
+      "answer": 3,
+      "explanation": "could have caused harm but did not is correct. The sentence or passage provides the relevant meaning and context."
     },
     {
-      "id": "q063",
-      "category": "Reading",
-      "question": "Read: 'Ravi practises English for twenty minutes every evening.' How long does he practise?",
+      "id": "q10792",
+      "category": "Workplace Safety",
+      "question": "An emergency exit should be ___.",
       "options": [
-        "Ten minutes",
-        "Twenty minutes",
-        "Thirty minutes",
-        "One hour"
-      ],
-      "answer": 1,
-      "explanation": "The passage states twenty minutes."
-    },
-    {
-      "id": "q070",
-      "category": "Workplace English",
-      "question": "To confirm an instruction, you can say:",
-      "options": [
-        "Could you please confirm the details?",
-        "I not listen.",
-        "Confirm me now.",
-        "Details no."
+        "kept clear and accessible",
+        "used for storage",
+        "locked during working hours",
+        "blocked by deliveries"
       ],
       "answer": 0,
-      "explanation": "Could you please confirm... is polite and precise."
+      "explanation": "kept clear and accessible is correct. The sentence or passage provides the relevant meaning and context."
     },
     {
-      "id": "q077",
-      "category": "Punctuation",
-      "question": "Which sentence uses the apostrophe correctly?",
+      "id": "q10793",
+      "category": "Workplace Safety",
+      "question": "A wet floor sign warns people about ___.",
       "options": [
-        "The guards uniform is blue.",
-        "The guard's uniform is blue.",
-        "The guards' uniform is blue. (one guard)",
-        "The guard uniform's is blue."
+        "electrical billing",
+        "a slip hazard",
+        "noise levels",
+        "low stock"
       ],
       "answer": 1,
-      "explanation": "Guard's shows possession by one guard."
+      "explanation": "a slip hazard is correct. The sentence or passage provides the relevant meaning and context."
     },
     {
-      "id": "q084",
-      "category": "Confusing Words",
-      "question": "I have ___ my keys.",
+      "id": "q10794",
+      "category": "Workplace Safety",
+      "question": "If you discover smoke, you should ___.",
       "options": [
-        "loose",
-        "lose",
-        "lost",
-        "loss"
+        "hide the information",
+        "use the lift",
+        "raise the alarm and follow emergency procedure",
+        "open every door"
       ],
       "answer": 2,
-      "explanation": "Lost is the past participle of lose."
+      "explanation": "raise the alarm and follow emergency procedure is correct. The sentence or passage provides the relevant meaning and context."
     },
     {
-      "id": "q091",
-      "category": "Passive Voice",
-      "question": "Choose the passive form: 'They clean the room.'",
+      "id": "q10795",
+      "category": "Workplace Safety",
+      "question": "A safety induction explains ___.",
       "options": [
-        "The room cleaned them.",
-        "The room is cleaned by them.",
-        "The room is cleaning.",
-        "The room has clean."
+        "personal shopping rules",
+        "salary negotiations",
+        "holiday destinations",
+        "hazards, procedures and safe work practices"
+      ],
+      "answer": 3,
+      "explanation": "hazards, procedures and safe work practices is correct. The sentence or passage provides the relevant meaning and context."
+    },
+    {
+      "id": "q10796",
+      "category": "Workplace Safety",
+      "question": "A hazard is ___.",
+      "options": [
+        "a source with potential to cause harm",
+        "a completed payroll",
+        "a staff celebration",
+        "a harmless compliment"
+      ],
+      "answer": 0,
+      "explanation": "a source with potential to cause harm is correct. The sentence or passage provides the relevant meaning and context."
+    },
+    {
+      "id": "q10797",
+      "category": "Workplace Safety",
+      "question": "An evacuation assembly point is where people ___.",
+      "options": [
+        "store cleaning supplies",
+        "gather after leaving the building",
+        "park delivery vehicles",
+        "hold routine interviews"
       ],
       "answer": 1,
-      "explanation": "Present simple passive: am/is/are + past participle."
+      "explanation": "gather after leaving the building is correct. The sentence or passage provides the relevant meaning and context."
     },
     {
-      "id": "q098",
-      "category": "Reported Speech",
-      "question": "He asked, 'Where do you live?'",
+      "id": "q10798",
+      "category": "Workplace Safety",
+      "question": "A first-aid kit should be ___.",
       "options": [
-        "He asked where I lived.",
-        "He asked where do I live.",
-        "He asked where did I lived.",
-        "He asked where I live do."
-      ],
-      "answer": 0,
-      "explanation": "Reported questions use statement word order; do is removed."
-    },
-    {
-      "id": "q105",
-      "category": "Determiners",
-      "question": "___ student must bring an ID card.",
-      "options": [
-        "Each",
-        "Many",
-        "Few",
-        "Several"
-      ],
-      "answer": 0,
-      "explanation": "Each refers to every individual in a group."
-    },
-    {
-      "id": "q112",
-      "category": "Gerunds",
-      "question": "He decided ___ early.",
-      "options": [
-        "leave",
-        "leaving",
-        "to leave",
-        "leaves"
+        "kept permanently locked away",
+        "used for office stationery",
+        "accessible and maintained",
+        "stored in an exit path"
       ],
       "answer": 2,
-      "explanation": "Decide is commonly followed by a to-infinitive."
+      "explanation": "accessible and maintained is correct. The sentence or passage provides the relevant meaning and context."
     },
     {
-      "id": "q004",
-      "category": "Grammar",
-      "question": "There ___ two chairs in the room.",
+      "id": "q10799",
+      "category": "Workplace Safety",
+      "question": "After an accident, preserve the scene when safe and ___.",
       "options": [
-        "is",
-        "are",
-        "am",
-        "was"
+        "remove all evidence",
+        "post images online",
+        "alter the records",
+        "report it according to procedure"
       ],
-      "answer": 1,
-      "explanation": "Use are with the plural noun chairs."
+      "answer": 3,
+      "explanation": "report it according to procedure is correct. The sentence or passage provides the relevant meaning and context."
+    },
+    {
+      "id": "q10800",
+      "category": "Workplace Safety",
+      "question": "Safety drills help staff ___.",
+      "options": [
+        "practise emergency actions",
+        "avoid all training",
+        "replace fire equipment",
+        "cancel inspections"
+      ],
+      "answer": 0,
+      "explanation": "practise emergency actions is correct. The sentence or passage provides the relevant meaning and context."
     }
   ]
 }
