@@ -3,139 +3,139 @@
   "slug": "quiz-0986",
   "title": "English Practice Quiz 0986",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q088",
-      "category": "Conditionals",
-      "question": "If you heat ice, it ___.",
+      "id": "q10151",
+      "category": "Road and Public Transport",
+      "question": "A pedestrian is a person who ___.",
       "options": [
-        "melt",
-        "melts",
-        "will melted",
-        "melting"
+        "travels on foot",
+        "drives a bus",
+        "repairs a train",
+        "sails a ship"
       ],
-      "answer": 1,
-      "explanation": "The zero conditional uses present simple for general truths."
+      "answer": 0,
+      "explanation": "A pedestrian is someone walking, especially near roads."
     },
     {
-      "id": "q111",
-      "category": "Gerunds",
-      "question": "I enjoy ___ books.",
+      "id": "q10152",
+      "category": "Road and Public Transport",
+      "question": "At a red traffic light, drivers must ___.",
       "options": [
-        "read",
-        "to read",
-        "reading",
-        "reads"
+        "stop",
+        "speed up",
+        "reverse immediately",
+        "sound the horn continuously"
       ],
-      "answer": 2,
-      "explanation": "Enjoy is followed by a gerund (-ing form)."
+      "answer": 0,
+      "explanation": "Red traffic signals require vehicles to stop."
     },
     {
-      "id": "q019",
-      "category": "Tenses",
-      "question": "She ___ in this hospital for five years.",
+      "id": "q10153",
+      "category": "Road and Public Transport",
+      "question": "A 'platform' at a railway station is where passengers ___.",
       "options": [
-        "works",
-        "worked",
-        "has worked",
-        "is work"
+        "board or leave trains",
+        "buy groceries",
+        "repair engines",
+        "park bicycles only"
       ],
-      "answer": 2,
-      "explanation": "The present perfect can describe a situation continuing to the present."
+      "answer": 0,
+      "explanation": "Passengers wait on the platform to board trains."
     },
     {
-      "id": "q042",
-      "category": "Modals",
-      "question": "You ___ smoke inside the hospital.",
+      "id": "q10154",
+      "category": "Road and Public Transport",
+      "question": "If a bus is overcrowded, it has ___.",
       "options": [
-        "must",
-        "mustn't",
-        "should",
-        "could"
+        "too many passengers",
+        "no passengers",
+        "no route number",
+        "only empty seats"
       ],
-      "answer": 1,
-      "explanation": "Mustn't expresses prohibition."
+      "answer": 0,
+      "explanation": "Overcrowded means containing more people than is comfortable or safe."
     },
     {
-      "id": "q065",
-      "category": "Reading",
-      "question": "Read: 'Please keep the floor dry to prevent accidents.' What is the instruction?",
+      "id": "q10155",
+      "category": "Road and Public Transport",
+      "question": "Which phrase asks a driver to stop at a safe place?",
       "options": [
-        "Wash the floor now",
-        "Keep the floor dry",
-        "Close the office",
-        "Move the furniture"
+        "Could you stop at the next safe spot, please?",
+        "Drive anywhere now.",
+        "Stop in the middle of traffic.",
+        "Forget the destination."
       ],
-      "answer": 1,
-      "explanation": "The notice instructs people to keep the floor dry."
+      "answer": 0,
+      "explanation": "This request is polite and emphasises safety."
     },
     {
-      "id": "q088",
-      "category": "Conditionals",
-      "question": "If you heat ice, it ___.",
+      "id": "q10156",
+      "category": "Road and Public Transport",
+      "question": "A 'one-way street' allows traffic to move ___.",
       "options": [
-        "melt",
-        "melts",
-        "will melted",
-        "melting"
+        "in one direction",
+        "in every direction",
+        "only backwards",
+        "without any rules"
       ],
-      "answer": 1,
-      "explanation": "The zero conditional uses present simple for general truths."
+      "answer": 0,
+      "explanation": "One-way traffic moves in a single permitted direction."
     },
     {
-      "id": "q111",
-      "category": "Gerunds",
-      "question": "I enjoy ___ books.",
+      "id": "q10157",
+      "category": "Road and Public Transport",
+      "question": "A seat belt should be worn ___.",
       "options": [
-        "read",
-        "to read",
-        "reading",
-        "reads"
+        "before the journey begins",
+        "only on empty roads",
+        "after reaching the destination",
+        "only at night"
       ],
-      "answer": 2,
-      "explanation": "Enjoy is followed by a gerund (-ing form)."
+      "answer": 0,
+      "explanation": "Seat belts should be fastened before travelling."
     },
     {
-      "id": "q019",
-      "category": "Tenses",
-      "question": "She ___ in this hospital for five years.",
+      "id": "q10158",
+      "category": "Road and Public Transport",
+      "question": "A 'fare' is the amount paid for ___.",
       "options": [
-        "works",
-        "worked",
-        "has worked",
-        "is work"
+        "a journey",
+        "a traffic signal",
+        "a road sign",
+        "a driving licence"
       ],
-      "answer": 2,
-      "explanation": "The present perfect can describe a situation continuing to the present."
+      "answer": 0,
+      "explanation": "Fare is the price of a trip on public transport."
     },
     {
-      "id": "q042",
-      "category": "Modals",
-      "question": "You ___ smoke inside the hospital.",
+      "id": "q10159",
+      "category": "Road and Public Transport",
+      "question": "If you miss your stop, you should ___.",
       "options": [
-        "must",
-        "mustn't",
-        "should",
-        "could"
+        "get off at a safe next stop and plan your return",
+        "jump from the moving vehicle",
+        "ask the driver to reverse in traffic",
+        "stand in the doorway"
       ],
-      "answer": 1,
-      "explanation": "Mustn't expresses prohibition."
+      "answer": 0,
+      "explanation": "Use a safe stop and find a suitable return route."
     },
     {
-      "id": "q065",
-      "category": "Reading",
-      "question": "Read: 'Please keep the floor dry to prevent accidents.' What is the instruction?",
+      "id": "q10160",
+      "category": "Road and Public Transport",
+      "question": "A vehicle's 'maintenance' means ___.",
       "options": [
-        "Wash the floor now",
-        "Keep the floor dry",
-        "Close the office",
-        "Move the furniture"
+        "regular care and repair",
+        "decorating its windows",
+        "changing its route name",
+        "selling its tickets"
       ],
-      "answer": 1,
-      "explanation": "The notice instructs people to keep the floor dry."
+      "answer": 0,
+      "explanation": "Maintenance keeps a vehicle in safe working condition."
     }
   ]
 }
