@@ -3,139 +3,139 @@
   "slug": "quiz-0949",
   "title": "English Practice Quiz 0949",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q034",
-      "category": "Articles",
-      "question": "He wants to become ___ engineer.",
+      "id": "q10581",
+      "category": "Advanced Vocabulary",
+      "question": "A 'feasible' plan is one that is ___.",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "Engineer begins with a vowel sound, so use an."
-    },
-    {
-      "id": "q071",
-      "category": "Questions",
-      "question": "Choose the correct WH question for a place.",
-      "options": [
-        "When do you live?",
-        "Where do you live?",
-        "Who do you live?",
-        "Why do you live?"
-      ],
-      "answer": 1,
-      "explanation": "Where asks about a place or location."
-    },
-    {
-      "id": "q108",
-      "category": "Adverbs",
-      "question": "He speaks English ___.",
-      "options": [
-        "clear",
-        "clearly",
-        "clarity",
-        "clearest"
-      ],
-      "answer": 1,
-      "explanation": "Clearly is the adverb describing how he speaks."
-    },
-    {
-      "id": "q030",
-      "category": "Vocabulary",
-      "question": "Choose the best word: The road is very ___. There are many cars.",
-      "options": [
-        "crowded",
-        "empty",
-        "quietly",
-        "soft"
+        "practical and possible to carry out",
+        "impossible to complete",
+        "unrelated to the objective",
+        "already forgotten"
       ],
       "answer": 0,
-      "explanation": "Crowded means filled with many people or things; it can describe busy roads."
+      "explanation": "Feasible means capable of being done successfully."
     },
     {
-      "id": "q067",
-      "category": "Workplace English",
-      "question": "You have completed a task. You say:",
+      "id": "q10582",
+      "category": "Advanced Vocabulary",
+      "question": "To 'exacerbate' a problem means to ___.",
       "options": [
-        "The task is complete.",
-        "The task complete yesterday tomorrow.",
-        "I task finish.",
-        "Task is completing me."
+        "make it worse",
+        "solve it completely",
+        "measure it accurately",
+        "explain it briefly"
       ],
       "answer": 0,
-      "explanation": "The task is complete is a clear status update."
+      "explanation": "Exacerbate means increase the severity of something."
     },
     {
-      "id": "q104",
-      "category": "Determiners",
-      "question": "There is ___ water in the bottle.",
+      "id": "q10583",
+      "category": "Advanced Vocabulary",
+      "question": "A 'concise' report is ___.",
       "options": [
-        "a few",
-        "many",
-        "a little",
-        "several"
-      ],
-      "answer": 2,
-      "explanation": "A little is used with uncountable nouns."
-    },
-    {
-      "id": "q026",
-      "category": "Vocabulary",
-      "question": "What does 'borrow' mean?",
-      "options": [
-        "give something forever",
-        "take something temporarily and return it",
-        "break something",
-        "buy something"
-      ],
-      "answer": 1,
-      "explanation": "Borrow means to take something for a period and return it."
-    },
-    {
-      "id": "q063",
-      "category": "Reading",
-      "question": "Read: 'Ravi practises English for twenty minutes every evening.' How long does he practise?",
-      "options": [
-        "Ten minutes",
-        "Twenty minutes",
-        "Thirty minutes",
-        "One hour"
-      ],
-      "answer": 1,
-      "explanation": "The passage states twenty minutes."
-    },
-    {
-      "id": "q100",
-      "category": "Reported Speech",
-      "question": "They said, 'We have finished.'",
-      "options": [
-        "They said they had finished.",
-        "They said they have finish.",
-        "They told finished.",
-        "They said we finished have."
+        "brief but clear",
+        "long and repetitive",
+        "full of irrelevant details",
+        "impossible to read"
       ],
       "answer": 0,
-      "explanation": "Present perfect commonly shifts to past perfect in reported speech."
+      "explanation": "Concise writing communicates the main points in few words."
     },
     {
-      "id": "q022",
-      "category": "Vocabulary",
-      "question": "Choose the opposite of 'polite'.",
+      "id": "q10584",
+      "category": "Advanced Vocabulary",
+      "question": "A 'consensus' is a general ___.",
       "options": [
-        "kind",
-        "rude",
-        "helpful",
-        "calm"
+        "agreement among a group",
+        "argument between strangers",
+        "formal complaint",
+        "financial penalty"
       ],
-      "answer": 1,
-      "explanation": "Rude is the opposite of polite."
+      "answer": 0,
+      "explanation": "Consensus is a broadly shared agreement."
+    },
+    {
+      "id": "q10585",
+      "category": "Advanced Vocabulary",
+      "question": "To 'allocate' resources means to ___.",
+      "options": [
+        "distribute them for particular purposes",
+        "hide them permanently",
+        "destroy them without review",
+        "borrow them without permission"
+      ],
+      "answer": 0,
+      "explanation": "Allocate means assign or distribute resources."
+    },
+    {
+      "id": "q10586",
+      "category": "Advanced Vocabulary",
+      "question": "A 'rigorous' assessment is ___.",
+      "options": [
+        "thorough and careful",
+        "casual and incomplete",
+        "based on a guess",
+        "unrelated to any standard"
+      ],
+      "answer": 0,
+      "explanation": "Rigorous means extremely thorough and accurate."
+    },
+    {
+      "id": "q10587",
+      "category": "Advanced Vocabulary",
+      "question": "An 'obsolete' device is ___.",
+      "options": [
+        "outdated and no longer commonly used",
+        "brand new",
+        "guaranteed to be faster",
+        "still being manufactured for every purpose"
+      ],
+      "answer": 0,
+      "explanation": "Obsolete means out of date or no longer in use."
+    },
+    {
+      "id": "q10588",
+      "category": "Advanced Vocabulary",
+      "question": "To 'infer' something means to ___.",
+      "options": [
+        "reach a conclusion from evidence",
+        "copy a sentence exactly",
+        "forget a known fact",
+        "make a random announcement"
+      ],
+      "answer": 0,
+      "explanation": "Infer means draw a conclusion based on available information."
+    },
+    {
+      "id": "q10589",
+      "category": "Advanced Vocabulary",
+      "question": "A 'substantial' improvement is ___.",
+      "options": [
+        "considerable or significant",
+        "too small to notice",
+        "unrelated to performance",
+        "temporary by definition"
+      ],
+      "answer": 0,
+      "explanation": "Substantial means large or important in amount or degree."
+    },
+    {
+      "id": "q10590",
+      "category": "Advanced Vocabulary",
+      "question": "To 'verify' a claim is to ___.",
+      "options": [
+        "check whether it is true or accurate",
+        "repeat it without checking",
+        "hide the source",
+        "change its meaning"
+      ],
+      "answer": 0,
+      "explanation": "Verify means establish the truth or accuracy of something."
     }
   ]
 }
