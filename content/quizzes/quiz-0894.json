@@ -3,139 +3,139 @@
   "slug": "quiz-0894",
   "title": "English Practice Quiz 0894",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q019",
-      "category": "Tenses",
-      "question": "She ___ in this hospital for five years.",
+      "id": "q11031",
+      "category": "Public Interaction",
+      "question": "A visitor arrives at a restricted area. Staff should ___.",
       "options": [
-        "works",
-        "worked",
-        "has worked",
-        "is work"
+        "allow entry because they are polite",
+        "lend an access card",
+        "ignore the procedure",
+        "verify authorisation before allowing access"
       ],
-      "answer": 2,
-      "explanation": "The present perfect can describe a situation continuing to the present."
+      "answer": 3,
+      "explanation": "verify authorisation before allowing access is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q036",
-      "category": "Prepositions",
-      "question": "The meeting starts ___ 9 a.m.",
+      "id": "q11032",
+      "category": "Public Interaction",
+      "question": "When giving directions, use ___.",
       "options": [
-        "in",
-        "on",
-        "at",
-        "by"
+        "technical abbreviations",
+        "uncertain guesses",
+        "clear landmarks and simple instructions",
+        "personal stories"
       ],
       "answer": 2,
-      "explanation": "Use at for a specific clock time."
+      "explanation": "clear landmarks and simple instructions is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q053",
-      "category": "Conversation",
-      "question": "A visitor asks, 'Where is reception?' You say:",
+      "id": "q11033",
+      "category": "Public Interaction",
+      "question": "A queue management system helps ___.",
       "options": [
-        "It is near the main entrance.",
-        "I am reception.",
-        "Yesterday at home.",
-        "No, it isn't."
+        "favour friends",
+        "serve people in an orderly and fair sequence",
+        "hide waiting times",
+        "avoid appointment records"
+      ],
+      "answer": 1,
+      "explanation": "serve people in an orderly and fair sequence is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q11034",
+      "category": "Public Interaction",
+      "question": "If a visitor does not understand, you should ___.",
+      "options": [
+        "repeat in simpler language and check understanding",
+        "criticise their language",
+        "walk away",
+        "use more complex terms"
       ],
       "answer": 0,
-      "explanation": "Give a clear location using a complete sentence."
+      "explanation": "repeat in simpler language and check understanding is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q070",
-      "category": "Workplace English",
-      "question": "To confirm an instruction, you can say:",
+      "id": "q11035",
+      "category": "Public Interaction",
+      "question": "A respectful workplace greeting should be ___.",
       "options": [
-        "Could you please confirm the details?",
-        "I not listen.",
-        "Confirm me now.",
-        "Details no."
+        "sarcastic",
+        "overly personal",
+        "dismissive",
+        "polite and appropriate to the situation"
+      ],
+      "answer": 3,
+      "explanation": "polite and appropriate to the situation is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q11036",
+      "category": "Public Interaction",
+      "question": "A visitor badge should generally be ___.",
+      "options": [
+        "shared with another visitor",
+        "left for anyone",
+        "displayed as required by site policy",
+        "used after expiry"
+      ],
+      "answer": 2,
+      "explanation": "displayed as required by site policy is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q11037",
+      "category": "Public Interaction",
+      "question": "If a visitor becomes unwell, staff should ___.",
+      "options": [
+        "offer an unverified diagnosis",
+        "follow the site's emergency assistance procedure",
+        "leave them unattended",
+        "share details publicly"
+      ],
+      "answer": 1,
+      "explanation": "follow the site's emergency assistance procedure is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q11038",
+      "category": "Public Interaction",
+      "question": "A waiting-time complaint should be handled by ___.",
+      "options": [
+        "acknowledging the concern and giving a factual update",
+        "arguing about the queue",
+        "making unsupported promises",
+        "ignoring the person"
       ],
       "answer": 0,
-      "explanation": "Could you please confirm... is polite and precise."
+      "explanation": "acknowledging the concern and giving a factual update is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q087",
-      "category": "Conditionals",
-      "question": "If I had more time, I ___ another language.",
+      "id": "q11039",
+      "category": "Public Interaction",
+      "question": "When speaking across cultures, it is helpful to ___.",
       "options": [
-        "learn",
-        "will learn",
-        "would learn",
-        "am learn"
+        "make background jokes",
+        "assume identical customs",
+        "ignore questions",
+        "avoid assumptions and communicate respectfully"
+      ],
+      "answer": 3,
+      "explanation": "avoid assumptions and communicate respectfully is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q11040",
+      "category": "Public Interaction",
+      "question": "A professional boundary means ___.",
+      "options": [
+        "sharing private information freely",
+        "accepting every personal request",
+        "keeping interactions respectful and within one's role",
+        "using access for personal favours"
       ],
       "answer": 2,
-      "explanation": "The second conditional uses would + base verb for an unreal or imagined situation."
-    },
-    {
-      "id": "q104",
-      "category": "Determiners",
-      "question": "There is ___ water in the bottle.",
-      "options": [
-        "a few",
-        "many",
-        "a little",
-        "several"
-      ],
-      "answer": 2,
-      "explanation": "A little is used with uncountable nouns."
-    },
-    {
-      "id": "q006",
-      "category": "Grammar",
-      "question": "He is ___ honest man.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "Use an before a vowel sound. Honest begins with a silent h."
-    },
-    {
-      "id": "q023",
-      "category": "Vocabulary",
-      "question": "A synonym of 'begin' is ___.",
-      "options": [
-        "finish",
-        "start",
-        "stop",
-        "close"
-      ],
-      "answer": 1,
-      "explanation": "Start has the same basic meaning as begin."
-    },
-    {
-      "id": "q040",
-      "category": "Prepositions",
-      "question": "The hospital is ___ the bank and the post office.",
-      "options": [
-        "among",
-        "between",
-        "inside",
-        "over"
-      ],
-      "answer": 1,
-      "explanation": "Between is used for a position separating two things."
-    },
-    {
-      "id": "q057",
-      "category": "Pronunciation",
-      "question": "Which word has a silent 'k'?",
-      "options": [
-        "kite",
-        "know",
-        "keep",
-        "kind"
-      ],
-      "answer": 1,
-      "explanation": "The k in know is silent."
+      "explanation": "keeping interactions respectful and within one's role is the correct answer based on the meaning and context of the question."
     }
   ]
 }
