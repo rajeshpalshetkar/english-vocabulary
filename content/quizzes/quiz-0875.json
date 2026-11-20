@@ -3,139 +3,139 @@
   "slug": "quiz-0875",
   "title": "English Practice Quiz 0875",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q041",
-      "category": "Modals",
-      "question": "___ I borrow your pen, please?",
+      "id": "q11241",
+      "category": "Digital and Office Skills",
+      "question": "In a spreadsheet, a cell is:",
       "options": [
-        "May",
-        "Must",
-        "Should",
-        "Would have"
+        "the intersection of a row and column",
+        "a complete workbook",
+        "a printer setting",
+        "a website address"
       ],
       "answer": 0,
-      "explanation": "May is a polite way to ask permission."
+      "explanation": "A cell is formed where a row and column meet."
     },
     {
-      "id": "q060",
-      "category": "Pronunciation",
-      "question": "How many syllables are in 'computer'?",
+      "id": "q11242",
+      "category": "Digital and Office Skills",
+      "question": "Which file format is commonly used for a portable document?",
       "options": [
-        "one",
-        "two",
-        "three",
-        "four"
+        ".mp3",
+        ".pdf",
+        ".exe",
+        ".jpg"
       ],
-      "answer": 2,
-      "explanation": "Computer is commonly pronounced with three syllables: com-pu-ter."
+      "answer": 1,
+      "explanation": "PDF is widely used to share documents consistently."
     },
     {
-      "id": "q079",
-      "category": "Punctuation",
-      "question": "Which is a complete sentence?",
+      "id": "q11243",
+      "category": "Digital and Office Skills",
+      "question": "The 'undo' command usually:",
       "options": [
-        "Because it was raining.",
-        "After the meeting.",
-        "The team finished the work.",
-        "When I arrived."
-      ],
-      "answer": 2,
-      "explanation": "The team finished the work contains a subject and a complete predicate."
-    },
-    {
-      "id": "q098",
-      "category": "Reported Speech",
-      "question": "He asked, 'Where do you live?'",
-      "options": [
-        "He asked where I lived.",
-        "He asked where do I live.",
-        "He asked where did I lived.",
-        "He asked where I live do."
+        "reverses the last action",
+        "saves the file",
+        "prints the page",
+        "closes the computer"
       ],
       "answer": 0,
-      "explanation": "Reported questions use statement word order; do is removed."
+      "explanation": "Undo reverses a recent operation."
     },
     {
-      "id": "q002",
-      "category": "Grammar",
-      "question": "They ___ ready for the meeting.",
+      "id": "q11244",
+      "category": "Digital and Office Skills",
+      "question": "A browser tab allows you to:",
       "options": [
-        "is",
-        "am",
-        "are",
-        "be"
-      ],
-      "answer": 2,
-      "explanation": "Use are with the plural subject they."
-    },
-    {
-      "id": "q021",
-      "category": "Vocabulary",
-      "question": "A person who repairs water pipes is a ___.",
-      "options": [
-        "carpenter",
-        "plumber",
-        "tailor",
-        "baker"
-      ],
-      "answer": 1,
-      "explanation": "A plumber installs and repairs water pipes and fittings."
-    },
-    {
-      "id": "q040",
-      "category": "Prepositions",
-      "question": "The hospital is ___ the bank and the post office.",
-      "options": [
-        "among",
-        "between",
-        "inside",
-        "over"
-      ],
-      "answer": 1,
-      "explanation": "Between is used for a position separating two things."
-    },
-    {
-      "id": "q059",
-      "category": "Pronunciation",
-      "question": "Which word rhymes with 'light'?",
-      "options": [
-        "late",
-        "lit",
-        "night",
-        "let"
-      ],
-      "answer": 2,
-      "explanation": "Light and night share the same ending sound."
-    },
-    {
-      "id": "q078",
-      "category": "Punctuation",
-      "question": "Choose the correct sentence.",
-      "options": [
-        "I like tea, coffee and milk.",
-        "I like tea coffee and milk",
-        "I like, tea coffee, and milk.",
-        "i like tea, coffee and milk"
+        "keep a separate page open in the same browser window",
+        "change the keyboard language",
+        "scan a paper file",
+        "repair a network cable"
       ],
       "answer": 0,
-      "explanation": "Use commas to separate items in a list and capitalise the first word."
+      "explanation": "Tabs let users open multiple pages in one browser window."
     },
     {
-      "id": "q097",
-      "category": "Reported Speech",
-      "question": "She said, 'I can swim.'",
+      "id": "q11245",
+      "category": "Digital and Office Skills",
+      "question": "Two-factor authentication adds:",
       "options": [
-        "She said she can swam.",
-        "She said that she could swim.",
-        "She said she swims can.",
-        "She told that could swim."
+        "a second verification step",
+        "a second username for everyone",
+        "automatic public access",
+        "a longer email subject"
       ],
-      "answer": 1,
-      "explanation": "Can commonly changes to could in reported speech after a past reporting verb."
+      "answer": 0,
+      "explanation": "Two-factor authentication requires an additional proof of identity."
+    },
+    {
+      "id": "q11246",
+      "category": "Digital and Office Skills",
+      "question": "A file stored in the cloud is generally saved:",
+      "options": [
+        "on remote internet-connected servers",
+        "only on a printed page",
+        "inside a keyboard",
+        "on a disconnected monitor"
+      ],
+      "answer": 0,
+      "explanation": "Cloud storage keeps files on remote servers accessible online."
+    },
+    {
+      "id": "q11247",
+      "category": "Digital and Office Skills",
+      "question": "Which shortcut commonly copies selected text on Windows?",
+      "options": [
+        "Ctrl + C",
+        "Ctrl + V",
+        "Ctrl + Z",
+        "Ctrl + P"
+      ],
+      "answer": 0,
+      "explanation": "Ctrl + C is the standard copy shortcut."
+    },
+    {
+      "id": "q11248",
+      "category": "Digital and Office Skills",
+      "question": "A 'read-only' document can normally be:",
+      "options": [
+        "viewed but not edited",
+        "edited by every visitor",
+        "deleted automatically",
+        "printed only at midnight"
+      ],
+      "answer": 0,
+      "explanation": "Read-only access prevents changes to the file."
+    },
+    {
+      "id": "q11249",
+      "category": "Digital and Office Skills",
+      "question": "What does 'CC' in an email field mean?",
+      "options": [
+        "Carbon copy",
+        "Computer code",
+        "Closed caption",
+        "Current contact"
+      ],
+      "answer": 0,
+      "explanation": "CC sends a visible copy to additional recipients."
+    },
+    {
+      "id": "q11250",
+      "category": "Digital and Office Skills",
+      "question": "A software update is often installed to:",
+      "options": [
+        "fix issues and improve security or features",
+        "remove every saved file",
+        "disable all passwords",
+        "increase screen brightness only"
+      ],
+      "answer": 0,
+      "explanation": "Updates commonly include bug fixes and security improvements."
     }
   ]
 }
