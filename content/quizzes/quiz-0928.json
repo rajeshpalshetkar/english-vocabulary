@@ -3,139 +3,139 @@
   "slug": "quiz-0928",
   "title": "English Practice Quiz 0928",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q022",
-      "category": "Vocabulary",
-      "question": "Choose the opposite of 'polite'.",
+      "id": "q10771",
+      "category": "Conflict Resolution",
+      "question": "A constructive first step in disagreement is to ___.",
       "options": [
-        "kind",
-        "rude",
-        "helpful",
-        "calm"
+        "interrupt everyone",
+        "listen to each person's concern",
+        "assume dishonesty",
+        "post it online"
       ],
       "answer": 1,
-      "explanation": "Rude is the opposite of polite."
+      "explanation": "listen to each person's concern is correct. The sentence or passage provides the relevant meaning and context."
     },
     {
-      "id": "q053",
-      "category": "Conversation",
-      "question": "A visitor asks, 'Where is reception?' You say:",
+      "id": "q10772",
+      "category": "Conflict Resolution",
+      "question": "A mediator helps parties ___.",
       "options": [
-        "It is near the main entrance.",
-        "I am reception.",
-        "Yesterday at home.",
-        "No, it isn't."
+        "impose punishment",
+        "take sides blindly",
+        "communicate and explore a solution",
+        "hide the dispute"
+      ],
+      "answer": 2,
+      "explanation": "communicate and explore a solution is correct. The sentence or passage provides the relevant meaning and context."
+    },
+    {
+      "id": "q10773",
+      "category": "Conflict Resolution",
+      "question": "I-statements help describe ___.",
+      "options": [
+        "why others are wrong",
+        "instant solutions",
+        "workplace policy",
+        "your experience without directly blaming others"
+      ],
+      "answer": 3,
+      "explanation": "your experience without directly blaming others is correct. The sentence or passage provides the relevant meaning and context."
+    },
+    {
+      "id": "q10774",
+      "category": "Conflict Resolution",
+      "question": "When emotions are high, a short pause can help people ___.",
+      "options": [
+        "regain composure",
+        "forget responsibilities",
+        "avoid all discussion",
+        "change evidence"
       ],
       "answer": 0,
-      "explanation": "Give a clear location using a complete sentence."
+      "explanation": "regain composure is correct. The sentence or passage provides the relevant meaning and context."
     },
     {
-      "id": "q084",
-      "category": "Confusing Words",
-      "question": "I have ___ my keys.",
+      "id": "q10775",
+      "category": "Conflict Resolution",
+      "question": "A compromise involves ___.",
       "options": [
-        "loose",
-        "lose",
-        "lost",
-        "loss"
+        "one side refusing to listen",
+        "each side making some adjustment",
+        "ignoring the issue",
+        "blaming others"
+      ],
+      "answer": 1,
+      "explanation": "each side making some adjustment is correct. The sentence or passage provides the relevant meaning and context."
+    },
+    {
+      "id": "q10776",
+      "category": "Conflict Resolution",
+      "question": "Threats during a workplace dispute should be ___.",
+      "options": [
+        "answered with retaliation",
+        "ignored until injury",
+        "reported through the appropriate safety process",
+        "shared for entertainment"
       ],
       "answer": 2,
-      "explanation": "Lost is the past participle of lose."
+      "explanation": "reported through the appropriate safety process is correct. The sentence or passage provides the relevant meaning and context."
     },
     {
-      "id": "q115",
-      "category": "Gerunds",
-      "question": "I want ___ English fluently.",
+      "id": "q10777",
+      "category": "Conflict Resolution",
+      "question": "Separating the person from the problem means ___.",
       "options": [
-        "speak",
-        "speaking",
-        "to speak",
-        "spoke"
+        "pretending they do not exist",
+        "making it personal",
+        "avoiding facts",
+        "addressing the issue without attacking character"
+      ],
+      "answer": 3,
+      "explanation": "addressing the issue without attacking character is correct. The sentence or passage provides the relevant meaning and context."
+    },
+    {
+      "id": "q10778",
+      "category": "Conflict Resolution",
+      "question": "A lasting resolution needs ___.",
+      "options": [
+        "clear agreed actions and responsibilities",
+        "no records",
+        "secrecy",
+        "rumours"
+      ],
+      "answer": 0,
+      "explanation": "clear agreed actions and responsibilities is correct. The sentence or passage provides the relevant meaning and context."
+    },
+    {
+      "id": "q10779",
+      "category": "Conflict Resolution",
+      "question": "A factual disagreement should be checked against ___.",
+      "options": [
+        "popularity",
+        "reliable evidence",
+        "gossip",
+        "assumptions"
+      ],
+      "answer": 1,
+      "explanation": "reliable evidence is correct. The sentence or passage provides the relevant meaning and context."
+    },
+    {
+      "id": "q10780",
+      "category": "Conflict Resolution",
+      "question": "After resolution, follow-up confirms whether ___.",
+      "options": [
+        "the argument should restart",
+        "records be destroyed",
+        "agreed actions were completed",
+        "questions are forbidden"
       ],
       "answer": 2,
-      "explanation": "Want is followed by a to-infinitive."
-    },
-    {
-      "id": "q031",
-      "category": "Articles",
-      "question": "I saw ___ elephant at the zoo.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "Use an before a vowel sound."
-    },
-    {
-      "id": "q062",
-      "category": "Reading",
-      "question": "Read: 'The shop closes at 9 p.m., but it opens at 10 a.m.' When does it open?",
-      "options": [
-        "9 a.m.",
-        "10 a.m.",
-        "9 p.m.",
-        "10 p.m."
-      ],
-      "answer": 1,
-      "explanation": "The opening time given is 10 a.m."
-    },
-    {
-      "id": "q093",
-      "category": "Passive Voice",
-      "question": "The work ___ tomorrow.",
-      "options": [
-        "will complete",
-        "will be completed",
-        "completed",
-        "is completing"
-      ],
-      "answer": 1,
-      "explanation": "Future passive uses will be + past participle."
-    },
-    {
-      "id": "q009",
-      "category": "Grammar",
-      "question": "Choose the correct comparative form.",
-      "options": [
-        "more tall",
-        "taller",
-        "tallest than",
-        "most tall"
-      ],
-      "answer": 1,
-      "explanation": "The comparative form of the short adjective tall is taller."
-    },
-    {
-      "id": "q040",
-      "category": "Prepositions",
-      "question": "The hospital is ___ the bank and the post office.",
-      "options": [
-        "among",
-        "between",
-        "inside",
-        "over"
-      ],
-      "answer": 1,
-      "explanation": "Between is used for a position separating two things."
-    },
-    {
-      "id": "q071",
-      "category": "Questions",
-      "question": "Choose the correct WH question for a place.",
-      "options": [
-        "When do you live?",
-        "Where do you live?",
-        "Who do you live?",
-        "Why do you live?"
-      ],
-      "answer": 1,
-      "explanation": "Where asks about a place or location."
+      "explanation": "agreed actions were completed is correct. The sentence or passage provides the relevant meaning and context."
     }
   ]
 }
