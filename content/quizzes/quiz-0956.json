@@ -3,139 +3,139 @@
   "slug": "quiz-0956",
   "title": "English Practice Quiz 0956",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q038",
-      "category": "Prepositions",
-      "question": "We have a meeting ___ Monday.",
+      "id": "q10451",
+      "category": "Public Speaking",
+      "question": "A strong opening in a presentation should ___.",
       "options": [
-        "in",
-        "at",
-        "on",
-        "by"
+        "introduce the topic and engage the audience",
+        "apologise for every slide",
+        "read the final paragraph first",
+        "avoid stating the purpose"
       ],
-      "answer": 2,
-      "explanation": "Use on with days and dates."
+      "answer": 0,
+      "explanation": "An opening gives the audience a reason to listen and a sense of direction."
     },
     {
-      "id": "q061",
-      "category": "Reading",
-      "question": "Read: 'Mina takes the bus at 8 a.m. and reaches work at 8:45.' How does Mina travel?",
+      "id": "q10452",
+      "category": "Public Speaking",
+      "question": "Maintaining eye contact during a speech can help create ___.",
       "options": [
-        "By train",
-        "By bus",
-        "By car",
-        "On foot"
+        "connection with the audience",
+        "a louder microphone",
+        "more slides automatically",
+        "a shorter timetable"
       ],
-      "answer": 1,
-      "explanation": "The passage clearly says Mina takes the bus."
+      "answer": 0,
+      "explanation": "Appropriate eye contact can make communication feel more engaging."
     },
     {
-      "id": "q084",
-      "category": "Confusing Words",
-      "question": "I have ___ my keys.",
+      "id": "q10453",
+      "category": "Public Speaking",
+      "question": "A visual aid should be used to ___.",
       "options": [
-        "loose",
-        "lose",
-        "lost",
-        "loss"
+        "support and clarify the main message",
+        "replace all spoken explanation",
+        "display every detail in tiny text",
+        "distract the audience"
       ],
-      "answer": 2,
-      "explanation": "Lost is the past participle of lose."
+      "answer": 0,
+      "explanation": "Visuals are most useful when they reinforce the spoken content."
     },
     {
-      "id": "q107",
-      "category": "Adjectives",
-      "question": "She is the ___ student in the class.",
+      "id": "q10454",
+      "category": "Public Speaking",
+      "question": "If you lose your place during a presentation, you should ___.",
       "options": [
-        "tall",
-        "taller",
-        "tallest",
-        "more tall"
+        "pause, check your notes and continue calmly",
+        "leave the room immediately",
+        "blame the audience",
+        "read random slides"
       ],
-      "answer": 2,
-      "explanation": "Use the superlative tallest when comparing one with the whole class."
+      "answer": 0,
+      "explanation": "A calm pause helps you regain your place."
     },
     {
-      "id": "q015",
-      "category": "Tenses",
-      "question": "She ___ the report before the manager arrived.",
+      "id": "q10455",
+      "category": "Public Speaking",
+      "question": "The conclusion of a presentation should usually ___.",
       "options": [
-        "finished",
-        "has finished",
-        "had finished",
-        "finishes"
+        "summarise the key message",
+        "introduce several unrelated topics",
+        "repeat every sentence word for word",
+        "avoid any final point"
       ],
-      "answer": 2,
-      "explanation": "Use the past perfect for an action completed before another past action."
+      "answer": 0,
+      "explanation": "A conclusion reinforces the central message and closes the presentation."
     },
     {
-      "id": "q038",
-      "category": "Prepositions",
-      "question": "We have a meeting ___ Monday.",
+      "id": "q10456",
+      "category": "Public Speaking",
+      "question": "Speaking at a moderate pace helps the audience ___.",
       "options": [
-        "in",
-        "at",
-        "on",
-        "by"
+        "follow and understand the message",
+        "avoid hearing the speaker",
+        "read the presenter's mind",
+        "ignore the topic"
       ],
-      "answer": 2,
-      "explanation": "Use on with days and dates."
+      "answer": 0,
+      "explanation": "A measured pace gives listeners time to process information."
     },
     {
-      "id": "q061",
-      "category": "Reading",
-      "question": "Read: 'Mina takes the bus at 8 a.m. and reaches work at 8:45.' How does Mina travel?",
+      "id": "q10457",
+      "category": "Public Speaking",
+      "question": "A rhetorical question is mainly used to ___.",
       "options": [
-        "By train",
-        "By bus",
-        "By car",
-        "On foot"
+        "make the audience think rather than request a direct answer",
+        "collect attendance",
+        "check the microphone battery",
+        "replace every fact"
       ],
-      "answer": 1,
-      "explanation": "The passage clearly says Mina takes the bus."
+      "answer": 0,
+      "explanation": "Rhetorical questions are asked for effect or reflection."
     },
     {
-      "id": "q084",
-      "category": "Confusing Words",
-      "question": "I have ___ my keys.",
+      "id": "q10458",
+      "category": "Public Speaking",
+      "question": "When answering a difficult question, it is acceptable to ___.",
       "options": [
-        "loose",
-        "lose",
-        "lost",
-        "loss"
+        "admit what you do not know and offer to verify it",
+        "invent statistics",
+        "criticise the questioner",
+        "change the subject without explanation"
       ],
-      "answer": 2,
-      "explanation": "Lost is the past participle of lose."
+      "answer": 0,
+      "explanation": "Honesty maintains credibility when information is uncertain."
     },
     {
-      "id": "q107",
-      "category": "Adjectives",
-      "question": "She is the ___ student in the class.",
+      "id": "q10459",
+      "category": "Public Speaking",
+      "question": "A presentation rehearsal helps the speaker ___.",
       "options": [
-        "tall",
-        "taller",
-        "tallest",
-        "more tall"
+        "check timing and improve delivery",
+        "guarantee every audience member agrees",
+        "avoid preparing content",
+        "remove the need for clear slides"
       ],
-      "answer": 2,
-      "explanation": "Use the superlative tallest when comparing one with the whole class."
+      "answer": 0,
+      "explanation": "Rehearsal helps identify timing and delivery issues."
     },
     {
-      "id": "q015",
-      "category": "Tenses",
-      "question": "She ___ the report before the manager arrived.",
+      "id": "q10460",
+      "category": "Public Speaking",
+      "question": "The phrase 'to illustrate this point' introduces ___.",
       "options": [
-        "finished",
-        "has finished",
-        "had finished",
-        "finishes"
+        "an example or explanation",
+        "a farewell message",
+        "a new speaker's biography",
+        "a payment request"
       ],
-      "answer": 2,
-      "explanation": "Use the past perfect for an action completed before another past action."
+      "answer": 0,
+      "explanation": "It signals that an example will make the point clearer."
     }
   ]
 }
