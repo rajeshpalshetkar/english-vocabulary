@@ -3,139 +3,139 @@
   "slug": "quiz-0813",
   "title": "English Practice Quiz 0813",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q022",
-      "category": "Vocabulary",
-      "question": "Choose the opposite of 'polite'.",
+      "id": "q11821",
+      "category": "Hospital Administration",
+      "question": "Hospital Administration 01: A patient discharge should be coordinated with:",
       "options": [
-        "kind",
-        "rude",
-        "helpful",
-        "calm"
-      ],
-      "answer": 1,
-      "explanation": "Rude is the opposite of polite."
-    },
-    {
-      "id": "q035",
-      "category": "Articles",
-      "question": "Mount Everest is ___ highest mountain in the world.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 2,
-      "explanation": "Use the with superlative adjectives."
-    },
-    {
-      "id": "q048",
-      "category": "Sentence Building",
-      "question": "Choose the correct sentence.",
-      "options": [
-        "Because I was tired, I went to bed early.",
-        "Because I tired, went bed early.",
-        "I because was tired bed early.",
-        "Because tired I went early bed."
+        "Authorised clinical and administrative teams",
+        "Unauthorised visitors",
+        "Social media contacts",
+        "An unrelated supplier"
       ],
       "answer": 0,
-      "explanation": "The subordinate clause beginning with because explains the reason."
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q061",
-      "category": "Reading",
-      "question": "Read: 'Mina takes the bus at 8 a.m. and reaches work at 8:45.' How does Mina travel?",
+      "id": "q11822",
+      "category": "Hospital Administration",
+      "question": "Hospital Administration 02: A hospital visitor pass helps:",
       "options": [
-        "By train",
-        "By bus",
-        "By car",
-        "On foot"
-      ],
-      "answer": 1,
-      "explanation": "The passage clearly says Mina takes the bus."
-    },
-    {
-      "id": "q074",
-      "category": "Questions",
-      "question": "Which question asks for a reason?",
-      "options": [
-        "What happened?",
-        "Where are you?",
-        "Why are you late?",
-        "When is lunch?"
-      ],
-      "answer": 2,
-      "explanation": "Why asks for a reason."
-    },
-    {
-      "id": "q087",
-      "category": "Conditionals",
-      "question": "If I had more time, I ___ another language.",
-      "options": [
-        "learn",
-        "will learn",
-        "would learn",
-        "am learn"
-      ],
-      "answer": 2,
-      "explanation": "The second conditional uses would + base verb for an unreal or imagined situation."
-    },
-    {
-      "id": "q100",
-      "category": "Reported Speech",
-      "question": "They said, 'We have finished.'",
-      "options": [
-        "They said they had finished.",
-        "They said they have finish.",
-        "They told finished.",
-        "They said we finished have."
+        "Identify and manage authorised visitors",
+        "Replace patient records",
+        "Confirm a diagnosis",
+        "Approve medication"
       ],
       "answer": 0,
-      "explanation": "Present perfect commonly shifts to past perfect in reported speech."
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q113",
-      "category": "Gerunds",
-      "question": "She is good at ___.",
+      "id": "q11823",
+      "category": "Hospital Administration",
+      "question": "Hospital Administration 03: A patient transfer between departments should include:",
       "options": [
-        "swim",
-        "to swim",
-        "swimming",
-        "swam"
+        "An authorised handover and relevant documentation",
+        "Only a verbal rumour",
+        "No destination details",
+        "A public announcement"
       ],
-      "answer": 2,
-      "explanation": "A preposition such as at is followed by a noun or gerund."
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q011",
-      "category": "Tenses",
-      "question": "Listen! The baby ___.",
+      "id": "q11824",
+      "category": "Hospital Administration",
+      "question": "Hospital Administration 04: A hospital incident report should be:",
       "options": [
-        "cries",
-        "is crying",
-        "cry",
-        "cried"
+        "Factual, timely and completed under policy",
+        "Based on assumptions",
+        "Shared publicly",
+        "Changed to hide mistakes"
       ],
-      "answer": 1,
-      "explanation": "Listen! suggests an action happening now, so use the present continuous."
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q024",
-      "category": "Vocabulary",
-      "question": "If a task is 'urgent', it needs ___.",
+      "id": "q11825",
+      "category": "Hospital Administration",
+      "question": "Hospital Administration 05: A mortuary access register should record:",
       "options": [
-        "no attention",
-        "quick attention",
-        "a holiday",
-        "a receipt"
+        "Authorised entry details as required by policy",
+        "Personal opinions",
+        "Billing queries",
+        "Entertainment choices"
       ],
-      "answer": 1,
-      "explanation": "Urgent means requiring immediate or prompt attention."
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11826",
+      "category": "Hospital Administration",
+      "question": "Hospital Administration 06: When a patient's relative becomes aggressive, staff should:",
+      "options": [
+        "Maintain safety and activate the hospital escalation process",
+        "Argue physically",
+        "Block emergency access",
+        "Ignore threats"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11827",
+      "category": "Hospital Administration",
+      "question": "Hospital Administration 07: A hospital restricted area should be entered:",
+      "options": [
+        "Only by authorised persons",
+        "By any visitor",
+        "Without a reason",
+        "Whenever a door is open"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11828",
+      "category": "Hospital Administration",
+      "question": "Hospital Administration 08: A patient identification check helps prevent:",
+      "options": [
+        "Mix-ups and errors",
+        "Parking delays only",
+        "Power failures",
+        "Roster changes"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11829",
+      "category": "Hospital Administration",
+      "question": "Hospital Administration 09: A hospital emergency code should be communicated:",
+      "options": [
+        "According to the approved code and response procedure",
+        "As a joke",
+        "With invented meanings",
+        "On public social media"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11830",
+      "category": "Hospital Administration",
+      "question": "Hospital Administration 10: Confidential patient documents should be disposed of:",
+      "options": [
+        "Through approved secure disposal methods",
+        "In an open public bin",
+        "At a visitor desk",
+        "In a corridor"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     }
   ]
 }
