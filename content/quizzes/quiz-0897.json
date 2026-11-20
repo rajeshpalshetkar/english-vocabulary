@@ -3,139 +3,139 @@
   "slug": "quiz-0897",
   "title": "English Practice Quiz 0897",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q070",
-      "category": "Workplace English",
-      "question": "To confirm an instruction, you can say:",
+      "id": "q11061",
+      "category": "Training and Development",
+      "question": "A training needs analysis identifies ___.",
       "options": [
-        "Could you please confirm the details?",
-        "I not listen.",
-        "Confirm me now.",
-        "Details no."
-      ],
-      "answer": 0,
-      "explanation": "Could you please confirm... is polite and precise."
-    },
-    {
-      "id": "q099",
-      "category": "Reported Speech",
-      "question": "She said, 'Please sit down.'",
-      "options": [
-        "She told me sit down.",
-        "She asked me to sit down.",
-        "She said me to sit.",
-        "She asked that I sat."
-      ],
-      "answer": 1,
-      "explanation": "A request can be reported with asked + object + to-infinitive."
-    },
-    {
-      "id": "q013",
-      "category": "Tenses",
-      "question": "At 8 p.m. yesterday, I ___ dinner.",
-      "options": [
-        "cook",
-        "cooked",
-        "was cooking",
-        "am cooking"
+        "paint colour",
+        "visitor numbers",
+        "skills or knowledge employees need to develop",
+        "advertising budget"
       ],
       "answer": 2,
-      "explanation": "Use the past continuous for an action in progress at a specific past time."
+      "explanation": "skills or knowledge employees need to develop is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q042",
-      "category": "Modals",
-      "question": "You ___ smoke inside the hospital.",
+      "id": "q11062",
+      "category": "Training and Development",
+      "question": "A learning objective describes ___.",
       "options": [
-        "must",
-        "mustn't",
-        "should",
-        "could"
+        "trainer interests",
+        "what a participant should be able to do after training",
+        "room decoration",
+        "company history"
       ],
       "answer": 1,
-      "explanation": "Mustn't expresses prohibition."
+      "explanation": "what a participant should be able to do after training is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q071",
-      "category": "Questions",
-      "question": "Choose the correct WH question for a place.",
+      "id": "q11063",
+      "category": "Training and Development",
+      "question": "A practical demonstration allows learners to ___.",
       "options": [
-        "When do you live?",
-        "Where do you live?",
-        "Who do you live?",
-        "Why do you live?"
-      ],
-      "answer": 1,
-      "explanation": "Where asks about a place or location."
-    },
-    {
-      "id": "q100",
-      "category": "Reported Speech",
-      "question": "They said, 'We have finished.'",
-      "options": [
-        "They said they had finished.",
-        "They said they have finish.",
-        "They told finished.",
-        "They said we finished have."
+        "observe how a task is performed",
+        "avoid participation",
+        "skip safety instructions",
+        "replace procedures"
       ],
       "answer": 0,
-      "explanation": "Present perfect commonly shifts to past perfect in reported speech."
+      "explanation": "observe how a task is performed is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q014",
-      "category": "Tenses",
-      "question": "I think it ___ tomorrow.",
+      "id": "q11064",
+      "category": "Training and Development",
+      "question": "A refresher course is intended to ___.",
       "options": [
-        "rains",
-        "rained",
-        "will rain",
-        "raining"
+        "replace experience",
+        "remove supervision",
+        "cancel reviews",
+        "reinforce and update existing knowledge or skills"
+      ],
+      "answer": 3,
+      "explanation": "reinforce and update existing knowledge or skills is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q11065",
+      "category": "Training and Development",
+      "question": "Training attendance records should be ___.",
+      "options": [
+        "shared publicly",
+        "filled in by guessing",
+        "accurate and maintained according to policy",
+        "discarded immediately"
       ],
       "answer": 2,
-      "explanation": "Will plus the base verb can express a future prediction."
+      "explanation": "accurate and maintained according to policy is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q043",
-      "category": "Modals",
-      "question": "When I was five, I ___ swim.",
+      "id": "q11066",
+      "category": "Training and Development",
+      "question": "A competency assessment checks whether a learner can ___.",
       "options": [
-        "can",
-        "could",
-        "may",
-        "must"
+        "recite a biography",
+        "perform a task to the required standard",
+        "attend without participating",
+        "choose a uniform"
       ],
       "answer": 1,
-      "explanation": "Could expresses past ability."
+      "explanation": "perform a task to the required standard is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q072",
-      "category": "Questions",
-      "question": "Which question asks about time?",
+      "id": "q11067",
+      "category": "Training and Development",
+      "question": "Constructive feedback should be ___.",
       "options": [
-        "Who is calling?",
-        "When does the train leave?",
-        "Where is the station?",
-        "Why are you here?"
+        "specific, respectful and useful for improvement",
+        "insulting",
+        "vague and unrelated",
+        "based on rumours"
       ],
-      "answer": 1,
-      "explanation": "When asks about time."
+      "answer": 0,
+      "explanation": "specific, respectful and useful for improvement is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q101",
-      "category": "Determiners",
-      "question": "There isn't ___ milk left.",
+      "id": "q11068",
+      "category": "Training and Development",
+      "question": "A training evaluation helps determine ___.",
       "options": [
-        "many",
-        "much",
-        "few",
-        "several"
+        "trainer's favourite subject",
+        "room rental value",
+        "number of emails",
+        "whether learning objectives were achieved"
+      ],
+      "answer": 3,
+      "explanation": "whether learning objectives were achieved is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q11069",
+      "category": "Training and Development",
+      "question": "A job aid is designed to ___.",
+      "options": [
+        "replace every manager",
+        "record private conversations",
+        "support employees while performing a task",
+        "advertise services"
+      ],
+      "answer": 2,
+      "explanation": "support employees while performing a task is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q11070",
+      "category": "Training and Development",
+      "question": "A development plan should include ___.",
+      "options": [
+        "personal opinions only",
+        "learning goals, actions and review dates",
+        "unrelated holidays",
+        "unapproved salary promises"
       ],
       "answer": 1,
-      "explanation": "Milk is uncountable, so use much in a negative sentence."
+      "explanation": "learning goals, actions and review dates is the correct answer based on the meaning and context of the question."
     }
   ]
 }
