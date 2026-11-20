@@ -3,139 +3,139 @@
   "slug": "quiz-0844",
   "title": "English Practice Quiz 0844",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q089",
-      "category": "Conditionals",
-      "question": "If she studies, she ___ the test.",
+      "id": "q11531",
+      "category": "Workplace Ethics",
+      "question": "Workplace Ethics 01: A conflict of interest occurs when:",
       "options": [
-        "passes",
-        "passed",
-        "will pass",
-        "would passed"
-      ],
-      "answer": 2,
-      "explanation": "Use will + base verb in the main clause of the first conditional."
-    },
-    {
-      "id": "q106",
-      "category": "Adjectives",
-      "question": "The test was ___ than I expected.",
-      "options": [
-        "easy",
-        "easier",
-        "easiest",
-        "more easy"
-      ],
-      "answer": 1,
-      "explanation": "Use the comparative form easier."
-    },
-    {
-      "id": "q008",
-      "category": "Grammar",
-      "question": "This is the woman ___ helped me.",
-      "options": [
-        "which",
-        "who",
-        "where",
-        "when"
-      ],
-      "answer": 1,
-      "explanation": "Who is used for people."
-    },
-    {
-      "id": "q025",
-      "category": "Vocabulary",
-      "question": "A person you can trust is ___.",
-      "options": [
-        "reliable",
-        "careless",
-        "silent",
-        "narrow"
+        "Personal interests may influence professional judgement",
+        "A task has a deadline",
+        "A meeting is postponed",
+        "A report has an appendix"
       ],
       "answer": 0,
-      "explanation": "Reliable means dependable or trustworthy."
+      "explanation": "A conflict of interest occurs when: The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q042",
-      "category": "Modals",
-      "question": "You ___ smoke inside the hospital.",
+      "id": "q11532",
+      "category": "Workplace Ethics",
+      "question": "Workplace Ethics 02: An improper supplier gift should be handled by:",
       "options": [
-        "must",
-        "mustn't",
-        "should",
-        "could"
+        "Following the organisation's gift policy",
+        "Accepting secretly",
+        "Demanding more gifts",
+        "Changing records"
       ],
-      "answer": 1,
-      "explanation": "Mustn't expresses prohibition."
+      "answer": 0,
+      "explanation": "An improper supplier gift should be handled by: The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q059",
-      "category": "Pronunciation",
-      "question": "Which word rhymes with 'light'?",
+      "id": "q11533",
+      "category": "Workplace Ethics",
+      "question": "Workplace Ethics 03: Whistleblowing means:",
       "options": [
-        "late",
-        "lit",
-        "night",
-        "let"
+        "Reporting suspected wrongdoing through an appropriate channel",
+        "Spreading rumours",
+        "Ignoring misconduct",
+        "Changing attendance"
       ],
-      "answer": 2,
-      "explanation": "Light and night share the same ending sound."
+      "answer": 0,
+      "explanation": "Whistleblowing means: The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q076",
-      "category": "Punctuation",
-      "question": "Choose the correctly punctuated sentence.",
+      "id": "q11534",
+      "category": "Workplace Ethics",
+      "question": "Workplace Ethics 04: Confidential information is shared:",
       "options": [
-        "where are you.",
-        "Where are you?",
-        "Where are you,",
-        "where are you!"
+        "Only with authorised people for a legitimate purpose",
+        "With all visitors",
+        "On public social media",
+        "With friends"
       ],
-      "answer": 1,
-      "explanation": "Start with a capital letter and use a question mark."
+      "answer": 0,
+      "explanation": "Confidential information is shared: The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q093",
-      "category": "Passive Voice",
-      "question": "The work ___ tomorrow.",
+      "id": "q11535",
+      "category": "Workplace Ethics",
+      "question": "Workplace Ethics 05: An ethical decision considers:",
       "options": [
-        "will complete",
-        "will be completed",
-        "completed",
-        "is completing"
+        "Policy, law, fairness and consequences",
+        "Personal gain only",
+        "Popularity only",
+        "Convenience at any cost"
       ],
-      "answer": 1,
-      "explanation": "Future passive uses will be + past participle."
+      "answer": 0,
+      "explanation": "An ethical decision considers: The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q110",
-      "category": "Adverbs",
-      "question": "Please drive ___.",
+      "id": "q11536",
+      "category": "Workplace Ethics",
+      "question": "Workplace Ethics 06: An error in an official record should be:",
       "options": [
-        "careful",
-        "carefully",
-        "care",
-        "caring"
+        "Reported and corrected through the approved process",
+        "Hidden",
+        "Blamed on a colleague",
+        "Deleted entirely"
       ],
-      "answer": 1,
-      "explanation": "Carefully is the adverb modifying drive."
+      "answer": 0,
+      "explanation": "An error in an official record should be: The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q012",
-      "category": "Tenses",
-      "question": "We ___ here since 2022.",
+      "id": "q11537",
+      "category": "Workplace Ethics",
+      "question": "Workplace Ethics 07: Accountability means:",
       "options": [
-        "live",
-        "lived",
-        "have lived",
-        "are live"
+        "Accepting responsibility and following through",
+        "Blaming others",
+        "Withholding information",
+        "Avoiding duties"
       ],
-      "answer": 2,
-      "explanation": "Since gives a starting point; the present perfect connects the past to now."
+      "answer": 0,
+      "explanation": "Accountability means: The first option is correct because it reflects the relevant principle or standard."
+    },
+    {
+      "id": "q11538",
+      "category": "Workplace Ethics",
+      "question": "Workplace Ethics 08: Favouritism undermines:",
+      "options": [
+        "Fairness and trust",
+        "Printer speed",
+        "Building capacity",
+        "File compression"
+      ],
+      "answer": 0,
+      "explanation": "Favouritism undermines: The first option is correct because it reflects the relevant principle or standard."
+    },
+    {
+      "id": "q11539",
+      "category": "Workplace Ethics",
+      "question": "Workplace Ethics 09: A code of conduct sets out:",
+      "options": [
+        "Expected standards of behaviour",
+        "Lunch menu",
+        "Passwords",
+        "Weather forecast"
+      ],
+      "answer": 0,
+      "explanation": "A code of conduct sets out: The first option is correct because it reflects the relevant principle or standard."
+    },
+    {
+      "id": "q11540",
+      "category": "Workplace Ethics",
+      "question": "Workplace Ethics 10: Harassment witnessed at work should be:",
+      "options": [
+        "Reported through designated procedures",
+        "Encouraged",
+        "Met with physical retaliation",
+        "Posted without verification"
+      ],
+      "answer": 0,
+      "explanation": "Harassment witnessed at work should be: The first option is correct because it reflects the relevant principle or standard."
     }
   ]
 }
