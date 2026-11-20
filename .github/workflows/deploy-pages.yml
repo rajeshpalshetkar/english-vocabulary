@@ -31,7 +31,7 @@ jobs:
         with:
           python-version: "3.11"
           cache: pip
-      - run: pip install -r requirements.txt
+      - run: pip install Markdown==3.10 bleach==6.3.0
       - name: Build SEO pages from JSON
         run: python scripts/build_site.py
       - uses: actions/upload-pages-artifact@v3
