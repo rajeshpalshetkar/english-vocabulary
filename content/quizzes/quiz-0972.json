@@ -3,139 +3,139 @@
   "slug": "quiz-0972",
   "title": "English Practice Quiz 0972",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q080",
-      "category": "Punctuation",
-      "question": "Choose the correctly written date phrase.",
+      "id": "q10211",
+      "category": "Customer Service",
+      "question": "A visitor appears confused at the entrance. You should first ___.",
       "options": [
-        "on monday",
-        "on Monday",
-        "On monday",
-        "on Monday."
-      ],
-      "answer": 1,
-      "explanation": "Days of the week begin with a capital letter."
-    },
-    {
-      "id": "q091",
-      "category": "Passive Voice",
-      "question": "Choose the passive form: 'They clean the room.'",
-      "options": [
-        "The room cleaned them.",
-        "The room is cleaned by them.",
-        "The room is cleaning.",
-        "The room has clean."
-      ],
-      "answer": 1,
-      "explanation": "Present simple passive: am/is/are + past participle."
-    },
-    {
-      "id": "q102",
-      "category": "Determiners",
-      "question": "How ___ apples do you need?",
-      "options": [
-        "much",
-        "many",
-        "little",
-        "any"
-      ],
-      "answer": 1,
-      "explanation": "Apples are countable plural nouns, so use many."
-    },
-    {
-      "id": "q113",
-      "category": "Gerunds",
-      "question": "She is good at ___.",
-      "options": [
-        "swim",
-        "to swim",
-        "swimming",
-        "swam"
-      ],
-      "answer": 2,
-      "explanation": "A preposition such as at is followed by a noun or gerund."
-    },
-    {
-      "id": "q009",
-      "category": "Grammar",
-      "question": "Choose the correct comparative form.",
-      "options": [
-        "more tall",
-        "taller",
-        "tallest than",
-        "most tall"
-      ],
-      "answer": 1,
-      "explanation": "The comparative form of the short adjective tall is taller."
-    },
-    {
-      "id": "q020",
-      "category": "Tenses",
-      "question": "By next June, he ___ the course.",
-      "options": [
-        "completes",
-        "completed",
-        "will have completed",
-        "has complete"
-      ],
-      "answer": 2,
-      "explanation": "The future perfect describes an action completed before a future time."
-    },
-    {
-      "id": "q031",
-      "category": "Articles",
-      "question": "I saw ___ elephant at the zoo.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "Use an before a vowel sound."
-    },
-    {
-      "id": "q042",
-      "category": "Modals",
-      "question": "You ___ smoke inside the hospital.",
-      "options": [
-        "must",
-        "mustn't",
-        "should",
-        "could"
-      ],
-      "answer": 1,
-      "explanation": "Mustn't expresses prohibition."
-    },
-    {
-      "id": "q053",
-      "category": "Conversation",
-      "question": "A visitor asks, 'Where is reception?' You say:",
-      "options": [
-        "It is near the main entrance.",
-        "I am reception.",
-        "Yesterday at home.",
-        "No, it isn't."
+        "greet them and ask how you can help",
+        "point without speaking",
+        "tell them to leave",
+        "ignore them"
       ],
       "answer": 0,
-      "explanation": "Give a clear location using a complete sentence."
+      "explanation": "A polite greeting opens a helpful interaction."
     },
     {
-      "id": "q064",
-      "category": "Reading",
-      "question": "Read: 'The meeting was cancelled because the manager was ill.' Why was it cancelled?",
+      "id": "q10212",
+      "category": "Customer Service",
+      "question": "An 'enquiry' is a request for ___.",
       "options": [
-        "The room was full",
-        "The manager was ill",
-        "It was Sunday",
-        "The staff were late"
+        "information",
+        "punishment",
+        "a receipt only",
+        "a delivery vehicle"
       ],
-      "answer": 1,
-      "explanation": "The reason is explicitly stated: the manager was ill."
+      "answer": 0,
+      "explanation": "An enquiry is a question or request for information."
+    },
+    {
+      "id": "q10213",
+      "category": "Customer Service",
+      "question": "A customer is upset about waiting. The best response is to ___.",
+      "options": [
+        "acknowledge the delay and explain the next step",
+        "argue about the clock",
+        "walk away",
+        "make a promise you cannot keep"
+      ],
+      "answer": 0,
+      "explanation": "Acknowledging the concern and explaining the next step is constructive."
+    },
+    {
+      "id": "q10214",
+      "category": "Customer Service",
+      "question": "Which phrase offers assistance politely?",
+      "options": [
+        "How may I help you?",
+        "Why are you here?",
+        "What do you want now?",
+        "Speak quickly."
+      ],
+      "answer": 0,
+      "explanation": "How may I help you? is a courteous service phrase."
+    },
+    {
+      "id": "q10215",
+      "category": "Customer Service",
+      "question": "To 'resolve' a complaint means to ___.",
+      "options": [
+        "find a satisfactory solution",
+        "make it more confusing",
+        "hide the complaint",
+        "delay it indefinitely"
+      ],
+      "answer": 0,
+      "explanation": "Resolve means settle or solve a problem."
+    },
+    {
+      "id": "q10216",
+      "category": "Customer Service",
+      "question": "If you cannot answer a visitor's question, you should ___.",
+      "options": [
+        "direct them to the appropriate person",
+        "invent an answer",
+        "blame the visitor",
+        "end the conversation abruptly"
+      ],
+      "answer": 0,
+      "explanation": "Referring the visitor to the right person avoids misinformation."
+    },
+    {
+      "id": "q10217",
+      "category": "Customer Service",
+      "question": "A 'courtesy' is an act of ___.",
+      "options": [
+        "politeness and consideration",
+        "carelessness",
+        "disagreement",
+        "delay"
+      ],
+      "answer": 0,
+      "explanation": "Courtesy means polite and considerate behaviour."
+    },
+    {
+      "id": "q10218",
+      "category": "Customer Service",
+      "question": "Which sentence is suitable when asking someone to wait?",
+      "options": [
+        "Could you please wait here for a moment?",
+        "Stand there and be quiet.",
+        "Wait because I said so.",
+        "You cannot ask anything."
+      ],
+      "answer": 0,
+      "explanation": "This request is respectful and specific."
+    },
+    {
+      "id": "q10219",
+      "category": "Customer Service",
+      "question": "A service is 'efficient' when it ___.",
+      "options": [
+        "works well without unnecessary waste",
+        "takes as long as possible",
+        "creates extra steps",
+        "avoids every customer"
+      ],
+      "answer": 0,
+      "explanation": "Efficiency means achieving results with effective use of time and resources."
+    },
+    {
+      "id": "q10220",
+      "category": "Customer Service",
+      "question": "After receiving a complaint, staff should record ___.",
+      "options": [
+        "the issue and relevant facts",
+        "personal assumptions",
+        "private gossip",
+        "unrelated preferences"
+      ],
+      "answer": 0,
+      "explanation": "A factual record supports proper follow-up."
     }
   ]
 }
