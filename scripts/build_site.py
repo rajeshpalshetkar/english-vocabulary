@@ -25,8 +25,8 @@ def page(title,description,canonical,body,extra_head=""):
 <meta property="og:type" content="article"><meta property="og:title" content="{esc(title)}"><meta property="og:description" content="{esc(description)}"><meta property="og:url" content="{esc(canonical)}">
 <meta name="twitter:card" content="summary"><meta name="theme-color" content="#123b72">
 {extra_head}<link rel="stylesheet" href="/assets/style.css"></head>
-<body><header class="top"><a href="/" class="brand">English Fluency Guide</a><nav><a href="/library/">Learning Library</a><a href="/30-day-challenge/">30-Day Challenge</a><a href="/365-day-practice/">365-Day Practice</a></nav></header>
-<main class="wrap">{body}</main><footer><p>© {CFG["site_name"]}. Learn, practise and improve every day.</p><a href="/about/">About</a> · <a href="/privacy/">Privacy</a> · <a href="/contact/">Contact</a></footer></body></html>"""
+<body><header class="top"><a href="/" class="brand"><span class="brand-mark">E</span><span>English Fluency Guide</span></a><nav aria-label="Main navigation"><a href="/library/">Learning Library</a><a href="/30-day-challenge/">30-Day Challenge</a><a href="/365-day-practice/">365-Day Practice</a></nav></header>
+<main class="wrap">{body}</main><footer><p>© {CFG["site_name"]}. Learn, practise and improve every day.</p><a href="/about/">About</a> · <a href="/privacy/">Privacy</a> · <a href="/contact/">Contact</a></footer><nav class="mobile-nav" aria-label="App navigation"><a href="/"><span>⌂</span><small>Home</small></a><a href="/library/"><span>▦</span><small>Library</small></a><a href="/30-day-challenge/"><span>✓</span><small>30 Days</small></a><a href="/365-day-practice/"><span>◷</span><small>365 Days</small></a></nav></body></html>"""
 
 def write(rel,content):
     p=OUT/rel
