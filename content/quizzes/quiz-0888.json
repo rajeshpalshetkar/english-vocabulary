@@ -3,139 +3,139 @@
   "slug": "quiz-0888",
   "title": "English Practice Quiz 0888",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q032",
-      "category": "Articles",
-      "question": "She is ___ university student.",
+      "id": "q11171",
+      "category": "Travel and Directions",
+      "question": "If a train is 'delayed', it is:",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
+        "running later than scheduled",
+        "running ahead of schedule",
+        "cancelled permanently",
+        "at the final platform"
       ],
       "answer": 0,
-      "explanation": "University begins with the consonant sound /y/, so use a."
+      "explanation": "Delayed means happening later than planned."
     },
     {
-      "id": "q063",
-      "category": "Reading",
-      "question": "Read: 'Ravi practises English for twenty minutes every evening.' How long does he practise?",
+      "id": "q11172",
+      "category": "Travel and Directions",
+      "question": "A return ticket normally covers:",
       "options": [
-        "Ten minutes",
-        "Twenty minutes",
-        "Thirty minutes",
-        "One hour"
-      ],
-      "answer": 1,
-      "explanation": "The passage states twenty minutes."
-    },
-    {
-      "id": "q094",
-      "category": "Passive Voice",
-      "question": "English ___ in many countries.",
-      "options": [
-        "speaks",
-        "is spoken",
-        "spoken",
-        "is speaking"
-      ],
-      "answer": 1,
-      "explanation": "Present simple passive: is spoken."
-    },
-    {
-      "id": "q010",
-      "category": "Grammar",
-      "question": "You ___ wear your identity card at work.",
-      "options": [
-        "should to",
-        "should",
-        "are should",
-        "shoulds"
-      ],
-      "answer": 1,
-      "explanation": "Modal verbs such as should are followed by the base verb without to."
-    },
-    {
-      "id": "q041",
-      "category": "Modals",
-      "question": "___ I borrow your pen, please?",
-      "options": [
-        "May",
-        "Must",
-        "Should",
-        "Would have"
+        "a journey to a destination and back",
+        "one journey only",
+        "unlimited travel",
+        "a hotel stay"
       ],
       "answer": 0,
-      "explanation": "May is a polite way to ask permission."
+      "explanation": "A return ticket includes the outward and return journeys."
     },
     {
-      "id": "q072",
-      "category": "Questions",
-      "question": "Which question asks about time?",
+      "id": "q11173",
+      "category": "Travel and Directions",
+      "question": "'Change at the next station' means you must:",
       "options": [
-        "Who is calling?",
-        "When does the train leave?",
-        "Where is the station?",
-        "Why are you here?"
+        "transfer to another train there",
+        "leave the city permanently",
+        "buy a new passport",
+        "wait for a bus"
+      ],
+      "answer": 0,
+      "explanation": "Change means transfer to another service."
+    },
+    {
+      "id": "q11174",
+      "category": "Travel and Directions",
+      "question": "Which question asks for directions politely?",
+      "options": [
+        "Where is the station, please?",
+        "You tell station now.",
+        "Station, where?",
+        "Why station there?"
+      ],
+      "answer": 0,
+      "explanation": "This is a clear and polite request for directions."
+    },
+    {
+      "id": "q11175",
+      "category": "Travel and Directions",
+      "question": "A passenger asks whether the bus stops near the hospital. The best reply is:",
+      "options": [
+        "I am not a bus.",
+        "Yes, it stops near the hospital.",
+        "Hospitals are busy.",
+        "Ask tomorrow."
       ],
       "answer": 1,
-      "explanation": "When asks about time."
+      "explanation": "The reply directly answers the passenger's question."
     },
     {
-      "id": "q103",
-      "category": "Determiners",
-      "question": "I have ___ friends in this city.",
+      "id": "q11176",
+      "category": "Travel and Directions",
+      "question": "A 'platform' at a railway station is:",
       "options": [
-        "a little",
-        "a few",
-        "much",
-        "anyone"
+        "the area where passengers board trains",
+        "a luggage receipt",
+        "a road crossing",
+        "a ticket machine password"
       ],
-      "answer": 1,
-      "explanation": "A few is used with countable plural nouns."
+      "answer": 0,
+      "explanation": "Passengers wait on the platform to board a train."
     },
     {
-      "id": "q019",
-      "category": "Tenses",
-      "question": "She ___ in this hospital for five years.",
+      "id": "q11177",
+      "category": "Travel and Directions",
+      "question": "If your flight is 'rescheduled', its:",
       "options": [
-        "works",
-        "worked",
-        "has worked",
-        "is work"
+        "time or date has been changed",
+        "seat has been removed",
+        "destination is always cancelled",
+        "baggage is lost"
       ],
-      "answer": 2,
-      "explanation": "The present perfect can describe a situation continuing to the present."
+      "answer": 0,
+      "explanation": "Rescheduled means arranged for a different time or date."
     },
     {
-      "id": "q050",
-      "category": "Sentence Building",
-      "question": "Choose the correct sentence.",
+      "id": "q11178",
+      "category": "Travel and Directions",
+      "question": "Which phrase indicates approximate distance?",
       "options": [
-        "There is many books.",
-        "There are many books.",
-        "There be many books.",
-        "There am many books."
+        "It is about two kilometres away.",
+        "It is exactly tomorrow.",
+        "It is very loudly.",
+        "It is under the weather."
       ],
-      "answer": 1,
-      "explanation": "Use there are with plural nouns."
+      "answer": 0,
+      "explanation": "About two kilometres expresses an approximate distance."
     },
     {
-      "id": "q081",
-      "category": "Confusing Words",
-      "question": "Choose the correct word: ___ going to arrive soon.",
+      "id": "q11179",
+      "category": "Travel and Directions",
+      "question": "'Pedestrian crossing' refers to:",
       "options": [
-        "Their",
-        "There",
-        "They're",
-        "Theirs"
+        "a marked place for people to cross a road",
+        "a vehicle repair shop",
+        "a railway ticket counter",
+        "a parking permit"
       ],
-      "answer": 2,
-      "explanation": "They're is the contraction of they are."
+      "answer": 0,
+      "explanation": "A pedestrian crossing is designated for people crossing the road."
+    },
+    {
+      "id": "q11180",
+      "category": "Travel and Directions",
+      "question": "If you miss a connection, you should:",
+      "options": [
+        "contact the transport provider for the next option",
+        "enter a restricted area",
+        "hide your ticket",
+        "board any vehicle"
+      ],
+      "answer": 0,
+      "explanation": "The provider can explain available onward travel options."
     }
   ]
 }
