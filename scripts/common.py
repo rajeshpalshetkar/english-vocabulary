@@ -1,9 +1,9 @@
-import json, re
+import json, re, sys
 from pathlib import Path
 import bleach, markdown
-from config import CANONICAL_LABELS, MAX_DESCRIPTION_LENGTH, MAX_TITLE_LENGTH, MIN_PAGE_WORDS, MIN_POST_WORDS
-
 ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT / "engine"))
+from config import CANONICAL_LABELS, MAX_DESCRIPTION_LENGTH, MAX_TITLE_LENGTH, MIN_PAGE_WORDS, MIN_POST_WORDS
 
 def load_article(path):
     p=Path(path)
