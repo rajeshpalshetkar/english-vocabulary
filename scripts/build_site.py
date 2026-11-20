@@ -44,6 +44,9 @@ def main():
     for f in sorted(LESSONS.glob("*.json")):
         if f.name in {"lesson-template.json", "README.json"}: continue
         a=json.loads(f.read_text(encoding="utf-8"))
+        if a.get("author_reviewed") is not True:
+            print(f"Draft not published (author_reviewed is not true): {f.name}")
+            continue
         required=["title","description","slug","labels","body_markdown"]
         missing=[k for k in required if not a.get(k)]
         if missing: raise ValueError(f"{f}: missing {missing}")
