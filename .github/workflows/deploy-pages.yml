@@ -6,9 +6,11 @@ on:
     paths:
       - "content/data/**"
       - "content/lessons/**"
+      - "content/quizzes/**"
       - "site/**"
       - "scripts/build_site.py"
       - "scripts/common.py"
+      - "scripts/audit_quizzes.py"
       - "engine/config.py"
       - "requirements.txt"
   workflow_dispatch:
@@ -32,6 +34,8 @@ jobs:
           python-version: "3.11"
           cache: pip
       - run: pip install Markdown==3.10 bleach==6.3.0
+      - name: Audit duplicate quiz questions
+        run: python scripts/audit_quizzes.py
       - name: Build SEO pages from JSON
         run: python scripts/build_site.py
       - uses: actions/upload-pages-artifact@v3
