@@ -3,139 +3,139 @@
   "slug": "quiz-0850",
   "title": "English Practice Quiz 0850",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q076",
-      "category": "Punctuation",
-      "question": "Choose the correctly punctuated sentence.",
+      "id": "q11591",
+      "category": "Training and Development",
+      "question": "Training and Development 01: A training needs analysis identifies:",
       "options": [
-        "where are you.",
-        "Where are you?",
-        "Where are you,",
-        "where are you!"
-      ],
-      "answer": 1,
-      "explanation": "Start with a capital letter and use a question mark."
-    },
-    {
-      "id": "q083",
-      "category": "Confusing Words",
-      "question": "Please ___ the correct answer.",
-      "options": [
-        "choose",
-        "chose",
-        "choice",
-        "chosen"
+        "Skills employees need to develop",
+        "Annual leave balances",
+        "Office paint colours",
+        "Supplier addresses"
       ],
       "answer": 0,
-      "explanation": "Choose is the base verb used after please."
+      "explanation": "A training needs analysis identifies: The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q090",
-      "category": "Conditionals",
-      "question": "If I were you, I ___ apologise.",
+      "id": "q11592",
+      "category": "Training and Development",
+      "question": "Training and Development 02: A learning objective should be:",
       "options": [
-        "will",
-        "would",
-        "am",
-        "did"
+        "Specific and measurable",
+        "Vague and unlimited",
+        "Unrelated to the role",
+        "Impossible to assess"
       ],
-      "answer": 1,
-      "explanation": "If I were you is followed by would for advice."
+      "answer": 0,
+      "explanation": "A learning objective should be: The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q097",
-      "category": "Reported Speech",
-      "question": "She said, 'I can swim.'",
+      "id": "q11593",
+      "category": "Training and Development",
+      "question": "Training and Development 03: A practical demonstration lets learners:",
       "options": [
-        "She said she can swam.",
-        "She said that she could swim.",
-        "She said she swims can.",
-        "She told that could swim."
+        "Show a skill by performing it",
+        "Only read a policy",
+        "Skip practice",
+        "Avoid feedback"
       ],
-      "answer": 1,
-      "explanation": "Can commonly changes to could in reported speech after a past reporting verb."
+      "answer": 0,
+      "explanation": "A practical demonstration lets learners: The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q104",
-      "category": "Determiners",
-      "question": "There is ___ water in the bottle.",
+      "id": "q11594",
+      "category": "Training and Development",
+      "question": "Training and Development 04: Constructive feedback should be:",
       "options": [
-        "a few",
-        "many",
-        "a little",
-        "several"
+        "Specific, timely and respectful",
+        "Insulting",
+        "Delayed indefinitely",
+        "Based on rumours"
       ],
-      "answer": 2,
-      "explanation": "A little is used with uncountable nouns."
+      "answer": 0,
+      "explanation": "Constructive feedback should be: The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q111",
-      "category": "Gerunds",
-      "question": "I enjoy ___ books.",
+      "id": "q11595",
+      "category": "Training and Development",
+      "question": "Training and Development 05: A refresher course is intended to:",
       "options": [
-        "read",
-        "to read",
-        "reading",
-        "reads"
+        "Reinforce and update existing knowledge",
+        "Replace all experience",
+        "Cancel procedures",
+        "Issue salary slips"
       ],
-      "answer": 2,
-      "explanation": "Enjoy is followed by a gerund (-ing form)."
+      "answer": 0,
+      "explanation": "A refresher course is intended to: The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q003",
-      "category": "Grammar",
-      "question": "I ___ a new notebook yesterday.",
+      "id": "q11596",
+      "category": "Training and Development",
+      "question": "Training and Development 06: Competency means:",
       "options": [
-        "buy",
-        "buys",
-        "bought",
-        "buying"
+        "Ability to perform a task to the required standard",
+        "Job title only",
+        "Attendance alone",
+        "Years of service only"
       ],
-      "answer": 2,
-      "explanation": "Yesterday signals the past simple. The past form of buy is bought."
+      "answer": 0,
+      "explanation": "Competency means: The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q010",
-      "category": "Grammar",
-      "question": "You ___ wear your identity card at work.",
+      "id": "q11597",
+      "category": "Training and Development",
+      "question": "Training and Development 07: A training evaluation measures:",
       "options": [
-        "should to",
-        "should",
-        "are should",
-        "shoulds"
+        "Whether learning objectives were achieved",
+        "Classroom colour",
+        "Staff popularity",
+        "Trainer commute"
       ],
-      "answer": 1,
-      "explanation": "Modal verbs such as should are followed by the base verb without to."
+      "answer": 0,
+      "explanation": "A training evaluation measures: The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q017",
-      "category": "Tenses",
-      "question": "They ___ football every Sunday.",
+      "id": "q11598",
+      "category": "Training and Development",
+      "question": "Training and Development 08: On-the-job training takes place:",
       "options": [
-        "plays",
-        "are play",
-        "play",
-        "playing"
+        "While performing work under suitable guidance",
+        "Only at home",
+        "Without safety supervision",
+        "Through advertisements"
       ],
-      "answer": 2,
-      "explanation": "Use the base verb with the plural subject they in the present simple."
+      "answer": 0,
+      "explanation": "On-the-job training takes place: The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q024",
-      "category": "Vocabulary",
-      "question": "If a task is 'urgent', it needs ___.",
+      "id": "q11599",
+      "category": "Training and Development",
+      "question": "Training and Development 09: A development plan should include:",
       "options": [
-        "no attention",
-        "quick attention",
-        "a holiday",
-        "a receipt"
+        "Learning goals, actions and review dates",
+        "Rumours",
+        "Passwords",
+        "No measurable steps"
       ],
-      "answer": 1,
-      "explanation": "Urgent means requiring immediate or prompt attention."
+      "answer": 0,
+      "explanation": "A development plan should include: The first option is correct because it reflects the relevant principle or standard."
+    },
+    {
+      "id": "q11600",
+      "category": "Training and Development",
+      "question": "Training and Development 10: Training records document:",
+      "options": [
+        "Participation and competency evidence",
+        "Private gossip",
+        "Passwords",
+        "Nothing useful"
+      ],
+      "answer": 0,
+      "explanation": "Training records document: The first option is correct because it reflects the relevant principle or standard."
     }
   ]
 }
