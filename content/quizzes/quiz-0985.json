@@ -3,139 +3,139 @@
   "slug": "quiz-0985",
   "title": "English Practice Quiz 0985",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q071",
-      "category": "Questions",
-      "question": "Choose the correct WH question for a place.",
+      "id": "q10141",
+      "category": "Education and Learning",
+      "question": "A 'scholarship' is financial support for ___.",
       "options": [
-        "When do you live?",
-        "Where do you live?",
-        "Who do you live?",
-        "Why do you live?"
-      ],
-      "answer": 1,
-      "explanation": "Where asks about a place or location."
-    },
-    {
-      "id": "q090",
-      "category": "Conditionals",
-      "question": "If I were you, I ___ apologise.",
-      "options": [
-        "will",
-        "would",
-        "am",
-        "did"
-      ],
-      "answer": 1,
-      "explanation": "If I were you is followed by would for advice."
-    },
-    {
-      "id": "q109",
-      "category": "Adverbs",
-      "question": "She arrived ___.",
-      "options": [
-        "late",
-        "lately",
-        "latest",
-        "laterly"
+        "education",
+        "shopping",
+        "transport fines",
+        "restaurant meals"
       ],
       "answer": 0,
-      "explanation": "Late is the correct adverb meaning not on time."
+      "explanation": "A scholarship helps fund a student's education."
     },
     {
-      "id": "q013",
-      "category": "Tenses",
-      "question": "At 8 p.m. yesterday, I ___ dinner.",
+      "id": "q10142",
+      "category": "Education and Learning",
+      "question": "To 'revise' for an examination means to ___.",
       "options": [
-        "cook",
-        "cooked",
-        "was cooking",
-        "am cooking"
-      ],
-      "answer": 2,
-      "explanation": "Use the past continuous for an action in progress at a specific past time."
-    },
-    {
-      "id": "q032",
-      "category": "Articles",
-      "question": "She is ___ university student.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
+        "study material again",
+        "cancel the examination",
+        "write a new textbook",
+        "change the classroom"
       ],
       "answer": 0,
-      "explanation": "University begins with the consonant sound /y/, so use a."
+      "explanation": "Revise means review or study previously learned material."
     },
     {
-      "id": "q051",
-      "category": "Conversation",
-      "question": "Someone says, 'Thank you for your help.' You reply:",
+      "id": "q10143",
+      "category": "Education and Learning",
+      "question": "A student who is 'attentive' ___.",
       "options": [
-        "Never mind you.",
-        "You're welcome.",
-        "I am welcome you.",
-        "No thank."
-      ],
-      "answer": 1,
-      "explanation": "You're welcome is a natural response to thank you."
-    },
-    {
-      "id": "q070",
-      "category": "Workplace English",
-      "question": "To confirm an instruction, you can say:",
-      "options": [
-        "Could you please confirm the details?",
-        "I not listen.",
-        "Confirm me now.",
-        "Details no."
+        "pays careful attention",
+        "often falls asleep",
+        "refuses to listen",
+        "leaves every class"
       ],
       "answer": 0,
-      "explanation": "Could you please confirm... is polite and precise."
+      "explanation": "Attentive means listening and watching carefully."
     },
     {
-      "id": "q089",
-      "category": "Conditionals",
-      "question": "If she studies, she ___ the test.",
+      "id": "q10144",
+      "category": "Education and Learning",
+      "question": "Which sentence politely asks a teacher for clarification?",
       "options": [
-        "passes",
-        "passed",
-        "will pass",
-        "would passed"
+        "Could you explain that point again, please?",
+        "You explained nothing.",
+        "I will not listen.",
+        "Make it easy now."
       ],
-      "answer": 2,
-      "explanation": "Use will + base verb in the main clause of the first conditional."
+      "answer": 0,
+      "explanation": "This is respectful and clearly requests further explanation."
     },
     {
-      "id": "q108",
-      "category": "Adverbs",
-      "question": "He speaks English ___.",
+      "id": "q10145",
+      "category": "Education and Learning",
+      "question": "A 'deadline' for an assignment is the ___.",
       "options": [
-        "clear",
-        "clearly",
-        "clarity",
-        "clearest"
+        "latest time for submission",
+        "first day of a holiday",
+        "name of the subject",
+        "length of the classroom"
       ],
-      "answer": 1,
-      "explanation": "Clearly is the adverb describing how he speaks."
+      "answer": 0,
+      "explanation": "A deadline is the final time or date for completion."
     },
     {
-      "id": "q012",
-      "category": "Tenses",
-      "question": "We ___ here since 2022.",
+      "id": "q10146",
+      "category": "Education and Learning",
+      "question": "To 'memorise' a poem means to ___.",
       "options": [
-        "live",
-        "lived",
-        "have lived",
-        "are live"
+        "learn it by heart",
+        "translate it into numbers",
+        "tear out its pages",
+        "read it only once"
       ],
-      "answer": 2,
-      "explanation": "Since gives a starting point; the present perfect connects the past to now."
+      "answer": 0,
+      "explanation": "Memorise means commit information to memory."
+    },
+    {
+      "id": "q10147",
+      "category": "Education and Learning",
+      "question": "A 'reference book' is mainly used to ___.",
+      "options": [
+        "look up information",
+        "store clothes",
+        "record attendance only",
+        "play music"
+      ],
+      "answer": 0,
+      "explanation": "Reference books provide information for consultation."
+    },
+    {
+      "id": "q10148",
+      "category": "Education and Learning",
+      "question": "If a learner makes progress, their ability ___.",
+      "options": [
+        "improves",
+        "disappears",
+        "remains forbidden",
+        "becomes irrelevant"
+      ],
+      "answer": 0,
+      "explanation": "Progress means movement towards improvement or a goal."
+    },
+    {
+      "id": "q10149",
+      "category": "Education and Learning",
+      "question": "Which is an example of a reliable academic source?",
+      "options": [
+        "a peer-reviewed journal article",
+        "an anonymous rumour",
+        "an unverified social post",
+        "a random advertisement"
+      ],
+      "answer": 0,
+      "explanation": "Peer review involves expert evaluation before publication."
+    },
+    {
+      "id": "q10150",
+      "category": "Education and Learning",
+      "question": "A 'curriculum' is the ___.",
+      "options": [
+        "planned content of a course",
+        "student's lunch box",
+        "school building",
+        "daily weather report"
+      ],
+      "answer": 0,
+      "explanation": "A curriculum sets out what a course or programme teaches."
     }
   ]
 }
