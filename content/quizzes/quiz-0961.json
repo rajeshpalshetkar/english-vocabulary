@@ -3,139 +3,139 @@
   "slug": "quiz-0961",
   "title": "English Practice Quiz 0961",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q008",
-      "category": "Grammar",
-      "question": "This is the woman ___ helped me.",
+      "id": "q10301",
+      "category": "Conflict Resolution",
+      "question": "When a disagreement begins at work, the best first step is to ___.",
       "options": [
-        "which",
-        "who",
-        "where",
-        "when"
-      ],
-      "answer": 1,
-      "explanation": "Who is used for people."
-    },
-    {
-      "id": "q017",
-      "category": "Tenses",
-      "question": "They ___ football every Sunday.",
-      "options": [
-        "plays",
-        "are play",
-        "play",
-        "playing"
-      ],
-      "answer": 2,
-      "explanation": "Use the base verb with the plural subject they in the present simple."
-    },
-    {
-      "id": "q026",
-      "category": "Vocabulary",
-      "question": "What does 'borrow' mean?",
-      "options": [
-        "give something forever",
-        "take something temporarily and return it",
-        "break something",
-        "buy something"
-      ],
-      "answer": 1,
-      "explanation": "Borrow means to take something for a period and return it."
-    },
-    {
-      "id": "q035",
-      "category": "Articles",
-      "question": "Mount Everest is ___ highest mountain in the world.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 2,
-      "explanation": "Use the with superlative adjectives."
-    },
-    {
-      "id": "q044",
-      "category": "Modals",
-      "question": "You look tired. You ___ get some rest.",
-      "options": [
-        "should",
-        "mustn't",
-        "can't",
-        "wouldn't"
+        "listen to each person's concern",
+        "raise your voice",
+        "share the argument online",
+        "assign blame immediately"
       ],
       "answer": 0,
-      "explanation": "Should gives advice."
+      "explanation": "Listening helps identify the actual issue before deciding what to do."
     },
     {
-      "id": "q053",
-      "category": "Conversation",
-      "question": "A visitor asks, 'Where is reception?' You say:",
+      "id": "q10302",
+      "category": "Conflict Resolution",
+      "question": "A compromise is an agreement in which each side ___.",
       "options": [
-        "It is near the main entrance.",
-        "I am reception.",
-        "Yesterday at home.",
-        "No, it isn't."
+        "accepts part of what it wants",
+        "gets everything it demands",
+        "refuses to discuss the issue",
+        "avoids making a decision"
       ],
       "answer": 0,
-      "explanation": "Give a clear location using a complete sentence."
+      "explanation": "A compromise involves mutual adjustment."
     },
     {
-      "id": "q062",
-      "category": "Reading",
-      "question": "Read: 'The shop closes at 9 p.m., but it opens at 10 a.m.' When does it open?",
+      "id": "q10303",
+      "category": "Conflict Resolution",
+      "question": "Which phrase helps calm a tense discussion?",
       "options": [
-        "9 a.m.",
-        "10 a.m.",
-        "9 p.m.",
-        "10 p.m."
+        "Let's discuss the facts calmly.",
+        "You are always wrong.",
+        "This is entirely your fault.",
+        "I refuse to listen."
       ],
-      "answer": 1,
-      "explanation": "The opening time given is 10 a.m."
+      "answer": 0,
+      "explanation": "Calm language can reduce tension and keep attention on the issue."
     },
     {
-      "id": "q071",
-      "category": "Questions",
-      "question": "Choose the correct WH question for a place.",
+      "id": "q10304",
+      "category": "Conflict Resolution",
+      "question": "If a disagreement cannot be resolved between colleagues, they may need to ___.",
       "options": [
-        "When do you live?",
-        "Where do you live?",
-        "Who do you live?",
-        "Why do you live?"
+        "seek help from a supervisor or mediator",
+        "spread rumours",
+        "stop doing their jobs",
+        "change the written records"
       ],
-      "answer": 1,
-      "explanation": "Where asks about a place or location."
+      "answer": 0,
+      "explanation": "A neutral person may help the parties reach a fair solution."
     },
     {
-      "id": "q080",
-      "category": "Punctuation",
-      "question": "Choose the correctly written date phrase.",
+      "id": "q10305",
+      "category": "Conflict Resolution",
+      "question": "To clarify a misunderstanding, you should ___.",
       "options": [
-        "on monday",
-        "on Monday",
-        "On monday",
-        "on Monday."
+        "explain what you meant and invite questions",
+        "repeat the same words angrily",
+        "assume the other person knows",
+        "end the conversation without explanation"
       ],
-      "answer": 1,
-      "explanation": "Days of the week begin with a capital letter."
+      "answer": 0,
+      "explanation": "Clarifying meaning gives both people a chance to understand."
     },
     {
-      "id": "q089",
-      "category": "Conditionals",
-      "question": "If she studies, she ___ the test.",
+      "id": "q10306",
+      "category": "Conflict Resolution",
+      "question": "A neutral mediator should ___.",
       "options": [
-        "passes",
-        "passed",
-        "will pass",
-        "would passed"
+        "hear both sides fairly",
+        "support a friend automatically",
+        "decide before hearing anyone",
+        "make the disagreement public"
       ],
-      "answer": 2,
-      "explanation": "Use will + base verb in the main clause of the first conditional."
+      "answer": 0,
+      "explanation": "A mediator helps discussion without taking sides."
+    },
+    {
+      "id": "q10307",
+      "category": "Conflict Resolution",
+      "question": "Which statement focuses on the problem rather than attacking a person?",
+      "options": [
+        "The report is missing two required details.",
+        "You are careless as usual.",
+        "You never do anything properly.",
+        "Nobody can trust you."
+      ],
+      "answer": 0,
+      "explanation": "It identifies a specific issue without making a personal accusation."
+    },
+    {
+      "id": "q10308",
+      "category": "Conflict Resolution",
+      "question": "The phrase 'reach an agreement' means to ___.",
+      "options": [
+        "decide together on a solution",
+        "begin another argument",
+        "avoid all communication",
+        "cancel the meeting"
+      ],
+      "answer": 0,
+      "explanation": "The parties arrive at a decision they accept."
+    },
+    {
+      "id": "q10309",
+      "category": "Conflict Resolution",
+      "question": "When emotions are high, taking a short pause can help people ___.",
+      "options": [
+        "respond more thoughtfully",
+        "forget every fact",
+        "avoid responsibility permanently",
+        "make a rushed decision"
+      ],
+      "answer": 0,
+      "explanation": "A brief pause can help people regain composure."
+    },
+    {
+      "id": "q10310",
+      "category": "Conflict Resolution",
+      "question": "After resolving a workplace conflict, it is useful to ___.",
+      "options": [
+        "confirm the agreed actions and responsibilities",
+        "pretend nothing was discussed",
+        "restart the argument",
+        "hide the decision from everyone affected"
+      ],
+      "answer": 0,
+      "explanation": "Recording agreed actions helps prevent the same misunderstanding."
     }
   ]
 }
