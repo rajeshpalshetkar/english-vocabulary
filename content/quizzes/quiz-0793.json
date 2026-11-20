@@ -3,139 +3,139 @@
   "slug": "quiz-0793",
   "title": "English Practice Quiz 0793",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Conversation",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q027",
-      "category": "Vocabulary",
-      "question": "Choose the correct word: Please ___ the details.",
+      "id": "q12021",
+      "category": "First Aid and Health Awareness",
+      "question": "First Aid and Health Awareness 01: Before approaching an emergency scene,?",
       "options": [
-        "confirm",
-        "crowded",
-        "repairing",
-        "hungry"
-      ],
-      "answer": 0,
-      "explanation": "Confirm means to check or establish that something is correct."
-    },
-    {
-      "id": "q040",
-      "category": "Prepositions",
-      "question": "The hospital is ___ the bank and the post office.",
-      "options": [
-        "among",
-        "between",
-        "inside",
-        "over"
-      ],
-      "answer": 1,
-      "explanation": "Between is used for a position separating two things."
-    },
-    {
-      "id": "q053",
-      "category": "Conversation",
-      "question": "A visitor asks, 'Where is reception?' You say:",
-      "options": [
-        "It is near the main entrance.",
-        "I am reception.",
-        "Yesterday at home.",
-        "No, it isn't."
-      ],
-      "answer": 0,
-      "explanation": "Give a clear location using a complete sentence."
-    },
-    {
-      "id": "q066",
-      "category": "Workplace English",
-      "question": "A professional way to ask for a file is:",
-      "options": [
-        "Give file now.",
-        "Could you please share the file?",
-        "File give me.",
-        "You must file."
-      ],
-      "answer": 1,
-      "explanation": "Could you please is a polite and professional request."
-    },
-    {
-      "id": "q079",
-      "category": "Punctuation",
-      "question": "Which is a complete sentence?",
-      "options": [
-        "Because it was raining.",
-        "After the meeting.",
-        "The team finished the work.",
-        "When I arrived."
+        "make an unsupported assumption",
+        "share the information publicly",
+        "check that the scene is safe",
+        "ignore the issue and continue"
       ],
       "answer": 2,
-      "explanation": "The team finished the work contains a subject and a complete predicate."
+      "explanation": "Option C is correct: check that the scene is safe."
     },
     {
-      "id": "q092",
-      "category": "Passive Voice",
-      "question": "Choose the passive form: 'The manager signed the letter.'",
+      "id": "q12022",
+      "category": "First Aid and Health Awareness",
+      "question": "First Aid and Health Awareness 02: If a person is unresponsive,?",
       "options": [
-        "The letter is signed.",
-        "The letter was signed by the manager.",
-        "The letter signed the manager.",
-        "The letter has sign."
+        "share the information publicly",
+        "call emergency services and follow trained procedures",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
       ],
       "answer": 1,
-      "explanation": "Past simple passive: was/were + past participle."
+      "explanation": "Option B is correct: call emergency services and follow trained procedures."
     },
     {
-      "id": "q105",
-      "category": "Determiners",
-      "question": "___ student must bring an ID card.",
+      "id": "q12023",
+      "category": "First Aid and Health Awareness",
+      "question": "First Aid and Health Awareness 03: Severe bleeding requires?",
       "options": [
-        "Each",
-        "Many",
-        "Few",
-        "Several"
+        "urgent help and appropriate direct pressure if safe and trained",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
       ],
       "answer": 0,
-      "explanation": "Each refers to every individual in a group."
+      "explanation": "Option A is correct: urgent help and appropriate direct pressure if safe and trained."
     },
     {
-      "id": "q003",
-      "category": "Grammar",
-      "question": "I ___ a new notebook yesterday.",
+      "id": "q12024",
+      "category": "First Aid and Health Awareness",
+      "question": "First Aid and Health Awareness 04: A suspected fracture should be?",
       "options": [
-        "buy",
-        "buys",
-        "bought",
-        "buying"
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "supported and kept still while help is arranged"
+      ],
+      "answer": 3,
+      "explanation": "Option D is correct: supported and kept still while help is arranged."
+    },
+    {
+      "id": "q12025",
+      "category": "First Aid and Health Awareness",
+      "question": "First Aid and Health Awareness 05: Possible stroke symptoms require?",
+      "options": [
+        "make an unsupported assumption",
+        "share the information publicly",
+        "immediate emergency medical help",
+        "ignore the issue and continue"
       ],
       "answer": 2,
-      "explanation": "Yesterday signals the past simple. The past form of buy is bought."
+      "explanation": "Option C is correct: immediate emergency medical help."
     },
     {
-      "id": "q016",
-      "category": "Tenses",
-      "question": "Water ___ at 100°C at sea level.",
+      "id": "q12026",
+      "category": "First Aid and Health Awareness",
+      "question": "First Aid and Health Awareness 06: A first-aid kit should be?",
       "options": [
-        "boil",
-        "boils",
-        "is boiling",
-        "boiled"
+        "share the information publicly",
+        "accessible, stocked and checked regularly",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
       ],
       "answer": 1,
-      "explanation": "Use the present simple for general facts."
+      "explanation": "Option B is correct: accessible, stocked and checked regularly."
     },
     {
-      "id": "q029",
-      "category": "Vocabulary",
-      "question": "What is the meaning of 'available'?",
+      "id": "q12027",
+      "category": "First Aid and Health Awareness",
+      "question": "First Aid and Health Awareness 07: Disposable gloves should be used with?",
       "options": [
-        "not possible to use",
-        "ready or able to be used",
-        "very expensive",
-        "already broken"
+        "appropriate hand hygiene",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: appropriate hand hygiene."
+    },
+    {
+      "id": "q12028",
+      "category": "First Aid and Health Awareness",
+      "question": "First Aid and Health Awareness 08: A minor burn should receive?",
+      "options": [
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "cool running water and suitable assessment"
+      ],
+      "answer": 3,
+      "explanation": "Option D is correct: cool running water and suitable assessment."
+    },
+    {
+      "id": "q12029",
+      "category": "First Aid and Health Awareness",
+      "question": "First Aid and Health Awareness 09: A first aider should avoid?",
+      "options": [
+        "make an unsupported assumption",
+        "share the information publicly",
+        "procedures beyond their training",
+        "ignore the issue and continue"
+      ],
+      "answer": 2,
+      "explanation": "Option C is correct: procedures beyond their training."
+    },
+    {
+      "id": "q12030",
+      "category": "First Aid and Health Awareness",
+      "question": "First Aid and Health Awareness 10: After first aid, relevant details should be?",
+      "options": [
+        "share the information publicly",
+        "recorded and handed over according to policy",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
       ],
       "answer": 1,
-      "explanation": "Available means ready for use or accessible."
+      "explanation": "Option B is correct: recorded and handed over according to policy."
     }
   ]
 }
