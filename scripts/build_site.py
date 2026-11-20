@@ -65,6 +65,8 @@ def main():
         title_key("Articles: A, An and The"): "articles-a-an-the",
         title_key("Prepositions: In, On and At"): "prepositions-in-on-at",
         title_key("Modal Verbs: Can, Could, Should and Would"): "modal-verbs",
+        title_key("This, That, These and Those"): "this-that-these-those",
+        title_key("WH Questions: What, Where, When, Why and How"): "wh-questions-what-where-when-why-how",
     }
     def find_lesson(planned_title, planned_slug):
         alias_slug = catalogue_aliases.get(title_key(planned_title))
