@@ -3,139 +3,139 @@
   "slug": "quiz-0971",
   "title": "English Practice Quiz 0971",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q063",
-      "category": "Reading",
-      "question": "Read: 'Ravi practises English for twenty minutes every evening.' How long does he practise?",
+      "id": "q10201",
+      "category": "Workplace Communication",
+      "question": "When handing over a shift, the outgoing guard should provide ___.",
       "options": [
-        "Ten minutes",
-        "Twenty minutes",
-        "Thirty minutes",
-        "One hour"
+        "a clear account of pending matters",
+        "personal opinions only",
+        "unconfirmed rumours",
+        "no information"
       ],
-      "answer": 1,
-      "explanation": "The passage states twenty minutes."
+      "answer": 0,
+      "explanation": "A useful handover records important events and unfinished tasks."
     },
     {
-      "id": "q072",
-      "category": "Questions",
-      "question": "Which question asks about time?",
+      "id": "q10202",
+      "category": "Workplace Communication",
+      "question": "Which sentence gives a clear instruction?",
       "options": [
-        "Who is calling?",
-        "When does the train leave?",
-        "Where is the station?",
-        "Why are you here?"
+        "Please keep this passage clear.",
+        "Maybe do something there.",
+        "You know what I mean.",
+        "It is all somehow."
       ],
-      "answer": 1,
-      "explanation": "When asks about time."
+      "answer": 0,
+      "explanation": "A clear instruction states exactly what action is needed."
     },
     {
-      "id": "q081",
-      "category": "Confusing Words",
-      "question": "Choose the correct word: ___ going to arrive soon.",
+      "id": "q10203",
+      "category": "Workplace Communication",
+      "question": "A colleague reports a problem. What is a suitable response?",
       "options": [
-        "Their",
-        "There",
-        "They're",
-        "Theirs"
+        "I will check it and update you.",
+        "That is never my concern.",
+        "Stop telling me.",
+        "Forget the details."
       ],
-      "answer": 2,
-      "explanation": "They're is the contraction of they are."
+      "answer": 0,
+      "explanation": "This response acknowledges the issue and promises a follow-up."
     },
     {
-      "id": "q090",
-      "category": "Conditionals",
-      "question": "If I were you, I ___ apologise.",
+      "id": "q10204",
+      "category": "Workplace Communication",
+      "question": "The phrase 'follow up on a request' means to ___.",
       "options": [
-        "will",
-        "would",
-        "am",
-        "did"
+        "check its progress",
+        "cancel it without notice",
+        "repeat it loudly",
+        "ignore the result"
       ],
-      "answer": 1,
-      "explanation": "If I were you is followed by would for advice."
+      "answer": 0,
+      "explanation": "Following up means checking what has happened since the request."
     },
     {
-      "id": "q099",
-      "category": "Reported Speech",
-      "question": "She said, 'Please sit down.'",
+      "id": "q10205",
+      "category": "Workplace Communication",
+      "question": "Which detail is most useful in a shift handover?",
       "options": [
-        "She told me sit down.",
-        "She asked me to sit down.",
-        "She said me to sit.",
-        "She asked that I sat."
+        "the time and status of an unresolved issue",
+        "a favourite film",
+        "an unrelated personal story",
+        "a guess about next month"
       ],
-      "answer": 1,
-      "explanation": "A request can be reported with asked + object + to-infinitive."
+      "answer": 0,
+      "explanation": "Time and current status help the next team continue the work."
     },
     {
-      "id": "q108",
-      "category": "Adverbs",
-      "question": "He speaks English ___.",
+      "id": "q10206",
+      "category": "Workplace Communication",
+      "question": "If an instruction is unclear, you should ___.",
       "options": [
-        "clear",
-        "clearly",
-        "clarity",
-        "clearest"
+        "ask for clarification",
+        "make an unsupported assumption",
+        "ignore it",
+        "pass it to a visitor"
       ],
-      "answer": 1,
-      "explanation": "Clearly is the adverb describing how he speaks."
+      "answer": 0,
+      "explanation": "Clarification reduces mistakes caused by misunderstanding."
     },
     {
-      "id": "q002",
-      "category": "Grammar",
-      "question": "They ___ ready for the meeting.",
+      "id": "q10207",
+      "category": "Workplace Communication",
+      "question": "Which phrase confirms that you have understood?",
       "options": [
-        "is",
-        "am",
-        "are",
-        "be"
+        "Understood. I will complete it before noon.",
+        "I heard some sound.",
+        "Maybe you said something.",
+        "No idea at all."
       ],
-      "answer": 2,
-      "explanation": "Use are with the plural subject they."
+      "answer": 0,
+      "explanation": "The reply confirms understanding and states the intended action."
     },
     {
-      "id": "q011",
-      "category": "Tenses",
-      "question": "Listen! The baby ___.",
+      "id": "q10208",
+      "category": "Workplace Communication",
+      "question": "A 'priority' task is one that ___.",
       "options": [
-        "cries",
-        "is crying",
-        "cry",
-        "cried"
+        "needs attention before less important tasks",
+        "must always be postponed",
+        "has no deadline",
+        "belongs to another department"
       ],
-      "answer": 1,
-      "explanation": "Listen! suggests an action happening now, so use the present continuous."
+      "answer": 0,
+      "explanation": "A priority task is given greater importance or urgency."
     },
     {
-      "id": "q020",
-      "category": "Tenses",
-      "question": "By next June, he ___ the course.",
+      "id": "q10209",
+      "category": "Workplace Communication",
+      "question": "When reporting a delay, include ___.",
       "options": [
-        "completes",
-        "completed",
-        "will have completed",
-        "has complete"
+        "the reason and revised expected time",
+        "only an apology",
+        "unrelated details",
+        "an invented completion time"
       ],
-      "answer": 2,
-      "explanation": "The future perfect describes an action completed before a future time."
+      "answer": 0,
+      "explanation": "The reason and updated time help others plan."
     },
     {
-      "id": "q029",
-      "category": "Vocabulary",
-      "question": "What is the meaning of 'available'?",
+      "id": "q10210",
+      "category": "Workplace Communication",
+      "question": "Which is the most professional way to request assistance?",
       "options": [
-        "not possible to use",
-        "ready or able to be used",
-        "very expensive",
-        "already broken"
+        "Could you assist me with this task, please?",
+        "Do this for me now.",
+        "You must help, no questions.",
+        "I need you because I said so."
       ],
-      "answer": 1,
-      "explanation": "Available means ready for use or accessible."
+      "answer": 0,
+      "explanation": "This wording is polite and direct."
     }
   ]
 }
