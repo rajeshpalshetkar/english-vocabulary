@@ -3,139 +3,139 @@
   "slug": "quiz-0816",
   "title": "English Practice Quiz 0816",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q073",
-      "category": "Questions",
-      "question": "Choose the correct question.",
+      "id": "q11851",
+      "category": "Workplace Safety",
+      "question": "Workplace Safety 01: A hazard is:",
       "options": [
-        "Does she work here?",
-        "Do she work here?",
-        "Is she works here?",
-        "Does she works here?"
+        "Something with potential to cause harm",
+        "A completed task",
+        "A staff reward",
+        "A routine invoice"
       ],
       "answer": 0,
-      "explanation": "Use does + subject + base verb with he, she or it."
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q096",
-      "category": "Reported Speech",
-      "question": "He said, 'I am tired.' Reported speech:",
+      "id": "q11852",
+      "category": "Workplace Safety",
+      "question": "Workplace Safety 02: A near miss should be reported because:",
       "options": [
-        "He said that he was tired.",
-        "He said I am tired.",
-        "He says that I tired.",
-        "He said he is tire."
+        "It may reveal a risk before someone is injured",
+        "It never matters",
+        "It replaces inspections",
+        "It is always disciplinary"
       ],
       "answer": 0,
-      "explanation": "In standard backshift, am changes to was after a past reporting verb."
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q004",
-      "category": "Grammar",
-      "question": "There ___ two chairs in the room.",
+      "id": "q11853",
+      "category": "Workplace Safety",
+      "question": "Workplace Safety 03: Safety signs should be:",
       "options": [
-        "is",
-        "are",
-        "am",
-        "was"
-      ],
-      "answer": 1,
-      "explanation": "Use are with the plural noun chairs."
-    },
-    {
-      "id": "q027",
-      "category": "Vocabulary",
-      "question": "Choose the correct word: Please ___ the details.",
-      "options": [
-        "confirm",
-        "crowded",
-        "repairing",
-        "hungry"
+        "Visible, understandable and maintained",
+        "Covered by notices",
+        "Behind doors",
+        "Changed without approval"
       ],
       "answer": 0,
-      "explanation": "Confirm means to check or establish that something is correct."
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q050",
-      "category": "Sentence Building",
-      "question": "Choose the correct sentence.",
+      "id": "q11854",
+      "category": "Workplace Safety",
+      "question": "Workplace Safety 04: A risk assessment evaluates:",
       "options": [
-        "There is many books.",
-        "There are many books.",
-        "There be many books.",
-        "There am many books."
-      ],
-      "answer": 1,
-      "explanation": "Use there are with plural nouns."
-    },
-    {
-      "id": "q073",
-      "category": "Questions",
-      "question": "Choose the correct question.",
-      "options": [
-        "Does she work here?",
-        "Do she work here?",
-        "Is she works here?",
-        "Does she works here?"
+        "Likelihood and severity of potential harm",
+        "Employee popularity",
+        "Office colour",
+        "Supplier reputation"
       ],
       "answer": 0,
-      "explanation": "Use does + subject + base verb with he, she or it."
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q096",
-      "category": "Reported Speech",
-      "question": "He said, 'I am tired.' Reported speech:",
+      "id": "q11855",
+      "category": "Workplace Safety",
+      "question": "Workplace Safety 05: When using cleaning chemicals, staff should:",
       "options": [
-        "He said that he was tired.",
-        "He said I am tired.",
-        "He says that I tired.",
-        "He said he is tire."
+        "Follow the label and safety data sheet",
+        "Mix products randomly",
+        "Use unlabelled bottles",
+        "Ignore protection"
       ],
       "answer": 0,
-      "explanation": "In standard backshift, am changes to was after a past reporting verb."
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q004",
-      "category": "Grammar",
-      "question": "There ___ two chairs in the room.",
+      "id": "q11856",
+      "category": "Workplace Safety",
+      "question": "Workplace Safety 06: An emergency exit must be:",
       "options": [
-        "is",
-        "are",
-        "am",
-        "was"
-      ],
-      "answer": 1,
-      "explanation": "Use are with the plural noun chairs."
-    },
-    {
-      "id": "q027",
-      "category": "Vocabulary",
-      "question": "Choose the correct word: Please ___ the details.",
-      "options": [
-        "confirm",
-        "crowded",
-        "repairing",
-        "hungry"
+        "Accessible and unobstructed",
+        "Used for storage",
+        "Locked during occupancy",
+        "Hidden"
       ],
       "answer": 0,
-      "explanation": "Confirm means to check or establish that something is correct."
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q050",
-      "category": "Sentence Building",
-      "question": "Choose the correct sentence.",
+      "id": "q11857",
+      "category": "Workplace Safety",
+      "question": "Workplace Safety 07: PPE means:",
       "options": [
-        "There is many books.",
-        "There are many books.",
-        "There be many books.",
-        "There am many books."
+        "Personal Protective Equipment",
+        "Public Parking Entry",
+        "Private Personnel Evaluation",
+        "Primary Power Extension"
       ],
-      "answer": 1,
-      "explanation": "Use there are with plural nouns."
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11858",
+      "category": "Workplace Safety",
+      "question": "Workplace Safety 08: A spill in a walkway should be:",
+      "options": [
+        "Isolated and reported or cleaned under procedure",
+        "Ignored",
+        "Covered and forgotten",
+        "Photographed only"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11859",
+      "category": "Workplace Safety",
+      "question": "Workplace Safety 09: A safety induction explains:",
+      "options": [
+        "Relevant hazards, controls and emergency procedures",
+        "Only company history",
+        "Private staff information",
+        "Customer discounts"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11860",
+      "category": "Workplace Safety",
+      "question": "Workplace Safety 10: An unsafe condition should be:",
+      "options": [
+        "Reported promptly to the responsible person",
+        "Ignored until an accident",
+        "Hidden",
+        "Discussed after work only"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     }
   ]
 }
