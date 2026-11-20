@@ -3,139 +3,139 @@
   "slug": "quiz-0794",
   "title": "English Practice Quiz 0794",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Conversation",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q044",
-      "category": "Modals",
-      "question": "You look tired. You ___ get some rest.",
+      "id": "q12031",
+      "category": "Customer Data Privacy",
+      "question": "Customer Data Privacy 01: Personal information should be collected?",
       "options": [
-        "should",
-        "mustn't",
-        "can't",
-        "wouldn't"
-      ],
-      "answer": 0,
-      "explanation": "Should gives advice."
-    },
-    {
-      "id": "q061",
-      "category": "Reading",
-      "question": "Read: 'Mina takes the bus at 8 a.m. and reaches work at 8:45.' How does Mina travel?",
-      "options": [
-        "By train",
-        "By bus",
-        "By car",
-        "On foot"
+        "share the information publicly",
+        "for a clear and legitimate purpose",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
       ],
       "answer": 1,
-      "explanation": "The passage clearly says Mina takes the bus."
+      "explanation": "Option B is correct: for a clear and legitimate purpose."
     },
     {
-      "id": "q078",
-      "category": "Punctuation",
-      "question": "Choose the correct sentence.",
+      "id": "q12032",
+      "category": "Customer Data Privacy",
+      "question": "Customer Data Privacy 02: A request for access to personal data requires?",
       "options": [
-        "I like tea, coffee and milk.",
-        "I like tea coffee and milk",
-        "I like, tea coffee, and milk.",
-        "i like tea, coffee and milk"
+        "the approved identity verification process",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
       ],
       "answer": 0,
-      "explanation": "Use commas to separate items in a list and capitalise the first word."
+      "explanation": "Option A is correct: the approved identity verification process."
     },
     {
-      "id": "q095",
-      "category": "Passive Voice",
-      "question": "The windows ___ every week.",
+      "id": "q12033",
+      "category": "Customer Data Privacy",
+      "question": "Customer Data Privacy 03: Printed documents with personal details should be?",
       "options": [
-        "are cleaned",
-        "clean",
-        "is cleaned",
-        "cleaning"
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "stored securely when not in use"
       ],
-      "answer": 0,
-      "explanation": "Plural subject windows takes are + past participle."
+      "answer": 3,
+      "explanation": "Option D is correct: stored securely when not in use."
     },
     {
-      "id": "q112",
-      "category": "Gerunds",
-      "question": "He decided ___ early.",
+      "id": "q12034",
+      "category": "Customer Data Privacy",
+      "question": "Customer Data Privacy 04: Incorrect customer contact details should be?",
       "options": [
-        "leave",
-        "leaving",
-        "to leave",
-        "leaves"
+        "make an unsupported assumption",
+        "share the information publicly",
+        "corrected through the approved process",
+        "ignore the issue and continue"
       ],
       "answer": 2,
-      "explanation": "Decide is commonly followed by a to-infinitive."
+      "explanation": "Option C is correct: corrected through the approved process."
     },
     {
-      "id": "q014",
-      "category": "Tenses",
-      "question": "I think it ___ tomorrow.",
+      "id": "q12035",
+      "category": "Customer Data Privacy",
+      "question": "Customer Data Privacy 05: A data processor generally?",
       "options": [
-        "rains",
-        "rained",
-        "will rain",
-        "raining"
+        "share the information publicly",
+        "processes personal data on behalf of a controller",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
+      ],
+      "answer": 1,
+      "explanation": "Option B is correct: processes personal data on behalf of a controller."
+    },
+    {
+      "id": "q12036",
+      "category": "Customer Data Privacy",
+      "question": "Customer Data Privacy 06: A misdirected email containing personal data should be?",
+      "options": [
+        "reported promptly under the incident procedure",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: reported promptly under the incident procedure."
+    },
+    {
+      "id": "q12037",
+      "category": "Customer Data Privacy",
+      "question": "Customer Data Privacy 07: Access to customer records should follow?",
+      "options": [
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "role-based need and authorisation"
+      ],
+      "answer": 3,
+      "explanation": "Option D is correct: role-based need and authorisation."
+    },
+    {
+      "id": "q12038",
+      "category": "Customer Data Privacy",
+      "question": "Customer Data Privacy 08: Sensitive paper records should be destroyed by?",
+      "options": [
+        "make an unsupported assumption",
+        "share the information publicly",
+        "approved secure destruction methods",
+        "ignore the issue and continue"
       ],
       "answer": 2,
-      "explanation": "Will plus the base verb can express a future prediction."
+      "explanation": "Option C is correct: approved secure destruction methods."
     },
     {
-      "id": "q031",
-      "category": "Articles",
-      "question": "I saw ___ elephant at the zoo.",
+      "id": "q12039",
+      "category": "Customer Data Privacy",
+      "question": "Customer Data Privacy 09: Using customer data for a new purpose requires?",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
+        "share the information publicly",
+        "checking the lawful basis and applicable policy",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
       ],
       "answer": 1,
-      "explanation": "Use an before a vowel sound."
+      "explanation": "Option B is correct: checking the lawful basis and applicable policy."
     },
     {
-      "id": "q048",
-      "category": "Sentence Building",
-      "question": "Choose the correct sentence.",
+      "id": "q12040",
+      "category": "Customer Data Privacy",
+      "question": "Customer Data Privacy 10: A privacy incident register helps?",
       "options": [
-        "Because I was tired, I went to bed early.",
-        "Because I tired, went bed early.",
-        "I because was tired bed early.",
-        "Because tired I went early bed."
+        "document incidents and their handling",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
       ],
       "answer": 0,
-      "explanation": "The subordinate clause beginning with because explains the reason."
-    },
-    {
-      "id": "q065",
-      "category": "Reading",
-      "question": "Read: 'Please keep the floor dry to prevent accidents.' What is the instruction?",
-      "options": [
-        "Wash the floor now",
-        "Keep the floor dry",
-        "Close the office",
-        "Move the furniture"
-      ],
-      "answer": 1,
-      "explanation": "The notice instructs people to keep the floor dry."
-    },
-    {
-      "id": "q082",
-      "category": "Confusing Words",
-      "question": "The weather can ___ your travel plans.",
-      "options": [
-        "affect",
-        "effect",
-        "infect",
-        "effort"
-      ],
-      "answer": 0,
-      "explanation": "Affect is usually a verb meaning to influence."
+      "explanation": "Option A is correct: document incidents and their handling."
     }
   ]
 }
