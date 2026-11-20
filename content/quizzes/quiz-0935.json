@@ -3,139 +3,139 @@
   "slug": "quiz-0935",
   "title": "English Practice Quiz 0935",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q026",
-      "category": "Vocabulary",
-      "question": "What does 'borrow' mean?",
+      "id": "q10641",
+      "category": "Customer Service Recovery",
+      "question": "Service recovery refers to actions taken after ___.",
       "options": [
-        "give something forever",
-        "take something temporarily and return it",
-        "break something",
-        "buy something"
-      ],
-      "answer": 1,
-      "explanation": "Borrow means to take something for a period and return it."
-    },
-    {
-      "id": "q045",
-      "category": "Modals",
-      "question": "It ___ rain later; take an umbrella.",
-      "options": [
-        "might",
-        "mustn't",
-        "shouldn't",
-        "has"
+        "a service failure or customer problem",
+        "a routine staff meeting",
+        "a successful advertisement",
+        "a planned holiday"
       ],
       "answer": 0,
-      "explanation": "Might expresses possibility."
+      "explanation": "Service recovery aims to address a failure and restore customer confidence."
     },
     {
-      "id": "q064",
-      "category": "Reading",
-      "question": "Read: 'The meeting was cancelled because the manager was ill.' Why was it cancelled?",
+      "id": "q10642",
+      "category": "Customer Service Recovery",
+      "question": "When a customer reports a delay, first acknowledge ___.",
       "options": [
-        "The room was full",
-        "The manager was ill",
-        "It was Sunday",
-        "The staff were late"
-      ],
-      "answer": 1,
-      "explanation": "The reason is explicitly stated: the manager was ill."
-    },
-    {
-      "id": "q083",
-      "category": "Confusing Words",
-      "question": "Please ___ the correct answer.",
-      "options": [
-        "choose",
-        "chose",
-        "choice",
-        "chosen"
+        "the inconvenience caused",
+        "that the customer is always wrong",
+        "an unrelated department's success",
+        "a rumour about the delay"
       ],
       "answer": 0,
-      "explanation": "Choose is the base verb used after please."
+      "explanation": "Acknowledging the inconvenience shows that the concern has been heard."
     },
     {
-      "id": "q102",
-      "category": "Determiners",
-      "question": "How ___ apples do you need?",
+      "id": "q10643",
+      "category": "Customer Service Recovery",
+      "question": "A realistic service recovery promise should be ___.",
       "options": [
-        "much",
-        "many",
-        "little",
-        "any"
-      ],
-      "answer": 1,
-      "explanation": "Apples are countable plural nouns, so use many."
-    },
-    {
-      "id": "q006",
-      "category": "Grammar",
-      "question": "He is ___ honest man.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "Use an before a vowel sound. Honest begins with a silent h."
-    },
-    {
-      "id": "q025",
-      "category": "Vocabulary",
-      "question": "A person you can trust is ___.",
-      "options": [
-        "reliable",
-        "careless",
-        "silent",
-        "narrow"
+        "within your authority and achievable",
+        "impossible to fulfil",
+        "made without checking facts",
+        "different from the approved policy"
       ],
       "answer": 0,
-      "explanation": "Reliable means dependable or trustworthy."
+      "explanation": "Promises should be accurate and within the employee's authority."
     },
     {
-      "id": "q044",
-      "category": "Modals",
-      "question": "You look tired. You ___ get some rest.",
+      "id": "q10644",
+      "category": "Customer Service Recovery",
+      "question": "After resolving a complaint, follow-up can help confirm ___.",
       "options": [
-        "should",
-        "mustn't",
-        "can't",
-        "wouldn't"
+        "whether the solution worked",
+        "the customer's private password",
+        "an unrelated purchase",
+        "the employee's holiday dates"
       ],
       "answer": 0,
-      "explanation": "Should gives advice."
+      "explanation": "Follow-up checks whether the customer considers the issue resolved."
     },
     {
-      "id": "q063",
-      "category": "Reading",
-      "question": "Read: 'Ravi practises English for twenty minutes every evening.' How long does he practise?",
+      "id": "q10645",
+      "category": "Customer Service Recovery",
+      "question": "A root cause of repeated service delays might be ___.",
       "options": [
-        "Ten minutes",
-        "Twenty minutes",
-        "Thirty minutes",
-        "One hour"
-      ],
-      "answer": 1,
-      "explanation": "The passage states twenty minutes."
-    },
-    {
-      "id": "q082",
-      "category": "Confusing Words",
-      "question": "The weather can ___ your travel plans.",
-      "options": [
-        "affect",
-        "effect",
-        "infect",
-        "effort"
+        "an inefficient process",
+        "the customer's clothing",
+        "the office wall colour",
+        "a random online comment"
       ],
       "answer": 0,
-      "explanation": "Affect is usually a verb meaning to influence."
+      "explanation": "A process issue can create recurring delays."
+    },
+    {
+      "id": "q10646",
+      "category": "Customer Service Recovery",
+      "question": "If a complaint is outside your authority, you should ___.",
+      "options": [
+        "refer it to the appropriate person and explain the next step",
+        "reject it without explanation",
+        "promise an unauthorised payment",
+        "delete the complaint"
+      ],
+      "answer": 0,
+      "explanation": "Appropriate referral ensures the concern reaches someone who can act."
+    },
+    {
+      "id": "q10647",
+      "category": "Customer Service Recovery",
+      "question": "A service apology should be ___.",
+      "options": [
+        "sincere and specific about the inconvenience",
+        "sarcastic and dismissive",
+        "conditional on the customer being silent",
+        "unrelated to the problem"
+      ],
+      "answer": 0,
+      "explanation": "A sincere apology recognises the customer's experience."
+    },
+    {
+      "id": "q10648",
+      "category": "Customer Service Recovery",
+      "question": "Recording complaint trends helps an organisation ___.",
+      "options": [
+        "identify recurring service problems",
+        "avoid all customer contact",
+        "remove quality standards",
+        "hide performance information"
+      ],
+      "answer": 0,
+      "explanation": "Trend analysis can reveal issues that need broader improvement."
+    },
+    {
+      "id": "q10649",
+      "category": "Customer Service Recovery",
+      "question": "A customer should be updated when a promised resolution is delayed because ___.",
+      "options": [
+        "clear communication manages expectations",
+        "silence always builds trust",
+        "the customer must guess",
+        "updates are never useful"
+      ],
+      "answer": 0,
+      "explanation": "Timely updates help maintain trust when circumstances change."
+    },
+    {
+      "id": "q10650",
+      "category": "Customer Service Recovery",
+      "question": "A fair complaint process should treat similar cases ___.",
+      "options": [
+        "consistently while considering relevant facts",
+        "differently for personal favourites",
+        "without keeping records",
+        "according to rumours"
+      ],
+      "answer": 0,
+      "explanation": "Consistency supports fairness while allowing relevant circumstances to be considered."
     }
   ]
 }
