@@ -3,139 +3,139 @@
   "slug": "quiz-0787",
   "title": "English Practice Quiz 0787",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Conversation",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q040",
-      "category": "Prepositions",
-      "question": "The hospital is ___ the bank and the post office.",
+      "id": "q12161",
+      "category": "Digital Collaboration",
+      "question": "Digital Collaboration 01: A shared calendar helps a team?",
       "options": [
-        "among",
-        "between",
-        "inside",
-        "over"
-      ],
-      "answer": 1,
-      "explanation": "Between is used for a position separating two things."
-    },
-    {
-      "id": "q069",
-      "category": "Workplace English",
-      "question": "A polite way to disagree is:",
-      "options": [
-        "You are totally wrong.",
-        "I see your point, but I have a different view.",
-        "No, stop.",
-        "That is stupid."
-      ],
-      "answer": 1,
-      "explanation": "This phrase acknowledges the other person before presenting a different view."
-    },
-    {
-      "id": "q098",
-      "category": "Reported Speech",
-      "question": "He asked, 'Where do you live?'",
-      "options": [
-        "He asked where I lived.",
-        "He asked where do I live.",
-        "He asked where did I lived.",
-        "He asked where I live do."
-      ],
-      "answer": 0,
-      "explanation": "Reported questions use statement word order; do is removed."
-    },
-    {
-      "id": "q012",
-      "category": "Tenses",
-      "question": "We ___ here since 2022.",
-      "options": [
-        "live",
-        "lived",
-        "have lived",
-        "are live"
+        "make an unsupported assumption",
+        "share the information publicly",
+        "coordinate schedules and appointments",
+        "ignore the issue and continue"
       ],
       "answer": 2,
-      "explanation": "Since gives a starting point; the present perfect connects the past to now."
+      "explanation": "Option C is correct: coordinate schedules and appointments."
     },
     {
-      "id": "q041",
-      "category": "Modals",
-      "question": "___ I borrow your pen, please?",
+      "id": "q12162",
+      "category": "Digital Collaboration",
+      "question": "Digital Collaboration 02: Version history in a shared document allows users to?",
       "options": [
-        "May",
-        "Must",
-        "Should",
-        "Would have"
-      ],
-      "answer": 0,
-      "explanation": "May is a polite way to ask permission."
-    },
-    {
-      "id": "q070",
-      "category": "Workplace English",
-      "question": "To confirm an instruction, you can say:",
-      "options": [
-        "Could you please confirm the details?",
-        "I not listen.",
-        "Confirm me now.",
-        "Details no."
-      ],
-      "answer": 0,
-      "explanation": "Could you please confirm... is polite and precise."
-    },
-    {
-      "id": "q099",
-      "category": "Reported Speech",
-      "question": "She said, 'Please sit down.'",
-      "options": [
-        "She told me sit down.",
-        "She asked me to sit down.",
-        "She said me to sit.",
-        "She asked that I sat."
+        "share the information publicly",
+        "review earlier changes",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
       ],
       "answer": 1,
-      "explanation": "A request can be reported with asked + object + to-infinitive."
+      "explanation": "Option B is correct: review earlier changes."
     },
     {
-      "id": "q013",
-      "category": "Tenses",
-      "question": "At 8 p.m. yesterday, I ___ dinner.",
+      "id": "q12163",
+      "category": "Digital Collaboration",
+      "question": "Digital Collaboration 03: A video meeting link should be shared with?",
       "options": [
-        "cook",
-        "cooked",
-        "was cooking",
-        "am cooking"
+        "the intended participants",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: the intended participants."
+    },
+    {
+      "id": "q12164",
+      "category": "Digital Collaboration",
+      "question": "Digital Collaboration 04: A clear file name should?",
+      "options": [
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "describe the content and version"
+      ],
+      "answer": 3,
+      "explanation": "Option D is correct: describe the content and version."
+    },
+    {
+      "id": "q12165",
+      "category": "Digital Collaboration",
+      "question": "Digital Collaboration 05: Before editing a shared file, users should?",
+      "options": [
+        "make an unsupported assumption",
+        "share the information publicly",
+        "check access and collaboration instructions",
+        "ignore the issue and continue"
       ],
       "answer": 2,
-      "explanation": "Use the past continuous for an action in progress at a specific past time."
+      "explanation": "Option C is correct: check access and collaboration instructions."
     },
     {
-      "id": "q042",
-      "category": "Modals",
-      "question": "You ___ smoke inside the hospital.",
+      "id": "q12166",
+      "category": "Digital Collaboration",
+      "question": "Digital Collaboration 06: A project board is useful for?",
       "options": [
-        "must",
-        "mustn't",
-        "should",
-        "could"
+        "share the information publicly",
+        "tracking tasks and their status",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
       ],
       "answer": 1,
-      "explanation": "Mustn't expresses prohibition."
+      "explanation": "Option B is correct: tracking tasks and their status."
     },
     {
-      "id": "q071",
-      "category": "Questions",
-      "question": "Choose the correct WH question for a place.",
+      "id": "q12167",
+      "category": "Digital Collaboration",
+      "question": "Digital Collaboration 07: A chat message about an urgent issue should?",
       "options": [
-        "When do you live?",
-        "Where do you live?",
-        "Who do you live?",
-        "Why do you live?"
+        "state the issue and required action clearly",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: state the issue and required action clearly."
+    },
+    {
+      "id": "q12168",
+      "category": "Digital Collaboration",
+      "question": "Digital Collaboration 08: Cloud access permissions should follow?",
+      "options": [
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "the principle of least privilege"
+      ],
+      "answer": 3,
+      "explanation": "Option D is correct: the principle of least privilege."
+    },
+    {
+      "id": "q12169",
+      "category": "Digital Collaboration",
+      "question": "Digital Collaboration 09: A meeting recording should be made?",
+      "options": [
+        "make an unsupported assumption",
+        "share the information publicly",
+        "with appropriate notice and authorisation",
+        "ignore the issue and continue"
+      ],
+      "answer": 2,
+      "explanation": "Option C is correct: with appropriate notice and authorisation."
+    },
+    {
+      "id": "q12170",
+      "category": "Digital Collaboration",
+      "question": "Digital Collaboration 10: A duplicate file can cause?",
+      "options": [
+        "share the information publicly",
+        "confusion about which version is current",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
       ],
       "answer": 1,
-      "explanation": "Where asks about a place or location."
+      "explanation": "Option B is correct: confusion about which version is current."
     }
   ]
 }
