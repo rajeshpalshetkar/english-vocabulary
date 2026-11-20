@@ -3,139 +3,139 @@
   "slug": "quiz-0871",
   "title": "English Practice Quiz 0871",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q088",
-      "category": "Conditionals",
-      "question": "If you heat ice, it ___.",
+      "id": "q11201",
+      "category": "Reading for Detail",
+      "question": "A notice says, 'Visitors must register before entering.' What must visitors do first?",
       "options": [
-        "melt",
-        "melts",
-        "will melted",
-        "melting"
+        "Show a receipt",
+        "Register",
+        "Call a taxi",
+        "Leave their bags"
       ],
       "answer": 1,
-      "explanation": "The zero conditional uses present simple for general truths."
+      "explanation": "The notice requires registration before entry."
     },
     {
-      "id": "q097",
-      "category": "Reported Speech",
-      "question": "She said, 'I can swim.'",
+      "id": "q11202",
+      "category": "Reading for Detail",
+      "question": "A memo states that the office will close at 4 p.m. on Friday. When will it close?",
       "options": [
-        "She said she can swam.",
-        "She said that she could swim.",
-        "She said she swims can.",
-        "She told that could swim."
-      ],
-      "answer": 1,
-      "explanation": "Can commonly changes to could in reported speech after a past reporting verb."
-    },
-    {
-      "id": "q106",
-      "category": "Adjectives",
-      "question": "The test was ___ than I expected.",
-      "options": [
-        "easy",
-        "easier",
-        "easiest",
-        "more easy"
-      ],
-      "answer": 1,
-      "explanation": "Use the comparative form easier."
-    },
-    {
-      "id": "q115",
-      "category": "Gerunds",
-      "question": "I want ___ English fluently.",
-      "options": [
-        "speak",
-        "speaking",
-        "to speak",
-        "spoke"
-      ],
-      "answer": 2,
-      "explanation": "Want is followed by a to-infinitive."
-    },
-    {
-      "id": "q009",
-      "category": "Grammar",
-      "question": "Choose the correct comparative form.",
-      "options": [
-        "more tall",
-        "taller",
-        "tallest than",
-        "most tall"
-      ],
-      "answer": 1,
-      "explanation": "The comparative form of the short adjective tall is taller."
-    },
-    {
-      "id": "q018",
-      "category": "Tenses",
-      "question": "I ___ him last week.",
-      "options": [
-        "see",
-        "have seen",
-        "saw",
-        "seeing"
-      ],
-      "answer": 2,
-      "explanation": "Use the past simple with a finished past time such as last week."
-    },
-    {
-      "id": "q027",
-      "category": "Vocabulary",
-      "question": "Choose the correct word: Please ___ the details.",
-      "options": [
-        "confirm",
-        "crowded",
-        "repairing",
-        "hungry"
+        "At 4 p.m. on Friday",
+        "At 5 p.m. on Friday",
+        "At 4 p.m. on Monday",
+        "At noon on Friday"
       ],
       "answer": 0,
-      "explanation": "Confirm means to check or establish that something is correct."
+      "explanation": "The memo gives Friday at 4 p.m. as the closing time."
     },
     {
-      "id": "q036",
-      "category": "Prepositions",
-      "question": "The meeting starts ___ 9 a.m.",
+      "id": "q11203",
+      "category": "Reading for Detail",
+      "question": "A sign reads 'Staff Only'. Who may enter?",
       "options": [
-        "in",
-        "on",
-        "at",
-        "by"
+        "All visitors",
+        "Authorised staff",
+        "Delivery customers",
+        "Anyone waiting"
       ],
-      "answer": 2,
-      "explanation": "Use at for a specific clock time."
+      "answer": 1,
+      "explanation": "Staff Only restricts entry to staff."
     },
     {
-      "id": "q045",
-      "category": "Modals",
-      "question": "It ___ rain later; take an umbrella.",
+      "id": "q11204",
+      "category": "Reading for Detail",
+      "question": "A message says, 'Please submit the form by noon.' What is the deadline?",
       "options": [
-        "might",
-        "mustn't",
-        "shouldn't",
-        "has"
+        "Midnight",
+        "Noon",
+        "The next morning",
+        "The end of the week"
+      ],
+      "answer": 1,
+      "explanation": "By noon means no later than 12 p.m."
+    },
+    {
+      "id": "q11205",
+      "category": "Reading for Detail",
+      "question": "A report says the lift is temporarily out of service. What does this mean?",
+      "options": [
+        "It is being used normally",
+        "It cannot be used for now",
+        "It has been removed forever",
+        "It is reserved for visitors"
+      ],
+      "answer": 1,
+      "explanation": "Temporarily means for a limited period."
+    },
+    {
+      "id": "q11206",
+      "category": "Reading for Detail",
+      "question": "The notice says the event is postponed due to rain. The event has been:",
+      "options": [
+        "moved to a later time",
+        "cancelled permanently",
+        "completed early",
+        "started immediately"
       ],
       "answer": 0,
-      "explanation": "Might expresses possibility."
+      "explanation": "Postponed means delayed until a later time."
     },
     {
-      "id": "q054",
-      "category": "Conversation",
-      "question": "You need a moment to think. You say:",
+      "id": "q11207",
+      "category": "Reading for Detail",
+      "question": "A message says, 'Bring a copy of your ID.' What should you bring?",
       "options": [
-        "Let me think for a moment.",
-        "I no idea ever.",
-        "Wait your mouth.",
-        "I am think."
+        "An original key",
+        "A duplicate of your identity document",
+        "A bank card only",
+        "A passport photograph only"
       ],
-      "answer": 0,
-      "explanation": "This phrase politely signals that you need a little time."
+      "answer": 1,
+      "explanation": "A copy is a duplicate version of the document."
+    },
+    {
+      "id": "q11208",
+      "category": "Reading for Detail",
+      "question": "The instruction says 'Keep the corridor clear.' What should be avoided?",
+      "options": [
+        "Walking carefully",
+        "Leaving objects in the passage",
+        "Using the stairs",
+        "Opening a window"
+      ],
+      "answer": 1,
+      "explanation": "Keeping it clear means not blocking the corridor."
+    },
+    {
+      "id": "q11209",
+      "category": "Reading for Detail",
+      "question": "A timetable lists departure at 08:15 and arrival at 09:00. How long is the journey?",
+      "options": [
+        "30 minutes",
+        "45 minutes",
+        "60 minutes",
+        "75 minutes"
+      ],
+      "answer": 1,
+      "explanation": "The interval from 8:15 to 9:00 is 45 minutes."
+    },
+    {
+      "id": "q11210",
+      "category": "Reading for Detail",
+      "question": "A form asks for your 'current address'. It means:",
+      "options": [
+        "Your previous address",
+        "Where you live now",
+        "Your office's old address",
+        "Your permanent birthplace"
+      ],
+      "answer": 1,
+      "explanation": "Current means present or up to date."
     }
   ]
 }
