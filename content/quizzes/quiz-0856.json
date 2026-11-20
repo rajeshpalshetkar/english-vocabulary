@@ -3,139 +3,139 @@
   "slug": "quiz-0856",
   "title": "English Practice Quiz 0856",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q063",
-      "category": "Reading",
-      "question": "Read: 'Ravi practises English for twenty minutes every evening.' How long does he practise?",
+      "id": "q11451",
+      "category": "Quality Improvement",
+      "question": "Quality Improvement: What does a quality standard define?",
       "options": [
-        "Ten minutes",
-        "Twenty minutes",
-        "Thirty minutes",
-        "One hour"
-      ],
-      "answer": 1,
-      "explanation": "The passage states twenty minutes."
-    },
-    {
-      "id": "q086",
-      "category": "Conditionals",
-      "question": "If it rains, we ___ indoors.",
-      "options": [
-        "stay",
-        "will stay",
-        "stayed",
-        "would stayed"
-      ],
-      "answer": 1,
-      "explanation": "The first conditional uses if + present simple, will + base verb."
-    },
-    {
-      "id": "q109",
-      "category": "Adverbs",
-      "question": "She arrived ___.",
-      "options": [
-        "late",
-        "lately",
-        "latest",
-        "laterly"
+        "The required level or criteria for acceptable work",
+        "A favourite method",
+        "A list of rumours",
+        "A slogan"
       ],
       "answer": 0,
-      "explanation": "Late is the correct adverb meaning not on time."
+      "explanation": "Standards describe expected quality."
     },
     {
-      "id": "q017",
-      "category": "Tenses",
-      "question": "They ___ football every Sunday.",
+      "id": "q11452",
+      "category": "Quality Improvement",
+      "question": "Quality Improvement: What is a non-conformity?",
       "options": [
-        "plays",
-        "are play",
-        "play",
-        "playing"
-      ],
-      "answer": 2,
-      "explanation": "Use the base verb with the plural subject they in the present simple."
-    },
-    {
-      "id": "q040",
-      "category": "Prepositions",
-      "question": "The hospital is ___ the bank and the post office.",
-      "options": [
-        "among",
-        "between",
-        "inside",
-        "over"
-      ],
-      "answer": 1,
-      "explanation": "Between is used for a position separating two things."
-    },
-    {
-      "id": "q063",
-      "category": "Reading",
-      "question": "Read: 'Ravi practises English for twenty minutes every evening.' How long does he practise?",
-      "options": [
-        "Ten minutes",
-        "Twenty minutes",
-        "Thirty minutes",
-        "One hour"
-      ],
-      "answer": 1,
-      "explanation": "The passage states twenty minutes."
-    },
-    {
-      "id": "q086",
-      "category": "Conditionals",
-      "question": "If it rains, we ___ indoors.",
-      "options": [
-        "stay",
-        "will stay",
-        "stayed",
-        "would stayed"
-      ],
-      "answer": 1,
-      "explanation": "The first conditional uses if + present simple, will + base verb."
-    },
-    {
-      "id": "q109",
-      "category": "Adverbs",
-      "question": "She arrived ___.",
-      "options": [
-        "late",
-        "lately",
-        "latest",
-        "laterly"
+        "A failure to meet a specified requirement",
+        "A completed inspection",
+        "A training certificate",
+        "A normal approval"
       ],
       "answer": 0,
-      "explanation": "Late is the correct adverb meaning not on time."
+      "explanation": "Non-conformity means a requirement has not been met."
     },
     {
-      "id": "q017",
-      "category": "Tenses",
-      "question": "They ___ football every Sunday.",
+      "id": "q11453",
+      "category": "Quality Improvement",
+      "question": "Quality Improvement: What should a corrective action address?",
       "options": [
-        "plays",
-        "are play",
-        "play",
-        "playing"
+        "The cause of an identified problem",
+        "Only report appearance",
+        "A random unrelated task",
+        "The person who noticed it"
       ],
-      "answer": 2,
-      "explanation": "Use the base verb with the plural subject they in the present simple."
+      "answer": 0,
+      "explanation": "Corrective action addresses the cause."
     },
     {
-      "id": "q040",
-      "category": "Prepositions",
-      "question": "The hospital is ___ the bank and the post office.",
+      "id": "q11454",
+      "category": "Quality Improvement",
+      "question": "Quality Improvement: How does a quality checklist help?",
       "options": [
-        "among",
-        "between",
-        "inside",
-        "over"
+        "Ensure required steps are consistently checked",
+        "Replace all training",
+        "Guarantee no mistakes ever",
+        "Remove accountability"
       ],
-      "answer": 1,
-      "explanation": "Between is used for a position separating two things."
+      "answer": 0,
+      "explanation": "Checklists support consistent completion."
+    },
+    {
+      "id": "q11455",
+      "category": "Quality Improvement",
+      "question": "Quality Improvement: What is a performance indicator used for?",
+      "options": [
+        "Measure progress or results against a target",
+        "Record gossip",
+        "Replace a job description",
+        "Approve every purchase"
+      ],
+      "answer": 0,
+      "explanation": "Indicators measure performance."
+    },
+    {
+      "id": "q11456",
+      "category": "Quality Improvement",
+      "question": "Quality Improvement: What does continuous improvement mean?",
+      "options": [
+        "Ongoing changes to improve processes",
+        "Changing every rule daily",
+        "Avoiding feedback",
+        "Repeating errors"
+      ],
+      "answer": 0,
+      "explanation": "Continuous improvement is an ongoing effort."
+    },
+    {
+      "id": "q11457",
+      "category": "Quality Improvement",
+      "question": "Quality Improvement: What does a sample audit examine?",
+      "options": [
+        "A selected portion of records or work",
+        "Private messages",
+        "Office furniture",
+        "An unrelated website"
+      ],
+      "answer": 0,
+      "explanation": "Sampling reviews a subset to assess quality."
+    },
+    {
+      "id": "q11458",
+      "category": "Quality Improvement",
+      "question": "Quality Improvement: Which evidence best supports a quality finding?",
+      "options": [
+        "A dated inspection record with observed facts",
+        "A rumour",
+        "An anonymous guess",
+        "A personal preference"
+      ],
+      "answer": 0,
+      "explanation": "Dated factual evidence supports reliable findings."
+    },
+    {
+      "id": "q11459",
+      "category": "Quality Improvement",
+      "question": "Quality Improvement: What does a process map show?",
+      "options": [
+        "The sequence of steps in a process",
+        "Holiday photos",
+        "Salary list",
+        "Paint colours"
+      ],
+      "answer": 0,
+      "explanation": "A process map visualises how work moves through steps."
+    },
+    {
+      "id": "q11460",
+      "category": "Quality Improvement",
+      "question": "Quality Improvement: What should follow an improvement?",
+      "options": [
+        "Measure whether the change achieved the intended result",
+        "Assume it worked",
+        "Stop collecting data",
+        "Delete the baseline"
+      ],
+      "answer": 0,
+      "explanation": "Measurement confirms whether the improvement was effective."
     }
   ]
 }
