@@ -3,139 +3,139 @@
   "slug": "quiz-0903",
   "title": "English Practice Quiz 0903",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q057",
-      "category": "Pronunciation",
-      "question": "Which word has a silent 'k'?",
+      "id": "q10921",
+      "category": "Customer Service",
+      "question": "A customer has waited longer than expected. What should you do first?",
       "options": [
-        "kite",
-        "know",
-        "keep",
-        "kind"
+        "Pretend there is no delay",
+        "Blame another customer",
+        "Acknowledge the delay and provide an honest update",
+        "End the conversation"
+      ],
+      "answer": 2,
+      "explanation": "Acknowledge the delay and provide an honest update is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q10922",
+      "category": "Customer Service",
+      "question": "What is a service-level target?",
+      "options": [
+        "A staff member's personal wish",
+        "A defined standard for service delivery",
+        "An informal rumour",
+        "A product colour code"
       ],
       "answer": 1,
-      "explanation": "The k in know is silent."
+      "explanation": "A defined standard for service delivery is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q070",
-      "category": "Workplace English",
-      "question": "To confirm an instruction, you can say:",
+      "id": "q10923",
+      "category": "Customer Service",
+      "question": "A customer asks a question outside your role. You should ___.",
       "options": [
-        "Could you please confirm the details?",
-        "I not listen.",
-        "Confirm me now.",
-        "Details no."
+        "refer them to the appropriate authorised person",
+        "invent an answer",
+        "share private information",
+        "ignore them"
       ],
       "answer": 0,
-      "explanation": "Could you please confirm... is polite and precise."
+      "explanation": "refer them to the appropriate authorised person is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q083",
-      "category": "Confusing Words",
-      "question": "Please ___ the correct answer.",
+      "id": "q10924",
+      "category": "Customer Service",
+      "question": "A customer follow-up is useful because it ___.",
       "options": [
-        "choose",
-        "chose",
-        "choice",
-        "chosen"
+        "creates an unnecessary complaint",
+        "replaces the original record",
+        "guarantees a sale",
+        "checks whether the issue was resolved"
       ],
-      "answer": 0,
-      "explanation": "Choose is the base verb used after please."
+      "answer": 3,
+      "explanation": "checks whether the issue was resolved is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q096",
-      "category": "Reported Speech",
-      "question": "He said, 'I am tired.' Reported speech:",
+      "id": "q10925",
+      "category": "Customer Service",
+      "question": "Which response is professional to an angry customer?",
       "options": [
-        "He said that he was tired.",
-        "He said I am tired.",
-        "He says that I tired.",
-        "He said he is tire."
-      ],
-      "answer": 0,
-      "explanation": "In standard backshift, am changes to was after a past reporting verb."
-    },
-    {
-      "id": "q109",
-      "category": "Adverbs",
-      "question": "She arrived ___.",
-      "options": [
-        "late",
-        "lately",
-        "latest",
-        "laterly"
-      ],
-      "answer": 0,
-      "explanation": "Late is the correct adverb meaning not on time."
-    },
-    {
-      "id": "q007",
-      "category": "Grammar",
-      "question": "The keys are ___ the table.",
-      "options": [
-        "in",
-        "at",
-        "on",
-        "by"
+        "Calm down, it is your fault.",
+        "Stop wasting my time.",
+        "I will listen and see how we can address this.",
+        "I do not care."
       ],
       "answer": 2,
-      "explanation": "On describes something resting on a surface."
+      "explanation": "I will listen and see how we can address this. is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q020",
-      "category": "Tenses",
-      "question": "By next June, he ___ the course.",
+      "id": "q10926",
+      "category": "Customer Service",
+      "question": "A service standard should be communicated ___.",
       "options": [
-        "completes",
-        "completed",
-        "will have completed",
-        "has complete"
-      ],
-      "answer": 2,
-      "explanation": "The future perfect describes an action completed before a future time."
-    },
-    {
-      "id": "q033",
-      "category": "Articles",
-      "question": "Please close ___ door.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 2,
-      "explanation": "The refers to a specific door known to the speaker and listener."
-    },
-    {
-      "id": "q046",
-      "category": "Sentence Building",
-      "question": "Choose the correct word order.",
-      "options": [
-        "Always I am late.",
-        "I am always late.",
-        "I late am always.",
-        "Am always I late."
+        "only through rumours",
+        "clearly and consistently to relevant staff",
+        "after every complaint",
+        "without explaining expectations"
       ],
       "answer": 1,
-      "explanation": "Frequency adverbs such as always usually come after the verb be."
+      "explanation": "clearly and consistently to relevant staff is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q059",
-      "category": "Pronunciation",
-      "question": "Which word rhymes with 'light'?",
+      "id": "q10927",
+      "category": "Customer Service",
+      "question": "A customer complaint should be recorded ___.",
       "options": [
-        "late",
-        "lit",
-        "night",
-        "let"
+        "accurately, including relevant facts and actions",
+        "with personal insults",
+        "using guesses",
+        "only if it becomes public"
+      ],
+      "answer": 0,
+      "explanation": "accurately, including relevant facts and actions is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q10928",
+      "category": "Customer Service",
+      "question": "When a customer requests an exception, staff should ___.",
+      "options": [
+        "promise it immediately",
+        "ignore the policy",
+        "ask another customer to decide",
+        "check the applicable policy and approval process"
+      ],
+      "answer": 3,
+      "explanation": "check the applicable policy and approval process is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q10929",
+      "category": "Customer Service",
+      "question": "A professional apology should be ___.",
+      "options": [
+        "sarcastic",
+        "conditional and blaming",
+        "sincere and focused on the inconvenience",
+        "unrelated to the issue"
       ],
       "answer": 2,
-      "explanation": "Light and night share the same ending sound."
+      "explanation": "sincere and focused on the inconvenience is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q10930",
+      "category": "Customer Service",
+      "question": "Customer feedback helps an organisation ___.",
+      "options": [
+        "avoid all reviews",
+        "identify strengths and areas for improvement",
+        "remove staff responsibilities",
+        "replace financial records"
+      ],
+      "answer": 1,
+      "explanation": "identify strengths and areas for improvement is the correct answer based on the meaning and context of the question."
     }
   ]
 }
