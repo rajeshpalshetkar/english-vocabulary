@@ -5,5 +5,137 @@
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
   "category": "Practical English",
   "level": "Advanced",
-  "question_count": 10
+  "question_count": 10,
+  "questions": [
+    {
+      "category": "Workplace Ethics",
+      "question": "A conflict of interest occurs when personal interests may ___.",
+      "options": [
+        "influence professional judgement",
+        "improve the office lighting",
+        "change the weather",
+        "replace a work schedule"
+      ],
+      "answer": 0,
+      "explanation": "A conflict of interest can affect, or appear to affect, impartial decisions.",
+      "id": "q10291"
+    },
+    {
+      "category": "Workplace Ethics",
+      "question": "If you discover a mistake in an official record, you should ___.",
+      "options": [
+        "report it and follow the correction procedure",
+        "erase it without authorisation",
+        "hide the original record",
+        "blame a colleague without checking"
+      ],
+      "answer": 0,
+      "explanation": "Errors should be corrected transparently using the authorised process.",
+      "id": "q10292"
+    },
+    {
+      "category": "Workplace Ethics",
+      "question": "Confidential information should be shared ___.",
+      "options": [
+        "only with authorised people for a valid purpose",
+        "with anyone who asks",
+        "in public chat groups",
+        "as an online status update"
+      ],
+      "answer": 0,
+      "explanation": "Access should be limited to authorised people with a legitimate need.",
+      "id": "q10293"
+    },
+    {
+      "category": "Workplace Ethics",
+      "question": "An impartial decision is one that is made ___.",
+      "options": [
+        "without unfair bias",
+        "to favour a friend",
+        "before checking the facts",
+        "only to avoid responsibility"
+      ],
+      "answer": 0,
+      "explanation": "Impartial means fair and not influenced by personal preference.",
+      "id": "q10294"
+    },
+    {
+      "category": "Workplace Ethics",
+      "question": "If a colleague offers a gift in return for special treatment, you should ___.",
+      "options": [
+        "follow the organisation's gift and ethics policy",
+        "accept it secretly",
+        "promise to change the records",
+        "ask for a larger gift"
+      ],
+      "answer": 0,
+      "explanation": "Gifts linked to preferential treatment can create an ethical concern.",
+      "id": "q10295"
+    },
+    {
+      "category": "Workplace Ethics",
+      "question": "Professional accountability means being prepared to ___.",
+      "options": [
+        "take responsibility for your actions",
+        "deny every mistake",
+        "transfer blame automatically",
+        "avoid explaining decisions"
+      ],
+      "answer": 0,
+      "explanation": "Accountability involves owning actions and explaining decisions.",
+      "id": "q10296"
+    },
+    {
+      "category": "Workplace Ethics",
+      "question": "Which action demonstrates respect for workplace diversity?",
+      "options": [
+        "treating colleagues fairly and respectfully",
+        "making assumptions about people",
+        "excluding people from discussions",
+        "mocking different viewpoints"
+      ],
+      "answer": 0,
+      "explanation": "Respect means treating people fairly regardless of their differences.",
+      "id": "q10297"
+    },
+    {
+      "category": "Workplace Ethics",
+      "question": "If you witness possible misconduct, you should ___.",
+      "options": [
+        "use the proper reporting channel",
+        "spread an unverified story",
+        "alter the evidence",
+        "publish private details online"
+      ],
+      "answer": 0,
+      "explanation": "Appropriate reporting channels help the organisation assess concerns responsibly.",
+      "id": "q10298"
+    },
+    {
+      "category": "Workplace Ethics",
+      "question": "A transparent process is one that is ___.",
+      "options": [
+        "open and clear about how decisions are made",
+        "hidden from everyone",
+        "changed without explanation",
+        "based on secret personal favours"
+      ],
+      "answer": 0,
+      "explanation": "Transparency makes procedures and decisions understandable.",
+      "id": "q10299"
+    },
+    {
+      "category": "Workplace Ethics",
+      "question": "A professional apology should include ___.",
+      "options": [
+        "acknowledgement of the issue and a sincere corrective step",
+        "an excuse blaming everyone else",
+        "a personal insult",
+        "a promise that cannot be kept"
+      ],
+      "answer": 0,
+      "explanation": "A useful apology recognises the problem and explains how it will be addressed.",
+      "id": "q10300"
+    }
+  ]
 }
