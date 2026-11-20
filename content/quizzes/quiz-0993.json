@@ -8,134 +8,134 @@
   "question_count": 10,
   "questions": [
     {
-      "id": "q092",
-      "category": "Passive Voice",
-      "question": "Choose the passive form: 'The manager signed the letter.'",
+      "id": "q10021",
+      "category": "Time Expressions",
+      "question": "We have lived in this neighbourhood ___ 2021.",
       "options": [
-        "The letter is signed.",
-        "The letter was signed by the manager.",
-        "The letter signed the manager.",
-        "The letter has sign."
+        "for",
+        "since",
+        "during",
+        "from"
       ],
       "answer": 1,
-      "explanation": "Past simple passive: was/were + past participle."
+      "explanation": "Since is used with a starting point in time."
     },
     {
-      "id": "q105",
-      "category": "Determiners",
-      "question": "___ student must bring an ID card.",
-      "options": [
-        "Each",
-        "Many",
-        "Few",
-        "Several"
-      ],
-      "answer": 0,
-      "explanation": "Each refers to every individual in a group."
-    },
-    {
-      "id": "q003",
-      "category": "Grammar",
-      "question": "I ___ a new notebook yesterday.",
-      "options": [
-        "buy",
-        "buys",
-        "bought",
-        "buying"
-      ],
-      "answer": 2,
-      "explanation": "Yesterday signals the past simple. The past form of buy is bought."
-    },
-    {
-      "id": "q016",
-      "category": "Tenses",
-      "question": "Water ___ at 100°C at sea level.",
-      "options": [
-        "boil",
-        "boils",
-        "is boiling",
-        "boiled"
-      ],
-      "answer": 1,
-      "explanation": "Use the present simple for general facts."
-    },
-    {
-      "id": "q029",
+      "id": "q10022",
       "category": "Vocabulary",
-      "question": "What is the meaning of 'available'?",
+      "question": "If a person is 'hesitant', they are ___.",
       "options": [
-        "not possible to use",
-        "ready or able to be used",
-        "very expensive",
-        "already broken"
+        "quick to agree",
+        "uncertain or slow to act",
+        "always cheerful",
+        "very experienced"
       ],
       "answer": 1,
-      "explanation": "Available means ready for use or accessible."
+      "explanation": "Hesitant describes someone who pauses because they are unsure."
     },
     {
-      "id": "q042",
-      "category": "Modals",
-      "question": "You ___ smoke inside the hospital.",
+      "id": "q10023",
+      "category": "Grammar",
+      "question": "The report must ___ before Friday.",
       "options": [
-        "must",
-        "mustn't",
-        "should",
-        "could"
+        "submit",
+        "be submitted",
+        "submitted",
+        "be submitting"
       ],
       "answer": 1,
-      "explanation": "Mustn't expresses prohibition."
+      "explanation": "A modal passive uses must + be + past participle."
     },
     {
-      "id": "q055",
-      "category": "Conversation",
-      "question": "A colleague asks for help. A polite reply is:",
+      "id": "q10024",
+      "category": "Meetings",
+      "question": "Which phrase politely invites another person to speak?",
       "options": [
-        "Certainly. What do you need?",
-        "Never ask me.",
-        "You do yourself.",
-        "No speaking."
+        "Stop talking.",
+        "Would you like to add anything?",
+        "That is enough.",
+        "I will not listen."
       ],
-      "answer": 0,
-      "explanation": "Certainly. What do you need? is helpful and polite."
+      "answer": 1,
+      "explanation": "This phrase gives the other person a courteous opportunity to contribute."
     },
     {
-      "id": "q068",
-      "category": "Workplace English",
-      "question": "You need to report a problem. You say:",
+      "id": "q10025",
+      "category": "Word Forms",
+      "question": "Choose the correct form: Her instructions were very ___.",
       "options": [
-        "There is an issue with the printer.",
-        "Printer bad you.",
-        "I issue printer.",
-        "No printer yesterday."
-      ],
-      "answer": 0,
-      "explanation": "There is an issue with... clearly introduces a problem."
-    },
-    {
-      "id": "q081",
-      "category": "Confusing Words",
-      "question": "Choose the correct word: ___ going to arrive soon.",
-      "options": [
-        "Their",
-        "There",
-        "They're",
-        "Theirs"
+        "clarity",
+        "clearly",
+        "clear",
+        "clearness"
       ],
       "answer": 2,
-      "explanation": "They're is the contraction of they are."
+      "explanation": "Clear is the adjective needed after were."
     },
     {
-      "id": "q094",
-      "category": "Passive Voice",
-      "question": "English ___ in many countries.",
+      "id": "q10026",
+      "category": "Grammar",
+      "question": "There is very ___ time left, so please be quick.",
       "options": [
-        "speaks",
-        "is spoken",
-        "spoken",
-        "is speaking"
+        "few",
+        "many",
+        "little",
+        "several"
+      ],
+      "answer": 2,
+      "explanation": "Little is used with uncountable nouns such as time."
+    },
+    {
+      "id": "q10027",
+      "category": "Vocabulary",
+      "question": "A 'mandatory' rule is ___.",
+      "options": [
+        "optional",
+        "required",
+        "temporary",
+        "unwritten"
       ],
       "answer": 1,
-      "explanation": "Present simple passive: is spoken."
+      "explanation": "Mandatory means compulsory or required."
+    },
+    {
+      "id": "q10028",
+      "category": "Pronunciation",
+      "question": "Which word has the same final sound as 'wanted'?",
+      "options": [
+        "washed",
+        "needed",
+        "played",
+        "opened"
+      ],
+      "answer": 1,
+      "explanation": "Wanted and needed end with the /ɪd/ sound."
+    },
+    {
+      "id": "q10029",
+      "category": "Workplace Instructions",
+      "question": "Which instruction is the clearest?",
+      "options": [
+        "Put that thing somewhere.",
+        "Place the signed forms in the blue folder.",
+        "Do it as usual.",
+        "Move everything."
+      ],
+      "answer": 1,
+      "explanation": "A clear instruction identifies the action and the exact location."
+    },
+    {
+      "id": "q10030",
+      "category": "Grammar",
+      "question": "Hardly had the show started ___ the lights went out.",
+      "options": [
+        "than",
+        "then",
+        "when",
+        "while"
+      ],
+      "answer": 2,
+      "explanation": "The structure is hardly...when."
     }
   ]
 }
