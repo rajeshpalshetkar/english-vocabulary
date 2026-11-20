@@ -44,3 +44,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# Trigger full repository quiz audit through the configured GitHub Actions path filter.
