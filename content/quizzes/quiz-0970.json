@@ -4,6 +4,138 @@
   "title": "English Practice Quiz 0970",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
   "category": "Practical English",
-  "level": "Advanced",
-  "question_count": 10
+  "level": "Intermediate",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q10391",
+      "category": "Public Transport",
+      "question": "A passenger should stand behind the safety line while waiting for ___.",
+      "options": [
+        "a train to arrive",
+        "a shop to open",
+        "a traffic light to change at home",
+        "a lift to stop"
+      ],
+      "answer": 0,
+      "explanation": "Safety lines help keep passengers away from the platform edge."
+    },
+    {
+      "id": "q10392",
+      "category": "Public Transport",
+      "question": "A ticket inspector may ask passengers to show their ___.",
+      "options": [
+        "valid travel ticket",
+        "home electricity bill",
+        "school notebook",
+        "shopping list"
+      ],
+      "answer": 0,
+      "explanation": "A travel ticket is evidence that the passenger has paid or is authorised to travel."
+    },
+    {
+      "id": "q10393",
+      "category": "Public Transport",
+      "question": "When a train is crowded, it is considerate to ___.",
+      "options": [
+        "allow passengers to get off before boarding",
+        "push ahead of everyone",
+        "block the doorway",
+        "occupy extra seats with bags"
+      ],
+      "answer": 0,
+      "explanation": "Letting passengers exit first makes boarding safer and easier."
+    },
+    {
+      "id": "q10394",
+      "category": "Public Transport",
+      "question": "A 'connecting service' is a service that ___.",
+      "options": [
+        "links with another part of a journey",
+        "repairs a passenger's phone",
+        "runs without a route",
+        "is always free"
+      ],
+      "answer": 0,
+      "explanation": "A connecting service helps passengers continue their journey."
+    },
+    {
+      "id": "q10395",
+      "category": "Public Transport",
+      "question": "If you miss your stop, you should ___.",
+      "options": [
+        "get off at a safe designated stop and check the return route",
+        "jump from the moving vehicle",
+        "ask the driver to reverse in traffic",
+        "walk along the tracks"
+      ],
+      "answer": 0,
+      "explanation": "Use designated stops and safe travel arrangements."
+    },
+    {
+      "id": "q10396",
+      "category": "Public Transport",
+      "question": "A reserved seat is intended for ___.",
+      "options": [
+        "the passenger or group it is allocated to",
+        "anyone who arrives first in every case",
+        "luggage only",
+        "the driver’s personal guests"
+      ],
+      "answer": 0,
+      "explanation": "Reserved seating is allocated according to the ticket or service rules."
+    },
+    {
+      "id": "q10397",
+      "category": "Public Transport",
+      "question": "A timetable tells passengers ___.",
+      "options": [
+        "planned departure and arrival times",
+        "the colour of every vehicle",
+        "the driver's home address",
+        "the cost of groceries"
+      ],
+      "answer": 0,
+      "explanation": "Timetables show scheduled service times."
+    },
+    {
+      "id": "q10398",
+      "category": "Public Transport",
+      "question": "If you see an unattended suspicious item, you should ___.",
+      "options": [
+        "avoid touching it and inform transport staff or authorities",
+        "open it to identify the owner",
+        "move it to another carriage",
+        "post a close-up photo with location details"
+      ],
+      "answer": 0,
+      "explanation": "Do not handle suspicious items; report them to responsible personnel."
+    },
+    {
+      "id": "q10399",
+      "category": "Public Transport",
+      "question": "A 'fare' is the amount paid for ___.",
+      "options": [
+        "a journey on public transport",
+        "a hotel meal",
+        "a phone repair",
+        "a driving lesson"
+      ],
+      "answer": 0,
+      "explanation": "Fare means the price charged for a journey."
+    },
+    {
+      "id": "q10400",
+      "category": "Public Transport",
+      "question": "Offering a seat to a person who needs it more is an example of ___.",
+      "options": [
+        "consideration",
+        "carelessness",
+        "competition",
+        "distraction"
+      ],
+      "answer": 0,
+      "explanation": "Offering a seat can show consideration for another passenger."
+    }
+  ]
 }
