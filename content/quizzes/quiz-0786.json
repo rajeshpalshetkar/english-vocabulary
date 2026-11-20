@@ -3,139 +3,139 @@
   "slug": "quiz-0786",
   "title": "English Practice Quiz 0786",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Conversation",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q023",
-      "category": "Vocabulary",
-      "question": "A synonym of 'begin' is ___.",
+      "id": "q12151",
+      "category": "Conflict Resolution",
+      "question": "Conflict Resolution 01: A useful first step in resolving conflict is to?",
       "options": [
-        "finish",
-        "start",
-        "stop",
-        "close"
+        "share the information publicly",
+        "listen to each person's concerns",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
       ],
       "answer": 1,
-      "explanation": "Start has the same basic meaning as begin."
+      "explanation": "Option B is correct: listen to each person's concerns."
     },
     {
-      "id": "q046",
-      "category": "Sentence Building",
-      "question": "Choose the correct word order.",
+      "id": "q12152",
+      "category": "Conflict Resolution",
+      "question": "Conflict Resolution 02: A neutral mediator should?",
       "options": [
-        "Always I am late.",
-        "I am always late.",
-        "I late am always.",
-        "Am always I late."
+        "remain impartial",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
       ],
-      "answer": 1,
-      "explanation": "Frequency adverbs such as always usually come after the verb be."
+      "answer": 0,
+      "explanation": "Option A is correct: remain impartial."
     },
     {
-      "id": "q069",
-      "category": "Workplace English",
-      "question": "A polite way to disagree is:",
+      "id": "q12153",
+      "category": "Conflict Resolution",
+      "question": "Conflict Resolution 03: An effective compromise aims to?",
       "options": [
-        "You are totally wrong.",
-        "I see your point, but I have a different view.",
-        "No, stop.",
-        "That is stupid."
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "address important interests of both sides"
       ],
-      "answer": 1,
-      "explanation": "This phrase acknowledges the other person before presenting a different view."
+      "answer": 3,
+      "explanation": "Option D is correct: address important interests of both sides."
     },
     {
-      "id": "q092",
-      "category": "Passive Voice",
-      "question": "Choose the passive form: 'The manager signed the letter.'",
+      "id": "q12154",
+      "category": "Conflict Resolution",
+      "question": "Conflict Resolution 04: Personal attacks during a disagreement should be?",
       "options": [
-        "The letter is signed.",
-        "The letter was signed by the manager.",
-        "The letter signed the manager.",
-        "The letter has sign."
-      ],
-      "answer": 1,
-      "explanation": "Past simple passive: was/were + past participle."
-    },
-    {
-      "id": "q115",
-      "category": "Gerunds",
-      "question": "I want ___ English fluently.",
-      "options": [
-        "speak",
-        "speaking",
-        "to speak",
-        "spoke"
+        "make an unsupported assumption",
+        "share the information publicly",
+        "avoided",
+        "ignore the issue and continue"
       ],
       "answer": 2,
-      "explanation": "Want is followed by a to-infinitive."
+      "explanation": "Option C is correct: avoided."
     },
     {
-      "id": "q023",
-      "category": "Vocabulary",
-      "question": "A synonym of 'begin' is ___.",
+      "id": "q12155",
+      "category": "Conflict Resolution",
+      "question": "Conflict Resolution 05: A conflict discussion should focus on?",
       "options": [
-        "finish",
-        "start",
-        "stop",
-        "close"
+        "share the information publicly",
+        "the issue and possible solutions",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
       ],
       "answer": 1,
-      "explanation": "Start has the same basic meaning as begin."
+      "explanation": "Option B is correct: the issue and possible solutions."
     },
     {
-      "id": "q046",
-      "category": "Sentence Building",
-      "question": "Choose the correct word order.",
+      "id": "q12156",
+      "category": "Conflict Resolution",
+      "question": "Conflict Resolution 06: When emotions rise, participants may benefit from?",
       "options": [
-        "Always I am late.",
-        "I am always late.",
-        "I late am always.",
-        "Am always I late."
+        "a short pause before continuing",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
       ],
-      "answer": 1,
-      "explanation": "Frequency adverbs such as always usually come after the verb be."
+      "answer": 0,
+      "explanation": "Option A is correct: a short pause before continuing."
     },
     {
-      "id": "q069",
-      "category": "Workplace English",
-      "question": "A polite way to disagree is:",
+      "id": "q12157",
+      "category": "Conflict Resolution",
+      "question": "Conflict Resolution 07: An agreement should be?",
       "options": [
-        "You are totally wrong.",
-        "I see your point, but I have a different view.",
-        "No, stop.",
-        "That is stupid."
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "clear about actions and responsibilities"
       ],
-      "answer": 1,
-      "explanation": "This phrase acknowledges the other person before presenting a different view."
+      "answer": 3,
+      "explanation": "Option D is correct: clear about actions and responsibilities."
     },
     {
-      "id": "q092",
-      "category": "Passive Voice",
-      "question": "Choose the passive form: 'The manager signed the letter.'",
+      "id": "q12158",
+      "category": "Conflict Resolution",
+      "question": "Conflict Resolution 08: A recurring conflict may indicate?",
       "options": [
-        "The letter is signed.",
-        "The letter was signed by the manager.",
-        "The letter signed the manager.",
-        "The letter has sign."
-      ],
-      "answer": 1,
-      "explanation": "Past simple passive: was/were + past participle."
-    },
-    {
-      "id": "q115",
-      "category": "Gerunds",
-      "question": "I want ___ English fluently.",
-      "options": [
-        "speak",
-        "speaking",
-        "to speak",
-        "spoke"
+        "make an unsupported assumption",
+        "share the information publicly",
+        "an underlying process or communication problem",
+        "ignore the issue and continue"
       ],
       "answer": 2,
-      "explanation": "Want is followed by a to-infinitive."
+      "explanation": "Option C is correct: an underlying process or communication problem."
+    },
+    {
+      "id": "q12159",
+      "category": "Conflict Resolution",
+      "question": "Conflict Resolution 09: Confidential mediation details should be?",
+      "options": [
+        "share the information publicly",
+        "shared only with authorised people",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
+      ],
+      "answer": 1,
+      "explanation": "Option B is correct: shared only with authorised people."
+    },
+    {
+      "id": "q12160",
+      "category": "Conflict Resolution",
+      "question": "Conflict Resolution 10: After resolving a conflict, it is useful to?",
+      "options": [
+        "review whether the agreed actions worked",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: review whether the agreed actions worked."
     }
   ]
 }
