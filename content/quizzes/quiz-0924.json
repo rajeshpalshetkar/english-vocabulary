@@ -3,139 +3,139 @@
   "slug": "quiz-0924",
   "title": "English Practice Quiz 0924",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q069",
-      "category": "Workplace English",
-      "question": "A polite way to disagree is:",
+      "id": "q10731",
+      "category": "Cybersecurity",
+      "question": "A phishing message tries to ___.",
       "options": [
-        "You are totally wrong.",
-        "I see your point, but I have a different view.",
-        "No, stop.",
-        "That is stupid."
+        "cool a computer",
+        "trick users into revealing information or clicking harmful links",
+        "schedule a genuine meeting",
+        "repair a keyboard"
       ],
       "answer": 1,
-      "explanation": "This phrase acknowledges the other person before presenting a different view."
+      "explanation": "trick users into revealing information or clicking harmful links is correct. The sentence or passage provides the relevant meaning and context."
     },
     {
-      "id": "q086",
-      "category": "Conditionals",
-      "question": "If it rains, we ___ indoors.",
+      "id": "q10732",
+      "category": "Cybersecurity",
+      "question": "An unexpected password-reset link should be ___.",
       "options": [
-        "stay",
-        "will stay",
-        "stayed",
-        "would stayed"
-      ],
-      "answer": 1,
-      "explanation": "The first conditional uses if + present simple, will + base verb."
-    },
-    {
-      "id": "q103",
-      "category": "Determiners",
-      "question": "I have ___ friends in this city.",
-      "options": [
-        "a little",
-        "a few",
-        "much",
-        "anyone"
-      ],
-      "answer": 1,
-      "explanation": "A few is used with countable plural nouns."
-    },
-    {
-      "id": "q005",
-      "category": "Grammar",
-      "question": "Choose the correct sentence.",
-      "options": [
-        "She don't like tea.",
-        "She doesn't likes tea.",
-        "She doesn't like tea.",
-        "She not like tea."
+        "clicked immediately",
+        "forwarded to everyone",
+        "verified through an official channel",
+        "answered with your password"
       ],
       "answer": 2,
-      "explanation": "After doesn't, use the base form of the verb: like."
+      "explanation": "verified through an official channel is correct. The sentence or passage provides the relevant meaning and context."
     },
     {
-      "id": "q022",
-      "category": "Vocabulary",
-      "question": "Choose the opposite of 'polite'.",
+      "id": "q10733",
+      "category": "Cybersecurity",
+      "question": "Multi-factor authentication adds ___.",
       "options": [
-        "kind",
-        "rude",
-        "helpful",
-        "calm"
+        "a second signature",
+        "a larger monitor",
+        "public access",
+        "an extra identity check"
       ],
-      "answer": 1,
-      "explanation": "Rude is the opposite of polite."
+      "answer": 3,
+      "explanation": "an extra identity check is correct. The sentence or passage provides the relevant meaning and context."
     },
     {
-      "id": "q039",
-      "category": "Prepositions",
-      "question": "She is interested ___ music.",
+      "id": "q10734",
+      "category": "Cybersecurity",
+      "question": "A password manager helps ___.",
       "options": [
-        "on",
-        "at",
-        "in",
-        "for"
-      ],
-      "answer": 2,
-      "explanation": "The adjective interested is followed by in."
-    },
-    {
-      "id": "q056",
-      "category": "Pronunciation",
-      "question": "Which word has a different beginning sound?",
-      "options": [
-        "think",
-        "three",
-        "this",
-        "thank"
-      ],
-      "answer": 2,
-      "explanation": "This begins with the voiced /ð/ sound; the others begin with the unvoiced /θ/ sound."
-    },
-    {
-      "id": "q073",
-      "category": "Questions",
-      "question": "Choose the correct question.",
-      "options": [
-        "Does she work here?",
-        "Do she work here?",
-        "Is she works here?",
-        "Does she works here?"
+        "store passwords securely",
+        "publish passwords",
+        "disable updates",
+        "send passwords to strangers"
       ],
       "answer": 0,
-      "explanation": "Use does + subject + base verb with he, she or it."
+      "explanation": "store passwords securely is correct. The sentence or passage provides the relevant meaning and context."
     },
     {
-      "id": "q090",
-      "category": "Conditionals",
-      "question": "If I were you, I ___ apologise.",
+      "id": "q10735",
+      "category": "Cybersecurity",
+      "question": "On public Wi-Fi, follow ___.",
       "options": [
-        "will",
-        "would",
-        "am",
-        "did"
+        "no safeguards",
+        "company security guidance",
+        "disabled security",
+        "shared logins"
       ],
       "answer": 1,
-      "explanation": "If I were you is followed by would for advice."
+      "explanation": "company security guidance is correct. The sentence or passage provides the relevant meaning and context."
     },
     {
-      "id": "q107",
-      "category": "Adjectives",
-      "question": "She is the ___ student in the class.",
+      "id": "q10736",
+      "category": "Cybersecurity",
+      "question": "An unknown attachment should be ___.",
       "options": [
-        "tall",
-        "taller",
-        "tallest",
-        "more tall"
+        "opened immediately",
+        "uploaded publicly",
+        "verified before opening",
+        "forwarded widely"
       ],
       "answer": 2,
-      "explanation": "Use the superlative tallest when comparing one with the whole class."
+      "explanation": "verified before opening is correct. The sentence or passage provides the relevant meaning and context."
+    },
+    {
+      "id": "q10737",
+      "category": "Cybersecurity",
+      "question": "Software updates often contain ___.",
+      "options": [
+        "bank PIN requests",
+        "holiday schedules",
+        "identity cards",
+        "security fixes"
+      ],
+      "answer": 3,
+      "explanation": "security fixes is correct. The sentence or passage provides the relevant meaning and context."
+    },
+    {
+      "id": "q10738",
+      "category": "Cybersecurity",
+      "question": "A possibly compromised work account should be reported ___.",
+      "options": [
+        "immediately through the security process",
+        "months later",
+        "only to friends",
+        "on social media"
+      ],
+      "answer": 0,
+      "explanation": "immediately through the security process is correct. The sentence or passage provides the relevant meaning and context."
+    },
+    {
+      "id": "q10739",
+      "category": "Cybersecurity",
+      "question": "Should passwords be reused across services?",
+      "options": [
+        "Yes, always",
+        "No, use unique passwords",
+        "Only for banking",
+        "Only short ones"
+      ],
+      "answer": 1,
+      "explanation": "No, use unique passwords is correct. The sentence or passage provides the relevant meaning and context."
+    },
+    {
+      "id": "q10740",
+      "category": "Cybersecurity",
+      "question": "An unfamiliar QR code should be scanned ___.",
+      "options": [
+        "without checking",
+        "while paying automatically",
+        "only after checking its source",
+        "and shared widely"
+      ],
+      "answer": 2,
+      "explanation": "only after checking its source is correct. The sentence or passage provides the relevant meaning and context."
     }
   ]
 }
