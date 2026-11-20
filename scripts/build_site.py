@@ -41,7 +41,7 @@ def main():
     OUT.mkdir(parents=True)
     shutil.copytree(ROOT/"site/assets",OUT/"assets",dirs_exist_ok=True)
     lesson_map={}
-    for f in sorted(LESSONS.glob("*.json")):
+    for f in sorted(LESSONS.glob("*.json")):\n        if f.name in {"lesson-template.json", "README.json"}: continue
         a=json.loads(f.read_text(encoding="utf-8"))
         required=["title","description","slug","labels","body_markdown"]
         missing=[k for k in required if not a.get(k)]
