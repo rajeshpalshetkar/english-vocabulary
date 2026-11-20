@@ -3,139 +3,139 @@
   "slug": "quiz-0915",
   "title": "English Practice Quiz 0915",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q031",
-      "category": "Articles",
-      "question": "I saw ___ elephant at the zoo.",
+      "id": "q10841",
+      "category": "Guest Services",
+      "question": "A guest asks about check-in time. You should ___.",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "Use an before a vowel sound."
-    },
-    {
-      "id": "q050",
-      "category": "Sentence Building",
-      "question": "Choose the correct sentence.",
-      "options": [
-        "There is many books.",
-        "There are many books.",
-        "There be many books.",
-        "There am many books."
-      ],
-      "answer": 1,
-      "explanation": "Use there are with plural nouns."
-    },
-    {
-      "id": "q069",
-      "category": "Workplace English",
-      "question": "A polite way to disagree is:",
-      "options": [
-        "You are totally wrong.",
-        "I see your point, but I have a different view.",
-        "No, stop.",
-        "That is stupid."
-      ],
-      "answer": 1,
-      "explanation": "This phrase acknowledges the other person before presenting a different view."
-    },
-    {
-      "id": "q088",
-      "category": "Conditionals",
-      "question": "If you heat ice, it ___.",
-      "options": [
-        "melt",
-        "melts",
-        "will melted",
-        "melting"
-      ],
-      "answer": 1,
-      "explanation": "The zero conditional uses present simple for general truths."
-    },
-    {
-      "id": "q107",
-      "category": "Adjectives",
-      "question": "She is the ___ student in the class.",
-      "options": [
-        "tall",
-        "taller",
-        "tallest",
-        "more tall"
-      ],
-      "answer": 2,
-      "explanation": "Use the superlative tallest when comparing one with the whole class."
-    },
-    {
-      "id": "q011",
-      "category": "Tenses",
-      "question": "Listen! The baby ___.",
-      "options": [
-        "cries",
-        "is crying",
-        "cry",
-        "cried"
-      ],
-      "answer": 1,
-      "explanation": "Listen! suggests an action happening now, so use the present continuous."
-    },
-    {
-      "id": "q030",
-      "category": "Vocabulary",
-      "question": "Choose the best word: The road is very ___. There are many cars.",
-      "options": [
-        "crowded",
-        "empty",
-        "quietly",
-        "soft"
+        "provide the confirmed check-in time clearly",
+        "guess a time",
+        "ignore the question",
+        "promise unconfirmed early access"
       ],
       "answer": 0,
-      "explanation": "Crowded means filled with many people or things; it can describe busy roads."
+      "explanation": "provide the confirmed check-in time clearly is the correct choice based on the meaning and context of the question."
     },
     {
-      "id": "q049",
-      "category": "Sentence Building",
-      "question": "Choose the correct plural of 'child'.",
+      "id": "q10842",
+      "category": "Guest Services",
+      "question": "A reservation is a ___.",
       "options": [
-        "childs",
-        "childes",
-        "children",
-        "childrens"
+        "payment receipt only",
+        "maintenance complaint",
+        "booking made in advance",
+        "attendance record"
       ],
       "answer": 2,
-      "explanation": "Children is the irregular plural of child."
+      "explanation": "booking made in advance is the correct choice based on the meaning and context of the question."
     },
     {
-      "id": "q068",
-      "category": "Workplace English",
-      "question": "You need to report a problem. You say:",
+      "id": "q10843",
+      "category": "Guest Services",
+      "question": "A guest reports a lost item. Staff should ___.",
       "options": [
-        "There is an issue with the printer.",
-        "Printer bad you.",
-        "I issue printer.",
-        "No printer yesterday."
+        "record details and follow the lost-property procedure",
+        "discard similar items",
+        "share details publicly",
+        "guarantee it will be found"
       ],
       "answer": 0,
-      "explanation": "There is an issue with... clearly introduces a problem."
+      "explanation": "record details and follow the lost-property procedure is the correct choice based on the meaning and context of the question."
     },
     {
-      "id": "q087",
-      "category": "Conditionals",
-      "question": "If I had more time, I ___ another language.",
+      "id": "q10844",
+      "category": "Guest Services",
+      "question": "Which phrase offers assistance courteously?",
       "options": [
-        "learn",
-        "will learn",
-        "would learn",
-        "am learn"
+        "What do you want?",
+        "Move away.",
+        "How may I help you?",
+        "Ask someone else."
       ],
       "answer": 2,
-      "explanation": "The second conditional uses would + base verb for an unreal or imagined situation."
+      "explanation": "How may I help you? is the correct choice based on the meaning and context of the question."
+    },
+    {
+      "id": "q10845",
+      "category": "Guest Services",
+      "question": "An accessible room is designed to ___.",
+      "options": [
+        "support guests with access needs",
+        "store luggage only",
+        "serve as an office",
+        "remain unused"
+      ],
+      "answer": 0,
+      "explanation": "support guests with access needs is the correct choice based on the meaning and context of the question."
+    },
+    {
+      "id": "q10846",
+      "category": "Guest Services",
+      "question": "A guest's personal information should be ___.",
+      "options": [
+        "displayed at reception",
+        "given to other guests",
+        "protected and shared only when authorised",
+        "posted online"
+      ],
+      "answer": 2,
+      "explanation": "protected and shared only when authorised is the correct choice based on the meaning and context of the question."
+    },
+    {
+      "id": "q10847",
+      "category": "Guest Services",
+      "question": "If a room is not ready, staff should ___.",
+      "options": [
+        "apologise and explain available options",
+        "blame another guest",
+        "provide a false update",
+        "avoid the guest"
+      ],
+      "answer": 0,
+      "explanation": "apologise and explain available options is the correct choice based on the meaning and context of the question."
+    },
+    {
+      "id": "q10848",
+      "category": "Guest Services",
+      "question": "A concierge commonly helps guests with ___.",
+      "options": [
+        "payroll processing",
+        "equipment audits",
+        "local information and arrangements",
+        "recruitment"
+      ],
+      "answer": 2,
+      "explanation": "local information and arrangements is the correct choice based on the meaning and context of the question."
+    },
+    {
+      "id": "q10849",
+      "category": "Guest Services",
+      "question": "A service standard describes ___.",
+      "options": [
+        "the expected level of service",
+        "guest's private opinions",
+        "building's age",
+        "number of windows"
+      ],
+      "answer": 0,
+      "explanation": "the expected level of service is the correct choice based on the meaning and context of the question."
+    },
+    {
+      "id": "q10850",
+      "category": "Guest Services",
+      "question": "At checkout, a guest should receive ___.",
+      "options": [
+        "another guest's invoice",
+        "an unverified charge",
+        "an accurate final bill and confirmation",
+        "a blank receipt"
+      ],
+      "answer": 2,
+      "explanation": "an accurate final bill and confirmation is the correct choice based on the meaning and context of the question."
     }
   ]
 }
