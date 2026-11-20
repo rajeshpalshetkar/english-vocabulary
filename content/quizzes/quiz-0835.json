@@ -3,139 +3,139 @@
   "slug": "quiz-0835",
   "title": "English Practice Quiz 0835",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q051",
-      "category": "Conversation",
-      "question": "Someone says, 'Thank you for your help.' You reply:",
+      "id": "q11641",
+      "category": "Office Administration",
+      "question": "Office Administration 01: An incoming document should be:",
       "options": [
-        "Never mind you.",
-        "You're welcome.",
-        "I am welcome you.",
-        "No thank."
-      ],
-      "answer": 1,
-      "explanation": "You're welcome is a natural response to thank you."
-    },
-    {
-      "id": "q070",
-      "category": "Workplace English",
-      "question": "To confirm an instruction, you can say:",
-      "options": [
-        "Could you please confirm the details?",
-        "I not listen.",
-        "Confirm me now.",
-        "Details no."
+        "Registered and routed according to procedure",
+        "Left untracked",
+        "Destroyed after reading",
+        "Sent to everyone"
       ],
       "answer": 0,
-      "explanation": "Could you please confirm... is polite and precise."
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q089",
-      "category": "Conditionals",
-      "question": "If she studies, she ___ the test.",
+      "id": "q11642",
+      "category": "Office Administration",
+      "question": "Office Administration 02: A document control number helps:",
       "options": [
-        "passes",
-        "passed",
-        "will pass",
-        "would passed"
+        "Identify and track a specific document",
+        "Calculate overtime",
+        "Measure paper",
+        "Replace approval"
       ],
-      "answer": 2,
-      "explanation": "Use will + base verb in the main clause of the first conditional."
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q108",
-      "category": "Adverbs",
-      "question": "He speaks English ___.",
+      "id": "q11643",
+      "category": "Office Administration",
+      "question": "Office Administration 03: Meeting minutes should record:",
       "options": [
-        "clear",
-        "clearly",
-        "clarity",
-        "clearest"
+        "Decisions, actions, owners and deadlines",
+        "Every casual remark",
+        "Gossip",
+        "Unverified allegations"
       ],
-      "answer": 1,
-      "explanation": "Clearly is the adverb describing how he speaks."
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q012",
-      "category": "Tenses",
-      "question": "We ___ here since 2022.",
+      "id": "q11644",
+      "category": "Office Administration",
+      "question": "Office Administration 04: A document marked draft is:",
       "options": [
-        "live",
-        "lived",
-        "have lived",
-        "are live"
+        "Not yet approved as a final version",
+        "Automatically final",
+        "Ready for public release",
+        "A deleted file"
       ],
-      "answer": 2,
-      "explanation": "Since gives a starting point; the present perfect connects the past to now."
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q031",
-      "category": "Articles",
-      "question": "I saw ___ elephant at the zoo.",
+      "id": "q11645",
+      "category": "Office Administration",
+      "question": "Office Administration 05: A filing index helps users:",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
+        "Locate records systematically",
+        "Change passwords",
+        "Approve invoices",
+        "Schedule interviews"
       ],
-      "answer": 1,
-      "explanation": "Use an before a vowel sound."
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q050",
-      "category": "Sentence Building",
-      "question": "Choose the correct sentence.",
+      "id": "q11646",
+      "category": "Office Administration",
+      "question": "Office Administration 06: Before scanning a document, check:",
       "options": [
-        "There is many books.",
-        "There are many books.",
-        "There be many books.",
-        "There am many books."
+        "Completeness, legibility and page order",
+        "Only scanner colour",
+        "The weather",
+        "Sender hobbies"
       ],
-      "answer": 1,
-      "explanation": "Use there are with plural nouns."
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q069",
-      "category": "Workplace English",
-      "question": "A polite way to disagree is:",
+      "id": "q11647",
+      "category": "Office Administration",
+      "question": "Office Administration 07: An authorised signature indicates:",
       "options": [
-        "You are totally wrong.",
-        "I see your point, but I have a different view.",
-        "No, stop.",
-        "That is stupid."
+        "Approval within the signer's authority",
+        "Legal immunity",
+        "Error-free content",
+        "No further checks"
       ],
-      "answer": 1,
-      "explanation": "This phrase acknowledges the other person before presenting a different view."
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q088",
-      "category": "Conditionals",
-      "question": "If you heat ice, it ___.",
+      "id": "q11648",
+      "category": "Office Administration",
+      "question": "Office Administration 08: A version history records:",
       "options": [
-        "melt",
-        "melts",
-        "will melted",
-        "melting"
+        "Changes across document revisions",
+        "Office attendance",
+        "Visitor parking",
+        "Telephone charges"
       ],
-      "answer": 1,
-      "explanation": "The zero conditional uses present simple for general truths."
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q107",
-      "category": "Adjectives",
-      "question": "She is the ___ student in the class.",
+      "id": "q11649",
+      "category": "Office Administration",
+      "question": "Office Administration 09: An overdue action should be:",
       "options": [
-        "tall",
-        "taller",
-        "tallest",
-        "more tall"
+        "Flagged and followed up with the responsible person",
+        "Removed from tracker",
+        "Falsely marked complete",
+        "Forgotten"
       ],
-      "answer": 2,
-      "explanation": "Use the superlative tallest when comparing one with the whole class."
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11650",
+      "category": "Office Administration",
+      "question": "Office Administration 10: A distribution list identifies:",
+      "options": [
+        "Who should receive the document",
+        "Who printed it",
+        "Who owns the building",
+        "Who attended lunch"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
     }
   ]
 }
