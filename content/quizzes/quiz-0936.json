@@ -3,139 +3,139 @@
   "slug": "quiz-0936",
   "title": "English Practice Quiz 0936",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q043",
-      "category": "Modals",
-      "question": "When I was five, I ___ swim.",
+      "id": "q10651",
+      "category": "Workplace Safety Equipment",
+      "question": "Personal protective equipment is commonly abbreviated as ___.",
       "options": [
-        "can",
-        "could",
-        "may",
-        "must"
+        "PPE",
+        "GDP",
+        "PIN",
+        "FAQ"
       ],
-      "answer": 1,
-      "explanation": "Could expresses past ability."
+      "answer": 0,
+      "explanation": "PPE stands for personal protective equipment."
     },
     {
-      "id": "q066",
-      "category": "Workplace English",
-      "question": "A professional way to ask for a file is:",
+      "id": "q10652",
+      "category": "Workplace Safety Equipment",
+      "question": "Safety footwear is designed to help protect the ___.",
       "options": [
-        "Give file now.",
-        "Could you please share the file?",
-        "File give me.",
-        "You must file."
+        "feet from workplace hazards",
+        "eyes from bright screens",
+        "ears from loud music",
+        "hands from paperwork"
       ],
-      "answer": 1,
-      "explanation": "Could you please is a polite and professional request."
+      "answer": 0,
+      "explanation": "Protective footwear can reduce foot injuries from specific hazards."
     },
     {
-      "id": "q089",
-      "category": "Conditionals",
-      "question": "If she studies, she ___ the test.",
+      "id": "q10653",
+      "category": "Workplace Safety Equipment",
+      "question": "A fire extinguisher should be used only by someone who ___.",
       "options": [
-        "passes",
-        "passed",
-        "will pass",
-        "would passed"
+        "is trained and can do so safely",
+        "has never seen one before",
+        "is standing in heavy smoke",
+        "must enter a dangerous area"
       ],
-      "answer": 2,
-      "explanation": "Use will + base verb in the main clause of the first conditional."
+      "answer": 0,
+      "explanation": "Training and safe conditions are essential before attempting to use an extinguisher."
     },
     {
-      "id": "q112",
-      "category": "Gerunds",
-      "question": "He decided ___ early.",
+      "id": "q10654",
+      "category": "Workplace Safety Equipment",
+      "question": "A damaged electrical cable should be ___.",
       "options": [
-        "leave",
-        "leaving",
-        "to leave",
-        "leaves"
+        "taken out of use and reported",
+        "repaired with ordinary tape while powered",
+        "hidden under a mat",
+        "used until it stops working"
       ],
-      "answer": 2,
-      "explanation": "Decide is commonly followed by a to-infinitive."
+      "answer": 0,
+      "explanation": "Damaged cables can cause electric shock or fire and must be reported."
     },
     {
-      "id": "q020",
-      "category": "Tenses",
-      "question": "By next June, he ___ the course.",
+      "id": "q10655",
+      "category": "Workplace Safety Equipment",
+      "question": "A high-visibility vest helps workers to be ___.",
       "options": [
-        "completes",
-        "completed",
-        "will have completed",
-        "has complete"
+        "more easily seen",
+        "protected from every chemical",
+        "immune to traffic injuries",
+        "able to hear alarms"
       ],
-      "answer": 2,
-      "explanation": "The future perfect describes an action completed before a future time."
+      "answer": 0,
+      "explanation": "High-visibility clothing improves visibility in suitable environments."
     },
     {
-      "id": "q043",
-      "category": "Modals",
-      "question": "When I was five, I ___ swim.",
+      "id": "q10656",
+      "category": "Workplace Safety Equipment",
+      "question": "Eye protection is especially important when a task may produce ___.",
       "options": [
-        "can",
-        "could",
-        "may",
-        "must"
+        "flying particles or splashes",
+        "quiet conversation",
+        "paperwork",
+        "low room temperature"
       ],
-      "answer": 1,
-      "explanation": "Could expresses past ability."
+      "answer": 0,
+      "explanation": "Safety glasses or goggles protect against relevant eye hazards."
     },
     {
-      "id": "q066",
-      "category": "Workplace English",
-      "question": "A professional way to ask for a file is:",
+      "id": "q10657",
+      "category": "Workplace Safety Equipment",
+      "question": "A safety sign showing a crossed-out cigarette means ___.",
       "options": [
-        "Give file now.",
-        "Could you please share the file?",
-        "File give me.",
-        "You must file."
+        "smoking is prohibited",
+        "smoking is encouraged",
+        "a smoking area is nearby",
+        "the sign is a fire exit"
       ],
-      "answer": 1,
-      "explanation": "Could you please is a polite and professional request."
+      "answer": 0,
+      "explanation": "The symbol indicates a no-smoking restriction."
     },
     {
-      "id": "q089",
-      "category": "Conditionals",
-      "question": "If she studies, she ___ the test.",
+      "id": "q10658",
+      "category": "Workplace Safety Equipment",
+      "question": "Before using lifting equipment, an employee should check that it is ___.",
       "options": [
-        "passes",
-        "passed",
-        "will pass",
-        "would passed"
+        "suitable and inspected as required",
+        "overloaded",
+        "missing safety parts",
+        "used beyond its rated capacity"
       ],
-      "answer": 2,
-      "explanation": "Use will + base verb in the main clause of the first conditional."
+      "answer": 0,
+      "explanation": "Equipment must be appropriate and in safe working condition."
     },
     {
-      "id": "q112",
-      "category": "Gerunds",
-      "question": "He decided ___ early.",
+      "id": "q10659",
+      "category": "Workplace Safety Equipment",
+      "question": "A spill kit is used to ___.",
       "options": [
-        "leave",
-        "leaving",
-        "to leave",
-        "leaves"
+        "manage certain spills safely according to procedure",
+        "store personal food",
+        "repair a computer",
+        "replace an emergency exit"
       ],
-      "answer": 2,
-      "explanation": "Decide is commonly followed by a to-infinitive."
+      "answer": 0,
+      "explanation": "Spill kits contain materials for handling specified spills."
     },
     {
-      "id": "q020",
-      "category": "Tenses",
-      "question": "By next June, he ___ the course.",
+      "id": "q10660",
+      "category": "Workplace Safety Equipment",
+      "question": "Safety equipment inspections should be ___.",
       "options": [
-        "completes",
-        "completed",
-        "will have completed",
-        "has complete"
+        "recorded according to the inspection schedule",
+        "done only after an accident",
+        "skipped when equipment looks new",
+        "replaced by verbal guesses"
       ],
-      "answer": 2,
-      "explanation": "The future perfect describes an action completed before a future time."
+      "answer": 0,
+      "explanation": "Records help demonstrate that checks were completed."
     }
   ]
 }
