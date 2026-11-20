@@ -3,139 +3,139 @@
   "slug": "quiz-0955",
   "title": "English Practice Quiz 0955",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q021",
-      "category": "Vocabulary",
-      "question": "A person who repairs water pipes is a ___.",
+      "id": "q10441",
+      "category": "Environmental Awareness",
+      "question": "Recycling means ___.",
       "options": [
-        "carpenter",
-        "plumber",
-        "tailor",
-        "baker"
-      ],
-      "answer": 1,
-      "explanation": "A plumber installs and repairs water pipes and fittings."
-    },
-    {
-      "id": "q040",
-      "category": "Prepositions",
-      "question": "The hospital is ___ the bank and the post office.",
-      "options": [
-        "among",
-        "between",
-        "inside",
-        "over"
-      ],
-      "answer": 1,
-      "explanation": "Between is used for a position separating two things."
-    },
-    {
-      "id": "q059",
-      "category": "Pronunciation",
-      "question": "Which word rhymes with 'light'?",
-      "options": [
-        "late",
-        "lit",
-        "night",
-        "let"
-      ],
-      "answer": 2,
-      "explanation": "Light and night share the same ending sound."
-    },
-    {
-      "id": "q078",
-      "category": "Punctuation",
-      "question": "Choose the correct sentence.",
-      "options": [
-        "I like tea, coffee and milk.",
-        "I like tea coffee and milk",
-        "I like, tea coffee, and milk.",
-        "i like tea, coffee and milk"
+        "processing used materials so they can be used again",
+        "throwing every item into one bin",
+        "burning all household waste",
+        "leaving rubbish in public places"
       ],
       "answer": 0,
-      "explanation": "Use commas to separate items in a list and capitalise the first word."
+      "explanation": "Recycling converts suitable waste materials into usable materials."
     },
     {
-      "id": "q097",
-      "category": "Reported Speech",
-      "question": "She said, 'I can swim.'",
+      "id": "q10442",
+      "category": "Environmental Awareness",
+      "question": "A renewable energy source is one that ___.",
       "options": [
-        "She said she can swam.",
-        "She said that she could swim.",
-        "She said she swims can.",
-        "She told that could swim."
+        "is naturally replenished",
+        "exists only once underground",
+        "cannot be replaced",
+        "always produces smoke"
       ],
-      "answer": 1,
-      "explanation": "Can commonly changes to could in reported speech after a past reporting verb."
+      "answer": 0,
+      "explanation": "Renewable sources are replenished naturally over time."
     },
     {
-      "id": "q001",
-      "category": "Grammar",
-      "question": "She ___ to work every day.",
+      "id": "q10443",
+      "category": "Environmental Awareness",
+      "question": "Which action can help conserve water at home?",
       "options": [
-        "go",
-        "goes",
-        "going",
-        "gone"
+        "repairing leaking taps",
+        "leaving taps running",
+        "washing one item under continuous flow for an hour",
+        "ignoring pipe leaks"
       ],
-      "answer": 1,
-      "explanation": "With he, she or it in the present simple, add -s or -es to most verbs."
+      "answer": 0,
+      "explanation": "Fixing leaks prevents unnecessary water loss."
     },
     {
-      "id": "q020",
-      "category": "Tenses",
-      "question": "By next June, he ___ the course.",
+      "id": "q10444",
+      "category": "Environmental Awareness",
+      "question": "Composting is a process that turns organic waste into ___.",
       "options": [
-        "completes",
-        "completed",
-        "will have completed",
-        "has complete"
+        "nutrient-rich material for soil",
+        "plastic packaging",
+        "metal tools",
+        "petrol"
       ],
-      "answer": 2,
-      "explanation": "The future perfect describes an action completed before a future time."
+      "answer": 0,
+      "explanation": "Composting decomposes organic material into a soil amendment."
     },
     {
-      "id": "q039",
-      "category": "Prepositions",
-      "question": "She is interested ___ music.",
+      "id": "q10445",
+      "category": "Environmental Awareness",
+      "question": "The term 'carbon footprint' refers to ___.",
       "options": [
-        "on",
-        "at",
-        "in",
-        "for"
+        "greenhouse gas emissions linked to an activity or person",
+        "the size of a shoe",
+        "the amount of rainfall",
+        "the weight of a tree"
       ],
-      "answer": 2,
-      "explanation": "The adjective interested is followed by in."
+      "answer": 0,
+      "explanation": "A carbon footprint estimates emissions associated with activities."
     },
     {
-      "id": "q058",
-      "category": "Pronunciation",
-      "question": "Which word has the /ʃ/ sound as in 'ship'?",
+      "id": "q10446",
+      "category": "Environmental Awareness",
+      "question": "Using public transport can help reduce ___.",
       "options": [
-        "sip",
-        "shop",
-        "zip",
-        "tip"
+        "the number of individual vehicles on the road",
+        "the need for road safety",
+        "the amount of daylight",
+        "the number of passengers"
       ],
-      "answer": 1,
-      "explanation": "Shop begins with the /ʃ/ sound."
+      "answer": 0,
+      "explanation": "Shared transport can reduce per-person vehicle use."
     },
     {
-      "id": "q077",
-      "category": "Punctuation",
-      "question": "Which sentence uses the apostrophe correctly?",
+      "id": "q10447",
+      "category": "Environmental Awareness",
+      "question": "Single-use plastic is designed to be used ___.",
       "options": [
-        "The guards uniform is blue.",
-        "The guard's uniform is blue.",
-        "The guards' uniform is blue. (one guard)",
-        "The guard uniform's is blue."
+        "once or for a short time before disposal",
+        "for several generations",
+        "only as building material",
+        "as a renewable fuel"
       ],
-      "answer": 1,
-      "explanation": "Guard's shows possession by one guard."
+      "answer": 0,
+      "explanation": "Single-use plastic is intended for brief use before being discarded."
+    },
+    {
+      "id": "q10448",
+      "category": "Environmental Awareness",
+      "question": "An energy-efficient appliance generally uses ___.",
+      "options": [
+        "less energy for a similar task",
+        "more energy for no benefit",
+        "no electricity under any condition",
+        "only fuel from trees"
+      ],
+      "answer": 0,
+      "explanation": "Energy efficiency means using less energy to provide a service."
+    },
+    {
+      "id": "q10449",
+      "category": "Environmental Awareness",
+      "question": "Biodiversity refers to the variety of ___.",
+      "options": [
+        "living organisms in an area or on Earth",
+        "types of office chairs",
+        "weather forecasts",
+        "road signs"
+      ],
+      "answer": 0,
+      "explanation": "Biodiversity includes the variety of life at different levels."
+    },
+    {
+      "id": "q10450",
+      "category": "Environmental Awareness",
+      "question": "Planting native species can support local ___.",
+      "options": [
+        "wildlife and ecosystems",
+        "traffic congestion",
+        "plastic production",
+        "noise pollution"
+      ],
+      "answer": 0,
+      "explanation": "Native plants can provide suitable habitat and food for local species."
     }
   ]
 }
