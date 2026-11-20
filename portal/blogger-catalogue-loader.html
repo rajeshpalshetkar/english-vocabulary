@@ -1,0 +1,92 @@
+<!-- English Fluency Guide: GitHub JSON catalogue viewer -->
+<section class="efg-catalogue" data-view="library" aria-live="polite">
+  <div class="efg-catalogue-header">
+    <h1 class="efg-catalogue-title">English Learning Library</h1>
+    <p class="efg-catalogue-description">Explore structured lessons and practise English step by step.</p>
+  </div>
+  <p class="efg-catalogue-status">Loading lessons…</p>
+  <div class="efg-catalogue-grid"></div>
+</section>
+<style>
+.efg-catalogue{max-width:1120px;margin:0 auto;padding:20px 0;color:#18324f}
+.efg-catalogue-header{margin-bottom:22px;padding:22px 24px;border-radius:18px;background:linear-gradient(120deg,#123b72,#1d4e89);color:#fff}
+.efg-catalogue-title{margin:0 0 7px;font-size:clamp(24px,4vw,34px);font-weight:800}
+.efg-catalogue-description{margin:0;color:#e2eaf4}
+.efg-catalogue-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}
+.efg-catalogue-card{display:block;padding:18px;border:1px solid #dce7f3;border-radius:15px;background:#fff;text-decoration:none;color:#18324f;box-shadow:0 5px 18px rgba(15,35,60,.05);transition:transform .2s,box-shadow .2s}
+.efg-catalogue-card:hover{transform:translateY(-3px);box-shadow:0 12px 28px rgba(15,35,60,.1)}
+.efg-catalogue-card strong{display:block;font-size:16px;line-height:1.45;color:#123b72}
+.efg-catalogue-card small{display:block;margin-top:7px;color:#64748b;line-height:1.5}
+.efg-catalogue-count{display:inline-block;margin-top:10px;color:#0369a1;font-size:12px;font-weight:700}
+.efg-catalogue-status{padding:12px;color:#64748b}
+@media(max-width:760px){.efg-catalogue-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:480px){.efg-catalogue-grid{grid-template-columns:1fr}.efg-catalogue-card{padding:15px}}
+</style>
+<script>
+(function(){
+  "use strict";
+  var root=document.querySelector(".efg-catalogue");
+  if(!root || root.dataset.loaded==="1") return;
+  root.dataset.loaded="1";
+  var indexUrl="https://raw.githubusercontent.com/rajeshpalshetkar/english-vocabulary/main/content/data/portal-index.json";
+  var status=root.querySelector(".efg-catalogue-status");
+  var grid=root.querySelector(".efg-catalogue-grid");
+  var title=root.querySelector(".efg-catalogue-title");
+  var desc=root.querySelector(".efg-catalogue-description");
+  var view=root.getAttribute("data-view")||"library";
+  function card(name,summary,href,count){
+    var a=document.createElement("a"); a.className="efg-catalogue-card"; a.href=href;
+    var strong=document.createElement("strong"); strong.textContent=name; a.appendChild(strong);
+    var small=document.createElement("small"); small.textContent=summary||"Explore lessons and guided practice."; a.appendChild(small);
+    if(count){var badge=document.createElement("span");badge.className="efg-catalogue-count";badge.textContent=count;a.appendChild(badge);}
+    return a;
+  }
+  function safeSlug(s){return String(s||"").toLowerCase().normalize("NFKD").replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"");}
+  Promise.all([
+    fetch(indexUrl,{cache:"no-cache"}).then(function(r){if(!r.ok)throw new Error("Could not load portal index");return r.json();}),
+  ]).then(function(results){
+    var index=results[0];
+    return fetch(index.catalogue,{cache:"no-cache"}).then(function(r){if(!r.ok)throw new Error("Could not load lesson catalogue");return r.json();}).then(function(catalogue){return {index:index,catalogue:catalogue};});
+  }).then(function(data){
+    var index=data.index, catalogue=data.catalogue;
+    grid.textContent="";
+    if(view==="library"){
+      title.textContent="English Learning Library";
+      desc.textContent="Choose a subject and follow lessons at your own pace.";
+      Object.keys(catalogue.core_library||{}).forEach(function(label){
+        var slug=safeSlug(label);
+        var items=catalogue.core_library[label]||[];
+        grid.appendChild(card(label,"Structured lessons, examples and exercises.", "/p/"+slug+".html",items.length+" lessons"));
+      });
+      status.textContent="Choose a learning category.";
+    } else if(view==="challenge30"){
+      title.textContent="30-Day English Challenge";
+      desc.textContent="A guided beginner-friendly plan with daily lessons and practice.";
+      (catalogue.challenge_30_days||[]).forEach(function(item,i){
+        var name=Array.isArray(item)?item[0]:item.title;
+        var label=Array.isArray(item)?item[1]:(item.label||"Basic English");
+        grid.appendChild(card("Day "+String(i+1).padStart(2,"0")+": "+name,"Daily topic: "+label,"/p/lesson-"+String(i+1).padStart(2,"0")+"-"+safeSlug(name)+".html","Day "+(i+1)+" of 30"));
+      });
+      status.textContent="30 daily lessons.";
+    } else if(view==="practice365"){
+      title.textContent="365-Day English Practice";
+      desc.textContent="A year of structured English practice, organised into 52 weekly lessons.";
+      (catalogue.year_practice_52_weeks||[]).forEach(function(name,i){
+        grid.appendChild(card("Week "+String(i+1).padStart(2,"0")+": "+name,"Seven activities from Monday to Sunday.","/p/week-"+String(i+1).padStart(2,"0")+"-"+safeSlug(name)+".html","Week "+(i+1)+" of 52"));
+      });
+      status.textContent="52 weekly practice plans.";
+    } else {
+      var matching=Object.keys(catalogue.core_library||{}).find(function(k){return safeSlug(k)===safeSlug(view);});
+      title.textContent=matching||view;
+      desc.textContent="Explore lessons in "+(matching||view)+".";
+      (catalogue.core_library[matching]||[]).forEach(function(name,i){
+        grid.appendChild(card(name,"Lesson "+(i+1)+" • "+(matching||view),"/p/lesson-"+safeSlug(name)+".html","Lesson "+(i+1)));
+      });
+      status.textContent="Lessons in "+(matching||view)+".";
+    }
+  }).catch(function(err){
+    status.textContent="Lessons could not be loaded. Please refresh or try again later.";
+    console.error("English Fluency Guide catalogue:",err);
+  });
+})();
+</script>
