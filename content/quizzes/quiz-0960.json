@@ -4,6 +4,138 @@
   "title": "English Practice Quiz 0960",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
   "category": "Practical English",
-  "level": "Advanced",
-  "question_count": 10
+  "level": "Intermediate",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q10491",
+      "category": "Road Safety",
+      "question": "A pedestrian should cross the road at a ___.",
+      "options": [
+        "designated crossing",
+        "sharp bend",
+        "vehicle entrance",
+        "bus lane"
+      ],
+      "answer": 0,
+      "explanation": "A designated crossing is intended to help pedestrians cross safely."
+    },
+    {
+      "id": "q10492",
+      "category": "Road Safety",
+      "question": "A red traffic light means drivers must ___.",
+      "options": [
+        "stop",
+        "speed up",
+        "turn without checking",
+        "sound the horn continuously"
+      ],
+      "answer": 0,
+      "explanation": "A red signal requires traffic to stop."
+    },
+    {
+      "id": "q10493",
+      "category": "Road Safety",
+      "question": "Wearing a seat belt helps reduce the risk of ___.",
+      "options": [
+        "serious injury in a collision",
+        "running out of fuel",
+        "getting lost",
+        "engine overheating"
+      ],
+      "answer": 0,
+      "explanation": "Seat belts help restrain occupants during a crash."
+    },
+    {
+      "id": "q10494",
+      "category": "Road Safety",
+      "question": "A blind spot is an area around a vehicle that the driver ___.",
+      "options": [
+        "cannot easily see in mirrors",
+        "can see clearly through the windscreen",
+        "uses to park a bicycle",
+        "uses to check fuel"
+      ],
+      "answer": 0,
+      "explanation": "Blind spots are areas not visible through the usual mirrors."
+    },
+    {
+      "id": "q10495",
+      "category": "Road Safety",
+      "question": "When approaching a school zone, drivers should ___.",
+      "options": [
+        "slow down and watch for children",
+        "overtake every vehicle",
+        "ignore crossing guards",
+        "park on the crossing"
+      ],
+      "answer": 0,
+      "explanation": "Children may cross unexpectedly, so extra care is needed."
+    },
+    {
+      "id": "q10496",
+      "category": "Road Safety",
+      "question": "A helmet is important for a two-wheeler rider because it helps protect the ___.",
+      "options": [
+        "head",
+        "ankles only",
+        "fuel tank",
+        "handlebar"
+      ],
+      "answer": 0,
+      "explanation": "A properly fitted helmet helps protect the rider's head."
+    },
+    {
+      "id": "q10497",
+      "category": "Road Safety",
+      "question": "At a roundabout, drivers should follow ___.",
+      "options": [
+        "lane markings and give-way rules",
+        "the loudest horn",
+        "the vehicle behind them only",
+        "any direction they prefer"
+      ],
+      "answer": 0,
+      "explanation": "Road users should follow signs, markings and applicable right-of-way rules."
+    },
+    {
+      "id": "q10498",
+      "category": "Road Safety",
+      "question": "Using a mobile phone while driving can ___.",
+      "options": [
+        "distract the driver",
+        "improve reaction time",
+        "make braking automatic",
+        "increase road visibility"
+      ],
+      "answer": 0,
+      "explanation": "Phone use takes attention away from driving."
+    },
+    {
+      "id": "q10499",
+      "category": "Road Safety",
+      "question": "A safe following distance gives a driver more time to ___.",
+      "options": [
+        "react and brake",
+        "read a text message",
+        "change a tyre while moving",
+        "ignore traffic signals"
+      ],
+      "answer": 0,
+      "explanation": "A sufficient gap allows time to respond to sudden changes."
+    },
+    {
+      "id": "q10500",
+      "category": "Road Safety",
+      "question": "If an emergency vehicle approaches with siren and lights, drivers should ___.",
+      "options": [
+        "give way safely according to traffic rules",
+        "race alongside it",
+        "block its path",
+        "follow it closely"
+      ],
+      "answer": 0,
+      "explanation": "Giving way safely helps emergency responders reach their destination."
+    }
+  ]
 }
