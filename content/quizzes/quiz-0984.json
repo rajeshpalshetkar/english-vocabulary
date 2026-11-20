@@ -3,139 +3,139 @@
   "slug": "quiz-0984",
   "title": "English Practice Quiz 0984",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q054",
-      "category": "Conversation",
-      "question": "You need a moment to think. You say:",
+      "id": "q10131",
+      "category": "Environment",
+      "question": "To 'recycle' paper means to ___.",
       "options": [
-        "Let me think for a moment.",
-        "I no idea ever.",
-        "Wait your mouth.",
-        "I am think."
+        "process it for reuse",
+        "burn it in the street",
+        "bury it with food",
+        "leave it in a river"
       ],
       "answer": 0,
-      "explanation": "This phrase politely signals that you need a little time."
+      "explanation": "Recycling turns used material into material for new products."
     },
     {
-      "id": "q071",
-      "category": "Questions",
-      "question": "Choose the correct WH question for a place.",
+      "id": "q10132",
+      "category": "Environment",
+      "question": "A 'drought' is a long period with ___.",
       "options": [
-        "When do you live?",
-        "Where do you live?",
-        "Who do you live?",
-        "Why do you live?"
-      ],
-      "answer": 1,
-      "explanation": "Where asks about a place or location."
-    },
-    {
-      "id": "q088",
-      "category": "Conditionals",
-      "question": "If you heat ice, it ___.",
-      "options": [
-        "melt",
-        "melts",
-        "will melted",
-        "melting"
-      ],
-      "answer": 1,
-      "explanation": "The zero conditional uses present simple for general truths."
-    },
-    {
-      "id": "q105",
-      "category": "Determiners",
-      "question": "___ student must bring an ID card.",
-      "options": [
-        "Each",
-        "Many",
-        "Few",
-        "Several"
+        "very little rainfall",
+        "heavy snowfall",
+        "strong daily winds",
+        "low traffic"
       ],
       "answer": 0,
-      "explanation": "Each refers to every individual in a group."
+      "explanation": "Drought is an extended shortage of rain."
     },
     {
-      "id": "q007",
-      "category": "Grammar",
-      "question": "The keys are ___ the table.",
+      "id": "q10133",
+      "category": "Environment",
+      "question": "Which action can reduce household electricity use?",
       "options": [
-        "in",
-        "at",
-        "on",
-        "by"
-      ],
-      "answer": 2,
-      "explanation": "On describes something resting on a surface."
-    },
-    {
-      "id": "q024",
-      "category": "Vocabulary",
-      "question": "If a task is 'urgent', it needs ___.",
-      "options": [
-        "no attention",
-        "quick attention",
-        "a holiday",
-        "a receipt"
-      ],
-      "answer": 1,
-      "explanation": "Urgent means requiring immediate or prompt attention."
-    },
-    {
-      "id": "q041",
-      "category": "Modals",
-      "question": "___ I borrow your pen, please?",
-      "options": [
-        "May",
-        "Must",
-        "Should",
-        "Would have"
+        "switch off unused lights",
+        "leave every appliance running",
+        "open the refrigerator often",
+        "keep chargers plugged in unnecessarily"
       ],
       "answer": 0,
-      "explanation": "May is a polite way to ask permission."
+      "explanation": "Switching off unused lights reduces electricity consumption."
     },
     {
-      "id": "q058",
-      "category": "Pronunciation",
-      "question": "Which word has the /ʃ/ sound as in 'ship'?",
+      "id": "q10134",
+      "category": "Environment",
+      "question": "The word 'conservation' refers to ___.",
       "options": [
-        "sip",
-        "shop",
-        "zip",
-        "tip"
+        "protecting natural resources",
+        "wasting water",
+        "increasing litter",
+        "removing all trees"
       ],
-      "answer": 1,
-      "explanation": "Shop begins with the /ʃ/ sound."
+      "answer": 0,
+      "explanation": "Conservation means protecting resources and the natural environment."
     },
     {
-      "id": "q075",
-      "category": "Questions",
-      "question": "Choose the correct question tag: 'You are ready, ___?'",
+      "id": "q10135",
+      "category": "Environment",
+      "question": "A reusable bottle helps reduce ___.",
       "options": [
-        "are you",
-        "aren't you",
-        "do you",
-        "don't you"
+        "single-use plastic waste",
+        "rainfall",
+        "daylight",
+        "public transport"
       ],
-      "answer": 1,
-      "explanation": "A positive statement with are usually takes the negative tag aren't you."
+      "answer": 0,
+      "explanation": "Reusable bottles reduce the need for disposable bottles."
     },
     {
-      "id": "q092",
-      "category": "Passive Voice",
-      "question": "Choose the passive form: 'The manager signed the letter.'",
+      "id": "q10136",
+      "category": "Environment",
+      "question": "If a river is polluted, its water is ___.",
       "options": [
-        "The letter is signed.",
-        "The letter was signed by the manager.",
-        "The letter signed the manager.",
-        "The letter has sign."
+        "contaminated",
+        "purified",
+        "frozen",
+        "distilled"
       ],
-      "answer": 1,
-      "explanation": "Past simple passive: was/were + past participle."
+      "answer": 0,
+      "explanation": "Polluted water contains harmful substances."
+    },
+    {
+      "id": "q10137",
+      "category": "Environment",
+      "question": "Which phrase describes energy from sunlight?",
+      "options": [
+        "solar energy",
+        "coal energy",
+        "diesel energy",
+        "nuclear waste"
+      ],
+      "answer": 0,
+      "explanation": "Solar energy comes from the sun."
+    },
+    {
+      "id": "q10138",
+      "category": "Environment",
+      "question": "A 'habitat' is the natural place where an organism ___.",
+      "options": [
+        "lives",
+        "is manufactured",
+        "is sold",
+        "is repaired"
+      ],
+      "answer": 0,
+      "explanation": "A habitat is the environment in which an organism lives."
+    },
+    {
+      "id": "q10139",
+      "category": "Environment",
+      "question": "Planting native trees can support ___.",
+      "options": [
+        "local wildlife",
+        "plastic production",
+        "traffic congestion",
+        "water pollution"
+      ],
+      "answer": 0,
+      "explanation": "Native trees provide suitable food and shelter for local species."
+    },
+    {
+      "id": "q10140",
+      "category": "Environment",
+      "question": "The phrase 'carbon footprint' refers to ___.",
+      "options": [
+        "greenhouse gas emissions linked to an activity",
+        "the size of a shoe",
+        "the depth of a river",
+        "the weight of a tree"
+      ],
+      "answer": 0,
+      "explanation": "It measures emissions associated with a person, product or activity."
     }
   ]
 }
