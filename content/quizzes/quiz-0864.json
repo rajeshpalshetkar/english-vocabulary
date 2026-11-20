@@ -3,139 +3,139 @@
   "slug": "quiz-0864",
   "title": "English Practice Quiz 0864",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q084",
-      "category": "Confusing Words",
-      "question": "I have ___ my keys.",
+      "id": "q11331",
+      "category": "Emergency Readiness",
+      "question": "Emergency Readiness: An evacuation route is:",
       "options": [
-        "loose",
-        "lose",
-        "lost",
-        "loss"
-      ],
-      "answer": 2,
-      "explanation": "Lost is the past participle of lose."
-    },
-    {
-      "id": "q101",
-      "category": "Determiners",
-      "question": "There isn't ___ milk left.",
-      "options": [
-        "many",
-        "much",
-        "few",
-        "several"
-      ],
-      "answer": 1,
-      "explanation": "Milk is uncountable, so use much in a negative sentence."
-    },
-    {
-      "id": "q003",
-      "category": "Grammar",
-      "question": "I ___ a new notebook yesterday.",
-      "options": [
-        "buy",
-        "buys",
-        "bought",
-        "buying"
-      ],
-      "answer": 2,
-      "explanation": "Yesterday signals the past simple. The past form of buy is bought."
-    },
-    {
-      "id": "q020",
-      "category": "Tenses",
-      "question": "By next June, he ___ the course.",
-      "options": [
-        "completes",
-        "completed",
-        "will have completed",
-        "has complete"
-      ],
-      "answer": 2,
-      "explanation": "The future perfect describes an action completed before a future time."
-    },
-    {
-      "id": "q037",
-      "category": "Prepositions",
-      "question": "My birthday is ___ July.",
-      "options": [
-        "at",
-        "in",
-        "on",
-        "from"
-      ],
-      "answer": 1,
-      "explanation": "Use in with months."
-    },
-    {
-      "id": "q054",
-      "category": "Conversation",
-      "question": "You need a moment to think. You say:",
-      "options": [
-        "Let me think for a moment.",
-        "I no idea ever.",
-        "Wait your mouth.",
-        "I am think."
+        "a planned path for leaving an area safely",
+        "a delivery route",
+        "a leave schedule",
+        "a feedback form"
       ],
       "answer": 0,
-      "explanation": "This phrase politely signals that you need a little time."
+      "explanation": "It guides people out during an emergency."
     },
     {
-      "id": "q071",
-      "category": "Questions",
-      "question": "Choose the correct WH question for a place.",
+      "id": "q11332",
+      "category": "Emergency Readiness",
+      "question": "Emergency Readiness: Emergency announcements should be:",
       "options": [
-        "When do you live?",
-        "Where do you live?",
-        "Who do you live?",
-        "Why do you live?"
-      ],
-      "answer": 1,
-      "explanation": "Where asks about a place or location."
-    },
-    {
-      "id": "q088",
-      "category": "Conditionals",
-      "question": "If you heat ice, it ___.",
-      "options": [
-        "melt",
-        "melts",
-        "will melted",
-        "melting"
-      ],
-      "answer": 1,
-      "explanation": "The zero conditional uses present simple for general truths."
-    },
-    {
-      "id": "q105",
-      "category": "Determiners",
-      "question": "___ student must bring an ID card.",
-      "options": [
-        "Each",
-        "Many",
-        "Few",
-        "Several"
+        "calm, clear and actionable",
+        "unclear and lengthy",
+        "speculative",
+        "conflicting"
       ],
       "answer": 0,
-      "explanation": "Each refers to every individual in a group."
+      "explanation": "Clear instructions support an orderly response."
     },
     {
-      "id": "q007",
-      "category": "Grammar",
-      "question": "The keys are ___ the table.",
+      "id": "q11333",
+      "category": "Emergency Readiness",
+      "question": "Emergency Readiness: A muster point is:",
       "options": [
-        "in",
-        "at",
-        "on",
-        "by"
+        "a designated safe meeting location",
+        "a staff locker",
+        "a loading bay",
+        "a store room"
       ],
-      "answer": 2,
-      "explanation": "On describes something resting on a surface."
+      "answer": 0,
+      "explanation": "People gather there after evacuation."
+    },
+    {
+      "id": "q11334",
+      "category": "Emergency Readiness",
+      "question": "Emergency Readiness: You discover smoke. What should you do?",
+      "options": [
+        "raise the alarm and follow emergency procedures",
+        "hide it",
+        "use a lift to investigate",
+        "open every door"
+      ],
+      "answer": 0,
+      "explanation": "Raise the alarm and follow the site's emergency plan."
+    },
+    {
+      "id": "q11335",
+      "category": "Emergency Readiness",
+      "question": "Emergency Readiness: An emergency drill is conducted to:",
+      "options": [
+        "practise and evaluate the response plan",
+        "replace safety equipment",
+        "create an emergency",
+        "avoid training"
+      ],
+      "answer": 0,
+      "explanation": "Drills help people practise and improve responses."
+    },
+    {
+      "id": "q11336",
+      "category": "Emergency Readiness",
+      "question": "Emergency Readiness: A first-aid kit should be:",
+      "options": [
+        "accessible and maintained according to policy",
+        "locked away",
+        "used for stationery",
+        "taken home"
+      ],
+      "answer": 0,
+      "explanation": "Kits must be available and maintained."
+    },
+    {
+      "id": "q11337",
+      "category": "Emergency Readiness",
+      "question": "Emergency Readiness: During a power failure, staff should:",
+      "options": [
+        "follow the site contingency procedure",
+        "assume systems work normally",
+        "disable emergency lighting",
+        "block exits"
+      ],
+      "answer": 0,
+      "explanation": "A contingency procedure guides safe action."
+    },
+    {
+      "id": "q11338",
+      "category": "Emergency Readiness",
+      "question": "Emergency Readiness: Shelter-in-place means:",
+      "options": [
+        "remain in a designated safe location",
+        "evacuate through any exit",
+        "go to the car park",
+        "leave without instruction"
+      ],
+      "answer": 0,
+      "explanation": "It means stay in a safe designated area."
+    },
+    {
+      "id": "q11339",
+      "category": "Emergency Readiness",
+      "question": "Emergency Readiness: Emergency contact details should be:",
+      "options": [
+        "current and available to authorised staff",
+        "kept in memory only",
+        "posted with passwords",
+        "updated after an incident"
+      ],
+      "answer": 0,
+      "explanation": "Current details support a timely response."
+    },
+    {
+      "id": "q11340",
+      "category": "Emergency Readiness",
+      "question": "Emergency Readiness: After a drill, the team should:",
+      "options": [
+        "review performance and identify improvements",
+        "discard observations",
+        "avoid feedback",
+        "assume perfection"
+      ],
+      "answer": 0,
+      "explanation": "A review identifies lessons and improvements."
     }
   ]
 }
