@@ -46,3 +46,4 @@ if __name__ == "__main__":
     main()
 
 # Trigger full repository quiz audit through the configured GitHub Actions path filter.
+# Batch checkpoint: 100 original questions added to quizzes 0991-1000.
