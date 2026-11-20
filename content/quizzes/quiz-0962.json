@@ -3,139 +3,139 @@
   "slug": "quiz-0962",
   "title": "English Practice Quiz 0962",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q025",
-      "category": "Vocabulary",
-      "question": "A person you can trust is ___.",
+      "id": "q10311",
+      "category": "Home Maintenance",
+      "question": "A leaking tap should be ___.",
       "options": [
-        "reliable",
-        "careless",
-        "silent",
-        "narrow"
+        "reported or repaired promptly",
+        "left running overnight",
+        "covered with cloth permanently",
+        "ignored until the wall cracks"
       ],
       "answer": 0,
-      "explanation": "Reliable means dependable or trustworthy."
+      "explanation": "Prompt repair can prevent water waste and further damage."
     },
     {
-      "id": "q036",
-      "category": "Prepositions",
-      "question": "The meeting starts ___ 9 a.m.",
+      "id": "q10312",
+      "category": "Home Maintenance",
+      "question": "Which tool is commonly used to tighten a screw?",
       "options": [
-        "in",
-        "on",
-        "at",
-        "by"
+        "screwdriver",
+        "paintbrush",
+        "measuring cup",
+        "dustpan"
       ],
-      "answer": 2,
-      "explanation": "Use at for a specific clock time."
+      "answer": 0,
+      "explanation": "A screwdriver is designed to turn screws."
     },
     {
-      "id": "q047",
-      "category": "Sentence Building",
-      "question": "Choose the correct question.",
+      "id": "q10313",
+      "category": "Home Maintenance",
+      "question": "Before cleaning an electrical appliance, you should generally ___.",
       "options": [
-        "Where you live?",
-        "Where do you live?",
-        "Where does you live?",
-        "Where are live you?"
+        "switch it off and unplug it",
+        "pour water over the plug",
+        "touch its internal wiring",
+        "leave it running"
       ],
-      "answer": 1,
-      "explanation": "Use do + subject + base verb for present simple questions with you."
+      "answer": 0,
+      "explanation": "Disconnecting power reduces the risk of electric shock."
     },
     {
-      "id": "q058",
-      "category": "Pronunciation",
-      "question": "Which word has the /ʃ/ sound as in 'ship'?",
+      "id": "q10314",
+      "category": "Home Maintenance",
+      "question": "A smoke alarm is designed to ___.",
       "options": [
-        "sip",
-        "shop",
-        "zip",
-        "tip"
+        "warn people about smoke or possible fire",
+        "measure room temperature only",
+        "open the windows automatically in every model",
+        "stop all electrical faults"
       ],
-      "answer": 1,
-      "explanation": "Shop begins with the /ʃ/ sound."
+      "answer": 0,
+      "explanation": "Smoke alarms provide an early warning of smoke."
     },
     {
-      "id": "q069",
-      "category": "Workplace English",
-      "question": "A polite way to disagree is:",
+      "id": "q10315",
+      "category": "Home Maintenance",
+      "question": "If a floor has just been mopped, place a warning sign to ___.",
       "options": [
-        "You are totally wrong.",
-        "I see your point, but I have a different view.",
-        "No, stop.",
-        "That is stupid."
+        "alert people to a slipping hazard",
+        "decorate the room",
+        "block the fire exit",
+        "show that cleaning is finished forever"
       ],
-      "answer": 1,
-      "explanation": "This phrase acknowledges the other person before presenting a different view."
+      "answer": 0,
+      "explanation": "A warning sign helps prevent slips on a wet floor."
     },
     {
-      "id": "q080",
-      "category": "Punctuation",
-      "question": "Choose the correctly written date phrase.",
+      "id": "q10316",
+      "category": "Home Maintenance",
+      "question": "A clogged drain may cause water to ___.",
       "options": [
-        "on monday",
-        "on Monday",
-        "On monday",
-        "on Monday."
+        "drain slowly or back up",
+        "become electricity",
+        "turn into clean drinking water",
+        "evaporate immediately"
       ],
-      "answer": 1,
-      "explanation": "Days of the week begin with a capital letter."
+      "answer": 0,
+      "explanation": "A blockage restricts the flow of water."
     },
     {
-      "id": "q091",
-      "category": "Passive Voice",
-      "question": "Choose the passive form: 'They clean the room.'",
+      "id": "q10317",
+      "category": "Home Maintenance",
+      "question": "Which item is suitable for wiping dust from furniture?",
       "options": [
-        "The room cleaned them.",
-        "The room is cleaned by them.",
-        "The room is cleaning.",
-        "The room has clean."
+        "a clean microfiber cloth",
+        "a metal saw",
+        "a cooking pan",
+        "a wet electrical cable"
       ],
-      "answer": 1,
-      "explanation": "Present simple passive: am/is/are + past participle."
+      "answer": 0,
+      "explanation": "A microfiber cloth is commonly used to collect dust."
     },
     {
-      "id": "q102",
-      "category": "Determiners",
-      "question": "How ___ apples do you need?",
+      "id": "q10318",
+      "category": "Home Maintenance",
+      "question": "A circuit breaker is used to ___.",
       "options": [
-        "much",
-        "many",
-        "little",
-        "any"
+        "interrupt an electrical circuit when a fault occurs",
+        "increase water pressure",
+        "lock a door",
+        "measure the length of a room"
       ],
-      "answer": 1,
-      "explanation": "Apples are countable plural nouns, so use many."
+      "answer": 0,
+      "explanation": "A breaker helps protect circuits by cutting off power under specified fault conditions."
     },
     {
-      "id": "q113",
-      "category": "Gerunds",
-      "question": "She is good at ___.",
+      "id": "q10319",
+      "category": "Home Maintenance",
+      "question": "To prevent mould, a room should have adequate ___.",
       "options": [
-        "swim",
-        "to swim",
-        "swimming",
-        "swam"
+        "ventilation",
+        "darkness at all times",
+        "standing water",
+        "blocked air vents"
       ],
-      "answer": 2,
-      "explanation": "A preposition such as at is followed by a noun or gerund."
+      "answer": 0,
+      "explanation": "Ventilation helps reduce excess moisture."
     },
     {
-      "id": "q009",
-      "category": "Grammar",
-      "question": "Choose the correct comparative form.",
+      "id": "q10320",
+      "category": "Home Maintenance",
+      "question": "A maintenance checklist helps staff ___.",
       "options": [
-        "more tall",
-        "taller",
-        "tallest than",
-        "most tall"
+        "inspect tasks consistently",
+        "skip important checks",
+        "avoid recording problems",
+        "replace all training"
       ],
-      "answer": 1,
-      "explanation": "The comparative form of the short adjective tall is taller."
+      "answer": 0,
+      "explanation": "Checklists support consistent inspections and record keeping."
     }
   ]
 }
