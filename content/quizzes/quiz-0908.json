@@ -3,139 +3,139 @@
   "slug": "quiz-0908",
   "title": "English Practice Quiz 0908",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q027",
-      "category": "Vocabulary",
-      "question": "Choose the correct word: Please ___ the details.",
+      "id": "q10971",
+      "category": "English Vocabulary",
+      "question": "If a manager is 'approachable', staff find the manager ___.",
       "options": [
-        "confirm",
-        "crowded",
-        "repairing",
-        "hungry"
+        "impossible to contact",
+        "always angry",
+        "unwilling to listen",
+        "easy to speak to"
       ],
-      "answer": 0,
-      "explanation": "Confirm means to check or establish that something is correct."
+      "answer": 3,
+      "explanation": "easy to speak to is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q058",
-      "category": "Pronunciation",
-      "question": "Which word has the /ʃ/ sound as in 'ship'?",
+      "id": "q10972",
+      "category": "English Vocabulary",
+      "question": "A 'feasible' plan is ___.",
       "options": [
-        "sip",
-        "shop",
-        "zip",
-        "tip"
+        "impossible to complete",
+        "unrelated to the goal",
+        "practical and possible to carry out",
+        "pure fantasy"
+      ],
+      "answer": 2,
+      "explanation": "practical and possible to carry out is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q10973",
+      "category": "English Vocabulary",
+      "question": "To 'prioritise' tasks means to ___.",
+      "options": [
+        "delete every task",
+        "decide which tasks are most important first",
+        "complete them randomly",
+        "avoid decisions"
       ],
       "answer": 1,
-      "explanation": "Shop begins with the /ʃ/ sound."
+      "explanation": "decide which tasks are most important first is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q089",
-      "category": "Conditionals",
-      "question": "If she studies, she ___ the test.",
+      "id": "q10974",
+      "category": "English Vocabulary",
+      "question": "A 'transparent' process is ___.",
       "options": [
-        "passes",
-        "passed",
-        "will pass",
-        "would passed"
-      ],
-      "answer": 2,
-      "explanation": "Use will + base verb in the main clause of the first conditional."
-    },
-    {
-      "id": "q005",
-      "category": "Grammar",
-      "question": "Choose the correct sentence.",
-      "options": [
-        "She don't like tea.",
-        "She doesn't likes tea.",
-        "She doesn't like tea.",
-        "She not like tea."
-      ],
-      "answer": 2,
-      "explanation": "After doesn't, use the base form of the verb: like."
-    },
-    {
-      "id": "q036",
-      "category": "Prepositions",
-      "question": "The meeting starts ___ 9 a.m.",
-      "options": [
-        "in",
-        "on",
-        "at",
-        "by"
-      ],
-      "answer": 2,
-      "explanation": "Use at for a specific clock time."
-    },
-    {
-      "id": "q067",
-      "category": "Workplace English",
-      "question": "You have completed a task. You say:",
-      "options": [
-        "The task is complete.",
-        "The task complete yesterday tomorrow.",
-        "I task finish.",
-        "Task is completing me."
+        "open and easy to understand",
+        "hidden from everyone",
+        "always complicated",
+        "without records"
       ],
       "answer": 0,
-      "explanation": "The task is complete is a clear status update."
+      "explanation": "open and easy to understand is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q098",
-      "category": "Reported Speech",
-      "question": "He asked, 'Where do you live?'",
+      "id": "q10975",
+      "category": "English Vocabulary",
+      "question": "A 'reliable' source is generally ___.",
       "options": [
-        "He asked where I lived.",
-        "He asked where do I live.",
-        "He asked where did I lived.",
-        "He asked where I live do."
+        "anonymous in every case",
+        "always entertaining",
+        "unrelated to the topic",
+        "dependable and trustworthy"
       ],
-      "answer": 0,
-      "explanation": "Reported questions use statement word order; do is removed."
+      "answer": 3,
+      "explanation": "dependable and trustworthy is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q014",
-      "category": "Tenses",
-      "question": "I think it ___ tomorrow.",
+      "id": "q10976",
+      "category": "English Vocabulary",
+      "question": "To 'mitigate' a risk means to ___.",
       "options": [
-        "rains",
-        "rained",
-        "will rain",
-        "raining"
+        "make it unavoidable",
+        "ignore it completely",
+        "reduce its likelihood or impact",
+        "increase its severity"
       ],
       "answer": 2,
-      "explanation": "Will plus the base verb can express a future prediction."
+      "explanation": "reduce its likelihood or impact is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q045",
-      "category": "Modals",
-      "question": "It ___ rain later; take an umbrella.",
+      "id": "q10977",
+      "category": "English Vocabulary",
+      "question": "A 'mandatory' requirement is ___.",
       "options": [
-        "might",
-        "mustn't",
-        "shouldn't",
-        "has"
-      ],
-      "answer": 0,
-      "explanation": "Might expresses possibility."
-    },
-    {
-      "id": "q076",
-      "category": "Punctuation",
-      "question": "Choose the correctly punctuated sentence.",
-      "options": [
-        "where are you.",
-        "Where are you?",
-        "Where are you,",
-        "where are you!"
+        "optional",
+        "compulsory",
+        "entertainment",
+        "a personal suggestion"
       ],
       "answer": 1,
-      "explanation": "Start with a capital letter and use a question mark."
+      "explanation": "compulsory is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q10978",
+      "category": "English Vocabulary",
+      "question": "A 'concise' explanation is ___.",
+      "options": [
+        "brief and clear",
+        "long and repetitive",
+        "unclear and incomplete",
+        "full of unrelated details"
+      ],
+      "answer": 0,
+      "explanation": "brief and clear is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q10979",
+      "category": "English Vocabulary",
+      "question": "To 'verify' information means to ___.",
+      "options": [
+        "repeat it unchecked",
+        "change it secretly",
+        "ignore the source",
+        "check that it is accurate"
+      ],
+      "answer": 3,
+      "explanation": "check that it is accurate is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q10980",
+      "category": "English Vocabulary",
+      "question": "A 'provisional' decision is ___.",
+      "options": [
+        "final in every circumstance",
+        "unrelated to evidence",
+        "temporary and subject to confirmation",
+        "permanently unchangeable"
+      ],
+      "answer": 2,
+      "explanation": "temporary and subject to confirmation is the correct answer based on the meaning and context of the question."
     }
   ]
 }
