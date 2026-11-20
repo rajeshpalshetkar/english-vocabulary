@@ -3,139 +3,139 @@
   "slug": "quiz-0777",
   "title": "English Practice Quiz 0777",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Conversation",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q100",
-      "category": "Reported Speech",
-      "question": "They said, 'We have finished.'",
+      "id": "q12261",
+      "category": "Digital Communication",
+      "question": "Digital Communication 01: A professional chat message should be?",
       "options": [
-        "They said they had finished.",
-        "They said they have finish.",
-        "They told finished.",
-        "They said we finished have."
-      ],
-      "answer": 0,
-      "explanation": "Present perfect commonly shifts to past perfect in reported speech."
-    },
-    {
-      "id": "q014",
-      "category": "Tenses",
-      "question": "I think it ___ tomorrow.",
-      "options": [
-        "rains",
-        "rained",
-        "will rain",
-        "raining"
+        "make an unsupported assumption",
+        "share the information publicly",
+        "clear, respectful and relevant",
+        "ignore the issue and continue"
       ],
       "answer": 2,
-      "explanation": "Will plus the base verb can express a future prediction."
+      "explanation": "Option C is correct: clear, respectful and relevant."
     },
     {
-      "id": "q043",
-      "category": "Modals",
-      "question": "When I was five, I ___ swim.",
+      "id": "q12262",
+      "category": "Digital Communication",
+      "question": "Digital Communication 02: Before sharing a file link, check?",
       "options": [
-        "can",
-        "could",
-        "may",
-        "must"
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "that the intended recipients have appropriate access"
+      ],
+      "answer": 3,
+      "explanation": "Option D is correct: that the intended recipients have appropriate access."
+    },
+    {
+      "id": "q12263",
+      "category": "Digital Communication",
+      "question": "Digital Communication 03: An email subject line should?",
+      "options": [
+        "briefly describe the message purpose",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: briefly describe the message purpose."
+    },
+    {
+      "id": "q12264",
+      "category": "Digital Communication",
+      "question": "Digital Communication 04: An online meeting participant should?",
+      "options": [
+        "share the information publicly",
+        "mute the microphone when not speaking",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
       ],
       "answer": 1,
-      "explanation": "Could expresses past ability."
+      "explanation": "Option B is correct: mute the microphone when not speaking."
     },
     {
-      "id": "q072",
-      "category": "Questions",
-      "question": "Which question asks about time?",
+      "id": "q12265",
+      "category": "Digital Communication",
+      "question": "Digital Communication 05: A suspicious link in a message should be?",
       "options": [
-        "Who is calling?",
-        "When does the train leave?",
-        "Where is the station?",
-        "Why are you here?"
-      ],
-      "answer": 1,
-      "explanation": "When asks about time."
-    },
-    {
-      "id": "q101",
-      "category": "Determiners",
-      "question": "There isn't ___ milk left.",
-      "options": [
-        "many",
-        "much",
-        "few",
-        "several"
-      ],
-      "answer": 1,
-      "explanation": "Milk is uncountable, so use much in a negative sentence."
-    },
-    {
-      "id": "q015",
-      "category": "Tenses",
-      "question": "She ___ the report before the manager arrived.",
-      "options": [
-        "finished",
-        "has finished",
-        "had finished",
-        "finishes"
+        "make an unsupported assumption",
+        "share the information publicly",
+        "verified before opening",
+        "ignore the issue and continue"
       ],
       "answer": 2,
-      "explanation": "Use the past perfect for an action completed before another past action."
+      "explanation": "Option C is correct: verified before opening."
     },
     {
-      "id": "q044",
-      "category": "Modals",
-      "question": "You look tired. You ___ get some rest.",
+      "id": "q12266",
+      "category": "Digital Communication",
+      "question": "Digital Communication 06: A digital signature can help?",
       "options": [
-        "should",
-        "mustn't",
-        "can't",
-        "wouldn't"
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "confirm the signer's approval or identity under the system used"
+      ],
+      "answer": 3,
+      "explanation": "Option D is correct: confirm the signer's approval or identity under the system used."
+    },
+    {
+      "id": "q12267",
+      "category": "Digital Communication",
+      "question": "Digital Communication 07: A group chat should not be used to?",
+      "options": [
+        "share confidential information with unauthorised people",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
       ],
       "answer": 0,
-      "explanation": "Should gives advice."
+      "explanation": "Option A is correct: share confidential information with unauthorised people."
     },
     {
-      "id": "q073",
-      "category": "Questions",
-      "question": "Choose the correct question.",
+      "id": "q12268",
+      "category": "Digital Communication",
+      "question": "Digital Communication 08: An out-of-office reply should include?",
       "options": [
-        "Does she work here?",
-        "Do she work here?",
-        "Is she works here?",
-        "Does she works here?"
-      ],
-      "answer": 0,
-      "explanation": "Use does + subject + base verb with he, she or it."
-    },
-    {
-      "id": "q102",
-      "category": "Determiners",
-      "question": "How ___ apples do you need?",
-      "options": [
-        "much",
-        "many",
-        "little",
-        "any"
+        "share the information publicly",
+        "the period of absence and an alternative contact if appropriate",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
       ],
       "answer": 1,
-      "explanation": "Apples are countable plural nouns, so use many."
+      "explanation": "Option B is correct: the period of absence and an alternative contact if appropriate."
     },
     {
-      "id": "q016",
-      "category": "Tenses",
-      "question": "Water ___ at 100°C at sea level.",
+      "id": "q12269",
+      "category": "Digital Communication",
+      "question": "Digital Communication 09: A message sent in error should be?",
       "options": [
-        "boil",
-        "boils",
-        "is boiling",
-        "boiled"
+        "make an unsupported assumption",
+        "share the information publicly",
+        "corrected promptly with a clear clarification",
+        "ignore the issue and continue"
       ],
-      "answer": 1,
-      "explanation": "Use the present simple for general facts."
+      "answer": 2,
+      "explanation": "Option C is correct: corrected promptly with a clear clarification."
+    },
+    {
+      "id": "q12270",
+      "category": "Digital Communication",
+      "question": "Digital Communication 10: A professional online profile should?",
+      "options": [
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "present accurate and appropriate information"
+      ],
+      "answer": 3,
+      "explanation": "Option D is correct: present accurate and appropriate information."
     }
   ]
 }
