@@ -3,139 +3,139 @@
   "slug": "quiz-0783",
   "title": "English Practice Quiz 0783",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Conversation",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q087",
-      "category": "Conditionals",
-      "question": "If I had more time, I ___ another language.",
+      "id": "q12121",
+      "category": "Meeting and Presentation Skills",
+      "question": "Meeting and Presentation Skills 01: A meeting agenda helps participants?",
       "options": [
-        "learn",
-        "will learn",
-        "would learn",
-        "am learn"
+        "make an unsupported assumption",
+        "share the information publicly",
+        "understand the topics and prepare",
+        "ignore the issue and continue"
       ],
       "answer": 2,
-      "explanation": "The second conditional uses would + base verb for an unreal or imagined situation."
+      "explanation": "Option C is correct: understand the topics and prepare."
     },
     {
-      "id": "q100",
-      "category": "Reported Speech",
-      "question": "They said, 'We have finished.'",
+      "id": "q12122",
+      "category": "Meeting and Presentation Skills",
+      "question": "Meeting and Presentation Skills 02: The chairperson is responsible for?",
       "options": [
-        "They said they had finished.",
-        "They said they have finish.",
-        "They told finished.",
-        "They said we finished have."
+        "share the information publicly",
+        "guiding the meeting and keeping it focused",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
+      ],
+      "answer": 1,
+      "explanation": "Option B is correct: guiding the meeting and keeping it focused."
+    },
+    {
+      "id": "q12123",
+      "category": "Meeting and Presentation Skills",
+      "question": "Meeting and Presentation Skills 03: An action item should identify?",
+      "options": [
+        "the task, responsible person and due date",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
       ],
       "answer": 0,
-      "explanation": "Present perfect commonly shifts to past perfect in reported speech."
+      "explanation": "Option A is correct: the task, responsible person and due date."
     },
     {
-      "id": "q113",
-      "category": "Gerunds",
-      "question": "She is good at ___.",
+      "id": "q12124",
+      "category": "Meeting and Presentation Skills",
+      "question": "Meeting and Presentation Skills 04: A presentation introduction should?",
       "options": [
-        "swim",
-        "to swim",
-        "swimming",
-        "swam"
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "state the topic and purpose"
+      ],
+      "answer": 3,
+      "explanation": "Option D is correct: state the topic and purpose."
+    },
+    {
+      "id": "q12125",
+      "category": "Meeting and Presentation Skills",
+      "question": "Meeting and Presentation Skills 05: Visual aids should be?",
+      "options": [
+        "make an unsupported assumption",
+        "share the information publicly",
+        "clear, relevant and easy to read",
+        "ignore the issue and continue"
       ],
       "answer": 2,
-      "explanation": "A preposition such as at is followed by a noun or gerund."
+      "explanation": "Option C is correct: clear, relevant and easy to read."
     },
     {
-      "id": "q011",
-      "category": "Tenses",
-      "question": "Listen! The baby ___.",
+      "id": "q12126",
+      "category": "Meeting and Presentation Skills",
+      "question": "Meeting and Presentation Skills 06: When answering a difficult question, a presenter should?",
       "options": [
-        "cries",
-        "is crying",
-        "cry",
-        "cried"
+        "share the information publicly",
+        "respond calmly and stay on topic",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
       ],
       "answer": 1,
-      "explanation": "Listen! suggests an action happening now, so use the present continuous."
+      "explanation": "Option B is correct: respond calmly and stay on topic."
     },
     {
-      "id": "q024",
-      "category": "Vocabulary",
-      "question": "If a task is 'urgent', it needs ___.",
+      "id": "q12127",
+      "category": "Meeting and Presentation Skills",
+      "question": "Meeting and Presentation Skills 07: A meeting should end with?",
       "options": [
-        "no attention",
-        "quick attention",
-        "a holiday",
-        "a receipt"
+        "a summary of decisions and next steps",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
       ],
-      "answer": 1,
-      "explanation": "Urgent means requiring immediate or prompt attention."
+      "answer": 0,
+      "explanation": "Option A is correct: a summary of decisions and next steps."
     },
     {
-      "id": "q037",
-      "category": "Prepositions",
-      "question": "My birthday is ___ July.",
+      "id": "q12128",
+      "category": "Meeting and Presentation Skills",
+      "question": "Meeting and Presentation Skills 08: Good eye contact during a presentation helps?",
       "options": [
-        "at",
-        "in",
-        "on",
-        "from"
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "engage the audience"
       ],
-      "answer": 1,
-      "explanation": "Use in with months."
+      "answer": 3,
+      "explanation": "Option D is correct: engage the audience."
     },
     {
-      "id": "q050",
-      "category": "Sentence Building",
-      "question": "Choose the correct sentence.",
+      "id": "q12129",
+      "category": "Meeting and Presentation Skills",
+      "question": "Meeting and Presentation Skills 09: A speaker who does not know an answer should?",
       "options": [
-        "There is many books.",
-        "There are many books.",
-        "There be many books.",
-        "There am many books."
-      ],
-      "answer": 1,
-      "explanation": "Use there are with plural nouns."
-    },
-    {
-      "id": "q063",
-      "category": "Reading",
-      "question": "Read: 'Ravi practises English for twenty minutes every evening.' How long does he practise?",
-      "options": [
-        "Ten minutes",
-        "Twenty minutes",
-        "Thirty minutes",
-        "One hour"
-      ],
-      "answer": 1,
-      "explanation": "The passage states twenty minutes."
-    },
-    {
-      "id": "q076",
-      "category": "Punctuation",
-      "question": "Choose the correctly punctuated sentence.",
-      "options": [
-        "where are you.",
-        "Where are you?",
-        "Where are you,",
-        "where are you!"
-      ],
-      "answer": 1,
-      "explanation": "Start with a capital letter and use a question mark."
-    },
-    {
-      "id": "q089",
-      "category": "Conditionals",
-      "question": "If she studies, she ___ the test.",
-      "options": [
-        "passes",
-        "passed",
-        "will pass",
-        "would passed"
+        "make an unsupported assumption",
+        "share the information publicly",
+        "acknowledge it and offer to follow up",
+        "ignore the issue and continue"
       ],
       "answer": 2,
-      "explanation": "Use will + base verb in the main clause of the first conditional."
+      "explanation": "Option C is correct: acknowledge it and offer to follow up."
+    },
+    {
+      "id": "q12130",
+      "category": "Meeting and Presentation Skills",
+      "question": "Meeting and Presentation Skills 10: Rehearsing a presentation helps?",
+      "options": [
+        "share the information publicly",
+        "improve timing and confidence",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
+      ],
+      "answer": 1,
+      "explanation": "Option B is correct: improve timing and confidence."
     }
   ]
 }
