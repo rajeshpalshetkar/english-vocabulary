@@ -3,139 +3,139 @@
   "slug": "quiz-0965",
   "title": "English Practice Quiz 0965",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q076",
-      "category": "Punctuation",
-      "question": "Choose the correctly punctuated sentence.",
+      "id": "q10341",
+      "category": "Communication Etiquette",
+      "question": "In a professional email, the greeting should usually be ___.",
       "options": [
-        "where are you.",
-        "Where are you?",
-        "Where are you,",
-        "where are you!"
-      ],
-      "answer": 1,
-      "explanation": "Start with a capital letter and use a question mark."
-    },
-    {
-      "id": "q095",
-      "category": "Passive Voice",
-      "question": "The windows ___ every week.",
-      "options": [
-        "are cleaned",
-        "clean",
-        "is cleaned",
-        "cleaning"
+        "polite and appropriate to the recipient",
+        "rude and demanding",
+        "written entirely in random symbols",
+        "left as an insult"
       ],
       "answer": 0,
-      "explanation": "Plural subject windows takes are + past participle."
+      "explanation": "A suitable greeting establishes a respectful tone."
     },
     {
-      "id": "q114",
-      "category": "Gerunds",
-      "question": "They finished ___ the room.",
+      "id": "q10342",
+      "category": "Communication Etiquette",
+      "question": "Writing an entire email in capital letters can seem ___.",
       "options": [
-        "clean",
-        "to clean",
-        "cleaning",
-        "cleaned"
+        "like shouting",
+        "more confidential",
+        "grammatically required",
+        "like a legal signature"
       ],
-      "answer": 2,
-      "explanation": "Finish is followed by a gerund."
+      "answer": 0,
+      "explanation": "All-capital text is commonly interpreted as shouting."
     },
     {
-      "id": "q018",
-      "category": "Tenses",
-      "question": "I ___ him last week.",
+      "id": "q10343",
+      "category": "Communication Etiquette",
+      "question": "Before forwarding a message, you should ___.",
       "options": [
-        "see",
-        "have seen",
-        "saw",
-        "seeing"
+        "check its accuracy and whether sharing is appropriate",
+        "forward it to everyone automatically",
+        "remove its source details",
+        "assume every claim is true"
       ],
-      "answer": 2,
-      "explanation": "Use the past simple with a finished past time such as last week."
+      "answer": 0,
+      "explanation": "Checking accuracy and appropriateness helps prevent misinformation."
     },
     {
-      "id": "q037",
-      "category": "Prepositions",
-      "question": "My birthday is ___ July.",
+      "id": "q10344",
+      "category": "Communication Etiquette",
+      "question": "Which phrase is a polite way to interrupt?",
       "options": [
-        "at",
-        "in",
-        "on",
-        "from"
+        "Excuse me, may I add something?",
+        "Be quiet, I am speaking.",
+        "Stop talking immediately.",
+        "You have no point."
       ],
-      "answer": 1,
-      "explanation": "Use in with months."
+      "answer": 0,
+      "explanation": "This phrase requests a turn respectfully."
     },
     {
-      "id": "q056",
-      "category": "Pronunciation",
-      "question": "Which word has a different beginning sound?",
+      "id": "q10345",
+      "category": "Communication Etiquette",
+      "question": "A concise message is one that is ___.",
       "options": [
-        "think",
-        "three",
-        "this",
-        "thank"
+        "brief but clear",
+        "long and repetitive",
+        "missing its main point",
+        "filled with unrelated details"
       ],
-      "answer": 2,
-      "explanation": "This begins with the voiced /ð/ sound; the others begin with the unvoiced /θ/ sound."
+      "answer": 0,
+      "explanation": "Concise communication uses few words while retaining the necessary meaning."
     },
     {
-      "id": "q075",
-      "category": "Questions",
-      "question": "Choose the correct question tag: 'You are ready, ___?'",
+      "id": "q10346",
+      "category": "Communication Etiquette",
+      "question": "When leaving a voicemail, include ___.",
       "options": [
-        "are you",
-        "aren't you",
-        "do you",
-        "don't you"
+        "your name, reason for calling and a callback number",
+        "your bank PIN",
+        "unrelated private information",
+        "only background noise"
       ],
-      "answer": 1,
-      "explanation": "A positive statement with are usually takes the negative tag aren't you."
+      "answer": 0,
+      "explanation": "These details help the recipient identify and return the call."
     },
     {
-      "id": "q094",
-      "category": "Passive Voice",
-      "question": "English ___ in many countries.",
+      "id": "q10347",
+      "category": "Communication Etiquette",
+      "question": "If someone is speaking, active listening means ___.",
       "options": [
-        "speaks",
-        "is spoken",
-        "spoken",
-        "is speaking"
+        "paying attention and responding thoughtfully",
+        "planning an unrelated reply",
+        "interrupting repeatedly",
+        "looking away and ignoring them"
       ],
-      "answer": 1,
-      "explanation": "Present simple passive: is spoken."
+      "answer": 0,
+      "explanation": "Active listening involves attention and relevant responses."
     },
     {
-      "id": "q113",
-      "category": "Gerunds",
-      "question": "She is good at ___.",
+      "id": "q10348",
+      "category": "Communication Etiquette",
+      "question": "Which closing is suitable for a formal email?",
       "options": [
-        "swim",
-        "to swim",
-        "swimming",
-        "swam"
+        "Kind regards,",
+        "See ya, maybe",
+        "Whatever, bye",
+        "No more words"
       ],
-      "answer": 2,
-      "explanation": "A preposition such as at is followed by a noun or gerund."
+      "answer": 0,
+      "explanation": "Kind regards is a widely accepted professional closing."
     },
     {
-      "id": "q017",
-      "category": "Tenses",
-      "question": "They ___ football every Sunday.",
+      "id": "q10349",
+      "category": "Communication Etiquette",
+      "question": "A message sent to the wrong recipient should be ___.",
       "options": [
-        "plays",
-        "are play",
-        "play",
-        "playing"
+        "addressed promptly, following the organisation's procedure",
+        "ignored if it contains confidential details",
+        "forwarded to more people",
+        "deleted from every audit record"
       ],
-      "answer": 2,
-      "explanation": "Use the base verb with the plural subject they in the present simple."
+      "answer": 0,
+      "explanation": "A mistaken disclosure should be handled promptly under the applicable procedure."
+    },
+    {
+      "id": "q10350",
+      "category": "Communication Etiquette",
+      "question": "When giving directions, it is helpful to use ___.",
+      "options": [
+        "clear landmarks and simple steps",
+        "vague gestures only",
+        "unfamiliar abbreviations",
+        "contradictory instructions"
+      ],
+      "answer": 0,
+      "explanation": "Specific landmarks and ordered steps make directions easier to follow."
     }
   ]
 }
