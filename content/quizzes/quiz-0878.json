@@ -3,139 +3,139 @@
   "slug": "quiz-0878",
   "title": "English Practice Quiz 0878",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q092",
-      "category": "Passive Voice",
-      "question": "Choose the passive form: 'The manager signed the letter.'",
+      "id": "q11271",
+      "category": "Problem Solving and Reasoning",
+      "question": "You notice two records show different dates for the same event. What is the best first step?",
       "options": [
-        "The letter is signed.",
-        "The letter was signed by the manager.",
-        "The letter signed the manager.",
-        "The letter has sign."
-      ],
-      "answer": 1,
-      "explanation": "Past simple passive: was/were + past participle."
-    },
-    {
-      "id": "q008",
-      "category": "Grammar",
-      "question": "This is the woman ___ helped me.",
-      "options": [
-        "which",
-        "who",
-        "where",
-        "when"
-      ],
-      "answer": 1,
-      "explanation": "Who is used for people."
-    },
-    {
-      "id": "q039",
-      "category": "Prepositions",
-      "question": "She is interested ___ music.",
-      "options": [
-        "on",
-        "at",
-        "in",
-        "for"
-      ],
-      "answer": 2,
-      "explanation": "The adjective interested is followed by in."
-    },
-    {
-      "id": "q070",
-      "category": "Workplace English",
-      "question": "To confirm an instruction, you can say:",
-      "options": [
-        "Could you please confirm the details?",
-        "I not listen.",
-        "Confirm me now.",
-        "Details no."
+        "Check the original source documents",
+        "Choose the later date randomly",
+        "Delete both records",
+        "Ignore the difference"
       ],
       "answer": 0,
-      "explanation": "Could you please confirm... is polite and precise."
+      "explanation": "Original records help establish which date is accurate."
     },
     {
-      "id": "q101",
-      "category": "Determiners",
-      "question": "There isn't ___ milk left.",
+      "id": "q11272",
+      "category": "Problem Solving and Reasoning",
+      "question": "A problem keeps recurring. What should be examined?",
       "options": [
-        "many",
-        "much",
-        "few",
-        "several"
-      ],
-      "answer": 1,
-      "explanation": "Milk is uncountable, so use much in a negative sentence."
-    },
-    {
-      "id": "q017",
-      "category": "Tenses",
-      "question": "They ___ football every Sunday.",
-      "options": [
-        "plays",
-        "are play",
-        "play",
-        "playing"
-      ],
-      "answer": 2,
-      "explanation": "Use the base verb with the plural subject they in the present simple."
-    },
-    {
-      "id": "q048",
-      "category": "Sentence Building",
-      "question": "Choose the correct sentence.",
-      "options": [
-        "Because I was tired, I went to bed early.",
-        "Because I tired, went bed early.",
-        "I because was tired bed early.",
-        "Because tired I went early bed."
+        "Its underlying cause",
+        "Only the latest complaint",
+        "The colour of the form",
+        "An unrelated staff list"
       ],
       "answer": 0,
-      "explanation": "The subordinate clause beginning with because explains the reason."
+      "explanation": "Root-cause analysis looks beyond symptoms to the underlying cause."
     },
     {
-      "id": "q079",
-      "category": "Punctuation",
-      "question": "Which is a complete sentence?",
+      "id": "q11273",
+      "category": "Problem Solving and Reasoning",
+      "question": "A proposed solution has high cost and little benefit. It is likely:",
       "options": [
-        "Because it was raining.",
-        "After the meeting.",
-        "The team finished the work.",
-        "When I arrived."
+        "poor value",
+        "highly efficient",
+        "risk-free",
+        "mandatory"
       ],
-      "answer": 2,
-      "explanation": "The team finished the work contains a subject and a complete predicate."
+      "answer": 0,
+      "explanation": "Low benefit relative to cost suggests poor value."
     },
     {
-      "id": "q110",
-      "category": "Adverbs",
-      "question": "Please drive ___.",
+      "id": "q11274",
+      "category": "Problem Solving and Reasoning",
+      "question": "Which statement is an assumption rather than a verified fact?",
       "options": [
-        "careful",
-        "carefully",
-        "care",
-        "caring"
-      ],
-      "answer": 1,
-      "explanation": "Carefully is the adverb modifying drive."
-    },
-    {
-      "id": "q026",
-      "category": "Vocabulary",
-      "question": "What does 'borrow' mean?",
-      "options": [
-        "give something forever",
-        "take something temporarily and return it",
-        "break something",
-        "buy something"
+        "The log records arrival at 9:10.",
+        "The visitor may have been angry because of the wait.",
+        "The camera shows the entrance.",
+        "The receipt lists the amount."
       ],
       "answer": 1,
-      "explanation": "Borrow means to take something for a period and return it."
+      "explanation": "May have been angry is an inference, not a directly verified fact."
+    },
+    {
+      "id": "q11275",
+      "category": "Problem Solving and Reasoning",
+      "question": "When information is incomplete, a sensible decision-maker should:",
+      "options": [
+        "identify what is missing and seek reliable evidence",
+        "invent missing details",
+        "ignore all uncertainty",
+        "publish an immediate conclusion"
+      ],
+      "answer": 0,
+      "explanation": "Identifying gaps and gathering evidence improves decisions."
+    },
+    {
+      "id": "q11276",
+      "category": "Problem Solving and Reasoning",
+      "question": "A 'trade-off' occurs when:",
+      "options": [
+        "gaining one benefit involves giving up another",
+        "every option has no cost",
+        "a task is automatically completed",
+        "two records are identical"
+      ],
+      "answer": 0,
+      "explanation": "A trade-off balances competing benefits and costs."
+    },
+    {
+      "id": "q11277",
+      "category": "Problem Solving and Reasoning",
+      "question": "Which method helps compare several possible solutions?",
+      "options": [
+        "Evaluate each against agreed criteria",
+        "Select the first suggestion",
+        "Choose the most expensive option",
+        "Avoid documenting the decision"
+      ],
+      "answer": 0,
+      "explanation": "Common criteria allow consistent comparison."
+    },
+    {
+      "id": "q11278",
+      "category": "Problem Solving and Reasoning",
+      "question": "A pilot test is conducted to:",
+      "options": [
+        "try a process on a small scale before wider use",
+        "replace all staff permanently",
+        "avoid collecting feedback",
+        "declare a project finished"
+      ],
+      "answer": 0,
+      "explanation": "A pilot tests feasibility and identifies issues before full rollout."
+    },
+    {
+      "id": "q11279",
+      "category": "Problem Solving and Reasoning",
+      "question": "A decision is 'reversible' if it can be:",
+      "options": [
+        "changed or undone later",
+        "hidden from everyone",
+        "made without evidence",
+        "delayed forever"
+      ],
+      "answer": 0,
+      "explanation": "Reversible decisions can be changed if needed."
+    },
+    {
+      "id": "q11280",
+      "category": "Problem Solving and Reasoning",
+      "question": "After implementing a solution, you should:",
+      "options": [
+        "monitor results to see whether it worked",
+        "assume success without checking",
+        "remove the baseline data",
+        "stop communicating"
+      ],
+      "answer": 0,
+      "explanation": "Monitoring confirms whether the solution achieved its goal."
     }
   ]
 }
