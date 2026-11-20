@@ -3,139 +3,139 @@
   "slug": "quiz-0837",
   "title": "English Practice Quiz 0837",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q085",
-      "category": "Confusing Words",
-      "question": "The bus is ___ than the car today.",
+      "id": "q11661",
+      "category": "Digital Workplace Skills",
+      "question": "Digital Workplace Skills 01: A spreadsheet formula usually begins with:",
       "options": [
-        "fast",
-        "faster",
-        "fastest",
-        "more fast"
+        "An equals sign (=)",
+        "A comma",
+        "A question mark",
+        "A semicolon"
       ],
-      "answer": 1,
-      "explanation": "Use the comparative form faster when comparing two things."
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q114",
-      "category": "Gerunds",
-      "question": "They finished ___ the room.",
+      "id": "q11662",
+      "category": "Digital Workplace Skills",
+      "question": "Digital Workplace Skills 02: A read-only permission allows a user to:",
       "options": [
-        "clean",
-        "to clean",
-        "cleaning",
-        "cleaned"
+        "View content without editing",
+        "Delete the file",
+        "Change every setting",
+        "Transfer ownership"
       ],
-      "answer": 2,
-      "explanation": "Finish is followed by a gerund."
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q028",
-      "category": "Vocabulary",
-      "question": "A place where medicines are dispensed is a ___.",
+      "id": "q11663",
+      "category": "Digital Workplace Skills",
+      "question": "Digital Workplace Skills 03: A cloud collaboration tool helps teams:",
       "options": [
-        "bakery",
-        "pharmacy",
-        "library",
-        "garage"
+        "Work on shared information with controlled access",
+        "Avoid all backups",
+        "Publish confidential files",
+        "Remove version history"
       ],
-      "answer": 1,
-      "explanation": "A pharmacy is a place where medicines are prepared or supplied."
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q057",
-      "category": "Pronunciation",
-      "question": "Which word has a silent 'k'?",
+      "id": "q11664",
+      "category": "Digital Workplace Skills",
+      "question": "Digital Workplace Skills 04: A CSV file commonly stores:",
       "options": [
-        "kite",
-        "know",
-        "keep",
-        "kind"
+        "Tabular data separated by commas",
+        "A video stream",
+        "An operating system",
+        "A password vault"
       ],
-      "answer": 1,
-      "explanation": "The k in know is silent."
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q086",
-      "category": "Conditionals",
-      "question": "If it rains, we ___ indoors.",
+      "id": "q11665",
+      "category": "Digital Workplace Skills",
+      "question": "Digital Workplace Skills 05: Before external spreadsheet sharing, check:",
       "options": [
-        "stay",
-        "will stay",
-        "stayed",
-        "would stayed"
+        "Sensitive data and hidden content",
+        "Only column headings",
+        "Delete all formulas",
+        "File extension only"
       ],
-      "answer": 1,
-      "explanation": "The first conditional uses if + present simple, will + base verb."
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q115",
-      "category": "Gerunds",
-      "question": "I want ___ English fluently.",
+      "id": "q11666",
+      "category": "Digital Workplace Skills",
+      "question": "Digital Workplace Skills 06: A search query improves with:",
       "options": [
-        "speak",
-        "speaking",
-        "to speak",
-        "spoke"
+        "Specific terms and relevant filters",
+        "Unrelated words",
+        "Punctuation only",
+        "Repeated broad terms"
       ],
-      "answer": 2,
-      "explanation": "Want is followed by a to-infinitive."
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q029",
-      "category": "Vocabulary",
-      "question": "What is the meaning of 'available'?",
+      "id": "q11667",
+      "category": "Digital Workplace Skills",
+      "question": "Digital Workplace Skills 07: A browser padlock generally indicates:",
       "options": [
-        "not possible to use",
-        "ready or able to be used",
-        "very expensive",
-        "already broken"
+        "An encrypted connection, not guaranteed site trustworthiness",
+        "Government approval",
+        "No malware",
+        "A verified seller"
       ],
-      "answer": 1,
-      "explanation": "Available means ready for use or accessible."
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q058",
-      "category": "Pronunciation",
-      "question": "Which word has the /ʃ/ sound as in 'ship'?",
+      "id": "q11668",
+      "category": "Digital Workplace Skills",
+      "question": "Digital Workplace Skills 08: A database primary key is used to:",
       "options": [
-        "sip",
-        "shop",
-        "zip",
-        "tip"
+        "Uniquely identify each record",
+        "Store paragraphs only",
+        "Format a title",
+        "Sort by colour"
       ],
-      "answer": 1,
-      "explanation": "Shop begins with the /ʃ/ sound."
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q087",
-      "category": "Conditionals",
-      "question": "If I had more time, I ___ another language.",
+      "id": "q11669",
+      "category": "Digital Workplace Skills",
+      "question": "Digital Workplace Skills 09: A backup should be tested by:",
       "options": [
-        "learn",
-        "will learn",
-        "would learn",
-        "am learn"
+        "Checking that data can actually be restored",
+        "Checking only its name",
+        "Assuming it worked",
+        "Deleting the original"
       ],
-      "answer": 2,
-      "explanation": "The second conditional uses would + base verb for an unreal or imagined situation."
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q001",
-      "category": "Grammar",
-      "question": "She ___ to work every day.",
+      "id": "q11670",
+      "category": "Digital Workplace Skills",
+      "question": "Digital Workplace Skills 10: A software permission request should be:",
       "options": [
-        "go",
-        "goes",
-        "going",
-        "gone"
+        "Reviewed before granting access",
+        "Approved automatically",
+        "Shared with all users",
+        "Ignored after install"
       ],
-      "answer": 1,
-      "explanation": "With he, she or it in the present simple, add -s or -es to most verbs."
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
     }
   ]
 }
