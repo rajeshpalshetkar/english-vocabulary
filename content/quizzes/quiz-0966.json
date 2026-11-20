@@ -3,139 +3,139 @@
   "slug": "quiz-0966",
   "title": "English Practice Quiz 0966",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q093",
-      "category": "Passive Voice",
-      "question": "The work ___ tomorrow.",
+      "id": "q10351",
+      "category": "Financial Literacy",
+      "question": "A budget is a plan for ___.",
       "options": [
-        "will complete",
-        "will be completed",
-        "completed",
-        "is completing"
-      ],
-      "answer": 1,
-      "explanation": "Future passive uses will be + past participle."
-    },
-    {
-      "id": "q001",
-      "category": "Grammar",
-      "question": "She ___ to work every day.",
-      "options": [
-        "go",
-        "goes",
-        "going",
-        "gone"
-      ],
-      "answer": 1,
-      "explanation": "With he, she or it in the present simple, add -s or -es to most verbs."
-    },
-    {
-      "id": "q024",
-      "category": "Vocabulary",
-      "question": "If a task is 'urgent', it needs ___.",
-      "options": [
-        "no attention",
-        "quick attention",
-        "a holiday",
-        "a receipt"
-      ],
-      "answer": 1,
-      "explanation": "Urgent means requiring immediate or prompt attention."
-    },
-    {
-      "id": "q047",
-      "category": "Sentence Building",
-      "question": "Choose the correct question.",
-      "options": [
-        "Where you live?",
-        "Where do you live?",
-        "Where does you live?",
-        "Where are live you?"
-      ],
-      "answer": 1,
-      "explanation": "Use do + subject + base verb for present simple questions with you."
-    },
-    {
-      "id": "q070",
-      "category": "Workplace English",
-      "question": "To confirm an instruction, you can say:",
-      "options": [
-        "Could you please confirm the details?",
-        "I not listen.",
-        "Confirm me now.",
-        "Details no."
+        "income and spending",
+        "weather and rainfall",
+        "staff attendance only",
+        "road construction"
       ],
       "answer": 0,
-      "explanation": "Could you please confirm... is polite and precise."
+      "explanation": "A budget helps plan how money will be received and used."
     },
     {
-      "id": "q093",
-      "category": "Passive Voice",
-      "question": "The work ___ tomorrow.",
+      "id": "q10352",
+      "category": "Financial Literacy",
+      "question": "An emergency fund is money set aside for ___.",
       "options": [
-        "will complete",
-        "will be completed",
-        "completed",
-        "is completing"
-      ],
-      "answer": 1,
-      "explanation": "Future passive uses will be + past participle."
-    },
-    {
-      "id": "q001",
-      "category": "Grammar",
-      "question": "She ___ to work every day.",
-      "options": [
-        "go",
-        "goes",
-        "going",
-        "gone"
-      ],
-      "answer": 1,
-      "explanation": "With he, she or it in the present simple, add -s or -es to most verbs."
-    },
-    {
-      "id": "q024",
-      "category": "Vocabulary",
-      "question": "If a task is 'urgent', it needs ___.",
-      "options": [
-        "no attention",
-        "quick attention",
-        "a holiday",
-        "a receipt"
-      ],
-      "answer": 1,
-      "explanation": "Urgent means requiring immediate or prompt attention."
-    },
-    {
-      "id": "q047",
-      "category": "Sentence Building",
-      "question": "Choose the correct question.",
-      "options": [
-        "Where you live?",
-        "Where do you live?",
-        "Where does you live?",
-        "Where are live you?"
-      ],
-      "answer": 1,
-      "explanation": "Use do + subject + base verb for present simple questions with you."
-    },
-    {
-      "id": "q070",
-      "category": "Workplace English",
-      "question": "To confirm an instruction, you can say:",
-      "options": [
-        "Could you please confirm the details?",
-        "I not listen.",
-        "Confirm me now.",
-        "Details no."
+        "unexpected expenses",
+        "daily entertainment only",
+        "planned luxury shopping",
+        "unnecessary subscriptions"
       ],
       "answer": 0,
-      "explanation": "Could you please confirm... is polite and precise."
+      "explanation": "An emergency fund helps cover unforeseen costs."
+    },
+    {
+      "id": "q10353",
+      "category": "Financial Literacy",
+      "question": "If expenses are greater than income, a person has a ___.",
+      "options": [
+        "budget deficit",
+        "budget surplus",
+        "fixed deposit",
+        "cash discount"
+      ],
+      "answer": 0,
+      "explanation": "A deficit occurs when spending exceeds income."
+    },
+    {
+      "id": "q10354",
+      "category": "Financial Literacy",
+      "question": "Compound interest is interest calculated on ___.",
+      "options": [
+        "the original amount and previously added interest",
+        "the original amount only in every case",
+        "tax payments only",
+        "the number of bank branches"
+      ],
+      "answer": 0,
+      "explanation": "Compound interest earns interest on accumulated interest as well as principal."
+    },
+    {
+      "id": "q10355",
+      "category": "Financial Literacy",
+      "question": "A fixed expense is one that ___.",
+      "options": [
+        "usually stays similar from period to period",
+        "changes every minute",
+        "is always optional",
+        "never appears in a budget"
+      ],
+      "answer": 0,
+      "explanation": "Fixed expenses are relatively consistent, such as regular rent payments."
+    },
+    {
+      "id": "q10356",
+      "category": "Financial Literacy",
+      "question": "Diversification means ___.",
+      "options": [
+        "spreading investments across different assets",
+        "putting all money into one asset",
+        "borrowing to cover every expense",
+        "avoiding all financial records"
+      ],
+      "answer": 0,
+      "explanation": "Diversification reduces dependence on a single investment."
+    },
+    {
+      "id": "q10357",
+      "category": "Financial Literacy",
+      "question": "Inflation generally refers to ___.",
+      "options": [
+        "a rise in the overall price level",
+        "a fall in every salary",
+        "a reduction in all taxes",
+        "a rise in bank branches"
+      ],
+      "answer": 0,
+      "explanation": "Inflation is a general increase in prices over time."
+    },
+    {
+      "id": "q10358",
+      "category": "Financial Literacy",
+      "question": "Before taking a loan, it is important to compare ___.",
+      "options": [
+        "interest rates, fees and repayment terms",
+        "the colour of the bank logo",
+        "the number of advertisements",
+        "the office furniture"
+      ],
+      "answer": 0,
+      "explanation": "These factors affect the total cost and affordability of borrowing."
+    },
+    {
+      "id": "q10359",
+      "category": "Financial Literacy",
+      "question": "A savings goal should ideally be ___.",
+      "options": [
+        "specific and realistic",
+        "unclear and unlimited",
+        "based only on rumours",
+        "unrelated to income"
+      ],
+      "answer": 0,
+      "explanation": "A clear and realistic goal is easier to plan and track."
+    },
+    {
+      "id": "q10360",
+      "category": "Financial Literacy",
+      "question": "A bank's nominee is a person named to ___.",
+      "options": [
+        "receive or claim account proceeds under applicable rules",
+        "operate every account without permission",
+        "set the bank's interest rate",
+        "approve all loans"
+      ],
+      "answer": 0,
+      "explanation": "A nominee is designated to receive or claim proceeds according to applicable rules."
     }
   ]
 }
