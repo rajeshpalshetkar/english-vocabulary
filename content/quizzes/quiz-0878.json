@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0878",
+  "slug": "quiz-0878",
+  "title": "English Practice Quiz 0878",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Reading",
+  "level": "Advanced",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q092",
+      "category": "Passive Voice",
+      "question": "Choose the passive form: 'The manager signed the letter.'",
+      "options": [
+        "The letter is signed.",
+        "The letter was signed by the manager.",
+        "The letter signed the manager.",
+        "The letter has sign."
+      ],
+      "answer": 1,
+      "explanation": "Past simple passive: was/were + past participle."
+    },
+    {
+      "id": "q008",
+      "category": "Grammar",
+      "question": "This is the woman ___ helped me.",
+      "options": [
+        "which",
+        "who",
+        "where",
+        "when"
+      ],
+      "answer": 1,
+      "explanation": "Who is used for people."
+    },
+    {
+      "id": "q039",
+      "category": "Prepositions",
+      "question": "She is interested ___ music.",
+      "options": [
+        "on",
+        "at",
+        "in",
+        "for"
+      ],
+      "answer": 2,
+      "explanation": "The adjective interested is followed by in."
+    },
+    {
+      "id": "q070",
+      "category": "Workplace English",
+      "question": "To confirm an instruction, you can say:",
+      "options": [
+        "Could you please confirm the details?",
+        "I not listen.",
+        "Confirm me now.",
+        "Details no."
+      ],
+      "answer": 0,
+      "explanation": "Could you please confirm... is polite and precise."
+    },
+    {
+      "id": "q101",
+      "category": "Determiners",
+      "question": "There isn't ___ milk left.",
+      "options": [
+        "many",
+        "much",
+        "few",
+        "several"
+      ],
+      "answer": 1,
+      "explanation": "Milk is uncountable, so use much in a negative sentence."
+    },
+    {
+      "id": "q017",
+      "category": "Tenses",
+      "question": "They ___ football every Sunday.",
+      "options": [
+        "plays",
+        "are play",
+        "play",
+        "playing"
+      ],
+      "answer": 2,
+      "explanation": "Use the base verb with the plural subject they in the present simple."
+    },
+    {
+      "id": "q048",
+      "category": "Sentence Building",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "Because I was tired, I went to bed early.",
+        "Because I tired, went bed early.",
+        "I because was tired bed early.",
+        "Because tired I went early bed."
+      ],
+      "answer": 0,
+      "explanation": "The subordinate clause beginning with because explains the reason."
+    },
+    {
+      "id": "q079",
+      "category": "Punctuation",
+      "question": "Which is a complete sentence?",
+      "options": [
+        "Because it was raining.",
+        "After the meeting.",
+        "The team finished the work.",
+        "When I arrived."
+      ],
+      "answer": 2,
+      "explanation": "The team finished the work contains a subject and a complete predicate."
+    },
+    {
+      "id": "q110",
+      "category": "Adverbs",
+      "question": "Please drive ___.",
+      "options": [
+        "careful",
+        "carefully",
+        "care",
+        "caring"
+      ],
+      "answer": 1,
+      "explanation": "Carefully is the adverb modifying drive."
+    },
+    {
+      "id": "q026",
+      "category": "Vocabulary",
+      "question": "What does 'borrow' mean?",
+      "options": [
+        "give something forever",
+        "take something temporarily and return it",
+        "break something",
+        "buy something"
+      ],
+      "answer": 1,
+      "explanation": "Borrow means to take something for a period and return it."
+    }
+  ]
+}

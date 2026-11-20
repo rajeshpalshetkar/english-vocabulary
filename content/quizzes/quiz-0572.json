@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0572",
+  "slug": "quiz-0572",
+  "title": "English Practice Quiz 0572",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Modals",
+  "level": "Elementary",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q065",
+      "category": "Reading",
+      "question": "Read: 'Please keep the floor dry to prevent accidents.' What is the instruction?",
+      "options": [
+        "Wash the floor now",
+        "Keep the floor dry",
+        "Close the office",
+        "Move the furniture"
+      ],
+      "answer": 1,
+      "explanation": "The notice instructs people to keep the floor dry."
+    },
+    {
+      "id": "q076",
+      "category": "Punctuation",
+      "question": "Choose the correctly punctuated sentence.",
+      "options": [
+        "where are you.",
+        "Where are you?",
+        "Where are you,",
+        "where are you!"
+      ],
+      "answer": 1,
+      "explanation": "Start with a capital letter and use a question mark."
+    },
+    {
+      "id": "q087",
+      "category": "Conditionals",
+      "question": "If I had more time, I ___ another language.",
+      "options": [
+        "learn",
+        "will learn",
+        "would learn",
+        "am learn"
+      ],
+      "answer": 2,
+      "explanation": "The second conditional uses would + base verb for an unreal or imagined situation."
+    },
+    {
+      "id": "q098",
+      "category": "Reported Speech",
+      "question": "He asked, 'Where do you live?'",
+      "options": [
+        "He asked where I lived.",
+        "He asked where do I live.",
+        "He asked where did I lived.",
+        "He asked where I live do."
+      ],
+      "answer": 0,
+      "explanation": "Reported questions use statement word order; do is removed."
+    },
+    {
+      "id": "q109",
+      "category": "Adverbs",
+      "question": "She arrived ___.",
+      "options": [
+        "late",
+        "lately",
+        "latest",
+        "laterly"
+      ],
+      "answer": 0,
+      "explanation": "Late is the correct adverb meaning not on time."
+    },
+    {
+      "id": "q005",
+      "category": "Grammar",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "She don't like tea.",
+        "She doesn't likes tea.",
+        "She doesn't like tea.",
+        "She not like tea."
+      ],
+      "answer": 2,
+      "explanation": "After doesn't, use the base form of the verb: like."
+    },
+    {
+      "id": "q016",
+      "category": "Tenses",
+      "question": "Water ___ at 100°C at sea level.",
+      "options": [
+        "boil",
+        "boils",
+        "is boiling",
+        "boiled"
+      ],
+      "answer": 1,
+      "explanation": "Use the present simple for general facts."
+    },
+    {
+      "id": "q027",
+      "category": "Vocabulary",
+      "question": "Choose the correct word: Please ___ the details.",
+      "options": [
+        "confirm",
+        "crowded",
+        "repairing",
+        "hungry"
+      ],
+      "answer": 0,
+      "explanation": "Confirm means to check or establish that something is correct."
+    },
+    {
+      "id": "q038",
+      "category": "Prepositions",
+      "question": "We have a meeting ___ Monday.",
+      "options": [
+        "in",
+        "at",
+        "on",
+        "by"
+      ],
+      "answer": 2,
+      "explanation": "Use on with days and dates."
+    },
+    {
+      "id": "q049",
+      "category": "Sentence Building",
+      "question": "Choose the correct plural of 'child'.",
+      "options": [
+        "childs",
+        "childes",
+        "children",
+        "childrens"
+      ],
+      "answer": 2,
+      "explanation": "Children is the irregular plural of child."
+    }
+  ]
+}

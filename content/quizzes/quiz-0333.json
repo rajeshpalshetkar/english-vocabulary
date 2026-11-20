@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0333",
+  "slug": "quiz-0333",
+  "title": "English Practice Quiz 0333",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Articles",
+  "level": "Elementary",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q027",
+      "category": "Vocabulary",
+      "question": "Choose the correct word: Please ___ the details.",
+      "options": [
+        "confirm",
+        "crowded",
+        "repairing",
+        "hungry"
+      ],
+      "answer": 0,
+      "explanation": "Confirm means to check or establish that something is correct."
+    },
+    {
+      "id": "q040",
+      "category": "Prepositions",
+      "question": "The hospital is ___ the bank and the post office.",
+      "options": [
+        "among",
+        "between",
+        "inside",
+        "over"
+      ],
+      "answer": 1,
+      "explanation": "Between is used for a position separating two things."
+    },
+    {
+      "id": "q053",
+      "category": "Conversation",
+      "question": "A visitor asks, 'Where is reception?' You say:",
+      "options": [
+        "It is near the main entrance.",
+        "I am reception.",
+        "Yesterday at home.",
+        "No, it isn't."
+      ],
+      "answer": 0,
+      "explanation": "Give a clear location using a complete sentence."
+    },
+    {
+      "id": "q066",
+      "category": "Workplace English",
+      "question": "A professional way to ask for a file is:",
+      "options": [
+        "Give file now.",
+        "Could you please share the file?",
+        "File give me.",
+        "You must file."
+      ],
+      "answer": 1,
+      "explanation": "Could you please is a polite and professional request."
+    },
+    {
+      "id": "q079",
+      "category": "Punctuation",
+      "question": "Which is a complete sentence?",
+      "options": [
+        "Because it was raining.",
+        "After the meeting.",
+        "The team finished the work.",
+        "When I arrived."
+      ],
+      "answer": 2,
+      "explanation": "The team finished the work contains a subject and a complete predicate."
+    },
+    {
+      "id": "q092",
+      "category": "Passive Voice",
+      "question": "Choose the passive form: 'The manager signed the letter.'",
+      "options": [
+        "The letter is signed.",
+        "The letter was signed by the manager.",
+        "The letter signed the manager.",
+        "The letter has sign."
+      ],
+      "answer": 1,
+      "explanation": "Past simple passive: was/were + past participle."
+    },
+    {
+      "id": "q105",
+      "category": "Determiners",
+      "question": "___ student must bring an ID card.",
+      "options": [
+        "Each",
+        "Many",
+        "Few",
+        "Several"
+      ],
+      "answer": 0,
+      "explanation": "Each refers to every individual in a group."
+    },
+    {
+      "id": "q003",
+      "category": "Grammar",
+      "question": "I ___ a new notebook yesterday.",
+      "options": [
+        "buy",
+        "buys",
+        "bought",
+        "buying"
+      ],
+      "answer": 2,
+      "explanation": "Yesterday signals the past simple. The past form of buy is bought."
+    },
+    {
+      "id": "q016",
+      "category": "Tenses",
+      "question": "Water ___ at 100°C at sea level.",
+      "options": [
+        "boil",
+        "boils",
+        "is boiling",
+        "boiled"
+      ],
+      "answer": 1,
+      "explanation": "Use the present simple for general facts."
+    },
+    {
+      "id": "q029",
+      "category": "Vocabulary",
+      "question": "What is the meaning of 'available'?",
+      "options": [
+        "not possible to use",
+        "ready or able to be used",
+        "very expensive",
+        "already broken"
+      ],
+      "answer": 1,
+      "explanation": "Available means ready for use or accessible."
+    }
+  ]
+}

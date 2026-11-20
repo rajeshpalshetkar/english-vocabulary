@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0725",
+  "slug": "quiz-0725",
+  "title": "English Practice Quiz 0725",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Conversation",
+  "level": "Intermediate",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q021",
+      "category": "Vocabulary",
+      "question": "A person who repairs water pipes is a ___.",
+      "options": [
+        "carpenter",
+        "plumber",
+        "tailor",
+        "baker"
+      ],
+      "answer": 1,
+      "explanation": "A plumber installs and repairs water pipes and fittings."
+    },
+    {
+      "id": "q040",
+      "category": "Prepositions",
+      "question": "The hospital is ___ the bank and the post office.",
+      "options": [
+        "among",
+        "between",
+        "inside",
+        "over"
+      ],
+      "answer": 1,
+      "explanation": "Between is used for a position separating two things."
+    },
+    {
+      "id": "q059",
+      "category": "Pronunciation",
+      "question": "Which word rhymes with 'light'?",
+      "options": [
+        "late",
+        "lit",
+        "night",
+        "let"
+      ],
+      "answer": 2,
+      "explanation": "Light and night share the same ending sound."
+    },
+    {
+      "id": "q078",
+      "category": "Punctuation",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "I like tea, coffee and milk.",
+        "I like tea coffee and milk",
+        "I like, tea coffee, and milk.",
+        "i like tea, coffee and milk"
+      ],
+      "answer": 0,
+      "explanation": "Use commas to separate items in a list and capitalise the first word."
+    },
+    {
+      "id": "q097",
+      "category": "Reported Speech",
+      "question": "She said, 'I can swim.'",
+      "options": [
+        "She said she can swam.",
+        "She said that she could swim.",
+        "She said she swims can.",
+        "She told that could swim."
+      ],
+      "answer": 1,
+      "explanation": "Can commonly changes to could in reported speech after a past reporting verb."
+    },
+    {
+      "id": "q001",
+      "category": "Grammar",
+      "question": "She ___ to work every day.",
+      "options": [
+        "go",
+        "goes",
+        "going",
+        "gone"
+      ],
+      "answer": 1,
+      "explanation": "With he, she or it in the present simple, add -s or -es to most verbs."
+    },
+    {
+      "id": "q020",
+      "category": "Tenses",
+      "question": "By next June, he ___ the course.",
+      "options": [
+        "completes",
+        "completed",
+        "will have completed",
+        "has complete"
+      ],
+      "answer": 2,
+      "explanation": "The future perfect describes an action completed before a future time."
+    },
+    {
+      "id": "q039",
+      "category": "Prepositions",
+      "question": "She is interested ___ music.",
+      "options": [
+        "on",
+        "at",
+        "in",
+        "for"
+      ],
+      "answer": 2,
+      "explanation": "The adjective interested is followed by in."
+    },
+    {
+      "id": "q058",
+      "category": "Pronunciation",
+      "question": "Which word has the /ʃ/ sound as in 'ship'?",
+      "options": [
+        "sip",
+        "shop",
+        "zip",
+        "tip"
+      ],
+      "answer": 1,
+      "explanation": "Shop begins with the /ʃ/ sound."
+    },
+    {
+      "id": "q077",
+      "category": "Punctuation",
+      "question": "Which sentence uses the apostrophe correctly?",
+      "options": [
+        "The guards uniform is blue.",
+        "The guard's uniform is blue.",
+        "The guards' uniform is blue. (one guard)",
+        "The guard uniform's is blue."
+      ],
+      "answer": 1,
+      "explanation": "Guard's shows possession by one guard."
+    }
+  ]
+}

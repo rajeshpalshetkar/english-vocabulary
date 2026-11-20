@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0044",
+  "slug": "quiz-0044",
+  "title": "English Practice Quiz 0044",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Grammar",
+  "level": "Beginner",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q059",
+      "category": "Pronunciation",
+      "question": "Which word rhymes with 'light'?",
+      "options": [
+        "late",
+        "lit",
+        "night",
+        "let"
+      ],
+      "answer": 2,
+      "explanation": "Light and night share the same ending sound."
+    },
+    {
+      "id": "q076",
+      "category": "Punctuation",
+      "question": "Choose the correctly punctuated sentence.",
+      "options": [
+        "where are you.",
+        "Where are you?",
+        "Where are you,",
+        "where are you!"
+      ],
+      "answer": 1,
+      "explanation": "Start with a capital letter and use a question mark."
+    },
+    {
+      "id": "q093",
+      "category": "Passive Voice",
+      "question": "The work ___ tomorrow.",
+      "options": [
+        "will complete",
+        "will be completed",
+        "completed",
+        "is completing"
+      ],
+      "answer": 1,
+      "explanation": "Future passive uses will be + past participle."
+    },
+    {
+      "id": "q110",
+      "category": "Adverbs",
+      "question": "Please drive ___.",
+      "options": [
+        "careful",
+        "carefully",
+        "care",
+        "caring"
+      ],
+      "answer": 1,
+      "explanation": "Carefully is the adverb modifying drive."
+    },
+    {
+      "id": "q012",
+      "category": "Tenses",
+      "question": "We ___ here since 2022.",
+      "options": [
+        "live",
+        "lived",
+        "have lived",
+        "are live"
+      ],
+      "answer": 2,
+      "explanation": "Since gives a starting point; the present perfect connects the past to now."
+    },
+    {
+      "id": "q029",
+      "category": "Vocabulary",
+      "question": "What is the meaning of 'available'?",
+      "options": [
+        "not possible to use",
+        "ready or able to be used",
+        "very expensive",
+        "already broken"
+      ],
+      "answer": 1,
+      "explanation": "Available means ready for use or accessible."
+    },
+    {
+      "id": "q046",
+      "category": "Sentence Building",
+      "question": "Choose the correct word order.",
+      "options": [
+        "Always I am late.",
+        "I am always late.",
+        "I late am always.",
+        "Am always I late."
+      ],
+      "answer": 1,
+      "explanation": "Frequency adverbs such as always usually come after the verb be."
+    },
+    {
+      "id": "q063",
+      "category": "Reading",
+      "question": "Read: 'Ravi practises English for twenty minutes every evening.' How long does he practise?",
+      "options": [
+        "Ten minutes",
+        "Twenty minutes",
+        "Thirty minutes",
+        "One hour"
+      ],
+      "answer": 1,
+      "explanation": "The passage states twenty minutes."
+    },
+    {
+      "id": "q080",
+      "category": "Punctuation",
+      "question": "Choose the correctly written date phrase.",
+      "options": [
+        "on monday",
+        "on Monday",
+        "On monday",
+        "on Monday."
+      ],
+      "answer": 1,
+      "explanation": "Days of the week begin with a capital letter."
+    },
+    {
+      "id": "q097",
+      "category": "Reported Speech",
+      "question": "She said, 'I can swim.'",
+      "options": [
+        "She said she can swam.",
+        "She said that she could swim.",
+        "She said she swims can.",
+        "She told that could swim."
+      ],
+      "answer": 1,
+      "explanation": "Can commonly changes to could in reported speech after a past reporting verb."
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0147",
+  "slug": "quiz-0147",
+  "title": "English Practice Quiz 0147",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Tenses",
+  "level": "Beginner",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q085",
+      "category": "Confusing Words",
+      "question": "The bus is ___ than the car today.",
+      "options": [
+        "fast",
+        "faster",
+        "fastest",
+        "more fast"
+      ],
+      "answer": 1,
+      "explanation": "Use the comparative form faster when comparing two things."
+    },
+    {
+      "id": "q114",
+      "category": "Gerunds",
+      "question": "They finished ___ the room.",
+      "options": [
+        "clean",
+        "to clean",
+        "cleaning",
+        "cleaned"
+      ],
+      "answer": 2,
+      "explanation": "Finish is followed by a gerund."
+    },
+    {
+      "id": "q028",
+      "category": "Vocabulary",
+      "question": "A place where medicines are dispensed is a ___.",
+      "options": [
+        "bakery",
+        "pharmacy",
+        "library",
+        "garage"
+      ],
+      "answer": 1,
+      "explanation": "A pharmacy is a place where medicines are prepared or supplied."
+    },
+    {
+      "id": "q057",
+      "category": "Pronunciation",
+      "question": "Which word has a silent 'k'?",
+      "options": [
+        "kite",
+        "know",
+        "keep",
+        "kind"
+      ],
+      "answer": 1,
+      "explanation": "The k in know is silent."
+    },
+    {
+      "id": "q086",
+      "category": "Conditionals",
+      "question": "If it rains, we ___ indoors.",
+      "options": [
+        "stay",
+        "will stay",
+        "stayed",
+        "would stayed"
+      ],
+      "answer": 1,
+      "explanation": "The first conditional uses if + present simple, will + base verb."
+    },
+    {
+      "id": "q115",
+      "category": "Gerunds",
+      "question": "I want ___ English fluently.",
+      "options": [
+        "speak",
+        "speaking",
+        "to speak",
+        "spoke"
+      ],
+      "answer": 2,
+      "explanation": "Want is followed by a to-infinitive."
+    },
+    {
+      "id": "q029",
+      "category": "Vocabulary",
+      "question": "What is the meaning of 'available'?",
+      "options": [
+        "not possible to use",
+        "ready or able to be used",
+        "very expensive",
+        "already broken"
+      ],
+      "answer": 1,
+      "explanation": "Available means ready for use or accessible."
+    },
+    {
+      "id": "q058",
+      "category": "Pronunciation",
+      "question": "Which word has the /ʃ/ sound as in 'ship'?",
+      "options": [
+        "sip",
+        "shop",
+        "zip",
+        "tip"
+      ],
+      "answer": 1,
+      "explanation": "Shop begins with the /ʃ/ sound."
+    },
+    {
+      "id": "q087",
+      "category": "Conditionals",
+      "question": "If I had more time, I ___ another language.",
+      "options": [
+        "learn",
+        "will learn",
+        "would learn",
+        "am learn"
+      ],
+      "answer": 2,
+      "explanation": "The second conditional uses would + base verb for an unreal or imagined situation."
+    },
+    {
+      "id": "q001",
+      "category": "Grammar",
+      "question": "She ___ to work every day.",
+      "options": [
+        "go",
+        "goes",
+        "going",
+        "gone"
+      ],
+      "answer": 1,
+      "explanation": "With he, she or it in the present simple, add -s or -es to most verbs."
+    }
+  ]
+}

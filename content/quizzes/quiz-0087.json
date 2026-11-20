@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0087",
+  "slug": "quiz-0087",
+  "title": "English Practice Quiz 0087",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Grammar",
+  "level": "Beginner",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q100",
+      "category": "Reported Speech",
+      "question": "They said, 'We have finished.'",
+      "options": [
+        "They said they had finished.",
+        "They said they have finish.",
+        "They told finished.",
+        "They said we finished have."
+      ],
+      "answer": 0,
+      "explanation": "Present perfect commonly shifts to past perfect in reported speech."
+    },
+    {
+      "id": "q014",
+      "category": "Tenses",
+      "question": "I think it ___ tomorrow.",
+      "options": [
+        "rains",
+        "rained",
+        "will rain",
+        "raining"
+      ],
+      "answer": 2,
+      "explanation": "Will plus the base verb can express a future prediction."
+    },
+    {
+      "id": "q043",
+      "category": "Modals",
+      "question": "When I was five, I ___ swim.",
+      "options": [
+        "can",
+        "could",
+        "may",
+        "must"
+      ],
+      "answer": 1,
+      "explanation": "Could expresses past ability."
+    },
+    {
+      "id": "q072",
+      "category": "Questions",
+      "question": "Which question asks about time?",
+      "options": [
+        "Who is calling?",
+        "When does the train leave?",
+        "Where is the station?",
+        "Why are you here?"
+      ],
+      "answer": 1,
+      "explanation": "When asks about time."
+    },
+    {
+      "id": "q101",
+      "category": "Determiners",
+      "question": "There isn't ___ milk left.",
+      "options": [
+        "many",
+        "much",
+        "few",
+        "several"
+      ],
+      "answer": 1,
+      "explanation": "Milk is uncountable, so use much in a negative sentence."
+    },
+    {
+      "id": "q015",
+      "category": "Tenses",
+      "question": "She ___ the report before the manager arrived.",
+      "options": [
+        "finished",
+        "has finished",
+        "had finished",
+        "finishes"
+      ],
+      "answer": 2,
+      "explanation": "Use the past perfect for an action completed before another past action."
+    },
+    {
+      "id": "q044",
+      "category": "Modals",
+      "question": "You look tired. You ___ get some rest.",
+      "options": [
+        "should",
+        "mustn't",
+        "can't",
+        "wouldn't"
+      ],
+      "answer": 0,
+      "explanation": "Should gives advice."
+    },
+    {
+      "id": "q073",
+      "category": "Questions",
+      "question": "Choose the correct question.",
+      "options": [
+        "Does she work here?",
+        "Do she work here?",
+        "Is she works here?",
+        "Does she works here?"
+      ],
+      "answer": 0,
+      "explanation": "Use does + subject + base verb with he, she or it."
+    },
+    {
+      "id": "q102",
+      "category": "Determiners",
+      "question": "How ___ apples do you need?",
+      "options": [
+        "much",
+        "many",
+        "little",
+        "any"
+      ],
+      "answer": 1,
+      "explanation": "Apples are countable plural nouns, so use many."
+    },
+    {
+      "id": "q016",
+      "category": "Tenses",
+      "question": "Water ___ at 100°C at sea level.",
+      "options": [
+        "boil",
+        "boils",
+        "is boiling",
+        "boiled"
+      ],
+      "answer": 1,
+      "explanation": "Use the present simple for general facts."
+    }
+  ]
+}

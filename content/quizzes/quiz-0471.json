@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0471",
+  "slug": "quiz-0471",
+  "title": "English Practice Quiz 0471",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Prepositions",
+  "level": "Elementary",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q073",
+      "category": "Questions",
+      "question": "Choose the correct question.",
+      "options": [
+        "Does she work here?",
+        "Do she work here?",
+        "Is she works here?",
+        "Does she works here?"
+      ],
+      "answer": 0,
+      "explanation": "Use does + subject + base verb with he, she or it."
+    },
+    {
+      "id": "q082",
+      "category": "Confusing Words",
+      "question": "The weather can ___ your travel plans.",
+      "options": [
+        "affect",
+        "effect",
+        "infect",
+        "effort"
+      ],
+      "answer": 0,
+      "explanation": "Affect is usually a verb meaning to influence."
+    },
+    {
+      "id": "q091",
+      "category": "Passive Voice",
+      "question": "Choose the passive form: 'They clean the room.'",
+      "options": [
+        "The room cleaned them.",
+        "The room is cleaned by them.",
+        "The room is cleaning.",
+        "The room has clean."
+      ],
+      "answer": 1,
+      "explanation": "Present simple passive: am/is/are + past participle."
+    },
+    {
+      "id": "q100",
+      "category": "Reported Speech",
+      "question": "They said, 'We have finished.'",
+      "options": [
+        "They said they had finished.",
+        "They said they have finish.",
+        "They told finished.",
+        "They said we finished have."
+      ],
+      "answer": 0,
+      "explanation": "Present perfect commonly shifts to past perfect in reported speech."
+    },
+    {
+      "id": "q109",
+      "category": "Adverbs",
+      "question": "She arrived ___.",
+      "options": [
+        "late",
+        "lately",
+        "latest",
+        "laterly"
+      ],
+      "answer": 0,
+      "explanation": "Late is the correct adverb meaning not on time."
+    },
+    {
+      "id": "q003",
+      "category": "Grammar",
+      "question": "I ___ a new notebook yesterday.",
+      "options": [
+        "buy",
+        "buys",
+        "bought",
+        "buying"
+      ],
+      "answer": 2,
+      "explanation": "Yesterday signals the past simple. The past form of buy is bought."
+    },
+    {
+      "id": "q012",
+      "category": "Tenses",
+      "question": "We ___ here since 2022.",
+      "options": [
+        "live",
+        "lived",
+        "have lived",
+        "are live"
+      ],
+      "answer": 2,
+      "explanation": "Since gives a starting point; the present perfect connects the past to now."
+    },
+    {
+      "id": "q021",
+      "category": "Vocabulary",
+      "question": "A person who repairs water pipes is a ___.",
+      "options": [
+        "carpenter",
+        "plumber",
+        "tailor",
+        "baker"
+      ],
+      "answer": 1,
+      "explanation": "A plumber installs and repairs water pipes and fittings."
+    },
+    {
+      "id": "q030",
+      "category": "Vocabulary",
+      "question": "Choose the best word: The road is very ___. There are many cars.",
+      "options": [
+        "crowded",
+        "empty",
+        "quietly",
+        "soft"
+      ],
+      "answer": 0,
+      "explanation": "Crowded means filled with many people or things; it can describe busy roads."
+    },
+    {
+      "id": "q039",
+      "category": "Prepositions",
+      "question": "She is interested ___ music.",
+      "options": [
+        "on",
+        "at",
+        "in",
+        "for"
+      ],
+      "answer": 2,
+      "explanation": "The adjective interested is followed by in."
+    }
+  ]
+}

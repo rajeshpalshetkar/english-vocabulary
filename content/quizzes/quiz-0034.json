@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0034",
+  "slug": "quiz-0034",
+  "title": "English Practice Quiz 0034",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Grammar",
+  "level": "Beginner",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q004",
+      "category": "Grammar",
+      "question": "There ___ two chairs in the room.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "was"
+      ],
+      "answer": 1,
+      "explanation": "Use are with the plural noun chairs."
+    },
+    {
+      "id": "q021",
+      "category": "Vocabulary",
+      "question": "A person who repairs water pipes is a ___.",
+      "options": [
+        "carpenter",
+        "plumber",
+        "tailor",
+        "baker"
+      ],
+      "answer": 1,
+      "explanation": "A plumber installs and repairs water pipes and fittings."
+    },
+    {
+      "id": "q038",
+      "category": "Prepositions",
+      "question": "We have a meeting ___ Monday.",
+      "options": [
+        "in",
+        "at",
+        "on",
+        "by"
+      ],
+      "answer": 2,
+      "explanation": "Use on with days and dates."
+    },
+    {
+      "id": "q055",
+      "category": "Conversation",
+      "question": "A colleague asks for help. A polite reply is:",
+      "options": [
+        "Certainly. What do you need?",
+        "Never ask me.",
+        "You do yourself.",
+        "No speaking."
+      ],
+      "answer": 0,
+      "explanation": "Certainly. What do you need? is helpful and polite."
+    },
+    {
+      "id": "q072",
+      "category": "Questions",
+      "question": "Which question asks about time?",
+      "options": [
+        "Who is calling?",
+        "When does the train leave?",
+        "Where is the station?",
+        "Why are you here?"
+      ],
+      "answer": 1,
+      "explanation": "When asks about time."
+    },
+    {
+      "id": "q089",
+      "category": "Conditionals",
+      "question": "If she studies, she ___ the test.",
+      "options": [
+        "passes",
+        "passed",
+        "will pass",
+        "would passed"
+      ],
+      "answer": 2,
+      "explanation": "Use will + base verb in the main clause of the first conditional."
+    },
+    {
+      "id": "q106",
+      "category": "Adjectives",
+      "question": "The test was ___ than I expected.",
+      "options": [
+        "easy",
+        "easier",
+        "easiest",
+        "more easy"
+      ],
+      "answer": 1,
+      "explanation": "Use the comparative form easier."
+    },
+    {
+      "id": "q008",
+      "category": "Grammar",
+      "question": "This is the woman ___ helped me.",
+      "options": [
+        "which",
+        "who",
+        "where",
+        "when"
+      ],
+      "answer": 1,
+      "explanation": "Who is used for people."
+    },
+    {
+      "id": "q025",
+      "category": "Vocabulary",
+      "question": "A person you can trust is ___.",
+      "options": [
+        "reliable",
+        "careless",
+        "silent",
+        "narrow"
+      ],
+      "answer": 0,
+      "explanation": "Reliable means dependable or trustworthy."
+    },
+    {
+      "id": "q042",
+      "category": "Modals",
+      "question": "You ___ smoke inside the hospital.",
+      "options": [
+        "must",
+        "mustn't",
+        "should",
+        "could"
+      ],
+      "answer": 1,
+      "explanation": "Mustn't expresses prohibition."
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0256",
+  "slug": "quiz-0256",
+  "title": "English Practice Quiz 0256",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Vocabulary",
+  "level": "Elementary",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q098",
+      "category": "Reported Speech",
+      "question": "He asked, 'Where do you live?'",
+      "options": [
+        "He asked where I lived.",
+        "He asked where do I live.",
+        "He asked where did I lived.",
+        "He asked where I live do."
+      ],
+      "answer": 0,
+      "explanation": "Reported questions use statement word order; do is removed."
+    },
+    {
+      "id": "q006",
+      "category": "Grammar",
+      "question": "He is ___ honest man.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": 1,
+      "explanation": "Use an before a vowel sound. Honest begins with a silent h."
+    },
+    {
+      "id": "q029",
+      "category": "Vocabulary",
+      "question": "What is the meaning of 'available'?",
+      "options": [
+        "not possible to use",
+        "ready or able to be used",
+        "very expensive",
+        "already broken"
+      ],
+      "answer": 1,
+      "explanation": "Available means ready for use or accessible."
+    },
+    {
+      "id": "q052",
+      "category": "Conversation",
+      "question": "You did not hear someone. You say:",
+      "options": [
+        "Speak now!",
+        "Could you repeat that, please?",
+        "What your problem?",
+        "I don't hear you yesterday."
+      ],
+      "answer": 1,
+      "explanation": "Could you repeat that, please? is a polite request."
+    },
+    {
+      "id": "q075",
+      "category": "Questions",
+      "question": "Choose the correct question tag: 'You are ready, ___?'",
+      "options": [
+        "are you",
+        "aren't you",
+        "do you",
+        "don't you"
+      ],
+      "answer": 1,
+      "explanation": "A positive statement with are usually takes the negative tag aren't you."
+    },
+    {
+      "id": "q098",
+      "category": "Reported Speech",
+      "question": "He asked, 'Where do you live?'",
+      "options": [
+        "He asked where I lived.",
+        "He asked where do I live.",
+        "He asked where did I lived.",
+        "He asked where I live do."
+      ],
+      "answer": 0,
+      "explanation": "Reported questions use statement word order; do is removed."
+    },
+    {
+      "id": "q006",
+      "category": "Grammar",
+      "question": "He is ___ honest man.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": 1,
+      "explanation": "Use an before a vowel sound. Honest begins with a silent h."
+    },
+    {
+      "id": "q029",
+      "category": "Vocabulary",
+      "question": "What is the meaning of 'available'?",
+      "options": [
+        "not possible to use",
+        "ready or able to be used",
+        "very expensive",
+        "already broken"
+      ],
+      "answer": 1,
+      "explanation": "Available means ready for use or accessible."
+    },
+    {
+      "id": "q052",
+      "category": "Conversation",
+      "question": "You did not hear someone. You say:",
+      "options": [
+        "Speak now!",
+        "Could you repeat that, please?",
+        "What your problem?",
+        "I don't hear you yesterday."
+      ],
+      "answer": 1,
+      "explanation": "Could you repeat that, please? is a polite request."
+    },
+    {
+      "id": "q075",
+      "category": "Questions",
+      "question": "Choose the correct question tag: 'You are ready, ___?'",
+      "options": [
+        "are you",
+        "aren't you",
+        "do you",
+        "don't you"
+      ],
+      "answer": 1,
+      "explanation": "A positive statement with are usually takes the negative tag aren't you."
+    }
+  ]
+}

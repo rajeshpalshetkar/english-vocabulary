@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0422",
+  "slug": "quiz-0422",
+  "title": "English Practice Quiz 0422",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Prepositions",
+  "level": "Elementary",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q045",
+      "category": "Modals",
+      "question": "It ___ rain later; take an umbrella.",
+      "options": [
+        "might",
+        "mustn't",
+        "shouldn't",
+        "has"
+      ],
+      "answer": 0,
+      "explanation": "Might expresses possibility."
+    },
+    {
+      "id": "q056",
+      "category": "Pronunciation",
+      "question": "Which word has a different beginning sound?",
+      "options": [
+        "think",
+        "three",
+        "this",
+        "thank"
+      ],
+      "answer": 2,
+      "explanation": "This begins with the voiced /ð/ sound; the others begin with the unvoiced /θ/ sound."
+    },
+    {
+      "id": "q067",
+      "category": "Workplace English",
+      "question": "You have completed a task. You say:",
+      "options": [
+        "The task is complete.",
+        "The task complete yesterday tomorrow.",
+        "I task finish.",
+        "Task is completing me."
+      ],
+      "answer": 0,
+      "explanation": "The task is complete is a clear status update."
+    },
+    {
+      "id": "q078",
+      "category": "Punctuation",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "I like tea, coffee and milk.",
+        "I like tea coffee and milk",
+        "I like, tea coffee, and milk.",
+        "i like tea, coffee and milk"
+      ],
+      "answer": 0,
+      "explanation": "Use commas to separate items in a list and capitalise the first word."
+    },
+    {
+      "id": "q089",
+      "category": "Conditionals",
+      "question": "If she studies, she ___ the test.",
+      "options": [
+        "passes",
+        "passed",
+        "will pass",
+        "would passed"
+      ],
+      "answer": 2,
+      "explanation": "Use will + base verb in the main clause of the first conditional."
+    },
+    {
+      "id": "q100",
+      "category": "Reported Speech",
+      "question": "They said, 'We have finished.'",
+      "options": [
+        "They said they had finished.",
+        "They said they have finish.",
+        "They told finished.",
+        "They said we finished have."
+      ],
+      "answer": 0,
+      "explanation": "Present perfect commonly shifts to past perfect in reported speech."
+    },
+    {
+      "id": "q111",
+      "category": "Gerunds",
+      "question": "I enjoy ___ books.",
+      "options": [
+        "read",
+        "to read",
+        "reading",
+        "reads"
+      ],
+      "answer": 2,
+      "explanation": "Enjoy is followed by a gerund (-ing form)."
+    },
+    {
+      "id": "q007",
+      "category": "Grammar",
+      "question": "The keys are ___ the table.",
+      "options": [
+        "in",
+        "at",
+        "on",
+        "by"
+      ],
+      "answer": 2,
+      "explanation": "On describes something resting on a surface."
+    },
+    {
+      "id": "q018",
+      "category": "Tenses",
+      "question": "I ___ him last week.",
+      "options": [
+        "see",
+        "have seen",
+        "saw",
+        "seeing"
+      ],
+      "answer": 2,
+      "explanation": "Use the past simple with a finished past time such as last week."
+    },
+    {
+      "id": "q029",
+      "category": "Vocabulary",
+      "question": "What is the meaning of 'available'?",
+      "options": [
+        "not possible to use",
+        "ready or able to be used",
+        "very expensive",
+        "already broken"
+      ],
+      "answer": 1,
+      "explanation": "Available means ready for use or accessible."
+    }
+  ]
+}

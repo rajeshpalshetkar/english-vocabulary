@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0696",
+  "slug": "quiz-0696",
+  "title": "English Practice Quiz 0696",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Sentence Building",
+  "level": "Intermediate",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q103",
+      "category": "Determiners",
+      "question": "I have ___ friends in this city.",
+      "options": [
+        "a little",
+        "a few",
+        "much",
+        "anyone"
+      ],
+      "answer": 1,
+      "explanation": "A few is used with countable plural nouns."
+    },
+    {
+      "id": "q011",
+      "category": "Tenses",
+      "question": "Listen! The baby ___.",
+      "options": [
+        "cries",
+        "is crying",
+        "cry",
+        "cried"
+      ],
+      "answer": 1,
+      "explanation": "Listen! suggests an action happening now, so use the present continuous."
+    },
+    {
+      "id": "q034",
+      "category": "Articles",
+      "question": "He wants to become ___ engineer.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": 1,
+      "explanation": "Engineer begins with a vowel sound, so use an."
+    },
+    {
+      "id": "q057",
+      "category": "Pronunciation",
+      "question": "Which word has a silent 'k'?",
+      "options": [
+        "kite",
+        "know",
+        "keep",
+        "kind"
+      ],
+      "answer": 1,
+      "explanation": "The k in know is silent."
+    },
+    {
+      "id": "q080",
+      "category": "Punctuation",
+      "question": "Choose the correctly written date phrase.",
+      "options": [
+        "on monday",
+        "on Monday",
+        "On monday",
+        "on Monday."
+      ],
+      "answer": 1,
+      "explanation": "Days of the week begin with a capital letter."
+    },
+    {
+      "id": "q103",
+      "category": "Determiners",
+      "question": "I have ___ friends in this city.",
+      "options": [
+        "a little",
+        "a few",
+        "much",
+        "anyone"
+      ],
+      "answer": 1,
+      "explanation": "A few is used with countable plural nouns."
+    },
+    {
+      "id": "q011",
+      "category": "Tenses",
+      "question": "Listen! The baby ___.",
+      "options": [
+        "cries",
+        "is crying",
+        "cry",
+        "cried"
+      ],
+      "answer": 1,
+      "explanation": "Listen! suggests an action happening now, so use the present continuous."
+    },
+    {
+      "id": "q034",
+      "category": "Articles",
+      "question": "He wants to become ___ engineer.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": 1,
+      "explanation": "Engineer begins with a vowel sound, so use an."
+    },
+    {
+      "id": "q057",
+      "category": "Pronunciation",
+      "question": "Which word has a silent 'k'?",
+      "options": [
+        "kite",
+        "know",
+        "keep",
+        "kind"
+      ],
+      "answer": 1,
+      "explanation": "The k in know is silent."
+    },
+    {
+      "id": "q080",
+      "category": "Punctuation",
+      "question": "Choose the correctly written date phrase.",
+      "options": [
+        "on monday",
+        "on Monday",
+        "On monday",
+        "on Monday."
+      ],
+      "answer": 1,
+      "explanation": "Days of the week begin with a capital letter."
+    }
+  ]
+}

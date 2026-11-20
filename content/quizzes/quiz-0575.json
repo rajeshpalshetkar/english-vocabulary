@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0575",
+  "slug": "quiz-0575",
+  "title": "English Practice Quiz 0575",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Modals",
+  "level": "Elementary",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q001",
+      "category": "Grammar",
+      "question": "She ___ to work every day.",
+      "options": [
+        "go",
+        "goes",
+        "going",
+        "gone"
+      ],
+      "answer": 1,
+      "explanation": "With he, she or it in the present simple, add -s or -es to most verbs."
+    },
+    {
+      "id": "q020",
+      "category": "Tenses",
+      "question": "By next June, he ___ the course.",
+      "options": [
+        "completes",
+        "completed",
+        "will have completed",
+        "has complete"
+      ],
+      "answer": 2,
+      "explanation": "The future perfect describes an action completed before a future time."
+    },
+    {
+      "id": "q039",
+      "category": "Prepositions",
+      "question": "She is interested ___ music.",
+      "options": [
+        "on",
+        "at",
+        "in",
+        "for"
+      ],
+      "answer": 2,
+      "explanation": "The adjective interested is followed by in."
+    },
+    {
+      "id": "q058",
+      "category": "Pronunciation",
+      "question": "Which word has the /ʃ/ sound as in 'ship'?",
+      "options": [
+        "sip",
+        "shop",
+        "zip",
+        "tip"
+      ],
+      "answer": 1,
+      "explanation": "Shop begins with the /ʃ/ sound."
+    },
+    {
+      "id": "q077",
+      "category": "Punctuation",
+      "question": "Which sentence uses the apostrophe correctly?",
+      "options": [
+        "The guards uniform is blue.",
+        "The guard's uniform is blue.",
+        "The guards' uniform is blue. (one guard)",
+        "The guard uniform's is blue."
+      ],
+      "answer": 1,
+      "explanation": "Guard's shows possession by one guard."
+    },
+    {
+      "id": "q096",
+      "category": "Reported Speech",
+      "question": "He said, 'I am tired.' Reported speech:",
+      "options": [
+        "He said that he was tired.",
+        "He said I am tired.",
+        "He says that I tired.",
+        "He said he is tire."
+      ],
+      "answer": 0,
+      "explanation": "In standard backshift, am changes to was after a past reporting verb."
+    },
+    {
+      "id": "q115",
+      "category": "Gerunds",
+      "question": "I want ___ English fluently.",
+      "options": [
+        "speak",
+        "speaking",
+        "to speak",
+        "spoke"
+      ],
+      "answer": 2,
+      "explanation": "Want is followed by a to-infinitive."
+    },
+    {
+      "id": "q019",
+      "category": "Tenses",
+      "question": "She ___ in this hospital for five years.",
+      "options": [
+        "works",
+        "worked",
+        "has worked",
+        "is work"
+      ],
+      "answer": 2,
+      "explanation": "The present perfect can describe a situation continuing to the present."
+    },
+    {
+      "id": "q038",
+      "category": "Prepositions",
+      "question": "We have a meeting ___ Monday.",
+      "options": [
+        "in",
+        "at",
+        "on",
+        "by"
+      ],
+      "answer": 2,
+      "explanation": "Use on with days and dates."
+    },
+    {
+      "id": "q057",
+      "category": "Pronunciation",
+      "question": "Which word has a silent 'k'?",
+      "options": [
+        "kite",
+        "know",
+        "keep",
+        "kind"
+      ],
+      "answer": 1,
+      "explanation": "The k in know is silent."
+    }
+  ]
+}

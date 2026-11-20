@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0426",
+  "slug": "quiz-0426",
+  "title": "English Practice Quiz 0426",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Prepositions",
+  "level": "Elementary",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q113",
+      "category": "Gerunds",
+      "question": "She is good at ___.",
+      "options": [
+        "swim",
+        "to swim",
+        "swimming",
+        "swam"
+      ],
+      "answer": 2,
+      "explanation": "A preposition such as at is followed by a noun or gerund."
+    },
+    {
+      "id": "q021",
+      "category": "Vocabulary",
+      "question": "A person who repairs water pipes is a ___.",
+      "options": [
+        "carpenter",
+        "plumber",
+        "tailor",
+        "baker"
+      ],
+      "answer": 1,
+      "explanation": "A plumber installs and repairs water pipes and fittings."
+    },
+    {
+      "id": "q044",
+      "category": "Modals",
+      "question": "You look tired. You ___ get some rest.",
+      "options": [
+        "should",
+        "mustn't",
+        "can't",
+        "wouldn't"
+      ],
+      "answer": 0,
+      "explanation": "Should gives advice."
+    },
+    {
+      "id": "q067",
+      "category": "Workplace English",
+      "question": "You have completed a task. You say:",
+      "options": [
+        "The task is complete.",
+        "The task complete yesterday tomorrow.",
+        "I task finish.",
+        "Task is completing me."
+      ],
+      "answer": 0,
+      "explanation": "The task is complete is a clear status update."
+    },
+    {
+      "id": "q090",
+      "category": "Conditionals",
+      "question": "If I were you, I ___ apologise.",
+      "options": [
+        "will",
+        "would",
+        "am",
+        "did"
+      ],
+      "answer": 1,
+      "explanation": "If I were you is followed by would for advice."
+    },
+    {
+      "id": "q113",
+      "category": "Gerunds",
+      "question": "She is good at ___.",
+      "options": [
+        "swim",
+        "to swim",
+        "swimming",
+        "swam"
+      ],
+      "answer": 2,
+      "explanation": "A preposition such as at is followed by a noun or gerund."
+    },
+    {
+      "id": "q021",
+      "category": "Vocabulary",
+      "question": "A person who repairs water pipes is a ___.",
+      "options": [
+        "carpenter",
+        "plumber",
+        "tailor",
+        "baker"
+      ],
+      "answer": 1,
+      "explanation": "A plumber installs and repairs water pipes and fittings."
+    },
+    {
+      "id": "q044",
+      "category": "Modals",
+      "question": "You look tired. You ___ get some rest.",
+      "options": [
+        "should",
+        "mustn't",
+        "can't",
+        "wouldn't"
+      ],
+      "answer": 0,
+      "explanation": "Should gives advice."
+    },
+    {
+      "id": "q067",
+      "category": "Workplace English",
+      "question": "You have completed a task. You say:",
+      "options": [
+        "The task is complete.",
+        "The task complete yesterday tomorrow.",
+        "I task finish.",
+        "Task is completing me."
+      ],
+      "answer": 0,
+      "explanation": "The task is complete is a clear status update."
+    },
+    {
+      "id": "q090",
+      "category": "Conditionals",
+      "question": "If I were you, I ___ apologise.",
+      "options": [
+        "will",
+        "would",
+        "am",
+        "did"
+      ],
+      "answer": 1,
+      "explanation": "If I were you is followed by would for advice."
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0004",
+  "slug": "quiz-0004",
+  "title": "English Practice Quiz 0004",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Grammar",
+  "level": "Beginner",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q069",
+      "category": "Workplace English",
+      "question": "A polite way to disagree is:",
+      "options": [
+        "You are totally wrong.",
+        "I see your point, but I have a different view.",
+        "No, stop.",
+        "That is stupid."
+      ],
+      "answer": 1,
+      "explanation": "This phrase acknowledges the other person before presenting a different view."
+    },
+    {
+      "id": "q086",
+      "category": "Conditionals",
+      "question": "If it rains, we ___ indoors.",
+      "options": [
+        "stay",
+        "will stay",
+        "stayed",
+        "would stayed"
+      ],
+      "answer": 1,
+      "explanation": "The first conditional uses if + present simple, will + base verb."
+    },
+    {
+      "id": "q103",
+      "category": "Determiners",
+      "question": "I have ___ friends in this city.",
+      "options": [
+        "a little",
+        "a few",
+        "much",
+        "anyone"
+      ],
+      "answer": 1,
+      "explanation": "A few is used with countable plural nouns."
+    },
+    {
+      "id": "q005",
+      "category": "Grammar",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "She don't like tea.",
+        "She doesn't likes tea.",
+        "She doesn't like tea.",
+        "She not like tea."
+      ],
+      "answer": 2,
+      "explanation": "After doesn't, use the base form of the verb: like."
+    },
+    {
+      "id": "q022",
+      "category": "Vocabulary",
+      "question": "Choose the opposite of 'polite'.",
+      "options": [
+        "kind",
+        "rude",
+        "helpful",
+        "calm"
+      ],
+      "answer": 1,
+      "explanation": "Rude is the opposite of polite."
+    },
+    {
+      "id": "q039",
+      "category": "Prepositions",
+      "question": "She is interested ___ music.",
+      "options": [
+        "on",
+        "at",
+        "in",
+        "for"
+      ],
+      "answer": 2,
+      "explanation": "The adjective interested is followed by in."
+    },
+    {
+      "id": "q056",
+      "category": "Pronunciation",
+      "question": "Which word has a different beginning sound?",
+      "options": [
+        "think",
+        "three",
+        "this",
+        "thank"
+      ],
+      "answer": 2,
+      "explanation": "This begins with the voiced /ð/ sound; the others begin with the unvoiced /θ/ sound."
+    },
+    {
+      "id": "q073",
+      "category": "Questions",
+      "question": "Choose the correct question.",
+      "options": [
+        "Does she work here?",
+        "Do she work here?",
+        "Is she works here?",
+        "Does she works here?"
+      ],
+      "answer": 0,
+      "explanation": "Use does + subject + base verb with he, she or it."
+    },
+    {
+      "id": "q090",
+      "category": "Conditionals",
+      "question": "If I were you, I ___ apologise.",
+      "options": [
+        "will",
+        "would",
+        "am",
+        "did"
+      ],
+      "answer": 1,
+      "explanation": "If I were you is followed by would for advice."
+    },
+    {
+      "id": "q107",
+      "category": "Adjectives",
+      "question": "She is the ___ student in the class.",
+      "options": [
+        "tall",
+        "taller",
+        "tallest",
+        "more tall"
+      ],
+      "answer": 2,
+      "explanation": "Use the superlative tallest when comparing one with the whole class."
+    }
+  ]
+}

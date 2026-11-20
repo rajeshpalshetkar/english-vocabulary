@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0260",
+  "slug": "quiz-0260",
+  "title": "English Practice Quiz 0260",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Vocabulary",
+  "level": "Elementary",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q051",
+      "category": "Conversation",
+      "question": "Someone says, 'Thank you for your help.' You reply:",
+      "options": [
+        "Never mind you.",
+        "You're welcome.",
+        "I am welcome you.",
+        "No thank."
+      ],
+      "answer": 1,
+      "explanation": "You're welcome is a natural response to thank you."
+    },
+    {
+      "id": "q058",
+      "category": "Pronunciation",
+      "question": "Which word has the /ʃ/ sound as in 'ship'?",
+      "options": [
+        "sip",
+        "shop",
+        "zip",
+        "tip"
+      ],
+      "answer": 1,
+      "explanation": "Shop begins with the /ʃ/ sound."
+    },
+    {
+      "id": "q065",
+      "category": "Reading",
+      "question": "Read: 'Please keep the floor dry to prevent accidents.' What is the instruction?",
+      "options": [
+        "Wash the floor now",
+        "Keep the floor dry",
+        "Close the office",
+        "Move the furniture"
+      ],
+      "answer": 1,
+      "explanation": "The notice instructs people to keep the floor dry."
+    },
+    {
+      "id": "q072",
+      "category": "Questions",
+      "question": "Which question asks about time?",
+      "options": [
+        "Who is calling?",
+        "When does the train leave?",
+        "Where is the station?",
+        "Why are you here?"
+      ],
+      "answer": 1,
+      "explanation": "When asks about time."
+    },
+    {
+      "id": "q079",
+      "category": "Punctuation",
+      "question": "Which is a complete sentence?",
+      "options": [
+        "Because it was raining.",
+        "After the meeting.",
+        "The team finished the work.",
+        "When I arrived."
+      ],
+      "answer": 2,
+      "explanation": "The team finished the work contains a subject and a complete predicate."
+    },
+    {
+      "id": "q086",
+      "category": "Conditionals",
+      "question": "If it rains, we ___ indoors.",
+      "options": [
+        "stay",
+        "will stay",
+        "stayed",
+        "would stayed"
+      ],
+      "answer": 1,
+      "explanation": "The first conditional uses if + present simple, will + base verb."
+    },
+    {
+      "id": "q093",
+      "category": "Passive Voice",
+      "question": "The work ___ tomorrow.",
+      "options": [
+        "will complete",
+        "will be completed",
+        "completed",
+        "is completing"
+      ],
+      "answer": 1,
+      "explanation": "Future passive uses will be + past participle."
+    },
+    {
+      "id": "q100",
+      "category": "Reported Speech",
+      "question": "They said, 'We have finished.'",
+      "options": [
+        "They said they had finished.",
+        "They said they have finish.",
+        "They told finished.",
+        "They said we finished have."
+      ],
+      "answer": 0,
+      "explanation": "Present perfect commonly shifts to past perfect in reported speech."
+    },
+    {
+      "id": "q107",
+      "category": "Adjectives",
+      "question": "She is the ___ student in the class.",
+      "options": [
+        "tall",
+        "taller",
+        "tallest",
+        "more tall"
+      ],
+      "answer": 2,
+      "explanation": "Use the superlative tallest when comparing one with the whole class."
+    },
+    {
+      "id": "q114",
+      "category": "Gerunds",
+      "question": "They finished ___ the room.",
+      "options": [
+        "clean",
+        "to clean",
+        "cleaning",
+        "cleaned"
+      ],
+      "answer": 2,
+      "explanation": "Finish is followed by a gerund."
+    }
+  ]
+}

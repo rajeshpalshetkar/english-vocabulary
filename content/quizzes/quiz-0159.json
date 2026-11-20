@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0159",
+  "slug": "quiz-0159",
+  "title": "English Practice Quiz 0159",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Tenses",
+  "level": "Beginner",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q059",
+      "category": "Pronunciation",
+      "question": "Which word rhymes with 'light'?",
+      "options": [
+        "late",
+        "lit",
+        "night",
+        "let"
+      ],
+      "answer": 2,
+      "explanation": "Light and night share the same ending sound."
+    },
+    {
+      "id": "q096",
+      "category": "Reported Speech",
+      "question": "He said, 'I am tired.' Reported speech:",
+      "options": [
+        "He said that he was tired.",
+        "He said I am tired.",
+        "He says that I tired.",
+        "He said he is tire."
+      ],
+      "answer": 0,
+      "explanation": "In standard backshift, am changes to was after a past reporting verb."
+    },
+    {
+      "id": "q018",
+      "category": "Tenses",
+      "question": "I ___ him last week.",
+      "options": [
+        "see",
+        "have seen",
+        "saw",
+        "seeing"
+      ],
+      "answer": 2,
+      "explanation": "Use the past simple with a finished past time such as last week."
+    },
+    {
+      "id": "q055",
+      "category": "Conversation",
+      "question": "A colleague asks for help. A polite reply is:",
+      "options": [
+        "Certainly. What do you need?",
+        "Never ask me.",
+        "You do yourself.",
+        "No speaking."
+      ],
+      "answer": 0,
+      "explanation": "Certainly. What do you need? is helpful and polite."
+    },
+    {
+      "id": "q092",
+      "category": "Passive Voice",
+      "question": "Choose the passive form: 'The manager signed the letter.'",
+      "options": [
+        "The letter is signed.",
+        "The letter was signed by the manager.",
+        "The letter signed the manager.",
+        "The letter has sign."
+      ],
+      "answer": 1,
+      "explanation": "Past simple passive: was/were + past participle."
+    },
+    {
+      "id": "q014",
+      "category": "Tenses",
+      "question": "I think it ___ tomorrow.",
+      "options": [
+        "rains",
+        "rained",
+        "will rain",
+        "raining"
+      ],
+      "answer": 2,
+      "explanation": "Will plus the base verb can express a future prediction."
+    },
+    {
+      "id": "q051",
+      "category": "Conversation",
+      "question": "Someone says, 'Thank you for your help.' You reply:",
+      "options": [
+        "Never mind you.",
+        "You're welcome.",
+        "I am welcome you.",
+        "No thank."
+      ],
+      "answer": 1,
+      "explanation": "You're welcome is a natural response to thank you."
+    },
+    {
+      "id": "q088",
+      "category": "Conditionals",
+      "question": "If you heat ice, it ___.",
+      "options": [
+        "melt",
+        "melts",
+        "will melted",
+        "melting"
+      ],
+      "answer": 1,
+      "explanation": "The zero conditional uses present simple for general truths."
+    },
+    {
+      "id": "q010",
+      "category": "Grammar",
+      "question": "You ___ wear your identity card at work.",
+      "options": [
+        "should to",
+        "should",
+        "are should",
+        "shoulds"
+      ],
+      "answer": 1,
+      "explanation": "Modal verbs such as should are followed by the base verb without to."
+    },
+    {
+      "id": "q047",
+      "category": "Sentence Building",
+      "question": "Choose the correct question.",
+      "options": [
+        "Where you live?",
+        "Where do you live?",
+        "Where does you live?",
+        "Where are live you?"
+      ],
+      "answer": 1,
+      "explanation": "Use do + subject + base verb for present simple questions with you."
+    }
+  ]
+}

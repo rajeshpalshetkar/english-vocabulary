@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0294",
+  "slug": "quiz-0294",
+  "title": "English Practice Quiz 0294",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Vocabulary",
+  "level": "Elementary",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q054",
+      "category": "Conversation",
+      "question": "You need a moment to think. You say:",
+      "options": [
+        "Let me think for a moment.",
+        "I no idea ever.",
+        "Wait your mouth.",
+        "I am think."
+      ],
+      "answer": 0,
+      "explanation": "This phrase politely signals that you need a little time."
+    },
+    {
+      "id": "q071",
+      "category": "Questions",
+      "question": "Choose the correct WH question for a place.",
+      "options": [
+        "When do you live?",
+        "Where do you live?",
+        "Who do you live?",
+        "Why do you live?"
+      ],
+      "answer": 1,
+      "explanation": "Where asks about a place or location."
+    },
+    {
+      "id": "q088",
+      "category": "Conditionals",
+      "question": "If you heat ice, it ___.",
+      "options": [
+        "melt",
+        "melts",
+        "will melted",
+        "melting"
+      ],
+      "answer": 1,
+      "explanation": "The zero conditional uses present simple for general truths."
+    },
+    {
+      "id": "q105",
+      "category": "Determiners",
+      "question": "___ student must bring an ID card.",
+      "options": [
+        "Each",
+        "Many",
+        "Few",
+        "Several"
+      ],
+      "answer": 0,
+      "explanation": "Each refers to every individual in a group."
+    },
+    {
+      "id": "q007",
+      "category": "Grammar",
+      "question": "The keys are ___ the table.",
+      "options": [
+        "in",
+        "at",
+        "on",
+        "by"
+      ],
+      "answer": 2,
+      "explanation": "On describes something resting on a surface."
+    },
+    {
+      "id": "q024",
+      "category": "Vocabulary",
+      "question": "If a task is 'urgent', it needs ___.",
+      "options": [
+        "no attention",
+        "quick attention",
+        "a holiday",
+        "a receipt"
+      ],
+      "answer": 1,
+      "explanation": "Urgent means requiring immediate or prompt attention."
+    },
+    {
+      "id": "q041",
+      "category": "Modals",
+      "question": "___ I borrow your pen, please?",
+      "options": [
+        "May",
+        "Must",
+        "Should",
+        "Would have"
+      ],
+      "answer": 0,
+      "explanation": "May is a polite way to ask permission."
+    },
+    {
+      "id": "q058",
+      "category": "Pronunciation",
+      "question": "Which word has the /ʃ/ sound as in 'ship'?",
+      "options": [
+        "sip",
+        "shop",
+        "zip",
+        "tip"
+      ],
+      "answer": 1,
+      "explanation": "Shop begins with the /ʃ/ sound."
+    },
+    {
+      "id": "q075",
+      "category": "Questions",
+      "question": "Choose the correct question tag: 'You are ready, ___?'",
+      "options": [
+        "are you",
+        "aren't you",
+        "do you",
+        "don't you"
+      ],
+      "answer": 1,
+      "explanation": "A positive statement with are usually takes the negative tag aren't you."
+    },
+    {
+      "id": "q092",
+      "category": "Passive Voice",
+      "question": "Choose the passive form: 'The manager signed the letter.'",
+      "options": [
+        "The letter is signed.",
+        "The letter was signed by the manager.",
+        "The letter signed the manager.",
+        "The letter has sign."
+      ],
+      "answer": 1,
+      "explanation": "Past simple passive: was/were + past participle."
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0585",
+  "slug": "quiz-0585",
+  "title": "English Practice Quiz 0585",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Modals",
+  "level": "Elementary",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q056",
+      "category": "Pronunciation",
+      "question": "Which word has a different beginning sound?",
+      "options": [
+        "think",
+        "three",
+        "this",
+        "thank"
+      ],
+      "answer": 2,
+      "explanation": "This begins with the voiced /ð/ sound; the others begin with the unvoiced /θ/ sound."
+    },
+    {
+      "id": "q075",
+      "category": "Questions",
+      "question": "Choose the correct question tag: 'You are ready, ___?'",
+      "options": [
+        "are you",
+        "aren't you",
+        "do you",
+        "don't you"
+      ],
+      "answer": 1,
+      "explanation": "A positive statement with are usually takes the negative tag aren't you."
+    },
+    {
+      "id": "q094",
+      "category": "Passive Voice",
+      "question": "English ___ in many countries.",
+      "options": [
+        "speaks",
+        "is spoken",
+        "spoken",
+        "is speaking"
+      ],
+      "answer": 1,
+      "explanation": "Present simple passive: is spoken."
+    },
+    {
+      "id": "q113",
+      "category": "Gerunds",
+      "question": "She is good at ___.",
+      "options": [
+        "swim",
+        "to swim",
+        "swimming",
+        "swam"
+      ],
+      "answer": 2,
+      "explanation": "A preposition such as at is followed by a noun or gerund."
+    },
+    {
+      "id": "q017",
+      "category": "Tenses",
+      "question": "They ___ football every Sunday.",
+      "options": [
+        "plays",
+        "are play",
+        "play",
+        "playing"
+      ],
+      "answer": 2,
+      "explanation": "Use the base verb with the plural subject they in the present simple."
+    },
+    {
+      "id": "q036",
+      "category": "Prepositions",
+      "question": "The meeting starts ___ 9 a.m.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "by"
+      ],
+      "answer": 2,
+      "explanation": "Use at for a specific clock time."
+    },
+    {
+      "id": "q055",
+      "category": "Conversation",
+      "question": "A colleague asks for help. A polite reply is:",
+      "options": [
+        "Certainly. What do you need?",
+        "Never ask me.",
+        "You do yourself.",
+        "No speaking."
+      ],
+      "answer": 0,
+      "explanation": "Certainly. What do you need? is helpful and polite."
+    },
+    {
+      "id": "q074",
+      "category": "Questions",
+      "question": "Which question asks for a reason?",
+      "options": [
+        "What happened?",
+        "Where are you?",
+        "Why are you late?",
+        "When is lunch?"
+      ],
+      "answer": 2,
+      "explanation": "Why asks for a reason."
+    },
+    {
+      "id": "q093",
+      "category": "Passive Voice",
+      "question": "The work ___ tomorrow.",
+      "options": [
+        "will complete",
+        "will be completed",
+        "completed",
+        "is completing"
+      ],
+      "answer": 1,
+      "explanation": "Future passive uses will be + past participle."
+    },
+    {
+      "id": "q112",
+      "category": "Gerunds",
+      "question": "He decided ___ early.",
+      "options": [
+        "leave",
+        "leaving",
+        "to leave",
+        "leaves"
+      ],
+      "answer": 2,
+      "explanation": "Decide is commonly followed by a to-infinitive."
+    }
+  ]
+}

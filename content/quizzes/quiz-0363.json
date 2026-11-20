@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0363",
+  "slug": "quiz-0363",
+  "title": "English Practice Quiz 0363",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Articles",
+  "level": "Elementary",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q077",
+      "category": "Punctuation",
+      "question": "Which sentence uses the apostrophe correctly?",
+      "options": [
+        "The guards uniform is blue.",
+        "The guard's uniform is blue.",
+        "The guards' uniform is blue. (one guard)",
+        "The guard uniform's is blue."
+      ],
+      "answer": 1,
+      "explanation": "Guard's shows possession by one guard."
+    },
+    {
+      "id": "q090",
+      "category": "Conditionals",
+      "question": "If I were you, I ___ apologise.",
+      "options": [
+        "will",
+        "would",
+        "am",
+        "did"
+      ],
+      "answer": 1,
+      "explanation": "If I were you is followed by would for advice."
+    },
+    {
+      "id": "q103",
+      "category": "Determiners",
+      "question": "I have ___ friends in this city.",
+      "options": [
+        "a little",
+        "a few",
+        "much",
+        "anyone"
+      ],
+      "answer": 1,
+      "explanation": "A few is used with countable plural nouns."
+    },
+    {
+      "id": "q001",
+      "category": "Grammar",
+      "question": "She ___ to work every day.",
+      "options": [
+        "go",
+        "goes",
+        "going",
+        "gone"
+      ],
+      "answer": 1,
+      "explanation": "With he, she or it in the present simple, add -s or -es to most verbs."
+    },
+    {
+      "id": "q014",
+      "category": "Tenses",
+      "question": "I think it ___ tomorrow.",
+      "options": [
+        "rains",
+        "rained",
+        "will rain",
+        "raining"
+      ],
+      "answer": 2,
+      "explanation": "Will plus the base verb can express a future prediction."
+    },
+    {
+      "id": "q027",
+      "category": "Vocabulary",
+      "question": "Choose the correct word: Please ___ the details.",
+      "options": [
+        "confirm",
+        "crowded",
+        "repairing",
+        "hungry"
+      ],
+      "answer": 0,
+      "explanation": "Confirm means to check or establish that something is correct."
+    },
+    {
+      "id": "q040",
+      "category": "Prepositions",
+      "question": "The hospital is ___ the bank and the post office.",
+      "options": [
+        "among",
+        "between",
+        "inside",
+        "over"
+      ],
+      "answer": 1,
+      "explanation": "Between is used for a position separating two things."
+    },
+    {
+      "id": "q053",
+      "category": "Conversation",
+      "question": "A visitor asks, 'Where is reception?' You say:",
+      "options": [
+        "It is near the main entrance.",
+        "I am reception.",
+        "Yesterday at home.",
+        "No, it isn't."
+      ],
+      "answer": 0,
+      "explanation": "Give a clear location using a complete sentence."
+    },
+    {
+      "id": "q066",
+      "category": "Workplace English",
+      "question": "A professional way to ask for a file is:",
+      "options": [
+        "Give file now.",
+        "Could you please share the file?",
+        "File give me.",
+        "You must file."
+      ],
+      "answer": 1,
+      "explanation": "Could you please is a polite and professional request."
+    },
+    {
+      "id": "q079",
+      "category": "Punctuation",
+      "question": "Which is a complete sentence?",
+      "options": [
+        "Because it was raining.",
+        "After the meeting.",
+        "The team finished the work.",
+        "When I arrived."
+      ],
+      "answer": 2,
+      "explanation": "The team finished the work contains a subject and a complete predicate."
+    }
+  ]
+}

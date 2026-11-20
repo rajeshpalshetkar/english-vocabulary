@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0903",
+  "slug": "quiz-0903",
+  "title": "English Practice Quiz 0903",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Workplace English",
+  "level": "Advanced",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q057",
+      "category": "Pronunciation",
+      "question": "Which word has a silent 'k'?",
+      "options": [
+        "kite",
+        "know",
+        "keep",
+        "kind"
+      ],
+      "answer": 1,
+      "explanation": "The k in know is silent."
+    },
+    {
+      "id": "q070",
+      "category": "Workplace English",
+      "question": "To confirm an instruction, you can say:",
+      "options": [
+        "Could you please confirm the details?",
+        "I not listen.",
+        "Confirm me now.",
+        "Details no."
+      ],
+      "answer": 0,
+      "explanation": "Could you please confirm... is polite and precise."
+    },
+    {
+      "id": "q083",
+      "category": "Confusing Words",
+      "question": "Please ___ the correct answer.",
+      "options": [
+        "choose",
+        "chose",
+        "choice",
+        "chosen"
+      ],
+      "answer": 0,
+      "explanation": "Choose is the base verb used after please."
+    },
+    {
+      "id": "q096",
+      "category": "Reported Speech",
+      "question": "He said, 'I am tired.' Reported speech:",
+      "options": [
+        "He said that he was tired.",
+        "He said I am tired.",
+        "He says that I tired.",
+        "He said he is tire."
+      ],
+      "answer": 0,
+      "explanation": "In standard backshift, am changes to was after a past reporting verb."
+    },
+    {
+      "id": "q109",
+      "category": "Adverbs",
+      "question": "She arrived ___.",
+      "options": [
+        "late",
+        "lately",
+        "latest",
+        "laterly"
+      ],
+      "answer": 0,
+      "explanation": "Late is the correct adverb meaning not on time."
+    },
+    {
+      "id": "q007",
+      "category": "Grammar",
+      "question": "The keys are ___ the table.",
+      "options": [
+        "in",
+        "at",
+        "on",
+        "by"
+      ],
+      "answer": 2,
+      "explanation": "On describes something resting on a surface."
+    },
+    {
+      "id": "q020",
+      "category": "Tenses",
+      "question": "By next June, he ___ the course.",
+      "options": [
+        "completes",
+        "completed",
+        "will have completed",
+        "has complete"
+      ],
+      "answer": 2,
+      "explanation": "The future perfect describes an action completed before a future time."
+    },
+    {
+      "id": "q033",
+      "category": "Articles",
+      "question": "Please close ___ door.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": 2,
+      "explanation": "The refers to a specific door known to the speaker and listener."
+    },
+    {
+      "id": "q046",
+      "category": "Sentence Building",
+      "question": "Choose the correct word order.",
+      "options": [
+        "Always I am late.",
+        "I am always late.",
+        "I late am always.",
+        "Am always I late."
+      ],
+      "answer": 1,
+      "explanation": "Frequency adverbs such as always usually come after the verb be."
+    },
+    {
+      "id": "q059",
+      "category": "Pronunciation",
+      "question": "Which word rhymes with 'light'?",
+      "options": [
+        "late",
+        "lit",
+        "night",
+        "let"
+      ],
+      "answer": 2,
+      "explanation": "Light and night share the same ending sound."
+    }
+  ]
+}

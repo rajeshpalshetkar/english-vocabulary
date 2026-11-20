@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0359",
+  "slug": "quiz-0359",
+  "title": "English Practice Quiz 0359",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Articles",
+  "level": "Elementary",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q009",
+      "category": "Grammar",
+      "question": "Choose the correct comparative form.",
+      "options": [
+        "more tall",
+        "taller",
+        "tallest than",
+        "most tall"
+      ],
+      "answer": 1,
+      "explanation": "The comparative form of the short adjective tall is taller."
+    },
+    {
+      "id": "q046",
+      "category": "Sentence Building",
+      "question": "Choose the correct word order.",
+      "options": [
+        "Always I am late.",
+        "I am always late.",
+        "I late am always.",
+        "Am always I late."
+      ],
+      "answer": 1,
+      "explanation": "Frequency adverbs such as always usually come after the verb be."
+    },
+    {
+      "id": "q083",
+      "category": "Confusing Words",
+      "question": "Please ___ the correct answer.",
+      "options": [
+        "choose",
+        "chose",
+        "choice",
+        "chosen"
+      ],
+      "answer": 0,
+      "explanation": "Choose is the base verb used after please."
+    },
+    {
+      "id": "q005",
+      "category": "Grammar",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "She don't like tea.",
+        "She doesn't likes tea.",
+        "She doesn't like tea.",
+        "She not like tea."
+      ],
+      "answer": 2,
+      "explanation": "After doesn't, use the base form of the verb: like."
+    },
+    {
+      "id": "q042",
+      "category": "Modals",
+      "question": "You ___ smoke inside the hospital.",
+      "options": [
+        "must",
+        "mustn't",
+        "should",
+        "could"
+      ],
+      "answer": 1,
+      "explanation": "Mustn't expresses prohibition."
+    },
+    {
+      "id": "q079",
+      "category": "Punctuation",
+      "question": "Which is a complete sentence?",
+      "options": [
+        "Because it was raining.",
+        "After the meeting.",
+        "The team finished the work.",
+        "When I arrived."
+      ],
+      "answer": 2,
+      "explanation": "The team finished the work contains a subject and a complete predicate."
+    },
+    {
+      "id": "q001",
+      "category": "Grammar",
+      "question": "She ___ to work every day.",
+      "options": [
+        "go",
+        "goes",
+        "going",
+        "gone"
+      ],
+      "answer": 1,
+      "explanation": "With he, she or it in the present simple, add -s or -es to most verbs."
+    },
+    {
+      "id": "q038",
+      "category": "Prepositions",
+      "question": "We have a meeting ___ Monday.",
+      "options": [
+        "in",
+        "at",
+        "on",
+        "by"
+      ],
+      "answer": 2,
+      "explanation": "Use on with days and dates."
+    },
+    {
+      "id": "q075",
+      "category": "Questions",
+      "question": "Choose the correct question tag: 'You are ready, ___?'",
+      "options": [
+        "are you",
+        "aren't you",
+        "do you",
+        "don't you"
+      ],
+      "answer": 1,
+      "explanation": "A positive statement with are usually takes the negative tag aren't you."
+    },
+    {
+      "id": "q112",
+      "category": "Gerunds",
+      "question": "He decided ___ early.",
+      "options": [
+        "leave",
+        "leaving",
+        "to leave",
+        "leaves"
+      ],
+      "answer": 2,
+      "explanation": "Decide is commonly followed by a to-infinitive."
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0707",
+  "slug": "quiz-0707",
+  "title": "English Practice Quiz 0707",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Conversation",
+  "level": "Intermediate",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q060",
+      "category": "Pronunciation",
+      "question": "How many syllables are in 'computer'?",
+      "options": [
+        "one",
+        "two",
+        "three",
+        "four"
+      ],
+      "answer": 2,
+      "explanation": "Computer is commonly pronounced with three syllables: com-pu-ter."
+    },
+    {
+      "id": "q089",
+      "category": "Conditionals",
+      "question": "If she studies, she ___ the test.",
+      "options": [
+        "passes",
+        "passed",
+        "will pass",
+        "would passed"
+      ],
+      "answer": 2,
+      "explanation": "Use will + base verb in the main clause of the first conditional."
+    },
+    {
+      "id": "q003",
+      "category": "Grammar",
+      "question": "I ___ a new notebook yesterday.",
+      "options": [
+        "buy",
+        "buys",
+        "bought",
+        "buying"
+      ],
+      "answer": 2,
+      "explanation": "Yesterday signals the past simple. The past form of buy is bought."
+    },
+    {
+      "id": "q032",
+      "category": "Articles",
+      "question": "She is ___ university student.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": 0,
+      "explanation": "University begins with the consonant sound /y/, so use a."
+    },
+    {
+      "id": "q061",
+      "category": "Reading",
+      "question": "Read: 'Mina takes the bus at 8 a.m. and reaches work at 8:45.' How does Mina travel?",
+      "options": [
+        "By train",
+        "By bus",
+        "By car",
+        "On foot"
+      ],
+      "answer": 1,
+      "explanation": "The passage clearly says Mina takes the bus."
+    },
+    {
+      "id": "q090",
+      "category": "Conditionals",
+      "question": "If I were you, I ___ apologise.",
+      "options": [
+        "will",
+        "would",
+        "am",
+        "did"
+      ],
+      "answer": 1,
+      "explanation": "If I were you is followed by would for advice."
+    },
+    {
+      "id": "q004",
+      "category": "Grammar",
+      "question": "There ___ two chairs in the room.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "was"
+      ],
+      "answer": 1,
+      "explanation": "Use are with the plural noun chairs."
+    },
+    {
+      "id": "q033",
+      "category": "Articles",
+      "question": "Please close ___ door.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": 2,
+      "explanation": "The refers to a specific door known to the speaker and listener."
+    },
+    {
+      "id": "q062",
+      "category": "Reading",
+      "question": "Read: 'The shop closes at 9 p.m., but it opens at 10 a.m.' When does it open?",
+      "options": [
+        "9 a.m.",
+        "10 a.m.",
+        "9 p.m.",
+        "10 p.m."
+      ],
+      "answer": 1,
+      "explanation": "The opening time given is 10 a.m."
+    },
+    {
+      "id": "q091",
+      "category": "Passive Voice",
+      "question": "Choose the passive form: 'They clean the room.'",
+      "options": [
+        "The room cleaned them.",
+        "The room is cleaned by them.",
+        "The room is cleaning.",
+        "The room has clean."
+      ],
+      "answer": 1,
+      "explanation": "Present simple passive: am/is/are + past participle."
+    }
+  ]
+}

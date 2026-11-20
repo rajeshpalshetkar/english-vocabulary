@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0114",
+  "slug": "quiz-0114",
+  "title": "English Practice Quiz 0114",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Tenses",
+  "level": "Beginner",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q099",
+      "category": "Reported Speech",
+      "question": "She said, 'Please sit down.'",
+      "options": [
+        "She told me sit down.",
+        "She asked me to sit down.",
+        "She said me to sit.",
+        "She asked that I sat."
+      ],
+      "answer": 1,
+      "explanation": "A request can be reported with asked + object + to-infinitive."
+    },
+    {
+      "id": "q001",
+      "category": "Grammar",
+      "question": "She ___ to work every day.",
+      "options": [
+        "go",
+        "goes",
+        "going",
+        "gone"
+      ],
+      "answer": 1,
+      "explanation": "With he, she or it in the present simple, add -s or -es to most verbs."
+    },
+    {
+      "id": "q018",
+      "category": "Tenses",
+      "question": "I ___ him last week.",
+      "options": [
+        "see",
+        "have seen",
+        "saw",
+        "seeing"
+      ],
+      "answer": 2,
+      "explanation": "Use the past simple with a finished past time such as last week."
+    },
+    {
+      "id": "q035",
+      "category": "Articles",
+      "question": "Mount Everest is ___ highest mountain in the world.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": 2,
+      "explanation": "Use the with superlative adjectives."
+    },
+    {
+      "id": "q052",
+      "category": "Conversation",
+      "question": "You did not hear someone. You say:",
+      "options": [
+        "Speak now!",
+        "Could you repeat that, please?",
+        "What your problem?",
+        "I don't hear you yesterday."
+      ],
+      "answer": 1,
+      "explanation": "Could you repeat that, please? is a polite request."
+    },
+    {
+      "id": "q069",
+      "category": "Workplace English",
+      "question": "A polite way to disagree is:",
+      "options": [
+        "You are totally wrong.",
+        "I see your point, but I have a different view.",
+        "No, stop.",
+        "That is stupid."
+      ],
+      "answer": 1,
+      "explanation": "This phrase acknowledges the other person before presenting a different view."
+    },
+    {
+      "id": "q086",
+      "category": "Conditionals",
+      "question": "If it rains, we ___ indoors.",
+      "options": [
+        "stay",
+        "will stay",
+        "stayed",
+        "would stayed"
+      ],
+      "answer": 1,
+      "explanation": "The first conditional uses if + present simple, will + base verb."
+    },
+    {
+      "id": "q103",
+      "category": "Determiners",
+      "question": "I have ___ friends in this city.",
+      "options": [
+        "a little",
+        "a few",
+        "much",
+        "anyone"
+      ],
+      "answer": 1,
+      "explanation": "A few is used with countable plural nouns."
+    },
+    {
+      "id": "q005",
+      "category": "Grammar",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "She don't like tea.",
+        "She doesn't likes tea.",
+        "She doesn't like tea.",
+        "She not like tea."
+      ],
+      "answer": 2,
+      "explanation": "After doesn't, use the base form of the verb: like."
+    },
+    {
+      "id": "q022",
+      "category": "Vocabulary",
+      "question": "Choose the opposite of 'polite'.",
+      "options": [
+        "kind",
+        "rude",
+        "helpful",
+        "calm"
+      ],
+      "answer": 1,
+      "explanation": "Rude is the opposite of polite."
+    }
+  ]
+}

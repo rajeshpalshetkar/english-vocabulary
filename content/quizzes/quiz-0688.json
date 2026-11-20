@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0688",
+  "slug": "quiz-0688",
+  "title": "English Practice Quiz 0688",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Sentence Building",
+  "level": "Intermediate",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q082",
+      "category": "Confusing Words",
+      "question": "The weather can ___ your travel plans.",
+      "options": [
+        "affect",
+        "effect",
+        "infect",
+        "effort"
+      ],
+      "answer": 0,
+      "explanation": "Affect is usually a verb meaning to influence."
+    },
+    {
+      "id": "q113",
+      "category": "Gerunds",
+      "question": "She is good at ___.",
+      "options": [
+        "swim",
+        "to swim",
+        "swimming",
+        "swam"
+      ],
+      "answer": 2,
+      "explanation": "A preposition such as at is followed by a noun or gerund."
+    },
+    {
+      "id": "q029",
+      "category": "Vocabulary",
+      "question": "What is the meaning of 'available'?",
+      "options": [
+        "not possible to use",
+        "ready or able to be used",
+        "very expensive",
+        "already broken"
+      ],
+      "answer": 1,
+      "explanation": "Available means ready for use or accessible."
+    },
+    {
+      "id": "q060",
+      "category": "Pronunciation",
+      "question": "How many syllables are in 'computer'?",
+      "options": [
+        "one",
+        "two",
+        "three",
+        "four"
+      ],
+      "answer": 2,
+      "explanation": "Computer is commonly pronounced with three syllables: com-pu-ter."
+    },
+    {
+      "id": "q091",
+      "category": "Passive Voice",
+      "question": "Choose the passive form: 'They clean the room.'",
+      "options": [
+        "The room cleaned them.",
+        "The room is cleaned by them.",
+        "The room is cleaning.",
+        "The room has clean."
+      ],
+      "answer": 1,
+      "explanation": "Present simple passive: am/is/are + past participle."
+    },
+    {
+      "id": "q007",
+      "category": "Grammar",
+      "question": "The keys are ___ the table.",
+      "options": [
+        "in",
+        "at",
+        "on",
+        "by"
+      ],
+      "answer": 2,
+      "explanation": "On describes something resting on a surface."
+    },
+    {
+      "id": "q038",
+      "category": "Prepositions",
+      "question": "We have a meeting ___ Monday.",
+      "options": [
+        "in",
+        "at",
+        "on",
+        "by"
+      ],
+      "answer": 2,
+      "explanation": "Use on with days and dates."
+    },
+    {
+      "id": "q069",
+      "category": "Workplace English",
+      "question": "A polite way to disagree is:",
+      "options": [
+        "You are totally wrong.",
+        "I see your point, but I have a different view.",
+        "No, stop.",
+        "That is stupid."
+      ],
+      "answer": 1,
+      "explanation": "This phrase acknowledges the other person before presenting a different view."
+    },
+    {
+      "id": "q100",
+      "category": "Reported Speech",
+      "question": "They said, 'We have finished.'",
+      "options": [
+        "They said they had finished.",
+        "They said they have finish.",
+        "They told finished.",
+        "They said we finished have."
+      ],
+      "answer": 0,
+      "explanation": "Present perfect commonly shifts to past perfect in reported speech."
+    },
+    {
+      "id": "q016",
+      "category": "Tenses",
+      "question": "Water ___ at 100°C at sea level.",
+      "options": [
+        "boil",
+        "boils",
+        "is boiling",
+        "boiled"
+      ],
+      "answer": 1,
+      "explanation": "Use the present simple for general facts."
+    }
+  ]
+}

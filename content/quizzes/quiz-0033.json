@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0033",
+  "slug": "quiz-0033",
+  "title": "English Practice Quiz 0033",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Grammar",
+  "level": "Beginner",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q102",
+      "category": "Determiners",
+      "question": "How ___ apples do you need?",
+      "options": [
+        "much",
+        "many",
+        "little",
+        "any"
+      ],
+      "answer": 1,
+      "explanation": "Apples are countable plural nouns, so use many."
+    },
+    {
+      "id": "q115",
+      "category": "Gerunds",
+      "question": "I want ___ English fluently.",
+      "options": [
+        "speak",
+        "speaking",
+        "to speak",
+        "spoke"
+      ],
+      "answer": 2,
+      "explanation": "Want is followed by a to-infinitive."
+    },
+    {
+      "id": "q013",
+      "category": "Tenses",
+      "question": "At 8 p.m. yesterday, I ___ dinner.",
+      "options": [
+        "cook",
+        "cooked",
+        "was cooking",
+        "am cooking"
+      ],
+      "answer": 2,
+      "explanation": "Use the past continuous for an action in progress at a specific past time."
+    },
+    {
+      "id": "q026",
+      "category": "Vocabulary",
+      "question": "What does 'borrow' mean?",
+      "options": [
+        "give something forever",
+        "take something temporarily and return it",
+        "break something",
+        "buy something"
+      ],
+      "answer": 1,
+      "explanation": "Borrow means to take something for a period and return it."
+    },
+    {
+      "id": "q039",
+      "category": "Prepositions",
+      "question": "She is interested ___ music.",
+      "options": [
+        "on",
+        "at",
+        "in",
+        "for"
+      ],
+      "answer": 2,
+      "explanation": "The adjective interested is followed by in."
+    },
+    {
+      "id": "q052",
+      "category": "Conversation",
+      "question": "You did not hear someone. You say:",
+      "options": [
+        "Speak now!",
+        "Could you repeat that, please?",
+        "What your problem?",
+        "I don't hear you yesterday."
+      ],
+      "answer": 1,
+      "explanation": "Could you repeat that, please? is a polite request."
+    },
+    {
+      "id": "q065",
+      "category": "Reading",
+      "question": "Read: 'Please keep the floor dry to prevent accidents.' What is the instruction?",
+      "options": [
+        "Wash the floor now",
+        "Keep the floor dry",
+        "Close the office",
+        "Move the furniture"
+      ],
+      "answer": 1,
+      "explanation": "The notice instructs people to keep the floor dry."
+    },
+    {
+      "id": "q078",
+      "category": "Punctuation",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "I like tea, coffee and milk.",
+        "I like tea coffee and milk",
+        "I like, tea coffee, and milk.",
+        "i like tea, coffee and milk"
+      ],
+      "answer": 0,
+      "explanation": "Use commas to separate items in a list and capitalise the first word."
+    },
+    {
+      "id": "q091",
+      "category": "Passive Voice",
+      "question": "Choose the passive form: 'They clean the room.'",
+      "options": [
+        "The room cleaned them.",
+        "The room is cleaned by them.",
+        "The room is cleaning.",
+        "The room has clean."
+      ],
+      "answer": 1,
+      "explanation": "Present simple passive: am/is/are + past participle."
+    },
+    {
+      "id": "q104",
+      "category": "Determiners",
+      "question": "There is ___ water in the bottle.",
+      "options": [
+        "a few",
+        "many",
+        "a little",
+        "several"
+      ],
+      "answer": 2,
+      "explanation": "A little is used with uncountable nouns."
+    }
+  ]
+}

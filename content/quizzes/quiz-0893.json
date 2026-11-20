@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0893",
+  "slug": "quiz-0893",
+  "title": "English Practice Quiz 0893",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Reading",
+  "level": "Advanced",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q002",
+      "category": "Grammar",
+      "question": "They ___ ready for the meeting.",
+      "options": [
+        "is",
+        "am",
+        "are",
+        "be"
+      ],
+      "answer": 2,
+      "explanation": "Use are with the plural subject they."
+    },
+    {
+      "id": "q015",
+      "category": "Tenses",
+      "question": "She ___ the report before the manager arrived.",
+      "options": [
+        "finished",
+        "has finished",
+        "had finished",
+        "finishes"
+      ],
+      "answer": 2,
+      "explanation": "Use the past perfect for an action completed before another past action."
+    },
+    {
+      "id": "q028",
+      "category": "Vocabulary",
+      "question": "A place where medicines are dispensed is a ___.",
+      "options": [
+        "bakery",
+        "pharmacy",
+        "library",
+        "garage"
+      ],
+      "answer": 1,
+      "explanation": "A pharmacy is a place where medicines are prepared or supplied."
+    },
+    {
+      "id": "q041",
+      "category": "Modals",
+      "question": "___ I borrow your pen, please?",
+      "options": [
+        "May",
+        "Must",
+        "Should",
+        "Would have"
+      ],
+      "answer": 0,
+      "explanation": "May is a polite way to ask permission."
+    },
+    {
+      "id": "q054",
+      "category": "Conversation",
+      "question": "You need a moment to think. You say:",
+      "options": [
+        "Let me think for a moment.",
+        "I no idea ever.",
+        "Wait your mouth.",
+        "I am think."
+      ],
+      "answer": 0,
+      "explanation": "This phrase politely signals that you need a little time."
+    },
+    {
+      "id": "q067",
+      "category": "Workplace English",
+      "question": "You have completed a task. You say:",
+      "options": [
+        "The task is complete.",
+        "The task complete yesterday tomorrow.",
+        "I task finish.",
+        "Task is completing me."
+      ],
+      "answer": 0,
+      "explanation": "The task is complete is a clear status update."
+    },
+    {
+      "id": "q080",
+      "category": "Punctuation",
+      "question": "Choose the correctly written date phrase.",
+      "options": [
+        "on monday",
+        "on Monday",
+        "On monday",
+        "on Monday."
+      ],
+      "answer": 1,
+      "explanation": "Days of the week begin with a capital letter."
+    },
+    {
+      "id": "q093",
+      "category": "Passive Voice",
+      "question": "The work ___ tomorrow.",
+      "options": [
+        "will complete",
+        "will be completed",
+        "completed",
+        "is completing"
+      ],
+      "answer": 1,
+      "explanation": "Future passive uses will be + past participle."
+    },
+    {
+      "id": "q106",
+      "category": "Adjectives",
+      "question": "The test was ___ than I expected.",
+      "options": [
+        "easy",
+        "easier",
+        "easiest",
+        "more easy"
+      ],
+      "answer": 1,
+      "explanation": "Use the comparative form easier."
+    },
+    {
+      "id": "q004",
+      "category": "Grammar",
+      "question": "There ___ two chairs in the room.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "was"
+      ],
+      "answer": 1,
+      "explanation": "Use are with the plural noun chairs."
+    }
+  ]
+}

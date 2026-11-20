@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0952",
+  "slug": "quiz-0952",
+  "title": "English Practice Quiz 0952",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Workplace English",
+  "level": "Advanced",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q085",
+      "category": "Confusing Words",
+      "question": "The bus is ___ than the car today.",
+      "options": [
+        "fast",
+        "faster",
+        "fastest",
+        "more fast"
+      ],
+      "answer": 1,
+      "explanation": "Use the comparative form faster when comparing two things."
+    },
+    {
+      "id": "q096",
+      "category": "Reported Speech",
+      "question": "He said, 'I am tired.' Reported speech:",
+      "options": [
+        "He said that he was tired.",
+        "He said I am tired.",
+        "He says that I tired.",
+        "He said he is tire."
+      ],
+      "answer": 0,
+      "explanation": "In standard backshift, am changes to was after a past reporting verb."
+    },
+    {
+      "id": "q107",
+      "category": "Adjectives",
+      "question": "She is the ___ student in the class.",
+      "options": [
+        "tall",
+        "taller",
+        "tallest",
+        "more tall"
+      ],
+      "answer": 2,
+      "explanation": "Use the superlative tallest when comparing one with the whole class."
+    },
+    {
+      "id": "q003",
+      "category": "Grammar",
+      "question": "I ___ a new notebook yesterday.",
+      "options": [
+        "buy",
+        "buys",
+        "bought",
+        "buying"
+      ],
+      "answer": 2,
+      "explanation": "Yesterday signals the past simple. The past form of buy is bought."
+    },
+    {
+      "id": "q014",
+      "category": "Tenses",
+      "question": "I think it ___ tomorrow.",
+      "options": [
+        "rains",
+        "rained",
+        "will rain",
+        "raining"
+      ],
+      "answer": 2,
+      "explanation": "Will plus the base verb can express a future prediction."
+    },
+    {
+      "id": "q025",
+      "category": "Vocabulary",
+      "question": "A person you can trust is ___.",
+      "options": [
+        "reliable",
+        "careless",
+        "silent",
+        "narrow"
+      ],
+      "answer": 0,
+      "explanation": "Reliable means dependable or trustworthy."
+    },
+    {
+      "id": "q036",
+      "category": "Prepositions",
+      "question": "The meeting starts ___ 9 a.m.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "by"
+      ],
+      "answer": 2,
+      "explanation": "Use at for a specific clock time."
+    },
+    {
+      "id": "q047",
+      "category": "Sentence Building",
+      "question": "Choose the correct question.",
+      "options": [
+        "Where you live?",
+        "Where do you live?",
+        "Where does you live?",
+        "Where are live you?"
+      ],
+      "answer": 1,
+      "explanation": "Use do + subject + base verb for present simple questions with you."
+    },
+    {
+      "id": "q058",
+      "category": "Pronunciation",
+      "question": "Which word has the /ʃ/ sound as in 'ship'?",
+      "options": [
+        "sip",
+        "shop",
+        "zip",
+        "tip"
+      ],
+      "answer": 1,
+      "explanation": "Shop begins with the /ʃ/ sound."
+    },
+    {
+      "id": "q069",
+      "category": "Workplace English",
+      "question": "A polite way to disagree is:",
+      "options": [
+        "You are totally wrong.",
+        "I see your point, but I have a different view.",
+        "No, stop.",
+        "That is stupid."
+      ],
+      "answer": 1,
+      "explanation": "This phrase acknowledges the other person before presenting a different view."
+    }
+  ]
+}

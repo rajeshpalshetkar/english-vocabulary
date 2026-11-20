@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0100",
+  "slug": "quiz-0100",
+  "title": "English Practice Quiz 0100",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Grammar",
+  "level": "Beginner",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q091",
+      "category": "Passive Voice",
+      "question": "Choose the passive form: 'They clean the room.'",
+      "options": [
+        "The room cleaned them.",
+        "The room is cleaned by them.",
+        "The room is cleaning.",
+        "The room has clean."
+      ],
+      "answer": 1,
+      "explanation": "Present simple passive: am/is/are + past participle."
+    },
+    {
+      "id": "q098",
+      "category": "Reported Speech",
+      "question": "He asked, 'Where do you live?'",
+      "options": [
+        "He asked where I lived.",
+        "He asked where do I live.",
+        "He asked where did I lived.",
+        "He asked where I live do."
+      ],
+      "answer": 0,
+      "explanation": "Reported questions use statement word order; do is removed."
+    },
+    {
+      "id": "q105",
+      "category": "Determiners",
+      "question": "___ student must bring an ID card.",
+      "options": [
+        "Each",
+        "Many",
+        "Few",
+        "Several"
+      ],
+      "answer": 0,
+      "explanation": "Each refers to every individual in a group."
+    },
+    {
+      "id": "q112",
+      "category": "Gerunds",
+      "question": "He decided ___ early.",
+      "options": [
+        "leave",
+        "leaving",
+        "to leave",
+        "leaves"
+      ],
+      "answer": 2,
+      "explanation": "Decide is commonly followed by a to-infinitive."
+    },
+    {
+      "id": "q004",
+      "category": "Grammar",
+      "question": "There ___ two chairs in the room.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "was"
+      ],
+      "answer": 1,
+      "explanation": "Use are with the plural noun chairs."
+    },
+    {
+      "id": "q011",
+      "category": "Tenses",
+      "question": "Listen! The baby ___.",
+      "options": [
+        "cries",
+        "is crying",
+        "cry",
+        "cried"
+      ],
+      "answer": 1,
+      "explanation": "Listen! suggests an action happening now, so use the present continuous."
+    },
+    {
+      "id": "q018",
+      "category": "Tenses",
+      "question": "I ___ him last week.",
+      "options": [
+        "see",
+        "have seen",
+        "saw",
+        "seeing"
+      ],
+      "answer": 2,
+      "explanation": "Use the past simple with a finished past time such as last week."
+    },
+    {
+      "id": "q025",
+      "category": "Vocabulary",
+      "question": "A person you can trust is ___.",
+      "options": [
+        "reliable",
+        "careless",
+        "silent",
+        "narrow"
+      ],
+      "answer": 0,
+      "explanation": "Reliable means dependable or trustworthy."
+    },
+    {
+      "id": "q032",
+      "category": "Articles",
+      "question": "She is ___ university student.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": 0,
+      "explanation": "University begins with the consonant sound /y/, so use a."
+    },
+    {
+      "id": "q039",
+      "category": "Prepositions",
+      "question": "She is interested ___ music.",
+      "options": [
+        "on",
+        "at",
+        "in",
+        "for"
+      ],
+      "answer": 2,
+      "explanation": "The adjective interested is followed by in."
+    }
+  ]
+}

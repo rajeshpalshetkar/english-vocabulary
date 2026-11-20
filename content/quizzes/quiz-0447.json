@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0447",
+  "slug": "quiz-0447",
+  "title": "English Practice Quiz 0447",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Prepositions",
+  "level": "Elementary",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q010",
+      "category": "Grammar",
+      "question": "You ___ wear your identity card at work.",
+      "options": [
+        "should to",
+        "should",
+        "are should",
+        "shoulds"
+      ],
+      "answer": 1,
+      "explanation": "Modal verbs such as should are followed by the base verb without to."
+    },
+    {
+      "id": "q039",
+      "category": "Prepositions",
+      "question": "She is interested ___ music.",
+      "options": [
+        "on",
+        "at",
+        "in",
+        "for"
+      ],
+      "answer": 2,
+      "explanation": "The adjective interested is followed by in."
+    },
+    {
+      "id": "q068",
+      "category": "Workplace English",
+      "question": "You need to report a problem. You say:",
+      "options": [
+        "There is an issue with the printer.",
+        "Printer bad you.",
+        "I issue printer.",
+        "No printer yesterday."
+      ],
+      "answer": 0,
+      "explanation": "There is an issue with... clearly introduces a problem."
+    },
+    {
+      "id": "q097",
+      "category": "Reported Speech",
+      "question": "She said, 'I can swim.'",
+      "options": [
+        "She said she can swam.",
+        "She said that she could swim.",
+        "She said she swims can.",
+        "She told that could swim."
+      ],
+      "answer": 1,
+      "explanation": "Can commonly changes to could in reported speech after a past reporting verb."
+    },
+    {
+      "id": "q011",
+      "category": "Tenses",
+      "question": "Listen! The baby ___.",
+      "options": [
+        "cries",
+        "is crying",
+        "cry",
+        "cried"
+      ],
+      "answer": 1,
+      "explanation": "Listen! suggests an action happening now, so use the present continuous."
+    },
+    {
+      "id": "q040",
+      "category": "Prepositions",
+      "question": "The hospital is ___ the bank and the post office.",
+      "options": [
+        "among",
+        "between",
+        "inside",
+        "over"
+      ],
+      "answer": 1,
+      "explanation": "Between is used for a position separating two things."
+    },
+    {
+      "id": "q069",
+      "category": "Workplace English",
+      "question": "A polite way to disagree is:",
+      "options": [
+        "You are totally wrong.",
+        "I see your point, but I have a different view.",
+        "No, stop.",
+        "That is stupid."
+      ],
+      "answer": 1,
+      "explanation": "This phrase acknowledges the other person before presenting a different view."
+    },
+    {
+      "id": "q098",
+      "category": "Reported Speech",
+      "question": "He asked, 'Where do you live?'",
+      "options": [
+        "He asked where I lived.",
+        "He asked where do I live.",
+        "He asked where did I lived.",
+        "He asked where I live do."
+      ],
+      "answer": 0,
+      "explanation": "Reported questions use statement word order; do is removed."
+    },
+    {
+      "id": "q012",
+      "category": "Tenses",
+      "question": "We ___ here since 2022.",
+      "options": [
+        "live",
+        "lived",
+        "have lived",
+        "are live"
+      ],
+      "answer": 2,
+      "explanation": "Since gives a starting point; the present perfect connects the past to now."
+    },
+    {
+      "id": "q041",
+      "category": "Modals",
+      "question": "___ I borrow your pen, please?",
+      "options": [
+        "May",
+        "Must",
+        "Should",
+        "Would have"
+      ],
+      "answer": 0,
+      "explanation": "May is a polite way to ask permission."
+    }
+  ]
+}

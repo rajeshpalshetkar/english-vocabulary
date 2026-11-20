@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0421",
+  "slug": "quiz-0421",
+  "title": "English Practice Quiz 0421",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Prepositions",
+  "level": "Elementary",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q028",
+      "category": "Vocabulary",
+      "question": "A place where medicines are dispensed is a ___.",
+      "options": [
+        "bakery",
+        "pharmacy",
+        "library",
+        "garage"
+      ],
+      "answer": 1,
+      "explanation": "A pharmacy is a place where medicines are prepared or supplied."
+    },
+    {
+      "id": "q037",
+      "category": "Prepositions",
+      "question": "My birthday is ___ July.",
+      "options": [
+        "at",
+        "in",
+        "on",
+        "from"
+      ],
+      "answer": 1,
+      "explanation": "Use in with months."
+    },
+    {
+      "id": "q046",
+      "category": "Sentence Building",
+      "question": "Choose the correct word order.",
+      "options": [
+        "Always I am late.",
+        "I am always late.",
+        "I late am always.",
+        "Am always I late."
+      ],
+      "answer": 1,
+      "explanation": "Frequency adverbs such as always usually come after the verb be."
+    },
+    {
+      "id": "q055",
+      "category": "Conversation",
+      "question": "A colleague asks for help. A polite reply is:",
+      "options": [
+        "Certainly. What do you need?",
+        "Never ask me.",
+        "You do yourself.",
+        "No speaking."
+      ],
+      "answer": 0,
+      "explanation": "Certainly. What do you need? is helpful and polite."
+    },
+    {
+      "id": "q064",
+      "category": "Reading",
+      "question": "Read: 'The meeting was cancelled because the manager was ill.' Why was it cancelled?",
+      "options": [
+        "The room was full",
+        "The manager was ill",
+        "It was Sunday",
+        "The staff were late"
+      ],
+      "answer": 1,
+      "explanation": "The reason is explicitly stated: the manager was ill."
+    },
+    {
+      "id": "q073",
+      "category": "Questions",
+      "question": "Choose the correct question.",
+      "options": [
+        "Does she work here?",
+        "Do she work here?",
+        "Is she works here?",
+        "Does she works here?"
+      ],
+      "answer": 0,
+      "explanation": "Use does + subject + base verb with he, she or it."
+    },
+    {
+      "id": "q082",
+      "category": "Confusing Words",
+      "question": "The weather can ___ your travel plans.",
+      "options": [
+        "affect",
+        "effect",
+        "infect",
+        "effort"
+      ],
+      "answer": 0,
+      "explanation": "Affect is usually a verb meaning to influence."
+    },
+    {
+      "id": "q091",
+      "category": "Passive Voice",
+      "question": "Choose the passive form: 'They clean the room.'",
+      "options": [
+        "The room cleaned them.",
+        "The room is cleaned by them.",
+        "The room is cleaning.",
+        "The room has clean."
+      ],
+      "answer": 1,
+      "explanation": "Present simple passive: am/is/are + past participle."
+    },
+    {
+      "id": "q100",
+      "category": "Reported Speech",
+      "question": "They said, 'We have finished.'",
+      "options": [
+        "They said they had finished.",
+        "They said they have finish.",
+        "They told finished.",
+        "They said we finished have."
+      ],
+      "answer": 0,
+      "explanation": "Present perfect commonly shifts to past perfect in reported speech."
+    },
+    {
+      "id": "q109",
+      "category": "Adverbs",
+      "question": "She arrived ___.",
+      "options": [
+        "late",
+        "lately",
+        "latest",
+        "laterly"
+      ],
+      "answer": 0,
+      "explanation": "Late is the correct adverb meaning not on time."
+    }
+  ]
+}

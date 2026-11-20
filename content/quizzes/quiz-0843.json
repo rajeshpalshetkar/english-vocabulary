@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0843",
+  "slug": "quiz-0843",
+  "title": "English Practice Quiz 0843",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Reading",
+  "level": "Intermediate",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q072",
+      "category": "Questions",
+      "question": "Which question asks about time?",
+      "options": [
+        "Who is calling?",
+        "When does the train leave?",
+        "Where is the station?",
+        "Why are you here?"
+      ],
+      "answer": 1,
+      "explanation": "When asks about time."
+    },
+    {
+      "id": "q085",
+      "category": "Confusing Words",
+      "question": "The bus is ___ than the car today.",
+      "options": [
+        "fast",
+        "faster",
+        "fastest",
+        "more fast"
+      ],
+      "answer": 1,
+      "explanation": "Use the comparative form faster when comparing two things."
+    },
+    {
+      "id": "q098",
+      "category": "Reported Speech",
+      "question": "He asked, 'Where do you live?'",
+      "options": [
+        "He asked where I lived.",
+        "He asked where do I live.",
+        "He asked where did I lived.",
+        "He asked where I live do."
+      ],
+      "answer": 0,
+      "explanation": "Reported questions use statement word order; do is removed."
+    },
+    {
+      "id": "q111",
+      "category": "Gerunds",
+      "question": "I enjoy ___ books.",
+      "options": [
+        "read",
+        "to read",
+        "reading",
+        "reads"
+      ],
+      "answer": 2,
+      "explanation": "Enjoy is followed by a gerund (-ing form)."
+    },
+    {
+      "id": "q009",
+      "category": "Grammar",
+      "question": "Choose the correct comparative form.",
+      "options": [
+        "more tall",
+        "taller",
+        "tallest than",
+        "most tall"
+      ],
+      "answer": 1,
+      "explanation": "The comparative form of the short adjective tall is taller."
+    },
+    {
+      "id": "q022",
+      "category": "Vocabulary",
+      "question": "Choose the opposite of 'polite'.",
+      "options": [
+        "kind",
+        "rude",
+        "helpful",
+        "calm"
+      ],
+      "answer": 1,
+      "explanation": "Rude is the opposite of polite."
+    },
+    {
+      "id": "q035",
+      "category": "Articles",
+      "question": "Mount Everest is ___ highest mountain in the world.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": 2,
+      "explanation": "Use the with superlative adjectives."
+    },
+    {
+      "id": "q048",
+      "category": "Sentence Building",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "Because I was tired, I went to bed early.",
+        "Because I tired, went bed early.",
+        "I because was tired bed early.",
+        "Because tired I went early bed."
+      ],
+      "answer": 0,
+      "explanation": "The subordinate clause beginning with because explains the reason."
+    },
+    {
+      "id": "q061",
+      "category": "Reading",
+      "question": "Read: 'Mina takes the bus at 8 a.m. and reaches work at 8:45.' How does Mina travel?",
+      "options": [
+        "By train",
+        "By bus",
+        "By car",
+        "On foot"
+      ],
+      "answer": 1,
+      "explanation": "The passage clearly says Mina takes the bus."
+    },
+    {
+      "id": "q074",
+      "category": "Questions",
+      "question": "Which question asks for a reason?",
+      "options": [
+        "What happened?",
+        "Where are you?",
+        "Why are you late?",
+        "When is lunch?"
+      ],
+      "answer": 2,
+      "explanation": "Why asks for a reason."
+    }
+  ]
+}

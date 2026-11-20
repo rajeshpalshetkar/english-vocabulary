@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0738",
+  "slug": "quiz-0738",
+  "title": "English Practice Quiz 0738",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Conversation",
+  "level": "Intermediate",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q012",
+      "category": "Tenses",
+      "question": "We ___ here since 2022.",
+      "options": [
+        "live",
+        "lived",
+        "have lived",
+        "are live"
+      ],
+      "answer": 2,
+      "explanation": "Since gives a starting point; the present perfect connects the past to now."
+    },
+    {
+      "id": "q043",
+      "category": "Modals",
+      "question": "When I was five, I ___ swim.",
+      "options": [
+        "can",
+        "could",
+        "may",
+        "must"
+      ],
+      "answer": 1,
+      "explanation": "Could expresses past ability."
+    },
+    {
+      "id": "q074",
+      "category": "Questions",
+      "question": "Which question asks for a reason?",
+      "options": [
+        "What happened?",
+        "Where are you?",
+        "Why are you late?",
+        "When is lunch?"
+      ],
+      "answer": 2,
+      "explanation": "Why asks for a reason."
+    },
+    {
+      "id": "q105",
+      "category": "Determiners",
+      "question": "___ student must bring an ID card.",
+      "options": [
+        "Each",
+        "Many",
+        "Few",
+        "Several"
+      ],
+      "answer": 0,
+      "explanation": "Each refers to every individual in a group."
+    },
+    {
+      "id": "q021",
+      "category": "Vocabulary",
+      "question": "A person who repairs water pipes is a ___.",
+      "options": [
+        "carpenter",
+        "plumber",
+        "tailor",
+        "baker"
+      ],
+      "answer": 1,
+      "explanation": "A plumber installs and repairs water pipes and fittings."
+    },
+    {
+      "id": "q052",
+      "category": "Conversation",
+      "question": "You did not hear someone. You say:",
+      "options": [
+        "Speak now!",
+        "Could you repeat that, please?",
+        "What your problem?",
+        "I don't hear you yesterday."
+      ],
+      "answer": 1,
+      "explanation": "Could you repeat that, please? is a polite request."
+    },
+    {
+      "id": "q083",
+      "category": "Confusing Words",
+      "question": "Please ___ the correct answer.",
+      "options": [
+        "choose",
+        "chose",
+        "choice",
+        "chosen"
+      ],
+      "answer": 0,
+      "explanation": "Choose is the base verb used after please."
+    },
+    {
+      "id": "q114",
+      "category": "Gerunds",
+      "question": "They finished ___ the room.",
+      "options": [
+        "clean",
+        "to clean",
+        "cleaning",
+        "cleaned"
+      ],
+      "answer": 2,
+      "explanation": "Finish is followed by a gerund."
+    },
+    {
+      "id": "q030",
+      "category": "Vocabulary",
+      "question": "Choose the best word: The road is very ___. There are many cars.",
+      "options": [
+        "crowded",
+        "empty",
+        "quietly",
+        "soft"
+      ],
+      "answer": 0,
+      "explanation": "Crowded means filled with many people or things; it can describe busy roads."
+    },
+    {
+      "id": "q061",
+      "category": "Reading",
+      "question": "Read: 'Mina takes the bus at 8 a.m. and reaches work at 8:45.' How does Mina travel?",
+      "options": [
+        "By train",
+        "By bus",
+        "By car",
+        "On foot"
+      ],
+      "answer": 1,
+      "explanation": "The passage clearly says Mina takes the bus."
+    }
+  ]
+}

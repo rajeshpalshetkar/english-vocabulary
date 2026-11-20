@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0215",
+  "slug": "quiz-0215",
+  "title": "English Practice Quiz 0215",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Vocabulary",
+  "level": "Beginner",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q091",
+      "category": "Passive Voice",
+      "question": "Choose the passive form: 'They clean the room.'",
+      "options": [
+        "The room cleaned them.",
+        "The room is cleaned by them.",
+        "The room is cleaning.",
+        "The room has clean."
+      ],
+      "answer": 1,
+      "explanation": "Present simple passive: am/is/are + past participle."
+    },
+    {
+      "id": "q110",
+      "category": "Adverbs",
+      "question": "Please drive ___.",
+      "options": [
+        "careful",
+        "carefully",
+        "care",
+        "caring"
+      ],
+      "answer": 1,
+      "explanation": "Carefully is the adverb modifying drive."
+    },
+    {
+      "id": "q014",
+      "category": "Tenses",
+      "question": "I think it ___ tomorrow.",
+      "options": [
+        "rains",
+        "rained",
+        "will rain",
+        "raining"
+      ],
+      "answer": 2,
+      "explanation": "Will plus the base verb can express a future prediction."
+    },
+    {
+      "id": "q033",
+      "category": "Articles",
+      "question": "Please close ___ door.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": 2,
+      "explanation": "The refers to a specific door known to the speaker and listener."
+    },
+    {
+      "id": "q052",
+      "category": "Conversation",
+      "question": "You did not hear someone. You say:",
+      "options": [
+        "Speak now!",
+        "Could you repeat that, please?",
+        "What your problem?",
+        "I don't hear you yesterday."
+      ],
+      "answer": 1,
+      "explanation": "Could you repeat that, please? is a polite request."
+    },
+    {
+      "id": "q071",
+      "category": "Questions",
+      "question": "Choose the correct WH question for a place.",
+      "options": [
+        "When do you live?",
+        "Where do you live?",
+        "Who do you live?",
+        "Why do you live?"
+      ],
+      "answer": 1,
+      "explanation": "Where asks about a place or location."
+    },
+    {
+      "id": "q090",
+      "category": "Conditionals",
+      "question": "If I were you, I ___ apologise.",
+      "options": [
+        "will",
+        "would",
+        "am",
+        "did"
+      ],
+      "answer": 1,
+      "explanation": "If I were you is followed by would for advice."
+    },
+    {
+      "id": "q109",
+      "category": "Adverbs",
+      "question": "She arrived ___.",
+      "options": [
+        "late",
+        "lately",
+        "latest",
+        "laterly"
+      ],
+      "answer": 0,
+      "explanation": "Late is the correct adverb meaning not on time."
+    },
+    {
+      "id": "q013",
+      "category": "Tenses",
+      "question": "At 8 p.m. yesterday, I ___ dinner.",
+      "options": [
+        "cook",
+        "cooked",
+        "was cooking",
+        "am cooking"
+      ],
+      "answer": 2,
+      "explanation": "Use the past continuous for an action in progress at a specific past time."
+    },
+    {
+      "id": "q032",
+      "category": "Articles",
+      "question": "She is ___ university student.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": 0,
+      "explanation": "University begins with the consonant sound /y/, so use a."
+    }
+  ]
+}

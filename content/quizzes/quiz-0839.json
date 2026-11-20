@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0839",
+  "slug": "quiz-0839",
+  "title": "English Practice Quiz 0839",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Reading",
+  "level": "Intermediate",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q004",
+      "category": "Grammar",
+      "question": "There ___ two chairs in the room.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "was"
+      ],
+      "answer": 1,
+      "explanation": "Use are with the plural noun chairs."
+    },
+    {
+      "id": "q041",
+      "category": "Modals",
+      "question": "___ I borrow your pen, please?",
+      "options": [
+        "May",
+        "Must",
+        "Should",
+        "Would have"
+      ],
+      "answer": 0,
+      "explanation": "May is a polite way to ask permission."
+    },
+    {
+      "id": "q078",
+      "category": "Punctuation",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "I like tea, coffee and milk.",
+        "I like tea coffee and milk",
+        "I like, tea coffee, and milk.",
+        "i like tea, coffee and milk"
+      ],
+      "answer": 0,
+      "explanation": "Use commas to separate items in a list and capitalise the first word."
+    },
+    {
+      "id": "q115",
+      "category": "Gerunds",
+      "question": "I want ___ English fluently.",
+      "options": [
+        "speak",
+        "speaking",
+        "to speak",
+        "spoke"
+      ],
+      "answer": 2,
+      "explanation": "Want is followed by a to-infinitive."
+    },
+    {
+      "id": "q037",
+      "category": "Prepositions",
+      "question": "My birthday is ___ July.",
+      "options": [
+        "at",
+        "in",
+        "on",
+        "from"
+      ],
+      "answer": 1,
+      "explanation": "Use in with months."
+    },
+    {
+      "id": "q074",
+      "category": "Questions",
+      "question": "Which question asks for a reason?",
+      "options": [
+        "What happened?",
+        "Where are you?",
+        "Why are you late?",
+        "When is lunch?"
+      ],
+      "answer": 2,
+      "explanation": "Why asks for a reason."
+    },
+    {
+      "id": "q111",
+      "category": "Gerunds",
+      "question": "I enjoy ___ books.",
+      "options": [
+        "read",
+        "to read",
+        "reading",
+        "reads"
+      ],
+      "answer": 2,
+      "explanation": "Enjoy is followed by a gerund (-ing form)."
+    },
+    {
+      "id": "q033",
+      "category": "Articles",
+      "question": "Please close ___ door.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": 2,
+      "explanation": "The refers to a specific door known to the speaker and listener."
+    },
+    {
+      "id": "q070",
+      "category": "Workplace English",
+      "question": "To confirm an instruction, you can say:",
+      "options": [
+        "Could you please confirm the details?",
+        "I not listen.",
+        "Confirm me now.",
+        "Details no."
+      ],
+      "answer": 0,
+      "explanation": "Could you please confirm... is polite and precise."
+    },
+    {
+      "id": "q107",
+      "category": "Adjectives",
+      "question": "She is the ___ student in the class.",
+      "options": [
+        "tall",
+        "taller",
+        "tallest",
+        "more tall"
+      ],
+      "answer": 2,
+      "explanation": "Use the superlative tallest when comparing one with the whole class."
+    }
+  ]
+}

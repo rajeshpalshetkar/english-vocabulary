@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0528",
+  "slug": "quiz-0528",
+  "title": "English Practice Quiz 0528",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Modals",
+  "level": "Elementary",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q007",
+      "category": "Grammar",
+      "question": "The keys are ___ the table.",
+      "options": [
+        "in",
+        "at",
+        "on",
+        "by"
+      ],
+      "answer": 2,
+      "explanation": "On describes something resting on a surface."
+    },
+    {
+      "id": "q038",
+      "category": "Prepositions",
+      "question": "We have a meeting ___ Monday.",
+      "options": [
+        "in",
+        "at",
+        "on",
+        "by"
+      ],
+      "answer": 2,
+      "explanation": "Use on with days and dates."
+    },
+    {
+      "id": "q069",
+      "category": "Workplace English",
+      "question": "A polite way to disagree is:",
+      "options": [
+        "You are totally wrong.",
+        "I see your point, but I have a different view.",
+        "No, stop.",
+        "That is stupid."
+      ],
+      "answer": 1,
+      "explanation": "This phrase acknowledges the other person before presenting a different view."
+    },
+    {
+      "id": "q100",
+      "category": "Reported Speech",
+      "question": "They said, 'We have finished.'",
+      "options": [
+        "They said they had finished.",
+        "They said they have finish.",
+        "They told finished.",
+        "They said we finished have."
+      ],
+      "answer": 0,
+      "explanation": "Present perfect commonly shifts to past perfect in reported speech."
+    },
+    {
+      "id": "q016",
+      "category": "Tenses",
+      "question": "Water ___ at 100°C at sea level.",
+      "options": [
+        "boil",
+        "boils",
+        "is boiling",
+        "boiled"
+      ],
+      "answer": 1,
+      "explanation": "Use the present simple for general facts."
+    },
+    {
+      "id": "q047",
+      "category": "Sentence Building",
+      "question": "Choose the correct question.",
+      "options": [
+        "Where you live?",
+        "Where do you live?",
+        "Where does you live?",
+        "Where are live you?"
+      ],
+      "answer": 1,
+      "explanation": "Use do + subject + base verb for present simple questions with you."
+    },
+    {
+      "id": "q078",
+      "category": "Punctuation",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "I like tea, coffee and milk.",
+        "I like tea coffee and milk",
+        "I like, tea coffee, and milk.",
+        "i like tea, coffee and milk"
+      ],
+      "answer": 0,
+      "explanation": "Use commas to separate items in a list and capitalise the first word."
+    },
+    {
+      "id": "q109",
+      "category": "Adverbs",
+      "question": "She arrived ___.",
+      "options": [
+        "late",
+        "lately",
+        "latest",
+        "laterly"
+      ],
+      "answer": 0,
+      "explanation": "Late is the correct adverb meaning not on time."
+    },
+    {
+      "id": "q025",
+      "category": "Vocabulary",
+      "question": "A person you can trust is ___.",
+      "options": [
+        "reliable",
+        "careless",
+        "silent",
+        "narrow"
+      ],
+      "answer": 0,
+      "explanation": "Reliable means dependable or trustworthy."
+    },
+    {
+      "id": "q056",
+      "category": "Pronunciation",
+      "question": "Which word has a different beginning sound?",
+      "options": [
+        "think",
+        "three",
+        "this",
+        "thank"
+      ],
+      "answer": 2,
+      "explanation": "This begins with the voiced /ð/ sound; the others begin with the unvoiced /θ/ sound."
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0836",
+  "slug": "quiz-0836",
+  "title": "English Practice Quiz 0836",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Reading",
+  "level": "Intermediate",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q068",
+      "category": "Workplace English",
+      "question": "You need to report a problem. You say:",
+      "options": [
+        "There is an issue with the printer.",
+        "Printer bad you.",
+        "I issue printer.",
+        "No printer yesterday."
+      ],
+      "answer": 0,
+      "explanation": "There is an issue with... clearly introduces a problem."
+    },
+    {
+      "id": "q091",
+      "category": "Passive Voice",
+      "question": "Choose the passive form: 'They clean the room.'",
+      "options": [
+        "The room cleaned them.",
+        "The room is cleaned by them.",
+        "The room is cleaning.",
+        "The room has clean."
+      ],
+      "answer": 1,
+      "explanation": "Present simple passive: am/is/are + past participle."
+    },
+    {
+      "id": "q114",
+      "category": "Gerunds",
+      "question": "They finished ___ the room.",
+      "options": [
+        "clean",
+        "to clean",
+        "cleaning",
+        "cleaned"
+      ],
+      "answer": 2,
+      "explanation": "Finish is followed by a gerund."
+    },
+    {
+      "id": "q022",
+      "category": "Vocabulary",
+      "question": "Choose the opposite of 'polite'.",
+      "options": [
+        "kind",
+        "rude",
+        "helpful",
+        "calm"
+      ],
+      "answer": 1,
+      "explanation": "Rude is the opposite of polite."
+    },
+    {
+      "id": "q045",
+      "category": "Modals",
+      "question": "It ___ rain later; take an umbrella.",
+      "options": [
+        "might",
+        "mustn't",
+        "shouldn't",
+        "has"
+      ],
+      "answer": 0,
+      "explanation": "Might expresses possibility."
+    },
+    {
+      "id": "q068",
+      "category": "Workplace English",
+      "question": "You need to report a problem. You say:",
+      "options": [
+        "There is an issue with the printer.",
+        "Printer bad you.",
+        "I issue printer.",
+        "No printer yesterday."
+      ],
+      "answer": 0,
+      "explanation": "There is an issue with... clearly introduces a problem."
+    },
+    {
+      "id": "q091",
+      "category": "Passive Voice",
+      "question": "Choose the passive form: 'They clean the room.'",
+      "options": [
+        "The room cleaned them.",
+        "The room is cleaned by them.",
+        "The room is cleaning.",
+        "The room has clean."
+      ],
+      "answer": 1,
+      "explanation": "Present simple passive: am/is/are + past participle."
+    },
+    {
+      "id": "q114",
+      "category": "Gerunds",
+      "question": "They finished ___ the room.",
+      "options": [
+        "clean",
+        "to clean",
+        "cleaning",
+        "cleaned"
+      ],
+      "answer": 2,
+      "explanation": "Finish is followed by a gerund."
+    },
+    {
+      "id": "q022",
+      "category": "Vocabulary",
+      "question": "Choose the opposite of 'polite'.",
+      "options": [
+        "kind",
+        "rude",
+        "helpful",
+        "calm"
+      ],
+      "answer": 1,
+      "explanation": "Rude is the opposite of polite."
+    },
+    {
+      "id": "q045",
+      "category": "Modals",
+      "question": "It ___ rain later; take an umbrella.",
+      "options": [
+        "might",
+        "mustn't",
+        "shouldn't",
+        "has"
+      ],
+      "answer": 0,
+      "explanation": "Might expresses possibility."
+    }
+  ]
+}

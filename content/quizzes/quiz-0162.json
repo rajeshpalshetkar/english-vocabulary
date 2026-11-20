@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0162",
+  "slug": "quiz-0162",
+  "title": "English Practice Quiz 0162",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Tenses",
+  "level": "Beginner",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q110",
+      "category": "Adverbs",
+      "question": "Please drive ___.",
+      "options": [
+        "careful",
+        "carefully",
+        "care",
+        "caring"
+      ],
+      "answer": 1,
+      "explanation": "Carefully is the adverb modifying drive."
+    },
+    {
+      "id": "q006",
+      "category": "Grammar",
+      "question": "He is ___ honest man.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": 1,
+      "explanation": "Use an before a vowel sound. Honest begins with a silent h."
+    },
+    {
+      "id": "q017",
+      "category": "Tenses",
+      "question": "They ___ football every Sunday.",
+      "options": [
+        "plays",
+        "are play",
+        "play",
+        "playing"
+      ],
+      "answer": 2,
+      "explanation": "Use the base verb with the plural subject they in the present simple."
+    },
+    {
+      "id": "q028",
+      "category": "Vocabulary",
+      "question": "A place where medicines are dispensed is a ___.",
+      "options": [
+        "bakery",
+        "pharmacy",
+        "library",
+        "garage"
+      ],
+      "answer": 1,
+      "explanation": "A pharmacy is a place where medicines are prepared or supplied."
+    },
+    {
+      "id": "q039",
+      "category": "Prepositions",
+      "question": "She is interested ___ music.",
+      "options": [
+        "on",
+        "at",
+        "in",
+        "for"
+      ],
+      "answer": 2,
+      "explanation": "The adjective interested is followed by in."
+    },
+    {
+      "id": "q050",
+      "category": "Sentence Building",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "There is many books.",
+        "There are many books.",
+        "There be many books.",
+        "There am many books."
+      ],
+      "answer": 1,
+      "explanation": "Use there are with plural nouns."
+    },
+    {
+      "id": "q061",
+      "category": "Reading",
+      "question": "Read: 'Mina takes the bus at 8 a.m. and reaches work at 8:45.' How does Mina travel?",
+      "options": [
+        "By train",
+        "By bus",
+        "By car",
+        "On foot"
+      ],
+      "answer": 1,
+      "explanation": "The passage clearly says Mina takes the bus."
+    },
+    {
+      "id": "q072",
+      "category": "Questions",
+      "question": "Which question asks about time?",
+      "options": [
+        "Who is calling?",
+        "When does the train leave?",
+        "Where is the station?",
+        "Why are you here?"
+      ],
+      "answer": 1,
+      "explanation": "When asks about time."
+    },
+    {
+      "id": "q083",
+      "category": "Confusing Words",
+      "question": "Please ___ the correct answer.",
+      "options": [
+        "choose",
+        "chose",
+        "choice",
+        "chosen"
+      ],
+      "answer": 0,
+      "explanation": "Choose is the base verb used after please."
+    },
+    {
+      "id": "q094",
+      "category": "Passive Voice",
+      "question": "English ___ in many countries.",
+      "options": [
+        "speaks",
+        "is spoken",
+        "spoken",
+        "is speaking"
+      ],
+      "answer": 1,
+      "explanation": "Present simple passive: is spoken."
+    }
+  ]
+}

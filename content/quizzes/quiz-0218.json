@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0218",
+  "slug": "quiz-0218",
+  "title": "English Practice Quiz 0218",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Vocabulary",
+  "level": "Beginner",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q027",
+      "category": "Vocabulary",
+      "question": "Choose the correct word: Please ___ the details.",
+      "options": [
+        "confirm",
+        "crowded",
+        "repairing",
+        "hungry"
+      ],
+      "answer": 0,
+      "explanation": "Confirm means to check or establish that something is correct."
+    },
+    {
+      "id": "q058",
+      "category": "Pronunciation",
+      "question": "Which word has the /ʃ/ sound as in 'ship'?",
+      "options": [
+        "sip",
+        "shop",
+        "zip",
+        "tip"
+      ],
+      "answer": 1,
+      "explanation": "Shop begins with the /ʃ/ sound."
+    },
+    {
+      "id": "q089",
+      "category": "Conditionals",
+      "question": "If she studies, she ___ the test.",
+      "options": [
+        "passes",
+        "passed",
+        "will pass",
+        "would passed"
+      ],
+      "answer": 2,
+      "explanation": "Use will + base verb in the main clause of the first conditional."
+    },
+    {
+      "id": "q005",
+      "category": "Grammar",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "She don't like tea.",
+        "She doesn't likes tea.",
+        "She doesn't like tea.",
+        "She not like tea."
+      ],
+      "answer": 2,
+      "explanation": "After doesn't, use the base form of the verb: like."
+    },
+    {
+      "id": "q036",
+      "category": "Prepositions",
+      "question": "The meeting starts ___ 9 a.m.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "by"
+      ],
+      "answer": 2,
+      "explanation": "Use at for a specific clock time."
+    },
+    {
+      "id": "q067",
+      "category": "Workplace English",
+      "question": "You have completed a task. You say:",
+      "options": [
+        "The task is complete.",
+        "The task complete yesterday tomorrow.",
+        "I task finish.",
+        "Task is completing me."
+      ],
+      "answer": 0,
+      "explanation": "The task is complete is a clear status update."
+    },
+    {
+      "id": "q098",
+      "category": "Reported Speech",
+      "question": "He asked, 'Where do you live?'",
+      "options": [
+        "He asked where I lived.",
+        "He asked where do I live.",
+        "He asked where did I lived.",
+        "He asked where I live do."
+      ],
+      "answer": 0,
+      "explanation": "Reported questions use statement word order; do is removed."
+    },
+    {
+      "id": "q014",
+      "category": "Tenses",
+      "question": "I think it ___ tomorrow.",
+      "options": [
+        "rains",
+        "rained",
+        "will rain",
+        "raining"
+      ],
+      "answer": 2,
+      "explanation": "Will plus the base verb can express a future prediction."
+    },
+    {
+      "id": "q045",
+      "category": "Modals",
+      "question": "It ___ rain later; take an umbrella.",
+      "options": [
+        "might",
+        "mustn't",
+        "shouldn't",
+        "has"
+      ],
+      "answer": 0,
+      "explanation": "Might expresses possibility."
+    },
+    {
+      "id": "q076",
+      "category": "Punctuation",
+      "question": "Choose the correctly punctuated sentence.",
+      "options": [
+        "where are you.",
+        "Where are you?",
+        "Where are you,",
+        "where are you!"
+      ],
+      "answer": 1,
+      "explanation": "Start with a capital letter and use a question mark."
+    }
+  ]
+}

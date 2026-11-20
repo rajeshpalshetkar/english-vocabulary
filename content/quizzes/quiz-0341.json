@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0341",
+  "slug": "quiz-0341",
+  "title": "English Practice Quiz 0341",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Articles",
+  "level": "Elementary",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q048",
+      "category": "Sentence Building",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "Because I was tired, I went to bed early.",
+        "Because I tired, went bed early.",
+        "I because was tired bed early.",
+        "Because tired I went early bed."
+      ],
+      "answer": 0,
+      "explanation": "The subordinate clause beginning with because explains the reason."
+    },
+    {
+      "id": "q057",
+      "category": "Pronunciation",
+      "question": "Which word has a silent 'k'?",
+      "options": [
+        "kite",
+        "know",
+        "keep",
+        "kind"
+      ],
+      "answer": 1,
+      "explanation": "The k in know is silent."
+    },
+    {
+      "id": "q066",
+      "category": "Workplace English",
+      "question": "A professional way to ask for a file is:",
+      "options": [
+        "Give file now.",
+        "Could you please share the file?",
+        "File give me.",
+        "You must file."
+      ],
+      "answer": 1,
+      "explanation": "Could you please is a polite and professional request."
+    },
+    {
+      "id": "q075",
+      "category": "Questions",
+      "question": "Choose the correct question tag: 'You are ready, ___?'",
+      "options": [
+        "are you",
+        "aren't you",
+        "do you",
+        "don't you"
+      ],
+      "answer": 1,
+      "explanation": "A positive statement with are usually takes the negative tag aren't you."
+    },
+    {
+      "id": "q084",
+      "category": "Confusing Words",
+      "question": "I have ___ my keys.",
+      "options": [
+        "loose",
+        "lose",
+        "lost",
+        "loss"
+      ],
+      "answer": 2,
+      "explanation": "Lost is the past participle of lose."
+    },
+    {
+      "id": "q093",
+      "category": "Passive Voice",
+      "question": "The work ___ tomorrow.",
+      "options": [
+        "will complete",
+        "will be completed",
+        "completed",
+        "is completing"
+      ],
+      "answer": 1,
+      "explanation": "Future passive uses will be + past participle."
+    },
+    {
+      "id": "q102",
+      "category": "Determiners",
+      "question": "How ___ apples do you need?",
+      "options": [
+        "much",
+        "many",
+        "little",
+        "any"
+      ],
+      "answer": 1,
+      "explanation": "Apples are countable plural nouns, so use many."
+    },
+    {
+      "id": "q111",
+      "category": "Gerunds",
+      "question": "I enjoy ___ books.",
+      "options": [
+        "read",
+        "to read",
+        "reading",
+        "reads"
+      ],
+      "answer": 2,
+      "explanation": "Enjoy is followed by a gerund (-ing form)."
+    },
+    {
+      "id": "q005",
+      "category": "Grammar",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "She don't like tea.",
+        "She doesn't likes tea.",
+        "She doesn't like tea.",
+        "She not like tea."
+      ],
+      "answer": 2,
+      "explanation": "After doesn't, use the base form of the verb: like."
+    },
+    {
+      "id": "q014",
+      "category": "Tenses",
+      "question": "I think it ___ tomorrow.",
+      "options": [
+        "rains",
+        "rained",
+        "will rain",
+        "raining"
+      ],
+      "answer": 2,
+      "explanation": "Will plus the base verb can express a future prediction."
+    }
+  ]
+}

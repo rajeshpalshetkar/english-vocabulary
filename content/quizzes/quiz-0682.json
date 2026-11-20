@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0682",
+  "slug": "quiz-0682",
+  "title": "English Practice Quiz 0682",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Sentence Building",
+  "level": "Intermediate",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q095",
+      "category": "Passive Voice",
+      "question": "The windows ___ every week.",
+      "options": [
+        "are cleaned",
+        "clean",
+        "is cleaned",
+        "cleaning"
+      ],
+      "answer": 0,
+      "explanation": "Plural subject windows takes are + past participle."
+    },
+    {
+      "id": "q106",
+      "category": "Adjectives",
+      "question": "The test was ___ than I expected.",
+      "options": [
+        "easy",
+        "easier",
+        "easiest",
+        "more easy"
+      ],
+      "answer": 1,
+      "explanation": "Use the comparative form easier."
+    },
+    {
+      "id": "q002",
+      "category": "Grammar",
+      "question": "They ___ ready for the meeting.",
+      "options": [
+        "is",
+        "am",
+        "are",
+        "be"
+      ],
+      "answer": 2,
+      "explanation": "Use are with the plural subject they."
+    },
+    {
+      "id": "q013",
+      "category": "Tenses",
+      "question": "At 8 p.m. yesterday, I ___ dinner.",
+      "options": [
+        "cook",
+        "cooked",
+        "was cooking",
+        "am cooking"
+      ],
+      "answer": 2,
+      "explanation": "Use the past continuous for an action in progress at a specific past time."
+    },
+    {
+      "id": "q024",
+      "category": "Vocabulary",
+      "question": "If a task is 'urgent', it needs ___.",
+      "options": [
+        "no attention",
+        "quick attention",
+        "a holiday",
+        "a receipt"
+      ],
+      "answer": 1,
+      "explanation": "Urgent means requiring immediate or prompt attention."
+    },
+    {
+      "id": "q035",
+      "category": "Articles",
+      "question": "Mount Everest is ___ highest mountain in the world.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": 2,
+      "explanation": "Use the with superlative adjectives."
+    },
+    {
+      "id": "q046",
+      "category": "Sentence Building",
+      "question": "Choose the correct word order.",
+      "options": [
+        "Always I am late.",
+        "I am always late.",
+        "I late am always.",
+        "Am always I late."
+      ],
+      "answer": 1,
+      "explanation": "Frequency adverbs such as always usually come after the verb be."
+    },
+    {
+      "id": "q057",
+      "category": "Pronunciation",
+      "question": "Which word has a silent 'k'?",
+      "options": [
+        "kite",
+        "know",
+        "keep",
+        "kind"
+      ],
+      "answer": 1,
+      "explanation": "The k in know is silent."
+    },
+    {
+      "id": "q068",
+      "category": "Workplace English",
+      "question": "You need to report a problem. You say:",
+      "options": [
+        "There is an issue with the printer.",
+        "Printer bad you.",
+        "I issue printer.",
+        "No printer yesterday."
+      ],
+      "answer": 0,
+      "explanation": "There is an issue with... clearly introduces a problem."
+    },
+    {
+      "id": "q079",
+      "category": "Punctuation",
+      "question": "Which is a complete sentence?",
+      "options": [
+        "Because it was raining.",
+        "After the meeting.",
+        "The team finished the work.",
+        "When I arrived."
+      ],
+      "answer": 2,
+      "explanation": "The team finished the work contains a subject and a complete predicate."
+    }
+  ]
+}

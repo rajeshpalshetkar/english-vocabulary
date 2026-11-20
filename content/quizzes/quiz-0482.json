@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0482",
+  "slug": "quiz-0482",
+  "title": "English Practice Quiz 0482",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Prepositions",
+  "level": "Elementary",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q030",
+      "category": "Vocabulary",
+      "question": "Choose the best word: The road is very ___. There are many cars.",
+      "options": [
+        "crowded",
+        "empty",
+        "quietly",
+        "soft"
+      ],
+      "answer": 0,
+      "explanation": "Crowded means filled with many people or things; it can describe busy roads."
+    },
+    {
+      "id": "q041",
+      "category": "Modals",
+      "question": "___ I borrow your pen, please?",
+      "options": [
+        "May",
+        "Must",
+        "Should",
+        "Would have"
+      ],
+      "answer": 0,
+      "explanation": "May is a polite way to ask permission."
+    },
+    {
+      "id": "q052",
+      "category": "Conversation",
+      "question": "You did not hear someone. You say:",
+      "options": [
+        "Speak now!",
+        "Could you repeat that, please?",
+        "What your problem?",
+        "I don't hear you yesterday."
+      ],
+      "answer": 1,
+      "explanation": "Could you repeat that, please? is a polite request."
+    },
+    {
+      "id": "q063",
+      "category": "Reading",
+      "question": "Read: 'Ravi practises English for twenty minutes every evening.' How long does he practise?",
+      "options": [
+        "Ten minutes",
+        "Twenty minutes",
+        "Thirty minutes",
+        "One hour"
+      ],
+      "answer": 1,
+      "explanation": "The passage states twenty minutes."
+    },
+    {
+      "id": "q074",
+      "category": "Questions",
+      "question": "Which question asks for a reason?",
+      "options": [
+        "What happened?",
+        "Where are you?",
+        "Why are you late?",
+        "When is lunch?"
+      ],
+      "answer": 2,
+      "explanation": "Why asks for a reason."
+    },
+    {
+      "id": "q085",
+      "category": "Confusing Words",
+      "question": "The bus is ___ than the car today.",
+      "options": [
+        "fast",
+        "faster",
+        "fastest",
+        "more fast"
+      ],
+      "answer": 1,
+      "explanation": "Use the comparative form faster when comparing two things."
+    },
+    {
+      "id": "q096",
+      "category": "Reported Speech",
+      "question": "He said, 'I am tired.' Reported speech:",
+      "options": [
+        "He said that he was tired.",
+        "He said I am tired.",
+        "He says that I tired.",
+        "He said he is tire."
+      ],
+      "answer": 0,
+      "explanation": "In standard backshift, am changes to was after a past reporting verb."
+    },
+    {
+      "id": "q107",
+      "category": "Adjectives",
+      "question": "She is the ___ student in the class.",
+      "options": [
+        "tall",
+        "taller",
+        "tallest",
+        "more tall"
+      ],
+      "answer": 2,
+      "explanation": "Use the superlative tallest when comparing one with the whole class."
+    },
+    {
+      "id": "q003",
+      "category": "Grammar",
+      "question": "I ___ a new notebook yesterday.",
+      "options": [
+        "buy",
+        "buys",
+        "bought",
+        "buying"
+      ],
+      "answer": 2,
+      "explanation": "Yesterday signals the past simple. The past form of buy is bought."
+    },
+    {
+      "id": "q014",
+      "category": "Tenses",
+      "question": "I think it ___ tomorrow.",
+      "options": [
+        "rains",
+        "rained",
+        "will rain",
+        "raining"
+      ],
+      "answer": 2,
+      "explanation": "Will plus the base verb can express a future prediction."
+    }
+  ]
+}

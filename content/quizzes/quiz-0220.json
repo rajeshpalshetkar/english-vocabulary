@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0220",
+  "slug": "quiz-0220",
+  "title": "English Practice Quiz 0220",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Vocabulary",
+  "level": "Beginner",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q061",
+      "category": "Reading",
+      "question": "Read: 'Mina takes the bus at 8 a.m. and reaches work at 8:45.' How does Mina travel?",
+      "options": [
+        "By train",
+        "By bus",
+        "By car",
+        "On foot"
+      ],
+      "answer": 1,
+      "explanation": "The passage clearly says Mina takes the bus."
+    },
+    {
+      "id": "q068",
+      "category": "Workplace English",
+      "question": "You need to report a problem. You say:",
+      "options": [
+        "There is an issue with the printer.",
+        "Printer bad you.",
+        "I issue printer.",
+        "No printer yesterday."
+      ],
+      "answer": 0,
+      "explanation": "There is an issue with... clearly introduces a problem."
+    },
+    {
+      "id": "q075",
+      "category": "Questions",
+      "question": "Choose the correct question tag: 'You are ready, ___?'",
+      "options": [
+        "are you",
+        "aren't you",
+        "do you",
+        "don't you"
+      ],
+      "answer": 1,
+      "explanation": "A positive statement with are usually takes the negative tag aren't you."
+    },
+    {
+      "id": "q082",
+      "category": "Confusing Words",
+      "question": "The weather can ___ your travel plans.",
+      "options": [
+        "affect",
+        "effect",
+        "infect",
+        "effort"
+      ],
+      "answer": 0,
+      "explanation": "Affect is usually a verb meaning to influence."
+    },
+    {
+      "id": "q089",
+      "category": "Conditionals",
+      "question": "If she studies, she ___ the test.",
+      "options": [
+        "passes",
+        "passed",
+        "will pass",
+        "would passed"
+      ],
+      "answer": 2,
+      "explanation": "Use will + base verb in the main clause of the first conditional."
+    },
+    {
+      "id": "q096",
+      "category": "Reported Speech",
+      "question": "He said, 'I am tired.' Reported speech:",
+      "options": [
+        "He said that he was tired.",
+        "He said I am tired.",
+        "He says that I tired.",
+        "He said he is tire."
+      ],
+      "answer": 0,
+      "explanation": "In standard backshift, am changes to was after a past reporting verb."
+    },
+    {
+      "id": "q103",
+      "category": "Determiners",
+      "question": "I have ___ friends in this city.",
+      "options": [
+        "a little",
+        "a few",
+        "much",
+        "anyone"
+      ],
+      "answer": 1,
+      "explanation": "A few is used with countable plural nouns."
+    },
+    {
+      "id": "q110",
+      "category": "Adverbs",
+      "question": "Please drive ___.",
+      "options": [
+        "careful",
+        "carefully",
+        "care",
+        "caring"
+      ],
+      "answer": 1,
+      "explanation": "Carefully is the adverb modifying drive."
+    },
+    {
+      "id": "q002",
+      "category": "Grammar",
+      "question": "They ___ ready for the meeting.",
+      "options": [
+        "is",
+        "am",
+        "are",
+        "be"
+      ],
+      "answer": 2,
+      "explanation": "Use are with the plural subject they."
+    },
+    {
+      "id": "q009",
+      "category": "Grammar",
+      "question": "Choose the correct comparative form.",
+      "options": [
+        "more tall",
+        "taller",
+        "tallest than",
+        "most tall"
+      ],
+      "answer": 1,
+      "explanation": "The comparative form of the short adjective tall is taller."
+    }
+  ]
+}

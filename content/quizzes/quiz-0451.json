@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0451",
+  "slug": "quiz-0451",
+  "title": "English Practice Quiz 0451",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Prepositions",
+  "level": "Elementary",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q078",
+      "category": "Punctuation",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "I like tea, coffee and milk.",
+        "I like tea coffee and milk",
+        "I like, tea coffee, and milk.",
+        "i like tea, coffee and milk"
+      ],
+      "answer": 0,
+      "explanation": "Use commas to separate items in a list and capitalise the first word."
+    },
+    {
+      "id": "q087",
+      "category": "Conditionals",
+      "question": "If I had more time, I ___ another language.",
+      "options": [
+        "learn",
+        "will learn",
+        "would learn",
+        "am learn"
+      ],
+      "answer": 2,
+      "explanation": "The second conditional uses would + base verb for an unreal or imagined situation."
+    },
+    {
+      "id": "q096",
+      "category": "Reported Speech",
+      "question": "He said, 'I am tired.' Reported speech:",
+      "options": [
+        "He said that he was tired.",
+        "He said I am tired.",
+        "He says that I tired.",
+        "He said he is tire."
+      ],
+      "answer": 0,
+      "explanation": "In standard backshift, am changes to was after a past reporting verb."
+    },
+    {
+      "id": "q105",
+      "category": "Determiners",
+      "question": "___ student must bring an ID card.",
+      "options": [
+        "Each",
+        "Many",
+        "Few",
+        "Several"
+      ],
+      "answer": 0,
+      "explanation": "Each refers to every individual in a group."
+    },
+    {
+      "id": "q114",
+      "category": "Gerunds",
+      "question": "They finished ___ the room.",
+      "options": [
+        "clean",
+        "to clean",
+        "cleaning",
+        "cleaned"
+      ],
+      "answer": 2,
+      "explanation": "Finish is followed by a gerund."
+    },
+    {
+      "id": "q008",
+      "category": "Grammar",
+      "question": "This is the woman ___ helped me.",
+      "options": [
+        "which",
+        "who",
+        "where",
+        "when"
+      ],
+      "answer": 1,
+      "explanation": "Who is used for people."
+    },
+    {
+      "id": "q017",
+      "category": "Tenses",
+      "question": "They ___ football every Sunday.",
+      "options": [
+        "plays",
+        "are play",
+        "play",
+        "playing"
+      ],
+      "answer": 2,
+      "explanation": "Use the base verb with the plural subject they in the present simple."
+    },
+    {
+      "id": "q026",
+      "category": "Vocabulary",
+      "question": "What does 'borrow' mean?",
+      "options": [
+        "give something forever",
+        "take something temporarily and return it",
+        "break something",
+        "buy something"
+      ],
+      "answer": 1,
+      "explanation": "Borrow means to take something for a period and return it."
+    },
+    {
+      "id": "q035",
+      "category": "Articles",
+      "question": "Mount Everest is ___ highest mountain in the world.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": 2,
+      "explanation": "Use the with superlative adjectives."
+    },
+    {
+      "id": "q044",
+      "category": "Modals",
+      "question": "You look tired. You ___ get some rest.",
+      "options": [
+        "should",
+        "mustn't",
+        "can't",
+        "wouldn't"
+      ],
+      "answer": 0,
+      "explanation": "Should gives advice."
+    }
+  ]
+}

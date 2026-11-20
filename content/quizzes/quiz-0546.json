@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0546",
+  "slug": "quiz-0546",
+  "title": "English Practice Quiz 0546",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Modals",
+  "level": "Elementary",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q083",
+      "category": "Confusing Words",
+      "question": "Please ___ the correct answer.",
+      "options": [
+        "choose",
+        "chose",
+        "choice",
+        "chosen"
+      ],
+      "answer": 0,
+      "explanation": "Choose is the base verb used after please."
+    },
+    {
+      "id": "q106",
+      "category": "Adjectives",
+      "question": "The test was ___ than I expected.",
+      "options": [
+        "easy",
+        "easier",
+        "easiest",
+        "more easy"
+      ],
+      "answer": 1,
+      "explanation": "Use the comparative form easier."
+    },
+    {
+      "id": "q014",
+      "category": "Tenses",
+      "question": "I think it ___ tomorrow.",
+      "options": [
+        "rains",
+        "rained",
+        "will rain",
+        "raining"
+      ],
+      "answer": 2,
+      "explanation": "Will plus the base verb can express a future prediction."
+    },
+    {
+      "id": "q037",
+      "category": "Prepositions",
+      "question": "My birthday is ___ July.",
+      "options": [
+        "at",
+        "in",
+        "on",
+        "from"
+      ],
+      "answer": 1,
+      "explanation": "Use in with months."
+    },
+    {
+      "id": "q060",
+      "category": "Pronunciation",
+      "question": "How many syllables are in 'computer'?",
+      "options": [
+        "one",
+        "two",
+        "three",
+        "four"
+      ],
+      "answer": 2,
+      "explanation": "Computer is commonly pronounced with three syllables: com-pu-ter."
+    },
+    {
+      "id": "q083",
+      "category": "Confusing Words",
+      "question": "Please ___ the correct answer.",
+      "options": [
+        "choose",
+        "chose",
+        "choice",
+        "chosen"
+      ],
+      "answer": 0,
+      "explanation": "Choose is the base verb used after please."
+    },
+    {
+      "id": "q106",
+      "category": "Adjectives",
+      "question": "The test was ___ than I expected.",
+      "options": [
+        "easy",
+        "easier",
+        "easiest",
+        "more easy"
+      ],
+      "answer": 1,
+      "explanation": "Use the comparative form easier."
+    },
+    {
+      "id": "q014",
+      "category": "Tenses",
+      "question": "I think it ___ tomorrow.",
+      "options": [
+        "rains",
+        "rained",
+        "will rain",
+        "raining"
+      ],
+      "answer": 2,
+      "explanation": "Will plus the base verb can express a future prediction."
+    },
+    {
+      "id": "q037",
+      "category": "Prepositions",
+      "question": "My birthday is ___ July.",
+      "options": [
+        "at",
+        "in",
+        "on",
+        "from"
+      ],
+      "answer": 1,
+      "explanation": "Use in with months."
+    },
+    {
+      "id": "q060",
+      "category": "Pronunciation",
+      "question": "How many syllables are in 'computer'?",
+      "options": [
+        "one",
+        "two",
+        "three",
+        "four"
+      ],
+      "answer": 2,
+      "explanation": "Computer is commonly pronounced with three syllables: com-pu-ter."
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0661",
+  "slug": "quiz-0661",
+  "title": "English Practice Quiz 0661",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Sentence Building",
+  "level": "Intermediate",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q083",
+      "category": "Confusing Words",
+      "question": "Please ___ the correct answer.",
+      "options": [
+        "choose",
+        "chose",
+        "choice",
+        "chosen"
+      ],
+      "answer": 0,
+      "explanation": "Choose is the base verb used after please."
+    },
+    {
+      "id": "q092",
+      "category": "Passive Voice",
+      "question": "Choose the passive form: 'The manager signed the letter.'",
+      "options": [
+        "The letter is signed.",
+        "The letter was signed by the manager.",
+        "The letter signed the manager.",
+        "The letter has sign."
+      ],
+      "answer": 1,
+      "explanation": "Past simple passive: was/were + past participle."
+    },
+    {
+      "id": "q101",
+      "category": "Determiners",
+      "question": "There isn't ___ milk left.",
+      "options": [
+        "many",
+        "much",
+        "few",
+        "several"
+      ],
+      "answer": 1,
+      "explanation": "Milk is uncountable, so use much in a negative sentence."
+    },
+    {
+      "id": "q110",
+      "category": "Adverbs",
+      "question": "Please drive ___.",
+      "options": [
+        "careful",
+        "carefully",
+        "care",
+        "caring"
+      ],
+      "answer": 1,
+      "explanation": "Carefully is the adverb modifying drive."
+    },
+    {
+      "id": "q004",
+      "category": "Grammar",
+      "question": "There ___ two chairs in the room.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "was"
+      ],
+      "answer": 1,
+      "explanation": "Use are with the plural noun chairs."
+    },
+    {
+      "id": "q013",
+      "category": "Tenses",
+      "question": "At 8 p.m. yesterday, I ___ dinner.",
+      "options": [
+        "cook",
+        "cooked",
+        "was cooking",
+        "am cooking"
+      ],
+      "answer": 2,
+      "explanation": "Use the past continuous for an action in progress at a specific past time."
+    },
+    {
+      "id": "q022",
+      "category": "Vocabulary",
+      "question": "Choose the opposite of 'polite'.",
+      "options": [
+        "kind",
+        "rude",
+        "helpful",
+        "calm"
+      ],
+      "answer": 1,
+      "explanation": "Rude is the opposite of polite."
+    },
+    {
+      "id": "q031",
+      "category": "Articles",
+      "question": "I saw ___ elephant at the zoo.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": 1,
+      "explanation": "Use an before a vowel sound."
+    },
+    {
+      "id": "q040",
+      "category": "Prepositions",
+      "question": "The hospital is ___ the bank and the post office.",
+      "options": [
+        "among",
+        "between",
+        "inside",
+        "over"
+      ],
+      "answer": 1,
+      "explanation": "Between is used for a position separating two things."
+    },
+    {
+      "id": "q049",
+      "category": "Sentence Building",
+      "question": "Choose the correct plural of 'child'.",
+      "options": [
+        "childs",
+        "childes",
+        "children",
+        "childrens"
+      ],
+      "answer": 2,
+      "explanation": "Children is the irregular plural of child."
+    }
+  ]
+}

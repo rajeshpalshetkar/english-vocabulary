@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0746",
+  "slug": "quiz-0746",
+  "title": "English Practice Quiz 0746",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Conversation",
+  "level": "Intermediate",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q033",
+      "category": "Articles",
+      "question": "Please close ___ door.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": 2,
+      "explanation": "The refers to a specific door known to the speaker and listener."
+    },
+    {
+      "id": "q056",
+      "category": "Pronunciation",
+      "question": "Which word has a different beginning sound?",
+      "options": [
+        "think",
+        "three",
+        "this",
+        "thank"
+      ],
+      "answer": 2,
+      "explanation": "This begins with the voiced /ð/ sound; the others begin with the unvoiced /θ/ sound."
+    },
+    {
+      "id": "q079",
+      "category": "Punctuation",
+      "question": "Which is a complete sentence?",
+      "options": [
+        "Because it was raining.",
+        "After the meeting.",
+        "The team finished the work.",
+        "When I arrived."
+      ],
+      "answer": 2,
+      "explanation": "The team finished the work contains a subject and a complete predicate."
+    },
+    {
+      "id": "q102",
+      "category": "Determiners",
+      "question": "How ___ apples do you need?",
+      "options": [
+        "much",
+        "many",
+        "little",
+        "any"
+      ],
+      "answer": 1,
+      "explanation": "Apples are countable plural nouns, so use many."
+    },
+    {
+      "id": "q010",
+      "category": "Grammar",
+      "question": "You ___ wear your identity card at work.",
+      "options": [
+        "should to",
+        "should",
+        "are should",
+        "shoulds"
+      ],
+      "answer": 1,
+      "explanation": "Modal verbs such as should are followed by the base verb without to."
+    },
+    {
+      "id": "q033",
+      "category": "Articles",
+      "question": "Please close ___ door.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": 2,
+      "explanation": "The refers to a specific door known to the speaker and listener."
+    },
+    {
+      "id": "q056",
+      "category": "Pronunciation",
+      "question": "Which word has a different beginning sound?",
+      "options": [
+        "think",
+        "three",
+        "this",
+        "thank"
+      ],
+      "answer": 2,
+      "explanation": "This begins with the voiced /ð/ sound; the others begin with the unvoiced /θ/ sound."
+    },
+    {
+      "id": "q079",
+      "category": "Punctuation",
+      "question": "Which is a complete sentence?",
+      "options": [
+        "Because it was raining.",
+        "After the meeting.",
+        "The team finished the work.",
+        "When I arrived."
+      ],
+      "answer": 2,
+      "explanation": "The team finished the work contains a subject and a complete predicate."
+    },
+    {
+      "id": "q102",
+      "category": "Determiners",
+      "question": "How ___ apples do you need?",
+      "options": [
+        "much",
+        "many",
+        "little",
+        "any"
+      ],
+      "answer": 1,
+      "explanation": "Apples are countable plural nouns, so use many."
+    },
+    {
+      "id": "q010",
+      "category": "Grammar",
+      "question": "You ___ wear your identity card at work.",
+      "options": [
+        "should to",
+        "should",
+        "are should",
+        "shoulds"
+      ],
+      "answer": 1,
+      "explanation": "Modal verbs such as should are followed by the base verb without to."
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0183",
+  "slug": "quiz-0183",
+  "title": "English Practice Quiz 0183",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Tenses",
+  "level": "Beginner",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q007",
+      "category": "Grammar",
+      "question": "The keys are ___ the table.",
+      "options": [
+        "in",
+        "at",
+        "on",
+        "by"
+      ],
+      "answer": 2,
+      "explanation": "On describes something resting on a surface."
+    },
+    {
+      "id": "q020",
+      "category": "Tenses",
+      "question": "By next June, he ___ the course.",
+      "options": [
+        "completes",
+        "completed",
+        "will have completed",
+        "has complete"
+      ],
+      "answer": 2,
+      "explanation": "The future perfect describes an action completed before a future time."
+    },
+    {
+      "id": "q033",
+      "category": "Articles",
+      "question": "Please close ___ door.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": 2,
+      "explanation": "The refers to a specific door known to the speaker and listener."
+    },
+    {
+      "id": "q046",
+      "category": "Sentence Building",
+      "question": "Choose the correct word order.",
+      "options": [
+        "Always I am late.",
+        "I am always late.",
+        "I late am always.",
+        "Am always I late."
+      ],
+      "answer": 1,
+      "explanation": "Frequency adverbs such as always usually come after the verb be."
+    },
+    {
+      "id": "q059",
+      "category": "Pronunciation",
+      "question": "Which word rhymes with 'light'?",
+      "options": [
+        "late",
+        "lit",
+        "night",
+        "let"
+      ],
+      "answer": 2,
+      "explanation": "Light and night share the same ending sound."
+    },
+    {
+      "id": "q072",
+      "category": "Questions",
+      "question": "Which question asks about time?",
+      "options": [
+        "Who is calling?",
+        "When does the train leave?",
+        "Where is the station?",
+        "Why are you here?"
+      ],
+      "answer": 1,
+      "explanation": "When asks about time."
+    },
+    {
+      "id": "q085",
+      "category": "Confusing Words",
+      "question": "The bus is ___ than the car today.",
+      "options": [
+        "fast",
+        "faster",
+        "fastest",
+        "more fast"
+      ],
+      "answer": 1,
+      "explanation": "Use the comparative form faster when comparing two things."
+    },
+    {
+      "id": "q098",
+      "category": "Reported Speech",
+      "question": "He asked, 'Where do you live?'",
+      "options": [
+        "He asked where I lived.",
+        "He asked where do I live.",
+        "He asked where did I lived.",
+        "He asked where I live do."
+      ],
+      "answer": 0,
+      "explanation": "Reported questions use statement word order; do is removed."
+    },
+    {
+      "id": "q111",
+      "category": "Gerunds",
+      "question": "I enjoy ___ books.",
+      "options": [
+        "read",
+        "to read",
+        "reading",
+        "reads"
+      ],
+      "answer": 2,
+      "explanation": "Enjoy is followed by a gerund (-ing form)."
+    },
+    {
+      "id": "q009",
+      "category": "Grammar",
+      "question": "Choose the correct comparative form.",
+      "options": [
+        "more tall",
+        "taller",
+        "tallest than",
+        "most tall"
+      ],
+      "answer": 1,
+      "explanation": "The comparative form of the short adjective tall is taller."
+    }
+  ]
+}

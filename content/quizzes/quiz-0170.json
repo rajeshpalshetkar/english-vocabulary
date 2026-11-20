@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0170",
+  "slug": "quiz-0170",
+  "title": "English Practice Quiz 0170",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Tenses",
+  "level": "Beginner",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q016",
+      "category": "Tenses",
+      "question": "Water ___ at 100°C at sea level.",
+      "options": [
+        "boil",
+        "boils",
+        "is boiling",
+        "boiled"
+      ],
+      "answer": 1,
+      "explanation": "Use the present simple for general facts."
+    },
+    {
+      "id": "q023",
+      "category": "Vocabulary",
+      "question": "A synonym of 'begin' is ___.",
+      "options": [
+        "finish",
+        "start",
+        "stop",
+        "close"
+      ],
+      "answer": 1,
+      "explanation": "Start has the same basic meaning as begin."
+    },
+    {
+      "id": "q030",
+      "category": "Vocabulary",
+      "question": "Choose the best word: The road is very ___. There are many cars.",
+      "options": [
+        "crowded",
+        "empty",
+        "quietly",
+        "soft"
+      ],
+      "answer": 0,
+      "explanation": "Crowded means filled with many people or things; it can describe busy roads."
+    },
+    {
+      "id": "q037",
+      "category": "Prepositions",
+      "question": "My birthday is ___ July.",
+      "options": [
+        "at",
+        "in",
+        "on",
+        "from"
+      ],
+      "answer": 1,
+      "explanation": "Use in with months."
+    },
+    {
+      "id": "q044",
+      "category": "Modals",
+      "question": "You look tired. You ___ get some rest.",
+      "options": [
+        "should",
+        "mustn't",
+        "can't",
+        "wouldn't"
+      ],
+      "answer": 0,
+      "explanation": "Should gives advice."
+    },
+    {
+      "id": "q051",
+      "category": "Conversation",
+      "question": "Someone says, 'Thank you for your help.' You reply:",
+      "options": [
+        "Never mind you.",
+        "You're welcome.",
+        "I am welcome you.",
+        "No thank."
+      ],
+      "answer": 1,
+      "explanation": "You're welcome is a natural response to thank you."
+    },
+    {
+      "id": "q058",
+      "category": "Pronunciation",
+      "question": "Which word has the /ʃ/ sound as in 'ship'?",
+      "options": [
+        "sip",
+        "shop",
+        "zip",
+        "tip"
+      ],
+      "answer": 1,
+      "explanation": "Shop begins with the /ʃ/ sound."
+    },
+    {
+      "id": "q065",
+      "category": "Reading",
+      "question": "Read: 'Please keep the floor dry to prevent accidents.' What is the instruction?",
+      "options": [
+        "Wash the floor now",
+        "Keep the floor dry",
+        "Close the office",
+        "Move the furniture"
+      ],
+      "answer": 1,
+      "explanation": "The notice instructs people to keep the floor dry."
+    },
+    {
+      "id": "q072",
+      "category": "Questions",
+      "question": "Which question asks about time?",
+      "options": [
+        "Who is calling?",
+        "When does the train leave?",
+        "Where is the station?",
+        "Why are you here?"
+      ],
+      "answer": 1,
+      "explanation": "When asks about time."
+    },
+    {
+      "id": "q079",
+      "category": "Punctuation",
+      "question": "Which is a complete sentence?",
+      "options": [
+        "Because it was raining.",
+        "After the meeting.",
+        "The team finished the work.",
+        "When I arrived."
+      ],
+      "answer": 2,
+      "explanation": "The team finished the work contains a subject and a complete predicate."
+    }
+  ]
+}

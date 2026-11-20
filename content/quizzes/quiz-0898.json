@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0898",
+  "slug": "quiz-0898",
+  "title": "English Practice Quiz 0898",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Reading",
+  "level": "Advanced",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q087",
+      "category": "Conditionals",
+      "question": "If I had more time, I ___ another language.",
+      "options": [
+        "learn",
+        "will learn",
+        "would learn",
+        "am learn"
+      ],
+      "answer": 2,
+      "explanation": "The second conditional uses would + base verb for an unreal or imagined situation."
+    },
+    {
+      "id": "q003",
+      "category": "Grammar",
+      "question": "I ___ a new notebook yesterday.",
+      "options": [
+        "buy",
+        "buys",
+        "bought",
+        "buying"
+      ],
+      "answer": 2,
+      "explanation": "Yesterday signals the past simple. The past form of buy is bought."
+    },
+    {
+      "id": "q034",
+      "category": "Articles",
+      "question": "He wants to become ___ engineer.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": 1,
+      "explanation": "Engineer begins with a vowel sound, so use an."
+    },
+    {
+      "id": "q065",
+      "category": "Reading",
+      "question": "Read: 'Please keep the floor dry to prevent accidents.' What is the instruction?",
+      "options": [
+        "Wash the floor now",
+        "Keep the floor dry",
+        "Close the office",
+        "Move the furniture"
+      ],
+      "answer": 1,
+      "explanation": "The notice instructs people to keep the floor dry."
+    },
+    {
+      "id": "q096",
+      "category": "Reported Speech",
+      "question": "He said, 'I am tired.' Reported speech:",
+      "options": [
+        "He said that he was tired.",
+        "He said I am tired.",
+        "He says that I tired.",
+        "He said he is tire."
+      ],
+      "answer": 0,
+      "explanation": "In standard backshift, am changes to was after a past reporting verb."
+    },
+    {
+      "id": "q012",
+      "category": "Tenses",
+      "question": "We ___ here since 2022.",
+      "options": [
+        "live",
+        "lived",
+        "have lived",
+        "are live"
+      ],
+      "answer": 2,
+      "explanation": "Since gives a starting point; the present perfect connects the past to now."
+    },
+    {
+      "id": "q043",
+      "category": "Modals",
+      "question": "When I was five, I ___ swim.",
+      "options": [
+        "can",
+        "could",
+        "may",
+        "must"
+      ],
+      "answer": 1,
+      "explanation": "Could expresses past ability."
+    },
+    {
+      "id": "q074",
+      "category": "Questions",
+      "question": "Which question asks for a reason?",
+      "options": [
+        "What happened?",
+        "Where are you?",
+        "Why are you late?",
+        "When is lunch?"
+      ],
+      "answer": 2,
+      "explanation": "Why asks for a reason."
+    },
+    {
+      "id": "q105",
+      "category": "Determiners",
+      "question": "___ student must bring an ID card.",
+      "options": [
+        "Each",
+        "Many",
+        "Few",
+        "Several"
+      ],
+      "answer": 0,
+      "explanation": "Each refers to every individual in a group."
+    },
+    {
+      "id": "q021",
+      "category": "Vocabulary",
+      "question": "A person who repairs water pipes is a ___.",
+      "options": [
+        "carpenter",
+        "plumber",
+        "tailor",
+        "baker"
+      ],
+      "answer": 1,
+      "explanation": "A plumber installs and repairs water pipes and fittings."
+    }
+  ]
+}

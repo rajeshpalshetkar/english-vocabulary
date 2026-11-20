@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0105",
+  "slug": "quiz-0105",
+  "title": "English Practice Quiz 0105",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Tenses",
+  "level": "Beginner",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q061",
+      "category": "Reading",
+      "question": "Read: 'Mina takes the bus at 8 a.m. and reaches work at 8:45.' How does Mina travel?",
+      "options": [
+        "By train",
+        "By bus",
+        "By car",
+        "On foot"
+      ],
+      "answer": 1,
+      "explanation": "The passage clearly says Mina takes the bus."
+    },
+    {
+      "id": "q080",
+      "category": "Punctuation",
+      "question": "Choose the correctly written date phrase.",
+      "options": [
+        "on monday",
+        "on Monday",
+        "On monday",
+        "on Monday."
+      ],
+      "answer": 1,
+      "explanation": "Days of the week begin with a capital letter."
+    },
+    {
+      "id": "q099",
+      "category": "Reported Speech",
+      "question": "She said, 'Please sit down.'",
+      "options": [
+        "She told me sit down.",
+        "She asked me to sit down.",
+        "She said me to sit.",
+        "She asked that I sat."
+      ],
+      "answer": 1,
+      "explanation": "A request can be reported with asked + object + to-infinitive."
+    },
+    {
+      "id": "q003",
+      "category": "Grammar",
+      "question": "I ___ a new notebook yesterday.",
+      "options": [
+        "buy",
+        "buys",
+        "bought",
+        "buying"
+      ],
+      "answer": 2,
+      "explanation": "Yesterday signals the past simple. The past form of buy is bought."
+    },
+    {
+      "id": "q022",
+      "category": "Vocabulary",
+      "question": "Choose the opposite of 'polite'.",
+      "options": [
+        "kind",
+        "rude",
+        "helpful",
+        "calm"
+      ],
+      "answer": 1,
+      "explanation": "Rude is the opposite of polite."
+    },
+    {
+      "id": "q041",
+      "category": "Modals",
+      "question": "___ I borrow your pen, please?",
+      "options": [
+        "May",
+        "Must",
+        "Should",
+        "Would have"
+      ],
+      "answer": 0,
+      "explanation": "May is a polite way to ask permission."
+    },
+    {
+      "id": "q060",
+      "category": "Pronunciation",
+      "question": "How many syllables are in 'computer'?",
+      "options": [
+        "one",
+        "two",
+        "three",
+        "four"
+      ],
+      "answer": 2,
+      "explanation": "Computer is commonly pronounced with three syllables: com-pu-ter."
+    },
+    {
+      "id": "q079",
+      "category": "Punctuation",
+      "question": "Which is a complete sentence?",
+      "options": [
+        "Because it was raining.",
+        "After the meeting.",
+        "The team finished the work.",
+        "When I arrived."
+      ],
+      "answer": 2,
+      "explanation": "The team finished the work contains a subject and a complete predicate."
+    },
+    {
+      "id": "q098",
+      "category": "Reported Speech",
+      "question": "He asked, 'Where do you live?'",
+      "options": [
+        "He asked where I lived.",
+        "He asked where do I live.",
+        "He asked where did I lived.",
+        "He asked where I live do."
+      ],
+      "answer": 0,
+      "explanation": "Reported questions use statement word order; do is removed."
+    },
+    {
+      "id": "q002",
+      "category": "Grammar",
+      "question": "They ___ ready for the meeting.",
+      "options": [
+        "is",
+        "am",
+        "are",
+        "be"
+      ],
+      "answer": 2,
+      "explanation": "Use are with the plural subject they."
+    }
+  ]
+}

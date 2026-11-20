@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0327",
+  "slug": "quiz-0327",
+  "title": "English Practice Quiz 0327",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Articles",
+  "level": "Elementary",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q040",
+      "category": "Prepositions",
+      "question": "The hospital is ___ the bank and the post office.",
+      "options": [
+        "among",
+        "between",
+        "inside",
+        "over"
+      ],
+      "answer": 1,
+      "explanation": "Between is used for a position separating two things."
+    },
+    {
+      "id": "q069",
+      "category": "Workplace English",
+      "question": "A polite way to disagree is:",
+      "options": [
+        "You are totally wrong.",
+        "I see your point, but I have a different view.",
+        "No, stop.",
+        "That is stupid."
+      ],
+      "answer": 1,
+      "explanation": "This phrase acknowledges the other person before presenting a different view."
+    },
+    {
+      "id": "q098",
+      "category": "Reported Speech",
+      "question": "He asked, 'Where do you live?'",
+      "options": [
+        "He asked where I lived.",
+        "He asked where do I live.",
+        "He asked where did I lived.",
+        "He asked where I live do."
+      ],
+      "answer": 0,
+      "explanation": "Reported questions use statement word order; do is removed."
+    },
+    {
+      "id": "q012",
+      "category": "Tenses",
+      "question": "We ___ here since 2022.",
+      "options": [
+        "live",
+        "lived",
+        "have lived",
+        "are live"
+      ],
+      "answer": 2,
+      "explanation": "Since gives a starting point; the present perfect connects the past to now."
+    },
+    {
+      "id": "q041",
+      "category": "Modals",
+      "question": "___ I borrow your pen, please?",
+      "options": [
+        "May",
+        "Must",
+        "Should",
+        "Would have"
+      ],
+      "answer": 0,
+      "explanation": "May is a polite way to ask permission."
+    },
+    {
+      "id": "q070",
+      "category": "Workplace English",
+      "question": "To confirm an instruction, you can say:",
+      "options": [
+        "Could you please confirm the details?",
+        "I not listen.",
+        "Confirm me now.",
+        "Details no."
+      ],
+      "answer": 0,
+      "explanation": "Could you please confirm... is polite and precise."
+    },
+    {
+      "id": "q099",
+      "category": "Reported Speech",
+      "question": "She said, 'Please sit down.'",
+      "options": [
+        "She told me sit down.",
+        "She asked me to sit down.",
+        "She said me to sit.",
+        "She asked that I sat."
+      ],
+      "answer": 1,
+      "explanation": "A request can be reported with asked + object + to-infinitive."
+    },
+    {
+      "id": "q013",
+      "category": "Tenses",
+      "question": "At 8 p.m. yesterday, I ___ dinner.",
+      "options": [
+        "cook",
+        "cooked",
+        "was cooking",
+        "am cooking"
+      ],
+      "answer": 2,
+      "explanation": "Use the past continuous for an action in progress at a specific past time."
+    },
+    {
+      "id": "q042",
+      "category": "Modals",
+      "question": "You ___ smoke inside the hospital.",
+      "options": [
+        "must",
+        "mustn't",
+        "should",
+        "could"
+      ],
+      "answer": 1,
+      "explanation": "Mustn't expresses prohibition."
+    },
+    {
+      "id": "q071",
+      "category": "Questions",
+      "question": "Choose the correct WH question for a place.",
+      "options": [
+        "When do you live?",
+        "Where do you live?",
+        "Who do you live?",
+        "Why do you live?"
+      ],
+      "answer": 1,
+      "explanation": "Where asks about a place or location."
+    }
+  ]
+}

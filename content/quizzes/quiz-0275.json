@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0275",
+  "slug": "quiz-0275",
+  "title": "English Practice Quiz 0275",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Vocabulary",
+  "level": "Elementary",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q076",
+      "category": "Punctuation",
+      "question": "Choose the correctly punctuated sentence.",
+      "options": [
+        "where are you.",
+        "Where are you?",
+        "Where are you,",
+        "where are you!"
+      ],
+      "answer": 1,
+      "explanation": "Start with a capital letter and use a question mark."
+    },
+    {
+      "id": "q095",
+      "category": "Passive Voice",
+      "question": "The windows ___ every week.",
+      "options": [
+        "are cleaned",
+        "clean",
+        "is cleaned",
+        "cleaning"
+      ],
+      "answer": 0,
+      "explanation": "Plural subject windows takes are + past participle."
+    },
+    {
+      "id": "q114",
+      "category": "Gerunds",
+      "question": "They finished ___ the room.",
+      "options": [
+        "clean",
+        "to clean",
+        "cleaning",
+        "cleaned"
+      ],
+      "answer": 2,
+      "explanation": "Finish is followed by a gerund."
+    },
+    {
+      "id": "q018",
+      "category": "Tenses",
+      "question": "I ___ him last week.",
+      "options": [
+        "see",
+        "have seen",
+        "saw",
+        "seeing"
+      ],
+      "answer": 2,
+      "explanation": "Use the past simple with a finished past time such as last week."
+    },
+    {
+      "id": "q037",
+      "category": "Prepositions",
+      "question": "My birthday is ___ July.",
+      "options": [
+        "at",
+        "in",
+        "on",
+        "from"
+      ],
+      "answer": 1,
+      "explanation": "Use in with months."
+    },
+    {
+      "id": "q056",
+      "category": "Pronunciation",
+      "question": "Which word has a different beginning sound?",
+      "options": [
+        "think",
+        "three",
+        "this",
+        "thank"
+      ],
+      "answer": 2,
+      "explanation": "This begins with the voiced /ð/ sound; the others begin with the unvoiced /θ/ sound."
+    },
+    {
+      "id": "q075",
+      "category": "Questions",
+      "question": "Choose the correct question tag: 'You are ready, ___?'",
+      "options": [
+        "are you",
+        "aren't you",
+        "do you",
+        "don't you"
+      ],
+      "answer": 1,
+      "explanation": "A positive statement with are usually takes the negative tag aren't you."
+    },
+    {
+      "id": "q094",
+      "category": "Passive Voice",
+      "question": "English ___ in many countries.",
+      "options": [
+        "speaks",
+        "is spoken",
+        "spoken",
+        "is speaking"
+      ],
+      "answer": 1,
+      "explanation": "Present simple passive: is spoken."
+    },
+    {
+      "id": "q113",
+      "category": "Gerunds",
+      "question": "She is good at ___.",
+      "options": [
+        "swim",
+        "to swim",
+        "swimming",
+        "swam"
+      ],
+      "answer": 2,
+      "explanation": "A preposition such as at is followed by a noun or gerund."
+    },
+    {
+      "id": "q017",
+      "category": "Tenses",
+      "question": "They ___ football every Sunday.",
+      "options": [
+        "plays",
+        "are play",
+        "play",
+        "playing"
+      ],
+      "answer": 2,
+      "explanation": "Use the base verb with the plural subject they in the present simple."
+    }
+  ]
+}

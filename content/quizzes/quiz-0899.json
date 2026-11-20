@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0899",
+  "slug": "quiz-0899",
+  "title": "English Practice Quiz 0899",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Reading",
+  "level": "Advanced",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q104",
+      "category": "Determiners",
+      "question": "There is ___ water in the bottle.",
+      "options": [
+        "a few",
+        "many",
+        "a little",
+        "several"
+      ],
+      "answer": 2,
+      "explanation": "A little is used with uncountable nouns."
+    },
+    {
+      "id": "q026",
+      "category": "Vocabulary",
+      "question": "What does 'borrow' mean?",
+      "options": [
+        "give something forever",
+        "take something temporarily and return it",
+        "break something",
+        "buy something"
+      ],
+      "answer": 1,
+      "explanation": "Borrow means to take something for a period and return it."
+    },
+    {
+      "id": "q063",
+      "category": "Reading",
+      "question": "Read: 'Ravi practises English for twenty minutes every evening.' How long does he practise?",
+      "options": [
+        "Ten minutes",
+        "Twenty minutes",
+        "Thirty minutes",
+        "One hour"
+      ],
+      "answer": 1,
+      "explanation": "The passage states twenty minutes."
+    },
+    {
+      "id": "q100",
+      "category": "Reported Speech",
+      "question": "They said, 'We have finished.'",
+      "options": [
+        "They said they had finished.",
+        "They said they have finish.",
+        "They told finished.",
+        "They said we finished have."
+      ],
+      "answer": 0,
+      "explanation": "Present perfect commonly shifts to past perfect in reported speech."
+    },
+    {
+      "id": "q022",
+      "category": "Vocabulary",
+      "question": "Choose the opposite of 'polite'.",
+      "options": [
+        "kind",
+        "rude",
+        "helpful",
+        "calm"
+      ],
+      "answer": 1,
+      "explanation": "Rude is the opposite of polite."
+    },
+    {
+      "id": "q059",
+      "category": "Pronunciation",
+      "question": "Which word rhymes with 'light'?",
+      "options": [
+        "late",
+        "lit",
+        "night",
+        "let"
+      ],
+      "answer": 2,
+      "explanation": "Light and night share the same ending sound."
+    },
+    {
+      "id": "q096",
+      "category": "Reported Speech",
+      "question": "He said, 'I am tired.' Reported speech:",
+      "options": [
+        "He said that he was tired.",
+        "He said I am tired.",
+        "He says that I tired.",
+        "He said he is tire."
+      ],
+      "answer": 0,
+      "explanation": "In standard backshift, am changes to was after a past reporting verb."
+    },
+    {
+      "id": "q018",
+      "category": "Tenses",
+      "question": "I ___ him last week.",
+      "options": [
+        "see",
+        "have seen",
+        "saw",
+        "seeing"
+      ],
+      "answer": 2,
+      "explanation": "Use the past simple with a finished past time such as last week."
+    },
+    {
+      "id": "q055",
+      "category": "Conversation",
+      "question": "A colleague asks for help. A polite reply is:",
+      "options": [
+        "Certainly. What do you need?",
+        "Never ask me.",
+        "You do yourself.",
+        "No speaking."
+      ],
+      "answer": 0,
+      "explanation": "Certainly. What do you need? is helpful and polite."
+    },
+    {
+      "id": "q092",
+      "category": "Passive Voice",
+      "question": "Choose the passive form: 'The manager signed the letter.'",
+      "options": [
+        "The letter is signed.",
+        "The letter was signed by the manager.",
+        "The letter signed the manager.",
+        "The letter has sign."
+      ],
+      "answer": 1,
+      "explanation": "Past simple passive: was/were + past participle."
+    }
+  ]
+}

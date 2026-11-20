@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0195",
+  "slug": "quiz-0195",
+  "title": "English Practice Quiz 0195",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Tenses",
+  "level": "Beginner",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q096",
+      "category": "Reported Speech",
+      "question": "He said, 'I am tired.' Reported speech:",
+      "options": [
+        "He said that he was tired.",
+        "He said I am tired.",
+        "He says that I tired.",
+        "He said he is tire."
+      ],
+      "answer": 0,
+      "explanation": "In standard backshift, am changes to was after a past reporting verb."
+    },
+    {
+      "id": "q115",
+      "category": "Gerunds",
+      "question": "I want ___ English fluently.",
+      "options": [
+        "speak",
+        "speaking",
+        "to speak",
+        "spoke"
+      ],
+      "answer": 2,
+      "explanation": "Want is followed by a to-infinitive."
+    },
+    {
+      "id": "q019",
+      "category": "Tenses",
+      "question": "She ___ in this hospital for five years.",
+      "options": [
+        "works",
+        "worked",
+        "has worked",
+        "is work"
+      ],
+      "answer": 2,
+      "explanation": "The present perfect can describe a situation continuing to the present."
+    },
+    {
+      "id": "q038",
+      "category": "Prepositions",
+      "question": "We have a meeting ___ Monday.",
+      "options": [
+        "in",
+        "at",
+        "on",
+        "by"
+      ],
+      "answer": 2,
+      "explanation": "Use on with days and dates."
+    },
+    {
+      "id": "q057",
+      "category": "Pronunciation",
+      "question": "Which word has a silent 'k'?",
+      "options": [
+        "kite",
+        "know",
+        "keep",
+        "kind"
+      ],
+      "answer": 1,
+      "explanation": "The k in know is silent."
+    },
+    {
+      "id": "q076",
+      "category": "Punctuation",
+      "question": "Choose the correctly punctuated sentence.",
+      "options": [
+        "where are you.",
+        "Where are you?",
+        "Where are you,",
+        "where are you!"
+      ],
+      "answer": 1,
+      "explanation": "Start with a capital letter and use a question mark."
+    },
+    {
+      "id": "q095",
+      "category": "Passive Voice",
+      "question": "The windows ___ every week.",
+      "options": [
+        "are cleaned",
+        "clean",
+        "is cleaned",
+        "cleaning"
+      ],
+      "answer": 0,
+      "explanation": "Plural subject windows takes are + past participle."
+    },
+    {
+      "id": "q114",
+      "category": "Gerunds",
+      "question": "They finished ___ the room.",
+      "options": [
+        "clean",
+        "to clean",
+        "cleaning",
+        "cleaned"
+      ],
+      "answer": 2,
+      "explanation": "Finish is followed by a gerund."
+    },
+    {
+      "id": "q018",
+      "category": "Tenses",
+      "question": "I ___ him last week.",
+      "options": [
+        "see",
+        "have seen",
+        "saw",
+        "seeing"
+      ],
+      "answer": 2,
+      "explanation": "Use the past simple with a finished past time such as last week."
+    },
+    {
+      "id": "q037",
+      "category": "Prepositions",
+      "question": "My birthday is ___ July.",
+      "options": [
+        "at",
+        "in",
+        "on",
+        "from"
+      ],
+      "answer": 1,
+      "explanation": "Use in with months."
+    }
+  ]
+}

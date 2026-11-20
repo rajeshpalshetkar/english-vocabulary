@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0569",
+  "slug": "quiz-0569",
+  "title": "English Practice Quiz 0569",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Modals",
+  "level": "Elementary",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q014",
+      "category": "Tenses",
+      "question": "I think it ___ tomorrow.",
+      "options": [
+        "rains",
+        "rained",
+        "will rain",
+        "raining"
+      ],
+      "answer": 2,
+      "explanation": "Will plus the base verb can express a future prediction."
+    },
+    {
+      "id": "q051",
+      "category": "Conversation",
+      "question": "Someone says, 'Thank you for your help.' You reply:",
+      "options": [
+        "Never mind you.",
+        "You're welcome.",
+        "I am welcome you.",
+        "No thank."
+      ],
+      "answer": 1,
+      "explanation": "You're welcome is a natural response to thank you."
+    },
+    {
+      "id": "q088",
+      "category": "Conditionals",
+      "question": "If you heat ice, it ___.",
+      "options": [
+        "melt",
+        "melts",
+        "will melted",
+        "melting"
+      ],
+      "answer": 1,
+      "explanation": "The zero conditional uses present simple for general truths."
+    },
+    {
+      "id": "q010",
+      "category": "Grammar",
+      "question": "You ___ wear your identity card at work.",
+      "options": [
+        "should to",
+        "should",
+        "are should",
+        "shoulds"
+      ],
+      "answer": 1,
+      "explanation": "Modal verbs such as should are followed by the base verb without to."
+    },
+    {
+      "id": "q047",
+      "category": "Sentence Building",
+      "question": "Choose the correct question.",
+      "options": [
+        "Where you live?",
+        "Where do you live?",
+        "Where does you live?",
+        "Where are live you?"
+      ],
+      "answer": 1,
+      "explanation": "Use do + subject + base verb for present simple questions with you."
+    },
+    {
+      "id": "q084",
+      "category": "Confusing Words",
+      "question": "I have ___ my keys.",
+      "options": [
+        "loose",
+        "lose",
+        "lost",
+        "loss"
+      ],
+      "answer": 2,
+      "explanation": "Lost is the past participle of lose."
+    },
+    {
+      "id": "q006",
+      "category": "Grammar",
+      "question": "He is ___ honest man.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": 1,
+      "explanation": "Use an before a vowel sound. Honest begins with a silent h."
+    },
+    {
+      "id": "q043",
+      "category": "Modals",
+      "question": "When I was five, I ___ swim.",
+      "options": [
+        "can",
+        "could",
+        "may",
+        "must"
+      ],
+      "answer": 1,
+      "explanation": "Could expresses past ability."
+    },
+    {
+      "id": "q080",
+      "category": "Punctuation",
+      "question": "Choose the correctly written date phrase.",
+      "options": [
+        "on monday",
+        "on Monday",
+        "On monday",
+        "on Monday."
+      ],
+      "answer": 1,
+      "explanation": "Days of the week begin with a capital letter."
+    },
+    {
+      "id": "q002",
+      "category": "Grammar",
+      "question": "They ___ ready for the meeting.",
+      "options": [
+        "is",
+        "am",
+        "are",
+        "be"
+      ],
+      "answer": 2,
+      "explanation": "Use are with the plural subject they."
+    }
+  ]
+}

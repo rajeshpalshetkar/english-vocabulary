@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0842",
+  "slug": "quiz-0842",
+  "title": "English Practice Quiz 0842",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Reading",
+  "level": "Intermediate",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q055",
+      "category": "Conversation",
+      "question": "A colleague asks for help. A polite reply is:",
+      "options": [
+        "Certainly. What do you need?",
+        "Never ask me.",
+        "You do yourself.",
+        "No speaking."
+      ],
+      "answer": 0,
+      "explanation": "Certainly. What do you need? is helpful and polite."
+    },
+    {
+      "id": "q066",
+      "category": "Workplace English",
+      "question": "A professional way to ask for a file is:",
+      "options": [
+        "Give file now.",
+        "Could you please share the file?",
+        "File give me.",
+        "You must file."
+      ],
+      "answer": 1,
+      "explanation": "Could you please is a polite and professional request."
+    },
+    {
+      "id": "q077",
+      "category": "Punctuation",
+      "question": "Which sentence uses the apostrophe correctly?",
+      "options": [
+        "The guards uniform is blue.",
+        "The guard's uniform is blue.",
+        "The guards' uniform is blue. (one guard)",
+        "The guard uniform's is blue."
+      ],
+      "answer": 1,
+      "explanation": "Guard's shows possession by one guard."
+    },
+    {
+      "id": "q088",
+      "category": "Conditionals",
+      "question": "If you heat ice, it ___.",
+      "options": [
+        "melt",
+        "melts",
+        "will melted",
+        "melting"
+      ],
+      "answer": 1,
+      "explanation": "The zero conditional uses present simple for general truths."
+    },
+    {
+      "id": "q099",
+      "category": "Reported Speech",
+      "question": "She said, 'Please sit down.'",
+      "options": [
+        "She told me sit down.",
+        "She asked me to sit down.",
+        "She said me to sit.",
+        "She asked that I sat."
+      ],
+      "answer": 1,
+      "explanation": "A request can be reported with asked + object + to-infinitive."
+    },
+    {
+      "id": "q110",
+      "category": "Adverbs",
+      "question": "Please drive ___.",
+      "options": [
+        "careful",
+        "carefully",
+        "care",
+        "caring"
+      ],
+      "answer": 1,
+      "explanation": "Carefully is the adverb modifying drive."
+    },
+    {
+      "id": "q006",
+      "category": "Grammar",
+      "question": "He is ___ honest man.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": 1,
+      "explanation": "Use an before a vowel sound. Honest begins with a silent h."
+    },
+    {
+      "id": "q017",
+      "category": "Tenses",
+      "question": "They ___ football every Sunday.",
+      "options": [
+        "plays",
+        "are play",
+        "play",
+        "playing"
+      ],
+      "answer": 2,
+      "explanation": "Use the base verb with the plural subject they in the present simple."
+    },
+    {
+      "id": "q028",
+      "category": "Vocabulary",
+      "question": "A place where medicines are dispensed is a ___.",
+      "options": [
+        "bakery",
+        "pharmacy",
+        "library",
+        "garage"
+      ],
+      "answer": 1,
+      "explanation": "A pharmacy is a place where medicines are prepared or supplied."
+    },
+    {
+      "id": "q039",
+      "category": "Prepositions",
+      "question": "She is interested ___ music.",
+      "options": [
+        "on",
+        "at",
+        "in",
+        "for"
+      ],
+      "answer": 2,
+      "explanation": "The adjective interested is followed by in."
+    }
+  ]
+}

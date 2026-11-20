@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0485",
+  "slug": "quiz-0485",
+  "title": "English Practice Quiz 0485",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Prepositions",
+  "level": "Elementary",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q081",
+      "category": "Confusing Words",
+      "question": "Choose the correct word: ___ going to arrive soon.",
+      "options": [
+        "Their",
+        "There",
+        "They're",
+        "Theirs"
+      ],
+      "answer": 2,
+      "explanation": "They're is the contraction of they are."
+    },
+    {
+      "id": "q100",
+      "category": "Reported Speech",
+      "question": "They said, 'We have finished.'",
+      "options": [
+        "They said they had finished.",
+        "They said they have finish.",
+        "They told finished.",
+        "They said we finished have."
+      ],
+      "answer": 0,
+      "explanation": "Present perfect commonly shifts to past perfect in reported speech."
+    },
+    {
+      "id": "q004",
+      "category": "Grammar",
+      "question": "There ___ two chairs in the room.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "was"
+      ],
+      "answer": 1,
+      "explanation": "Use are with the plural noun chairs."
+    },
+    {
+      "id": "q023",
+      "category": "Vocabulary",
+      "question": "A synonym of 'begin' is ___.",
+      "options": [
+        "finish",
+        "start",
+        "stop",
+        "close"
+      ],
+      "answer": 1,
+      "explanation": "Start has the same basic meaning as begin."
+    },
+    {
+      "id": "q042",
+      "category": "Modals",
+      "question": "You ___ smoke inside the hospital.",
+      "options": [
+        "must",
+        "mustn't",
+        "should",
+        "could"
+      ],
+      "answer": 1,
+      "explanation": "Mustn't expresses prohibition."
+    },
+    {
+      "id": "q061",
+      "category": "Reading",
+      "question": "Read: 'Mina takes the bus at 8 a.m. and reaches work at 8:45.' How does Mina travel?",
+      "options": [
+        "By train",
+        "By bus",
+        "By car",
+        "On foot"
+      ],
+      "answer": 1,
+      "explanation": "The passage clearly says Mina takes the bus."
+    },
+    {
+      "id": "q080",
+      "category": "Punctuation",
+      "question": "Choose the correctly written date phrase.",
+      "options": [
+        "on monday",
+        "on Monday",
+        "On monday",
+        "on Monday."
+      ],
+      "answer": 1,
+      "explanation": "Days of the week begin with a capital letter."
+    },
+    {
+      "id": "q099",
+      "category": "Reported Speech",
+      "question": "She said, 'Please sit down.'",
+      "options": [
+        "She told me sit down.",
+        "She asked me to sit down.",
+        "She said me to sit.",
+        "She asked that I sat."
+      ],
+      "answer": 1,
+      "explanation": "A request can be reported with asked + object + to-infinitive."
+    },
+    {
+      "id": "q003",
+      "category": "Grammar",
+      "question": "I ___ a new notebook yesterday.",
+      "options": [
+        "buy",
+        "buys",
+        "bought",
+        "buying"
+      ],
+      "answer": 2,
+      "explanation": "Yesterday signals the past simple. The past form of buy is bought."
+    },
+    {
+      "id": "q022",
+      "category": "Vocabulary",
+      "question": "Choose the opposite of 'polite'.",
+      "options": [
+        "kind",
+        "rude",
+        "helpful",
+        "calm"
+      ],
+      "answer": 1,
+      "explanation": "Rude is the opposite of polite."
+    }
+  ]
+}

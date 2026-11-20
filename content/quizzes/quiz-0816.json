@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0816",
+  "slug": "quiz-0816",
+  "title": "English Practice Quiz 0816",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Reading",
+  "level": "Intermediate",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q073",
+      "category": "Questions",
+      "question": "Choose the correct question.",
+      "options": [
+        "Does she work here?",
+        "Do she work here?",
+        "Is she works here?",
+        "Does she works here?"
+      ],
+      "answer": 0,
+      "explanation": "Use does + subject + base verb with he, she or it."
+    },
+    {
+      "id": "q096",
+      "category": "Reported Speech",
+      "question": "He said, 'I am tired.' Reported speech:",
+      "options": [
+        "He said that he was tired.",
+        "He said I am tired.",
+        "He says that I tired.",
+        "He said he is tire."
+      ],
+      "answer": 0,
+      "explanation": "In standard backshift, am changes to was after a past reporting verb."
+    },
+    {
+      "id": "q004",
+      "category": "Grammar",
+      "question": "There ___ two chairs in the room.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "was"
+      ],
+      "answer": 1,
+      "explanation": "Use are with the plural noun chairs."
+    },
+    {
+      "id": "q027",
+      "category": "Vocabulary",
+      "question": "Choose the correct word: Please ___ the details.",
+      "options": [
+        "confirm",
+        "crowded",
+        "repairing",
+        "hungry"
+      ],
+      "answer": 0,
+      "explanation": "Confirm means to check or establish that something is correct."
+    },
+    {
+      "id": "q050",
+      "category": "Sentence Building",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "There is many books.",
+        "There are many books.",
+        "There be many books.",
+        "There am many books."
+      ],
+      "answer": 1,
+      "explanation": "Use there are with plural nouns."
+    },
+    {
+      "id": "q073",
+      "category": "Questions",
+      "question": "Choose the correct question.",
+      "options": [
+        "Does she work here?",
+        "Do she work here?",
+        "Is she works here?",
+        "Does she works here?"
+      ],
+      "answer": 0,
+      "explanation": "Use does + subject + base verb with he, she or it."
+    },
+    {
+      "id": "q096",
+      "category": "Reported Speech",
+      "question": "He said, 'I am tired.' Reported speech:",
+      "options": [
+        "He said that he was tired.",
+        "He said I am tired.",
+        "He says that I tired.",
+        "He said he is tire."
+      ],
+      "answer": 0,
+      "explanation": "In standard backshift, am changes to was after a past reporting verb."
+    },
+    {
+      "id": "q004",
+      "category": "Grammar",
+      "question": "There ___ two chairs in the room.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "was"
+      ],
+      "answer": 1,
+      "explanation": "Use are with the plural noun chairs."
+    },
+    {
+      "id": "q027",
+      "category": "Vocabulary",
+      "question": "Choose the correct word: Please ___ the details.",
+      "options": [
+        "confirm",
+        "crowded",
+        "repairing",
+        "hungry"
+      ],
+      "answer": 0,
+      "explanation": "Confirm means to check or establish that something is correct."
+    },
+    {
+      "id": "q050",
+      "category": "Sentence Building",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "There is many books.",
+        "There are many books.",
+        "There be many books.",
+        "There am many books."
+      ],
+      "answer": 1,
+      "explanation": "Use there are with plural nouns."
+    }
+  ]
+}

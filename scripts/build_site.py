@@ -25,8 +25,8 @@ def page(title,description,canonical,body,extra_head=""):
 <meta property="og:type" content="article"><meta property="og:title" content="{esc(title)}"><meta property="og:description" content="{esc(description)}"><meta property="og:url" content="{esc(canonical)}">
 <meta name="twitter:card" content="summary"><meta name="theme-color" content="#123b72">
 {extra_head}<link rel="stylesheet" href="/assets/style.css"></head>
-<body><header class="top"><a href="/" class="brand"><span class="brand-mark">E</span><span>English Fluency Guide</span></a><nav aria-label="Main navigation"><a href="/library/">Learning Library</a><a href="/30-day-challenge/">30-Day Challenge</a><a href="/365-day-practice/">365-Day Practice</a></nav></header>
-<main class="wrap">{body}</main><footer><p>© {CFG["site_name"]}. Learn, practise and improve every day.</p><a href="/about/">About</a> · <a href="/privacy/">Privacy</a> · <a href="/contact/">Contact</a></footer><nav class="mobile-nav" aria-label="App navigation"><a href="/"><span>⌂</span><small>Home</small></a><a href="/library/"><span>▦</span><small>Library</small></a><a href="/30-day-challenge/"><span>✓</span><small>30 Days</small></a><a href="/365-day-practice/"><span>◷</span><small>365 Days</small></a></nav></body></html>"""
+<body><header class="top"><a href="/" class="brand"><span class="brand-mark">E</span><span>English Fluency Guide</span></a><nav aria-label="Main navigation"><a href="/library/">Learning Library</a><a href="/30-day-challenge/">30-Day Challenge</a><a href="/365-day-practice/">365-Day Practice</a><a href="/quizzes/">Quizzes</a></nav></header>
+<main class="wrap">{body}</main><footer><p>© {CFG["site_name"]}. Learn, practise and improve every day.</p><a href="/about/">About</a> · <a href="/privacy/">Privacy</a> · <a href="/contact/">Contact</a></footer><nav class="mobile-nav" aria-label="App navigation"><a href="/"><span>⌂</span><small>Home</small></a><a href="/library/"><span>▦</span><small>Library</small></a><a href="/30-day-challenge/"><span>✓</span><small>30 Days</small></a><a href="/365-day-practice/"><span>◷</span><small>365 Days</small></a><a href="/quizzes/"><span>?</span><small>Quizzes</small></a></nav></body></html>"""
 
 def write(rel,content):
     p=OUT/rel
@@ -137,6 +137,23 @@ def main():
         u=f"{BASE}/{route}/"
         write(f"{route}/index.html",page(f"{title} | English Fluency Guide",desc,u,body))
         urls.append(u)
+    # Independent quiz library and interactive quiz pages.
+    QUIZZES=ROOT/"content/quizzes"
+    quiz_files=sorted(QUIZZES.glob("quiz-*.json")) if QUIZZES.exists() else []
+    quiz_cards=[]
+    for qf in quiz_files:
+        q=json.loads(qf.read_text(encoding="utf-8"))
+        qurl=f'/quizzes/{q["slug"]}/'
+        quiz_cards.append(f'<a class="card quiz-list-card" data-title="{esc(q["title"]).lower()}" data-category="{esc(q["category"]).lower()}" href="{qurl}"><span class="badge">{esc(q["level"])}</span><h2>{esc(q["title"])}</h2><p>{esc(q["category"])} · {int(q.get("question_count",10))} questions</p><span class="more">Start quiz →</span></a>')
+        qbody=f'<p class="crumb"><a href="/quizzes/">Quiz Library</a> / {esc(q["category"])}</p><section class="quiz-shell"><div id="quiz-app" data-quiz-url="/data/quizzes/{qf.name}"><div class="quiz-loading"><h1>{esc(q["title"])}</h1><p>Loading your quiz...</p></div></div></section>'
+        qhead='<link rel="stylesheet" href="/assets/quiz.css"><script defer src="/assets/quiz-engine.js"></script>'
+        write(f'quizzes/{q["slug"]}/index.html',page(q["title"]+" | English Fluency Guide",q.get("description","Practise English with an interactive quiz."),BASE+qurl,qbody,qhead))
+        urls.append(BASE+qurl)
+    quiz_index_body=f'<section class="hero"><span class="badge">{len(quiz_files):,} practice quizzes</span><h1>English Quiz Library</h1><p>Practise grammar, vocabulary, tenses, sentence building and real-life English. Learn from every answer.</p></section><div class="quiz-tools"><label for="quiz-search">Find a quiz</label><input id="quiz-search" type="search" placeholder="Search quizzes or topics..."><div class="quiz-filters"><button class="quiz-filter active" data-filter="all">All</button><button class="quiz-filter" data-filter="Grammar">Grammar</button><button class="quiz-filter" data-filter="Vocabulary">Vocabulary</button><button class="quiz-filter" data-filter="Tenses">Tenses</button><button class="quiz-filter" data-filter="Conversation">Conversation</button><button class="quiz-filter" data-filter="Reading">Reading</button></div></div><p id="quiz-count" class="quiz-count"></p><div class="grid" id="quiz-list">{"".join(quiz_cards)}</div><div class="quiz-pagination"><button id="quiz-prev" disabled>Previous</button><span id="quiz-page-label">Page 1</span><button id="quiz-next">Next</button></div>'
+    qindex_head='<link rel="stylesheet" href="/assets/quiz.css"><script defer src="/assets/quiz-list.js"></script>'
+    write("quizzes/index.html",page("1,000 English Quizzes | English Fluency Guide","Practise English with interactive quizzes and explanations.",BASE+"/quizzes/",quiz_index_body,qindex_head))
+    urls.append(BASE+"/quizzes/")
+    if quiz_files: shutil.copytree(QUIZZES,OUT/"data/quizzes",dirs_exist_ok=True)
     # Library home
     topics=[]
     for label,titles in CAT.get("core_library",{}).items():

@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0076",
+  "slug": "quiz-0076",
+  "title": "English Practice Quiz 0076",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Grammar",
+  "level": "Beginner",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q028",
+      "category": "Vocabulary",
+      "question": "A place where medicines are dispensed is a ___.",
+      "options": [
+        "bakery",
+        "pharmacy",
+        "library",
+        "garage"
+      ],
+      "answer": 1,
+      "explanation": "A pharmacy is a place where medicines are prepared or supplied."
+    },
+    {
+      "id": "q051",
+      "category": "Conversation",
+      "question": "Someone says, 'Thank you for your help.' You reply:",
+      "options": [
+        "Never mind you.",
+        "You're welcome.",
+        "I am welcome you.",
+        "No thank."
+      ],
+      "answer": 1,
+      "explanation": "You're welcome is a natural response to thank you."
+    },
+    {
+      "id": "q074",
+      "category": "Questions",
+      "question": "Which question asks for a reason?",
+      "options": [
+        "What happened?",
+        "Where are you?",
+        "Why are you late?",
+        "When is lunch?"
+      ],
+      "answer": 2,
+      "explanation": "Why asks for a reason."
+    },
+    {
+      "id": "q097",
+      "category": "Reported Speech",
+      "question": "She said, 'I can swim.'",
+      "options": [
+        "She said she can swam.",
+        "She said that she could swim.",
+        "She said she swims can.",
+        "She told that could swim."
+      ],
+      "answer": 1,
+      "explanation": "Can commonly changes to could in reported speech after a past reporting verb."
+    },
+    {
+      "id": "q005",
+      "category": "Grammar",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "She don't like tea.",
+        "She doesn't likes tea.",
+        "She doesn't like tea.",
+        "She not like tea."
+      ],
+      "answer": 2,
+      "explanation": "After doesn't, use the base form of the verb: like."
+    },
+    {
+      "id": "q028",
+      "category": "Vocabulary",
+      "question": "A place where medicines are dispensed is a ___.",
+      "options": [
+        "bakery",
+        "pharmacy",
+        "library",
+        "garage"
+      ],
+      "answer": 1,
+      "explanation": "A pharmacy is a place where medicines are prepared or supplied."
+    },
+    {
+      "id": "q051",
+      "category": "Conversation",
+      "question": "Someone says, 'Thank you for your help.' You reply:",
+      "options": [
+        "Never mind you.",
+        "You're welcome.",
+        "I am welcome you.",
+        "No thank."
+      ],
+      "answer": 1,
+      "explanation": "You're welcome is a natural response to thank you."
+    },
+    {
+      "id": "q074",
+      "category": "Questions",
+      "question": "Which question asks for a reason?",
+      "options": [
+        "What happened?",
+        "Where are you?",
+        "Why are you late?",
+        "When is lunch?"
+      ],
+      "answer": 2,
+      "explanation": "Why asks for a reason."
+    },
+    {
+      "id": "q097",
+      "category": "Reported Speech",
+      "question": "She said, 'I can swim.'",
+      "options": [
+        "She said she can swam.",
+        "She said that she could swim.",
+        "She said she swims can.",
+        "She told that could swim."
+      ],
+      "answer": 1,
+      "explanation": "Can commonly changes to could in reported speech after a past reporting verb."
+    },
+    {
+      "id": "q005",
+      "category": "Grammar",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "She don't like tea.",
+        "She doesn't likes tea.",
+        "She doesn't like tea.",
+        "She not like tea."
+      ],
+      "answer": 2,
+      "explanation": "After doesn't, use the base form of the verb: like."
+    }
+  ]
+}

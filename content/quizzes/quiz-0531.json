@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0531",
+  "slug": "quiz-0531",
+  "title": "English Practice Quiz 0531",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Modals",
+  "level": "Elementary",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q058",
+      "category": "Pronunciation",
+      "question": "Which word has the /ʃ/ sound as in 'ship'?",
+      "options": [
+        "sip",
+        "shop",
+        "zip",
+        "tip"
+      ],
+      "answer": 1,
+      "explanation": "Shop begins with the /ʃ/ sound."
+    },
+    {
+      "id": "q067",
+      "category": "Workplace English",
+      "question": "You have completed a task. You say:",
+      "options": [
+        "The task is complete.",
+        "The task complete yesterday tomorrow.",
+        "I task finish.",
+        "Task is completing me."
+      ],
+      "answer": 0,
+      "explanation": "The task is complete is a clear status update."
+    },
+    {
+      "id": "q076",
+      "category": "Punctuation",
+      "question": "Choose the correctly punctuated sentence.",
+      "options": [
+        "where are you.",
+        "Where are you?",
+        "Where are you,",
+        "where are you!"
+      ],
+      "answer": 1,
+      "explanation": "Start with a capital letter and use a question mark."
+    },
+    {
+      "id": "q085",
+      "category": "Confusing Words",
+      "question": "The bus is ___ than the car today.",
+      "options": [
+        "fast",
+        "faster",
+        "fastest",
+        "more fast"
+      ],
+      "answer": 1,
+      "explanation": "Use the comparative form faster when comparing two things."
+    },
+    {
+      "id": "q094",
+      "category": "Passive Voice",
+      "question": "English ___ in many countries.",
+      "options": [
+        "speaks",
+        "is spoken",
+        "spoken",
+        "is speaking"
+      ],
+      "answer": 1,
+      "explanation": "Present simple passive: is spoken."
+    },
+    {
+      "id": "q103",
+      "category": "Determiners",
+      "question": "I have ___ friends in this city.",
+      "options": [
+        "a little",
+        "a few",
+        "much",
+        "anyone"
+      ],
+      "answer": 1,
+      "explanation": "A few is used with countable plural nouns."
+    },
+    {
+      "id": "q112",
+      "category": "Gerunds",
+      "question": "He decided ___ early.",
+      "options": [
+        "leave",
+        "leaving",
+        "to leave",
+        "leaves"
+      ],
+      "answer": 2,
+      "explanation": "Decide is commonly followed by a to-infinitive."
+    },
+    {
+      "id": "q006",
+      "category": "Grammar",
+      "question": "He is ___ honest man.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": 1,
+      "explanation": "Use an before a vowel sound. Honest begins with a silent h."
+    },
+    {
+      "id": "q015",
+      "category": "Tenses",
+      "question": "She ___ the report before the manager arrived.",
+      "options": [
+        "finished",
+        "has finished",
+        "had finished",
+        "finishes"
+      ],
+      "answer": 2,
+      "explanation": "Use the past perfect for an action completed before another past action."
+    },
+    {
+      "id": "q024",
+      "category": "Vocabulary",
+      "question": "If a task is 'urgent', it needs ___.",
+      "options": [
+        "no attention",
+        "quick attention",
+        "a holiday",
+        "a receipt"
+      ],
+      "answer": 1,
+      "explanation": "Urgent means requiring immediate or prompt attention."
+    }
+  ]
+}

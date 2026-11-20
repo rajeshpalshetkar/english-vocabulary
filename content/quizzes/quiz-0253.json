@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0253",
+  "slug": "quiz-0253",
+  "title": "English Practice Quiz 0253",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Vocabulary",
+  "level": "Elementary",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q047",
+      "category": "Sentence Building",
+      "question": "Choose the correct question.",
+      "options": [
+        "Where you live?",
+        "Where do you live?",
+        "Where does you live?",
+        "Where are live you?"
+      ],
+      "answer": 1,
+      "explanation": "Use do + subject + base verb for present simple questions with you."
+    },
+    {
+      "id": "q060",
+      "category": "Pronunciation",
+      "question": "How many syllables are in 'computer'?",
+      "options": [
+        "one",
+        "two",
+        "three",
+        "four"
+      ],
+      "answer": 2,
+      "explanation": "Computer is commonly pronounced with three syllables: com-pu-ter."
+    },
+    {
+      "id": "q073",
+      "category": "Questions",
+      "question": "Choose the correct question.",
+      "options": [
+        "Does she work here?",
+        "Do she work here?",
+        "Is she works here?",
+        "Does she works here?"
+      ],
+      "answer": 0,
+      "explanation": "Use does + subject + base verb with he, she or it."
+    },
+    {
+      "id": "q086",
+      "category": "Conditionals",
+      "question": "If it rains, we ___ indoors.",
+      "options": [
+        "stay",
+        "will stay",
+        "stayed",
+        "would stayed"
+      ],
+      "answer": 1,
+      "explanation": "The first conditional uses if + present simple, will + base verb."
+    },
+    {
+      "id": "q099",
+      "category": "Reported Speech",
+      "question": "She said, 'Please sit down.'",
+      "options": [
+        "She told me sit down.",
+        "She asked me to sit down.",
+        "She said me to sit.",
+        "She asked that I sat."
+      ],
+      "answer": 1,
+      "explanation": "A request can be reported with asked + object + to-infinitive."
+    },
+    {
+      "id": "q112",
+      "category": "Gerunds",
+      "question": "He decided ___ early.",
+      "options": [
+        "leave",
+        "leaving",
+        "to leave",
+        "leaves"
+      ],
+      "answer": 2,
+      "explanation": "Decide is commonly followed by a to-infinitive."
+    },
+    {
+      "id": "q010",
+      "category": "Grammar",
+      "question": "You ___ wear your identity card at work.",
+      "options": [
+        "should to",
+        "should",
+        "are should",
+        "shoulds"
+      ],
+      "answer": 1,
+      "explanation": "Modal verbs such as should are followed by the base verb without to."
+    },
+    {
+      "id": "q023",
+      "category": "Vocabulary",
+      "question": "A synonym of 'begin' is ___.",
+      "options": [
+        "finish",
+        "start",
+        "stop",
+        "close"
+      ],
+      "answer": 1,
+      "explanation": "Start has the same basic meaning as begin."
+    },
+    {
+      "id": "q036",
+      "category": "Prepositions",
+      "question": "The meeting starts ___ 9 a.m.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "by"
+      ],
+      "answer": 2,
+      "explanation": "Use at for a specific clock time."
+    },
+    {
+      "id": "q049",
+      "category": "Sentence Building",
+      "question": "Choose the correct plural of 'child'.",
+      "options": [
+        "childs",
+        "childes",
+        "children",
+        "childrens"
+      ],
+      "answer": 2,
+      "explanation": "Children is the irregular plural of child."
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0343",
+  "slug": "quiz-0343",
+  "title": "English Practice Quiz 0343",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Articles",
+  "level": "Elementary",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q082",
+      "category": "Confusing Words",
+      "question": "The weather can ___ your travel plans.",
+      "options": [
+        "affect",
+        "effect",
+        "infect",
+        "effort"
+      ],
+      "answer": 0,
+      "explanation": "Affect is usually a verb meaning to influence."
+    },
+    {
+      "id": "q095",
+      "category": "Passive Voice",
+      "question": "The windows ___ every week.",
+      "options": [
+        "are cleaned",
+        "clean",
+        "is cleaned",
+        "cleaning"
+      ],
+      "answer": 0,
+      "explanation": "Plural subject windows takes are + past participle."
+    },
+    {
+      "id": "q108",
+      "category": "Adverbs",
+      "question": "He speaks English ___.",
+      "options": [
+        "clear",
+        "clearly",
+        "clarity",
+        "clearest"
+      ],
+      "answer": 1,
+      "explanation": "Clearly is the adverb describing how he speaks."
+    },
+    {
+      "id": "q006",
+      "category": "Grammar",
+      "question": "He is ___ honest man.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": 1,
+      "explanation": "Use an before a vowel sound. Honest begins with a silent h."
+    },
+    {
+      "id": "q019",
+      "category": "Tenses",
+      "question": "She ___ in this hospital for five years.",
+      "options": [
+        "works",
+        "worked",
+        "has worked",
+        "is work"
+      ],
+      "answer": 2,
+      "explanation": "The present perfect can describe a situation continuing to the present."
+    },
+    {
+      "id": "q032",
+      "category": "Articles",
+      "question": "She is ___ university student.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": 0,
+      "explanation": "University begins with the consonant sound /y/, so use a."
+    },
+    {
+      "id": "q045",
+      "category": "Modals",
+      "question": "It ___ rain later; take an umbrella.",
+      "options": [
+        "might",
+        "mustn't",
+        "shouldn't",
+        "has"
+      ],
+      "answer": 0,
+      "explanation": "Might expresses possibility."
+    },
+    {
+      "id": "q058",
+      "category": "Pronunciation",
+      "question": "Which word has the /ʃ/ sound as in 'ship'?",
+      "options": [
+        "sip",
+        "shop",
+        "zip",
+        "tip"
+      ],
+      "answer": 1,
+      "explanation": "Shop begins with the /ʃ/ sound."
+    },
+    {
+      "id": "q071",
+      "category": "Questions",
+      "question": "Choose the correct WH question for a place.",
+      "options": [
+        "When do you live?",
+        "Where do you live?",
+        "Who do you live?",
+        "Why do you live?"
+      ],
+      "answer": 1,
+      "explanation": "Where asks about a place or location."
+    },
+    {
+      "id": "q084",
+      "category": "Confusing Words",
+      "question": "I have ___ my keys.",
+      "options": [
+        "loose",
+        "lose",
+        "lost",
+        "loss"
+      ],
+      "answer": 2,
+      "explanation": "Lost is the past participle of lose."
+    }
+  ]
+}

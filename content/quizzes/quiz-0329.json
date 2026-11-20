@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0329",
+  "slug": "quiz-0329",
+  "title": "English Practice Quiz 0329",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Articles",
+  "level": "Elementary",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q074",
+      "category": "Questions",
+      "question": "Which question asks for a reason?",
+      "options": [
+        "What happened?",
+        "Where are you?",
+        "Why are you late?",
+        "When is lunch?"
+      ],
+      "answer": 2,
+      "explanation": "Why asks for a reason."
+    },
+    {
+      "id": "q111",
+      "category": "Gerunds",
+      "question": "I enjoy ___ books.",
+      "options": [
+        "read",
+        "to read",
+        "reading",
+        "reads"
+      ],
+      "answer": 2,
+      "explanation": "Enjoy is followed by a gerund (-ing form)."
+    },
+    {
+      "id": "q033",
+      "category": "Articles",
+      "question": "Please close ___ door.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": 2,
+      "explanation": "The refers to a specific door known to the speaker and listener."
+    },
+    {
+      "id": "q070",
+      "category": "Workplace English",
+      "question": "To confirm an instruction, you can say:",
+      "options": [
+        "Could you please confirm the details?",
+        "I not listen.",
+        "Confirm me now.",
+        "Details no."
+      ],
+      "answer": 0,
+      "explanation": "Could you please confirm... is polite and precise."
+    },
+    {
+      "id": "q107",
+      "category": "Adjectives",
+      "question": "She is the ___ student in the class.",
+      "options": [
+        "tall",
+        "taller",
+        "tallest",
+        "more tall"
+      ],
+      "answer": 2,
+      "explanation": "Use the superlative tallest when comparing one with the whole class."
+    },
+    {
+      "id": "q029",
+      "category": "Vocabulary",
+      "question": "What is the meaning of 'available'?",
+      "options": [
+        "not possible to use",
+        "ready or able to be used",
+        "very expensive",
+        "already broken"
+      ],
+      "answer": 1,
+      "explanation": "Available means ready for use or accessible."
+    },
+    {
+      "id": "q066",
+      "category": "Workplace English",
+      "question": "A professional way to ask for a file is:",
+      "options": [
+        "Give file now.",
+        "Could you please share the file?",
+        "File give me.",
+        "You must file."
+      ],
+      "answer": 1,
+      "explanation": "Could you please is a polite and professional request."
+    },
+    {
+      "id": "q103",
+      "category": "Determiners",
+      "question": "I have ___ friends in this city.",
+      "options": [
+        "a little",
+        "a few",
+        "much",
+        "anyone"
+      ],
+      "answer": 1,
+      "explanation": "A few is used with countable plural nouns."
+    },
+    {
+      "id": "q025",
+      "category": "Vocabulary",
+      "question": "A person you can trust is ___.",
+      "options": [
+        "reliable",
+        "careless",
+        "silent",
+        "narrow"
+      ],
+      "answer": 0,
+      "explanation": "Reliable means dependable or trustworthy."
+    },
+    {
+      "id": "q062",
+      "category": "Reading",
+      "question": "Read: 'The shop closes at 9 p.m., but it opens at 10 a.m.' When does it open?",
+      "options": [
+        "9 a.m.",
+        "10 a.m.",
+        "9 p.m.",
+        "10 p.m."
+      ],
+      "answer": 1,
+      "explanation": "The opening time given is 10 a.m."
+    }
+  ]
+}

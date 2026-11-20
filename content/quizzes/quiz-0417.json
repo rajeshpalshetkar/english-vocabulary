@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0417",
+  "slug": "quiz-0417",
+  "title": "English Practice Quiz 0417",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Prepositions",
+  "level": "Elementary",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q075",
+      "category": "Questions",
+      "question": "Choose the correct question tag: 'You are ready, ___?'",
+      "options": [
+        "are you",
+        "aren't you",
+        "do you",
+        "don't you"
+      ],
+      "answer": 1,
+      "explanation": "A positive statement with are usually takes the negative tag aren't you."
+    },
+    {
+      "id": "q104",
+      "category": "Determiners",
+      "question": "There is ___ water in the bottle.",
+      "options": [
+        "a few",
+        "many",
+        "a little",
+        "several"
+      ],
+      "answer": 2,
+      "explanation": "A little is used with uncountable nouns."
+    },
+    {
+      "id": "q018",
+      "category": "Tenses",
+      "question": "I ___ him last week.",
+      "options": [
+        "see",
+        "have seen",
+        "saw",
+        "seeing"
+      ],
+      "answer": 2,
+      "explanation": "Use the past simple with a finished past time such as last week."
+    },
+    {
+      "id": "q047",
+      "category": "Sentence Building",
+      "question": "Choose the correct question.",
+      "options": [
+        "Where you live?",
+        "Where do you live?",
+        "Where does you live?",
+        "Where are live you?"
+      ],
+      "answer": 1,
+      "explanation": "Use do + subject + base verb for present simple questions with you."
+    },
+    {
+      "id": "q076",
+      "category": "Punctuation",
+      "question": "Choose the correctly punctuated sentence.",
+      "options": [
+        "where are you.",
+        "Where are you?",
+        "Where are you,",
+        "where are you!"
+      ],
+      "answer": 1,
+      "explanation": "Start with a capital letter and use a question mark."
+    },
+    {
+      "id": "q105",
+      "category": "Determiners",
+      "question": "___ student must bring an ID card.",
+      "options": [
+        "Each",
+        "Many",
+        "Few",
+        "Several"
+      ],
+      "answer": 0,
+      "explanation": "Each refers to every individual in a group."
+    },
+    {
+      "id": "q019",
+      "category": "Tenses",
+      "question": "She ___ in this hospital for five years.",
+      "options": [
+        "works",
+        "worked",
+        "has worked",
+        "is work"
+      ],
+      "answer": 2,
+      "explanation": "The present perfect can describe a situation continuing to the present."
+    },
+    {
+      "id": "q048",
+      "category": "Sentence Building",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "Because I was tired, I went to bed early.",
+        "Because I tired, went bed early.",
+        "I because was tired bed early.",
+        "Because tired I went early bed."
+      ],
+      "answer": 0,
+      "explanation": "The subordinate clause beginning with because explains the reason."
+    },
+    {
+      "id": "q077",
+      "category": "Punctuation",
+      "question": "Which sentence uses the apostrophe correctly?",
+      "options": [
+        "The guards uniform is blue.",
+        "The guard's uniform is blue.",
+        "The guards' uniform is blue. (one guard)",
+        "The guard uniform's is blue."
+      ],
+      "answer": 1,
+      "explanation": "Guard's shows possession by one guard."
+    },
+    {
+      "id": "q106",
+      "category": "Adjectives",
+      "question": "The test was ___ than I expected.",
+      "options": [
+        "easy",
+        "easier",
+        "easiest",
+        "more easy"
+      ],
+      "answer": 1,
+      "explanation": "Use the comparative form easier."
+    }
+  ]
+}

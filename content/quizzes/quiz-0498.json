@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0498",
+  "slug": "quiz-0498",
+  "title": "English Practice Quiz 0498",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Prepositions",
+  "level": "Elementary",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q072",
+      "category": "Questions",
+      "question": "Which question asks about time?",
+      "options": [
+        "Who is calling?",
+        "When does the train leave?",
+        "Where is the station?",
+        "Why are you here?"
+      ],
+      "answer": 1,
+      "explanation": "When asks about time."
+    },
+    {
+      "id": "q103",
+      "category": "Determiners",
+      "question": "I have ___ friends in this city.",
+      "options": [
+        "a little",
+        "a few",
+        "much",
+        "anyone"
+      ],
+      "answer": 1,
+      "explanation": "A few is used with countable plural nouns."
+    },
+    {
+      "id": "q019",
+      "category": "Tenses",
+      "question": "She ___ in this hospital for five years.",
+      "options": [
+        "works",
+        "worked",
+        "has worked",
+        "is work"
+      ],
+      "answer": 2,
+      "explanation": "The present perfect can describe a situation continuing to the present."
+    },
+    {
+      "id": "q050",
+      "category": "Sentence Building",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "There is many books.",
+        "There are many books.",
+        "There be many books.",
+        "There am many books."
+      ],
+      "answer": 1,
+      "explanation": "Use there are with plural nouns."
+    },
+    {
+      "id": "q081",
+      "category": "Confusing Words",
+      "question": "Choose the correct word: ___ going to arrive soon.",
+      "options": [
+        "Their",
+        "There",
+        "They're",
+        "Theirs"
+      ],
+      "answer": 2,
+      "explanation": "They're is the contraction of they are."
+    },
+    {
+      "id": "q112",
+      "category": "Gerunds",
+      "question": "He decided ___ early.",
+      "options": [
+        "leave",
+        "leaving",
+        "to leave",
+        "leaves"
+      ],
+      "answer": 2,
+      "explanation": "Decide is commonly followed by a to-infinitive."
+    },
+    {
+      "id": "q028",
+      "category": "Vocabulary",
+      "question": "A place where medicines are dispensed is a ___.",
+      "options": [
+        "bakery",
+        "pharmacy",
+        "library",
+        "garage"
+      ],
+      "answer": 1,
+      "explanation": "A pharmacy is a place where medicines are prepared or supplied."
+    },
+    {
+      "id": "q059",
+      "category": "Pronunciation",
+      "question": "Which word rhymes with 'light'?",
+      "options": [
+        "late",
+        "lit",
+        "night",
+        "let"
+      ],
+      "answer": 2,
+      "explanation": "Light and night share the same ending sound."
+    },
+    {
+      "id": "q090",
+      "category": "Conditionals",
+      "question": "If I were you, I ___ apologise.",
+      "options": [
+        "will",
+        "would",
+        "am",
+        "did"
+      ],
+      "answer": 1,
+      "explanation": "If I were you is followed by would for advice."
+    },
+    {
+      "id": "q006",
+      "category": "Grammar",
+      "question": "He is ___ honest man.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": 1,
+      "explanation": "Use an before a vowel sound. Honest begins with a silent h."
+    }
+  ]
+}

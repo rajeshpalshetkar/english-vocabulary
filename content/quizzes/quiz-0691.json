@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0691",
+  "slug": "quiz-0691",
+  "title": "English Practice Quiz 0691",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Sentence Building",
+  "level": "Intermediate",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q018",
+      "category": "Tenses",
+      "question": "I ___ him last week.",
+      "options": [
+        "see",
+        "have seen",
+        "saw",
+        "seeing"
+      ],
+      "answer": 2,
+      "explanation": "Use the past simple with a finished past time such as last week."
+    },
+    {
+      "id": "q027",
+      "category": "Vocabulary",
+      "question": "Choose the correct word: Please ___ the details.",
+      "options": [
+        "confirm",
+        "crowded",
+        "repairing",
+        "hungry"
+      ],
+      "answer": 0,
+      "explanation": "Confirm means to check or establish that something is correct."
+    },
+    {
+      "id": "q036",
+      "category": "Prepositions",
+      "question": "The meeting starts ___ 9 a.m.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "by"
+      ],
+      "answer": 2,
+      "explanation": "Use at for a specific clock time."
+    },
+    {
+      "id": "q045",
+      "category": "Modals",
+      "question": "It ___ rain later; take an umbrella.",
+      "options": [
+        "might",
+        "mustn't",
+        "shouldn't",
+        "has"
+      ],
+      "answer": 0,
+      "explanation": "Might expresses possibility."
+    },
+    {
+      "id": "q054",
+      "category": "Conversation",
+      "question": "You need a moment to think. You say:",
+      "options": [
+        "Let me think for a moment.",
+        "I no idea ever.",
+        "Wait your mouth.",
+        "I am think."
+      ],
+      "answer": 0,
+      "explanation": "This phrase politely signals that you need a little time."
+    },
+    {
+      "id": "q063",
+      "category": "Reading",
+      "question": "Read: 'Ravi practises English for twenty minutes every evening.' How long does he practise?",
+      "options": [
+        "Ten minutes",
+        "Twenty minutes",
+        "Thirty minutes",
+        "One hour"
+      ],
+      "answer": 1,
+      "explanation": "The passage states twenty minutes."
+    },
+    {
+      "id": "q072",
+      "category": "Questions",
+      "question": "Which question asks about time?",
+      "options": [
+        "Who is calling?",
+        "When does the train leave?",
+        "Where is the station?",
+        "Why are you here?"
+      ],
+      "answer": 1,
+      "explanation": "When asks about time."
+    },
+    {
+      "id": "q081",
+      "category": "Confusing Words",
+      "question": "Choose the correct word: ___ going to arrive soon.",
+      "options": [
+        "Their",
+        "There",
+        "They're",
+        "Theirs"
+      ],
+      "answer": 2,
+      "explanation": "They're is the contraction of they are."
+    },
+    {
+      "id": "q090",
+      "category": "Conditionals",
+      "question": "If I were you, I ___ apologise.",
+      "options": [
+        "will",
+        "would",
+        "am",
+        "did"
+      ],
+      "answer": 1,
+      "explanation": "If I were you is followed by would for advice."
+    },
+    {
+      "id": "q099",
+      "category": "Reported Speech",
+      "question": "She said, 'Please sit down.'",
+      "options": [
+        "She told me sit down.",
+        "She asked me to sit down.",
+        "She said me to sit.",
+        "She asked that I sat."
+      ],
+      "answer": 1,
+      "explanation": "A request can be reported with asked + object + to-infinitive."
+    }
+  ]
+}

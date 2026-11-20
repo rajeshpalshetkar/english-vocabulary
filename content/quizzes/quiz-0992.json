@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0992",
+  "slug": "quiz-0992",
+  "title": "English Practice Quiz 0992",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Workplace English",
+  "level": "Advanced",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q075",
+      "category": "Questions",
+      "question": "Choose the correct question tag: 'You are ready, ___?'",
+      "options": [
+        "are you",
+        "aren't you",
+        "do you",
+        "don't you"
+      ],
+      "answer": 1,
+      "explanation": "A positive statement with are usually takes the negative tag aren't you."
+    },
+    {
+      "id": "q086",
+      "category": "Conditionals",
+      "question": "If it rains, we ___ indoors.",
+      "options": [
+        "stay",
+        "will stay",
+        "stayed",
+        "would stayed"
+      ],
+      "answer": 1,
+      "explanation": "The first conditional uses if + present simple, will + base verb."
+    },
+    {
+      "id": "q097",
+      "category": "Reported Speech",
+      "question": "She said, 'I can swim.'",
+      "options": [
+        "She said she can swam.",
+        "She said that she could swim.",
+        "She said she swims can.",
+        "She told that could swim."
+      ],
+      "answer": 1,
+      "explanation": "Can commonly changes to could in reported speech after a past reporting verb."
+    },
+    {
+      "id": "q108",
+      "category": "Adverbs",
+      "question": "He speaks English ___.",
+      "options": [
+        "clear",
+        "clearly",
+        "clarity",
+        "clearest"
+      ],
+      "answer": 1,
+      "explanation": "Clearly is the adverb describing how he speaks."
+    },
+    {
+      "id": "q004",
+      "category": "Grammar",
+      "question": "There ___ two chairs in the room.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "was"
+      ],
+      "answer": 1,
+      "explanation": "Use are with the plural noun chairs."
+    },
+    {
+      "id": "q015",
+      "category": "Tenses",
+      "question": "She ___ the report before the manager arrived.",
+      "options": [
+        "finished",
+        "has finished",
+        "had finished",
+        "finishes"
+      ],
+      "answer": 2,
+      "explanation": "Use the past perfect for an action completed before another past action."
+    },
+    {
+      "id": "q026",
+      "category": "Vocabulary",
+      "question": "What does 'borrow' mean?",
+      "options": [
+        "give something forever",
+        "take something temporarily and return it",
+        "break something",
+        "buy something"
+      ],
+      "answer": 1,
+      "explanation": "Borrow means to take something for a period and return it."
+    },
+    {
+      "id": "q037",
+      "category": "Prepositions",
+      "question": "My birthday is ___ July.",
+      "options": [
+        "at",
+        "in",
+        "on",
+        "from"
+      ],
+      "answer": 1,
+      "explanation": "Use in with months."
+    },
+    {
+      "id": "q048",
+      "category": "Sentence Building",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "Because I was tired, I went to bed early.",
+        "Because I tired, went bed early.",
+        "I because was tired bed early.",
+        "Because tired I went early bed."
+      ],
+      "answer": 0,
+      "explanation": "The subordinate clause beginning with because explains the reason."
+    },
+    {
+      "id": "q059",
+      "category": "Pronunciation",
+      "question": "Which word rhymes with 'light'?",
+      "options": [
+        "late",
+        "lit",
+        "night",
+        "let"
+      ],
+      "answer": 2,
+      "explanation": "Light and night share the same ending sound."
+    }
+  ]
+}

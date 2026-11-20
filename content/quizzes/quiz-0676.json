@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0676",
+  "slug": "quiz-0676",
+  "title": "English Practice Quiz 0676",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Sentence Building",
+  "level": "Intermediate",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q108",
+      "category": "Adverbs",
+      "question": "He speaks English ___.",
+      "options": [
+        "clear",
+        "clearly",
+        "clarity",
+        "clearest"
+      ],
+      "answer": 1,
+      "explanation": "Clearly is the adverb describing how he speaks."
+    },
+    {
+      "id": "q016",
+      "category": "Tenses",
+      "question": "Water ___ at 100°C at sea level.",
+      "options": [
+        "boil",
+        "boils",
+        "is boiling",
+        "boiled"
+      ],
+      "answer": 1,
+      "explanation": "Use the present simple for general facts."
+    },
+    {
+      "id": "q039",
+      "category": "Prepositions",
+      "question": "She is interested ___ music.",
+      "options": [
+        "on",
+        "at",
+        "in",
+        "for"
+      ],
+      "answer": 2,
+      "explanation": "The adjective interested is followed by in."
+    },
+    {
+      "id": "q062",
+      "category": "Reading",
+      "question": "Read: 'The shop closes at 9 p.m., but it opens at 10 a.m.' When does it open?",
+      "options": [
+        "9 a.m.",
+        "10 a.m.",
+        "9 p.m.",
+        "10 p.m."
+      ],
+      "answer": 1,
+      "explanation": "The opening time given is 10 a.m."
+    },
+    {
+      "id": "q085",
+      "category": "Confusing Words",
+      "question": "The bus is ___ than the car today.",
+      "options": [
+        "fast",
+        "faster",
+        "fastest",
+        "more fast"
+      ],
+      "answer": 1,
+      "explanation": "Use the comparative form faster when comparing two things."
+    },
+    {
+      "id": "q108",
+      "category": "Adverbs",
+      "question": "He speaks English ___.",
+      "options": [
+        "clear",
+        "clearly",
+        "clarity",
+        "clearest"
+      ],
+      "answer": 1,
+      "explanation": "Clearly is the adverb describing how he speaks."
+    },
+    {
+      "id": "q016",
+      "category": "Tenses",
+      "question": "Water ___ at 100°C at sea level.",
+      "options": [
+        "boil",
+        "boils",
+        "is boiling",
+        "boiled"
+      ],
+      "answer": 1,
+      "explanation": "Use the present simple for general facts."
+    },
+    {
+      "id": "q039",
+      "category": "Prepositions",
+      "question": "She is interested ___ music.",
+      "options": [
+        "on",
+        "at",
+        "in",
+        "for"
+      ],
+      "answer": 2,
+      "explanation": "The adjective interested is followed by in."
+    },
+    {
+      "id": "q062",
+      "category": "Reading",
+      "question": "Read: 'The shop closes at 9 p.m., but it opens at 10 a.m.' When does it open?",
+      "options": [
+        "9 a.m.",
+        "10 a.m.",
+        "9 p.m.",
+        "10 p.m."
+      ],
+      "answer": 1,
+      "explanation": "The opening time given is 10 a.m."
+    },
+    {
+      "id": "q085",
+      "category": "Confusing Words",
+      "question": "The bus is ___ than the car today.",
+      "options": [
+        "fast",
+        "faster",
+        "fastest",
+        "more fast"
+      ],
+      "answer": 1,
+      "explanation": "Use the comparative form faster when comparing two things."
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0167",
+  "slug": "quiz-0167",
+  "title": "English Practice Quiz 0167",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Tenses",
+  "level": "Beginner",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q080",
+      "category": "Punctuation",
+      "question": "Choose the correctly written date phrase.",
+      "options": [
+        "on monday",
+        "on Monday",
+        "On monday",
+        "on Monday."
+      ],
+      "answer": 1,
+      "explanation": "Days of the week begin with a capital letter."
+    },
+    {
+      "id": "q109",
+      "category": "Adverbs",
+      "question": "She arrived ___.",
+      "options": [
+        "late",
+        "lately",
+        "latest",
+        "laterly"
+      ],
+      "answer": 0,
+      "explanation": "Late is the correct adverb meaning not on time."
+    },
+    {
+      "id": "q023",
+      "category": "Vocabulary",
+      "question": "A synonym of 'begin' is ___.",
+      "options": [
+        "finish",
+        "start",
+        "stop",
+        "close"
+      ],
+      "answer": 1,
+      "explanation": "Start has the same basic meaning as begin."
+    },
+    {
+      "id": "q052",
+      "category": "Conversation",
+      "question": "You did not hear someone. You say:",
+      "options": [
+        "Speak now!",
+        "Could you repeat that, please?",
+        "What your problem?",
+        "I don't hear you yesterday."
+      ],
+      "answer": 1,
+      "explanation": "Could you repeat that, please? is a polite request."
+    },
+    {
+      "id": "q081",
+      "category": "Confusing Words",
+      "question": "Choose the correct word: ___ going to arrive soon.",
+      "options": [
+        "Their",
+        "There",
+        "They're",
+        "Theirs"
+      ],
+      "answer": 2,
+      "explanation": "They're is the contraction of they are."
+    },
+    {
+      "id": "q110",
+      "category": "Adverbs",
+      "question": "Please drive ___.",
+      "options": [
+        "careful",
+        "carefully",
+        "care",
+        "caring"
+      ],
+      "answer": 1,
+      "explanation": "Carefully is the adverb modifying drive."
+    },
+    {
+      "id": "q024",
+      "category": "Vocabulary",
+      "question": "If a task is 'urgent', it needs ___.",
+      "options": [
+        "no attention",
+        "quick attention",
+        "a holiday",
+        "a receipt"
+      ],
+      "answer": 1,
+      "explanation": "Urgent means requiring immediate or prompt attention."
+    },
+    {
+      "id": "q053",
+      "category": "Conversation",
+      "question": "A visitor asks, 'Where is reception?' You say:",
+      "options": [
+        "It is near the main entrance.",
+        "I am reception.",
+        "Yesterday at home.",
+        "No, it isn't."
+      ],
+      "answer": 0,
+      "explanation": "Give a clear location using a complete sentence."
+    },
+    {
+      "id": "q082",
+      "category": "Confusing Words",
+      "question": "The weather can ___ your travel plans.",
+      "options": [
+        "affect",
+        "effect",
+        "infect",
+        "effort"
+      ],
+      "answer": 0,
+      "explanation": "Affect is usually a verb meaning to influence."
+    },
+    {
+      "id": "q111",
+      "category": "Gerunds",
+      "question": "I enjoy ___ books.",
+      "options": [
+        "read",
+        "to read",
+        "reading",
+        "reads"
+      ],
+      "answer": 2,
+      "explanation": "Enjoy is followed by a gerund (-ing form)."
+    }
+  ]
+}

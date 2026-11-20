@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0083",
+  "slug": "quiz-0083",
+  "title": "English Practice Quiz 0083",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Grammar",
+  "level": "Beginner",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q032",
+      "category": "Articles",
+      "question": "She is ___ university student.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": 0,
+      "explanation": "University begins with the consonant sound /y/, so use a."
+    },
+    {
+      "id": "q045",
+      "category": "Modals",
+      "question": "It ___ rain later; take an umbrella.",
+      "options": [
+        "might",
+        "mustn't",
+        "shouldn't",
+        "has"
+      ],
+      "answer": 0,
+      "explanation": "Might expresses possibility."
+    },
+    {
+      "id": "q058",
+      "category": "Pronunciation",
+      "question": "Which word has the /ʃ/ sound as in 'ship'?",
+      "options": [
+        "sip",
+        "shop",
+        "zip",
+        "tip"
+      ],
+      "answer": 1,
+      "explanation": "Shop begins with the /ʃ/ sound."
+    },
+    {
+      "id": "q071",
+      "category": "Questions",
+      "question": "Choose the correct WH question for a place.",
+      "options": [
+        "When do you live?",
+        "Where do you live?",
+        "Who do you live?",
+        "Why do you live?"
+      ],
+      "answer": 1,
+      "explanation": "Where asks about a place or location."
+    },
+    {
+      "id": "q084",
+      "category": "Confusing Words",
+      "question": "I have ___ my keys.",
+      "options": [
+        "loose",
+        "lose",
+        "lost",
+        "loss"
+      ],
+      "answer": 2,
+      "explanation": "Lost is the past participle of lose."
+    },
+    {
+      "id": "q097",
+      "category": "Reported Speech",
+      "question": "She said, 'I can swim.'",
+      "options": [
+        "She said she can swam.",
+        "She said that she could swim.",
+        "She said she swims can.",
+        "She told that could swim."
+      ],
+      "answer": 1,
+      "explanation": "Can commonly changes to could in reported speech after a past reporting verb."
+    },
+    {
+      "id": "q110",
+      "category": "Adverbs",
+      "question": "Please drive ___.",
+      "options": [
+        "careful",
+        "carefully",
+        "care",
+        "caring"
+      ],
+      "answer": 1,
+      "explanation": "Carefully is the adverb modifying drive."
+    },
+    {
+      "id": "q008",
+      "category": "Grammar",
+      "question": "This is the woman ___ helped me.",
+      "options": [
+        "which",
+        "who",
+        "where",
+        "when"
+      ],
+      "answer": 1,
+      "explanation": "Who is used for people."
+    },
+    {
+      "id": "q021",
+      "category": "Vocabulary",
+      "question": "A person who repairs water pipes is a ___.",
+      "options": [
+        "carpenter",
+        "plumber",
+        "tailor",
+        "baker"
+      ],
+      "answer": 1,
+      "explanation": "A plumber installs and repairs water pipes and fittings."
+    },
+    {
+      "id": "q034",
+      "category": "Articles",
+      "question": "He wants to become ___ engineer.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": 1,
+      "explanation": "Engineer begins with a vowel sound, so use an."
+    }
+  ]
+}

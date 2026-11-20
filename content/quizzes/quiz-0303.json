@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0303",
+  "slug": "quiz-0303",
+  "title": "English Practice Quiz 0303",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Articles",
+  "level": "Elementary",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q092",
+      "category": "Passive Voice",
+      "question": "Choose the passive form: 'The manager signed the letter.'",
+      "options": [
+        "The letter is signed.",
+        "The letter was signed by the manager.",
+        "The letter signed the manager.",
+        "The letter has sign."
+      ],
+      "answer": 1,
+      "explanation": "Past simple passive: was/were + past participle."
+    },
+    {
+      "id": "q105",
+      "category": "Determiners",
+      "question": "___ student must bring an ID card.",
+      "options": [
+        "Each",
+        "Many",
+        "Few",
+        "Several"
+      ],
+      "answer": 0,
+      "explanation": "Each refers to every individual in a group."
+    },
+    {
+      "id": "q003",
+      "category": "Grammar",
+      "question": "I ___ a new notebook yesterday.",
+      "options": [
+        "buy",
+        "buys",
+        "bought",
+        "buying"
+      ],
+      "answer": 2,
+      "explanation": "Yesterday signals the past simple. The past form of buy is bought."
+    },
+    {
+      "id": "q016",
+      "category": "Tenses",
+      "question": "Water ___ at 100°C at sea level.",
+      "options": [
+        "boil",
+        "boils",
+        "is boiling",
+        "boiled"
+      ],
+      "answer": 1,
+      "explanation": "Use the present simple for general facts."
+    },
+    {
+      "id": "q029",
+      "category": "Vocabulary",
+      "question": "What is the meaning of 'available'?",
+      "options": [
+        "not possible to use",
+        "ready or able to be used",
+        "very expensive",
+        "already broken"
+      ],
+      "answer": 1,
+      "explanation": "Available means ready for use or accessible."
+    },
+    {
+      "id": "q042",
+      "category": "Modals",
+      "question": "You ___ smoke inside the hospital.",
+      "options": [
+        "must",
+        "mustn't",
+        "should",
+        "could"
+      ],
+      "answer": 1,
+      "explanation": "Mustn't expresses prohibition."
+    },
+    {
+      "id": "q055",
+      "category": "Conversation",
+      "question": "A colleague asks for help. A polite reply is:",
+      "options": [
+        "Certainly. What do you need?",
+        "Never ask me.",
+        "You do yourself.",
+        "No speaking."
+      ],
+      "answer": 0,
+      "explanation": "Certainly. What do you need? is helpful and polite."
+    },
+    {
+      "id": "q068",
+      "category": "Workplace English",
+      "question": "You need to report a problem. You say:",
+      "options": [
+        "There is an issue with the printer.",
+        "Printer bad you.",
+        "I issue printer.",
+        "No printer yesterday."
+      ],
+      "answer": 0,
+      "explanation": "There is an issue with... clearly introduces a problem."
+    },
+    {
+      "id": "q081",
+      "category": "Confusing Words",
+      "question": "Choose the correct word: ___ going to arrive soon.",
+      "options": [
+        "Their",
+        "There",
+        "They're",
+        "Theirs"
+      ],
+      "answer": 2,
+      "explanation": "They're is the contraction of they are."
+    },
+    {
+      "id": "q094",
+      "category": "Passive Voice",
+      "question": "English ___ in many countries.",
+      "options": [
+        "speaks",
+        "is spoken",
+        "spoken",
+        "is speaking"
+      ],
+      "answer": 1,
+      "explanation": "Present simple passive: is spoken."
+    }
+  ]
+}

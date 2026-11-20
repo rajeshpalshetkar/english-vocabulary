@@ -1,0 +1,141 @@
+{
+  "id": "quiz-0442",
+  "slug": "quiz-0442",
+  "title": "English Practice Quiz 0442",
+  "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
+  "category": "Prepositions",
+  "level": "Elementary",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q040",
+      "category": "Prepositions",
+      "question": "The hospital is ___ the bank and the post office.",
+      "options": [
+        "among",
+        "between",
+        "inside",
+        "over"
+      ],
+      "answer": 1,
+      "explanation": "Between is used for a position separating two things."
+    },
+    {
+      "id": "q051",
+      "category": "Conversation",
+      "question": "Someone says, 'Thank you for your help.' You reply:",
+      "options": [
+        "Never mind you.",
+        "You're welcome.",
+        "I am welcome you.",
+        "No thank."
+      ],
+      "answer": 1,
+      "explanation": "You're welcome is a natural response to thank you."
+    },
+    {
+      "id": "q062",
+      "category": "Reading",
+      "question": "Read: 'The shop closes at 9 p.m., but it opens at 10 a.m.' When does it open?",
+      "options": [
+        "9 a.m.",
+        "10 a.m.",
+        "9 p.m.",
+        "10 p.m."
+      ],
+      "answer": 1,
+      "explanation": "The opening time given is 10 a.m."
+    },
+    {
+      "id": "q073",
+      "category": "Questions",
+      "question": "Choose the correct question.",
+      "options": [
+        "Does she work here?",
+        "Do she work here?",
+        "Is she works here?",
+        "Does she works here?"
+      ],
+      "answer": 0,
+      "explanation": "Use does + subject + base verb with he, she or it."
+    },
+    {
+      "id": "q084",
+      "category": "Confusing Words",
+      "question": "I have ___ my keys.",
+      "options": [
+        "loose",
+        "lose",
+        "lost",
+        "loss"
+      ],
+      "answer": 2,
+      "explanation": "Lost is the past participle of lose."
+    },
+    {
+      "id": "q095",
+      "category": "Passive Voice",
+      "question": "The windows ___ every week.",
+      "options": [
+        "are cleaned",
+        "clean",
+        "is cleaned",
+        "cleaning"
+      ],
+      "answer": 0,
+      "explanation": "Plural subject windows takes are + past participle."
+    },
+    {
+      "id": "q106",
+      "category": "Adjectives",
+      "question": "The test was ___ than I expected.",
+      "options": [
+        "easy",
+        "easier",
+        "easiest",
+        "more easy"
+      ],
+      "answer": 1,
+      "explanation": "Use the comparative form easier."
+    },
+    {
+      "id": "q002",
+      "category": "Grammar",
+      "question": "They ___ ready for the meeting.",
+      "options": [
+        "is",
+        "am",
+        "are",
+        "be"
+      ],
+      "answer": 2,
+      "explanation": "Use are with the plural subject they."
+    },
+    {
+      "id": "q013",
+      "category": "Tenses",
+      "question": "At 8 p.m. yesterday, I ___ dinner.",
+      "options": [
+        "cook",
+        "cooked",
+        "was cooking",
+        "am cooking"
+      ],
+      "answer": 2,
+      "explanation": "Use the past continuous for an action in progress at a specific past time."
+    },
+    {
+      "id": "q024",
+      "category": "Vocabulary",
+      "question": "If a task is 'urgent', it needs ___.",
+      "options": [
+        "no attention",
+        "quick attention",
+        "a holiday",
+        "a receipt"
+      ],
+      "answer": 1,
+      "explanation": "Urgent means requiring immediate or prompt attention."
+    }
+  ]
+}
