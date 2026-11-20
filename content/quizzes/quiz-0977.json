@@ -3,139 +3,139 @@
   "slug": "quiz-0977",
   "title": "English Practice Quiz 0977",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q050",
-      "category": "Sentence Building",
-      "question": "Choose the correct sentence.",
+      "id": "q10261",
+      "category": "Banking and Payments",
+      "question": "A bank statement shows ___.",
       "options": [
-        "There is many books.",
-        "There are many books.",
-        "There be many books.",
-        "There am many books."
-      ],
-      "answer": 1,
-      "explanation": "Use there are with plural nouns."
-    },
-    {
-      "id": "q079",
-      "category": "Punctuation",
-      "question": "Which is a complete sentence?",
-      "options": [
-        "Because it was raining.",
-        "After the meeting.",
-        "The team finished the work.",
-        "When I arrived."
-      ],
-      "answer": 2,
-      "explanation": "The team finished the work contains a subject and a complete predicate."
-    },
-    {
-      "id": "q108",
-      "category": "Adverbs",
-      "question": "He speaks English ___.",
-      "options": [
-        "clear",
-        "clearly",
-        "clarity",
-        "clearest"
-      ],
-      "answer": 1,
-      "explanation": "Clearly is the adverb describing how he speaks."
-    },
-    {
-      "id": "q022",
-      "category": "Vocabulary",
-      "question": "Choose the opposite of 'polite'.",
-      "options": [
-        "kind",
-        "rude",
-        "helpful",
-        "calm"
-      ],
-      "answer": 1,
-      "explanation": "Rude is the opposite of polite."
-    },
-    {
-      "id": "q051",
-      "category": "Conversation",
-      "question": "Someone says, 'Thank you for your help.' You reply:",
-      "options": [
-        "Never mind you.",
-        "You're welcome.",
-        "I am welcome you.",
-        "No thank."
-      ],
-      "answer": 1,
-      "explanation": "You're welcome is a natural response to thank you."
-    },
-    {
-      "id": "q080",
-      "category": "Punctuation",
-      "question": "Choose the correctly written date phrase.",
-      "options": [
-        "on monday",
-        "on Monday",
-        "On monday",
-        "on Monday."
-      ],
-      "answer": 1,
-      "explanation": "Days of the week begin with a capital letter."
-    },
-    {
-      "id": "q109",
-      "category": "Adverbs",
-      "question": "She arrived ___.",
-      "options": [
-        "late",
-        "lately",
-        "latest",
-        "laterly"
+        "transactions in an account over a period",
+        "the bank building's floor plan",
+        "a customer's exam results",
+        "the price of every share"
       ],
       "answer": 0,
-      "explanation": "Late is the correct adverb meaning not on time."
+      "explanation": "A statement summarises account activity."
     },
     {
-      "id": "q023",
-      "category": "Vocabulary",
-      "question": "A synonym of 'begin' is ___.",
+      "id": "q10262",
+      "category": "Banking and Payments",
+      "question": "An 'account balance' is the amount of money ___.",
       "options": [
-        "finish",
-        "start",
-        "stop",
-        "close"
+        "currently recorded in an account",
+        "owed by every shop",
+        "printed on a cheque book cover",
+        "spent on one journey"
       ],
-      "answer": 1,
-      "explanation": "Start has the same basic meaning as begin."
+      "answer": 0,
+      "explanation": "The balance is the amount recorded as available or held, subject to account terms."
     },
     {
-      "id": "q052",
-      "category": "Conversation",
-      "question": "You did not hear someone. You say:",
+      "id": "q10263",
+      "category": "Banking and Payments",
+      "question": "A PIN should be ___.",
       "options": [
-        "Speak now!",
-        "Could you repeat that, please?",
-        "What your problem?",
-        "I don't hear you yesterday."
+        "kept secret",
+        "written on a public notice",
+        "shared with callers",
+        "sent in an open group"
       ],
-      "answer": 1,
-      "explanation": "Could you repeat that, please? is a polite request."
+      "answer": 0,
+      "explanation": "A PIN is confidential security information."
     },
     {
-      "id": "q081",
-      "category": "Confusing Words",
-      "question": "Choose the correct word: ___ going to arrive soon.",
+      "id": "q10264",
+      "category": "Banking and Payments",
+      "question": "A bank transfer moves money ___.",
       "options": [
-        "Their",
-        "There",
-        "They're",
-        "Theirs"
+        "from one account to another",
+        "from a wallet into a photograph",
+        "without any account details",
+        "only as physical coins"
       ],
-      "answer": 2,
-      "explanation": "They're is the contraction of they are."
+      "answer": 0,
+      "explanation": "A transfer moves funds between accounts."
+    },
+    {
+      "id": "q10265",
+      "category": "Banking and Payments",
+      "question": "If you notice an unauthorised transaction, you should ___.",
+      "options": [
+        "contact your bank through an official channel promptly",
+        "share your OTP with the caller",
+        "ignore the statement",
+        "post account details publicly"
+      ],
+      "answer": 0,
+      "explanation": "Promptly notifying the bank helps it investigate and protect the account."
+    },
+    {
+      "id": "q10266",
+      "category": "Banking and Payments",
+      "question": "An ' instalment' payment is made ___.",
+      "options": [
+        "in one of several scheduled parts",
+        "only once in cash",
+        "without an agreed amount",
+        "after cancelling a purchase"
+      ],
+      "answer": 0,
+      "explanation": "An instalment is one of a series of scheduled payments."
+    },
+    {
+      "id": "q10267",
+      "category": "Banking and Payments",
+      "question": "A cheque is a written instruction to a bank to ___.",
+      "options": [
+        "pay a specified amount",
+        "open a social media account",
+        "issue a driving licence",
+        "repair a vehicle"
+      ],
+      "answer": 0,
+      "explanation": "A cheque instructs a bank to pay money from an account, subject to validity."
+    },
+    {
+      "id": "q10268",
+      "category": "Banking and Payments",
+      "question": "A transaction reference number helps ___.",
+      "options": [
+        "identify and trace a payment",
+        "change an account password automatically",
+        "increase the amount paid",
+        "cancel every bank fee"
+      ],
+      "answer": 0,
+      "explanation": "A reference number helps locate a specific transaction."
+    },
+    {
+      "id": "q10269",
+      "category": "Banking and Payments",
+      "question": "Before scanning a QR code to pay, verify ___.",
+      "options": [
+        "the recipient name and amount shown by the payment app",
+        "the colour of the phone case",
+        "the number of people nearby",
+        "the shop's music"
+      ],
+      "answer": 0,
+      "explanation": "Confirming recipient and amount reduces payment errors."
+    },
+    {
+      "id": "q10270",
+      "category": "Banking and Payments",
+      "question": "An ' overdraft' is a facility that may allow an account holder to ___.",
+      "options": [
+        "withdraw more than the available balance up to an agreed limit",
+        "earn guaranteed interest every day",
+        "avoid all bank checks",
+        "transfer money without authorisation"
+      ],
+      "answer": 0,
+      "explanation": "An overdraft is a borrowing facility with agreed terms and limits."
     }
   ]
 }
