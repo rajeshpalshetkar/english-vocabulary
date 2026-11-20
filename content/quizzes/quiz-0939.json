@@ -3,139 +3,139 @@
   "slug": "quiz-0939",
   "title": "English Practice Quiz 0939",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q094",
-      "category": "Passive Voice",
-      "question": "English ___ in many countries.",
+      "id": "q10681",
+      "category": "Advanced Word Choice",
+      "question": "Choose the word that means 'careful to avoid unnecessary risk'.",
       "options": [
-        "speaks",
-        "is spoken",
-        "spoken",
-        "is speaking"
-      ],
-      "answer": 1,
-      "explanation": "Present simple passive: is spoken."
-    },
-    {
-      "id": "q016",
-      "category": "Tenses",
-      "question": "Water ___ at 100°C at sea level.",
-      "options": [
-        "boil",
-        "boils",
-        "is boiling",
-        "boiled"
-      ],
-      "answer": 1,
-      "explanation": "Use the present simple for general facts."
-    },
-    {
-      "id": "q053",
-      "category": "Conversation",
-      "question": "A visitor asks, 'Where is reception?' You say:",
-      "options": [
-        "It is near the main entrance.",
-        "I am reception.",
-        "Yesterday at home.",
-        "No, it isn't."
+        "cautious",
+        "reckless",
+        "careless",
+        "impulsive"
       ],
       "answer": 0,
-      "explanation": "Give a clear location using a complete sentence."
+      "explanation": "Cautious describes careful behaviour that avoids unnecessary danger."
     },
     {
-      "id": "q090",
-      "category": "Conditionals",
-      "question": "If I were you, I ___ apologise.",
+      "id": "q10682",
+      "category": "Advanced Word Choice",
+      "question": "A 'credible' source is one that is ___.",
       "options": [
-        "will",
-        "would",
-        "am",
-        "did"
-      ],
-      "answer": 1,
-      "explanation": "If I were you is followed by would for advice."
-    },
-    {
-      "id": "q012",
-      "category": "Tenses",
-      "question": "We ___ here since 2022.",
-      "options": [
-        "live",
-        "lived",
-        "have lived",
-        "are live"
-      ],
-      "answer": 2,
-      "explanation": "Since gives a starting point; the present perfect connects the past to now."
-    },
-    {
-      "id": "q049",
-      "category": "Sentence Building",
-      "question": "Choose the correct plural of 'child'.",
-      "options": [
-        "childs",
-        "childes",
-        "children",
-        "childrens"
-      ],
-      "answer": 2,
-      "explanation": "Children is the irregular plural of child."
-    },
-    {
-      "id": "q086",
-      "category": "Conditionals",
-      "question": "If it rains, we ___ indoors.",
-      "options": [
-        "stay",
-        "will stay",
-        "stayed",
-        "would stayed"
-      ],
-      "answer": 1,
-      "explanation": "The first conditional uses if + present simple, will + base verb."
-    },
-    {
-      "id": "q008",
-      "category": "Grammar",
-      "question": "This is the woman ___ helped me.",
-      "options": [
-        "which",
-        "who",
-        "where",
-        "when"
-      ],
-      "answer": 1,
-      "explanation": "Who is used for people."
-    },
-    {
-      "id": "q045",
-      "category": "Modals",
-      "question": "It ___ rain later; take an umbrella.",
-      "options": [
-        "might",
-        "mustn't",
-        "shouldn't",
-        "has"
+        "believable and trustworthy",
+        "always anonymous",
+        "unrelated to the topic",
+        "impossible to check"
       ],
       "answer": 0,
-      "explanation": "Might expresses possibility."
+      "explanation": "Credible information is worthy of trust."
     },
     {
-      "id": "q082",
-      "category": "Confusing Words",
-      "question": "The weather can ___ your travel plans.",
+      "id": "q10683",
+      "category": "Advanced Word Choice",
+      "question": "To 'mitigate' a risk means to ___.",
       "options": [
-        "affect",
-        "effect",
-        "infect",
-        "effort"
+        "reduce its likelihood or impact",
+        "make it unavoidable",
+        "ignore its warning signs",
+        "increase its severity"
       ],
       "answer": 0,
-      "explanation": "Affect is usually a verb meaning to influence."
+      "explanation": "Mitigate means make something less harmful or severe."
+    },
+    {
+      "id": "q10684",
+      "category": "Advanced Word Choice",
+      "question": "An 'ambiguous' instruction is ___.",
+      "options": [
+        "open to more than one interpretation",
+        "perfectly clear",
+        "always legally binding",
+        "written in alphabetical order"
+      ],
+      "answer": 0,
+      "explanation": "Ambiguous wording can be understood in different ways."
+    },
+    {
+      "id": "q10685",
+      "category": "Advanced Word Choice",
+      "question": "A 'mandatory' requirement is ___.",
+      "options": [
+        "compulsory",
+        "optional",
+        "temporary by definition",
+        "unrelated"
+      ],
+      "answer": 0,
+      "explanation": "Mandatory means required."
+    },
+    {
+      "id": "q10686",
+      "category": "Advanced Word Choice",
+      "question": "To 'scrutinise' a document means to ___.",
+      "options": [
+        "examine it closely",
+        "discard it unread",
+        "sign it automatically",
+        "translate it without reading"
+      ],
+      "answer": 0,
+      "explanation": "Scrutinise means inspect carefully."
+    },
+    {
+      "id": "q10687",
+      "category": "Advanced Word Choice",
+      "question": "A 'prompt' response is one that is ___.",
+      "options": [
+        "quick and timely",
+        "deliberately delayed",
+        "unrelated to the request",
+        "impossible to understand"
+      ],
+      "answer": 0,
+      "explanation": "Prompt means done without delay."
+    },
+    {
+      "id": "q10688",
+      "category": "Advanced Word Choice",
+      "question": "A 'prudent' decision is ___.",
+      "options": [
+        "wise and carefully considered",
+        "reckless and rushed",
+        "based only on anger",
+        "made without relevant facts"
+      ],
+      "answer": 0,
+      "explanation": "Prudent describes sensible judgement."
+    },
+    {
+      "id": "q10689",
+      "category": "Advanced Word Choice",
+      "question": "To 'rectify' an error means to ___.",
+      "options": [
+        "correct it",
+        "repeat it",
+        "conceal it",
+        "approve it"
+      ],
+      "answer": 0,
+      "explanation": "Rectify means put something right."
+    },
+    {
+      "id": "q10690",
+      "category": "Advanced Word Choice",
+      "question": "A 'comprehensive' review is ___.",
+      "options": [
+        "thorough and covering all important aspects",
+        "limited to one minor detail",
+        "based on a single guess",
+        "completed without evidence"
+      ],
+      "answer": 0,
+      "explanation": "Comprehensive means complete and thorough."
     }
   ]
 }
