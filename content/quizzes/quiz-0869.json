@@ -3,139 +3,139 @@
   "slug": "quiz-0869",
   "title": "English Practice Quiz 0869",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q054",
-      "category": "Conversation",
-      "question": "You need a moment to think. You say:",
+      "id": "q11381",
+      "category": "Advanced English Usage",
+      "question": "Advanced English Usage: Choose the correct sentence:",
       "options": [
-        "Let me think for a moment.",
-        "I no idea ever.",
-        "Wait your mouth.",
-        "I am think."
+        "Despite of the rain, we continued",
+        "Despite the rain, we continued",
+        "Although the rain, we continued",
+        "Despite it was raining, we continued"
+      ],
+      "answer": 1,
+      "explanation": "Despite is followed by a noun phrase, not of."
+    },
+    {
+      "id": "q11382",
+      "category": "Advanced English Usage",
+      "question": "Advanced English Usage: The manager insisted that the report ___ submitted today.",
+      "options": [
+        "is",
+        "be",
+        "was being",
+        "has"
+      ],
+      "answer": 1,
+      "explanation": "Formal subjunctive usage follows insist that with the base form be."
+    },
+    {
+      "id": "q11383",
+      "category": "Advanced English Usage",
+      "question": "Advanced English Usage: Ambiguous means:",
+      "options": [
+        "having more than one possible meaning",
+        "perfectly clear",
+        "very expensive",
+        "harmless"
       ],
       "answer": 0,
-      "explanation": "This phrase politely signals that you need a little time."
+      "explanation": "Ambiguous means open to more than one interpretation."
     },
     {
-      "id": "q091",
-      "category": "Passive Voice",
-      "question": "Choose the passive form: 'They clean the room.'",
+      "id": "q11384",
+      "category": "Advanced English Usage",
+      "question": "Advanced English Usage: No sooner had the guard arrived ___ the alarm sounded.",
       "options": [
-        "The room cleaned them.",
-        "The room is cleaned by them.",
-        "The room is cleaning.",
-        "The room has clean."
+        "when",
+        "than",
+        "then",
+        "while"
       ],
       "answer": 1,
-      "explanation": "Present simple passive: am/is/are + past participle."
+      "explanation": "The standard construction is no sooner...than."
     },
     {
-      "id": "q013",
-      "category": "Tenses",
-      "question": "At 8 p.m. yesterday, I ___ dinner.",
+      "id": "q11385",
+      "category": "Advanced English Usage",
+      "question": "Advanced English Usage: The instructions were so ___ that everyone understood them.",
       "options": [
-        "cook",
-        "cooked",
-        "was cooking",
-        "am cooking"
-      ],
-      "answer": 2,
-      "explanation": "Use the past continuous for an action in progress at a specific past time."
-    },
-    {
-      "id": "q050",
-      "category": "Sentence Building",
-      "question": "Choose the correct sentence.",
-      "options": [
-        "There is many books.",
-        "There are many books.",
-        "There be many books.",
-        "There am many books."
-      ],
-      "answer": 1,
-      "explanation": "Use there are with plural nouns."
-    },
-    {
-      "id": "q087",
-      "category": "Conditionals",
-      "question": "If I had more time, I ___ another language.",
-      "options": [
-        "learn",
-        "will learn",
-        "would learn",
-        "am learn"
-      ],
-      "answer": 2,
-      "explanation": "The second conditional uses would + base verb for an unreal or imagined situation."
-    },
-    {
-      "id": "q009",
-      "category": "Grammar",
-      "question": "Choose the correct comparative form.",
-      "options": [
-        "more tall",
-        "taller",
-        "tallest than",
-        "most tall"
-      ],
-      "answer": 1,
-      "explanation": "The comparative form of the short adjective tall is taller."
-    },
-    {
-      "id": "q046",
-      "category": "Sentence Building",
-      "question": "Choose the correct word order.",
-      "options": [
-        "Always I am late.",
-        "I am always late.",
-        "I late am always.",
-        "Am always I late."
-      ],
-      "answer": 1,
-      "explanation": "Frequency adverbs such as always usually come after the verb be."
-    },
-    {
-      "id": "q083",
-      "category": "Confusing Words",
-      "question": "Please ___ the correct answer.",
-      "options": [
-        "choose",
-        "chose",
-        "choice",
-        "chosen"
+        "explicit",
+        "implicit",
+        "obscure",
+        "vague"
       ],
       "answer": 0,
-      "explanation": "Choose is the base verb used after please."
+      "explanation": "Explicit means stated clearly and in detail."
     },
     {
-      "id": "q005",
-      "category": "Grammar",
-      "question": "Choose the correct sentence.",
+      "id": "q11386",
+      "category": "Advanced English Usage",
+      "question": "Advanced English Usage: The new policy will ___ all departments.",
       "options": [
-        "She don't like tea.",
-        "She doesn't likes tea.",
-        "She doesn't like tea.",
-        "She not like tea."
+        "affect",
+        "effect",
+        "effects",
+        "affecting"
       ],
-      "answer": 2,
-      "explanation": "After doesn't, use the base form of the verb: like."
+      "answer": 0,
+      "explanation": "Affect is the verb meaning influence."
     },
     {
-      "id": "q042",
-      "category": "Modals",
-      "question": "You ___ smoke inside the hospital.",
+      "id": "q11387",
+      "category": "Advanced English Usage",
+      "question": "Advanced English Usage: Had I known about the change, I ___ earlier.",
       "options": [
-        "must",
-        "mustn't",
-        "should",
-        "could"
+        "will arrive",
+        "would have arrived",
+        "arrive",
+        "had arrive"
       ],
       "answer": 1,
-      "explanation": "Mustn't expresses prohibition."
+      "explanation": "This inverted third conditional uses would have plus past participle."
+    },
+    {
+      "id": "q11388",
+      "category": "Advanced English Usage",
+      "question": "Advanced English Usage: To put something into perspective means to:",
+      "options": [
+        "consider it in relation to other facts",
+        "hide it",
+        "make it confusing",
+        "remove its importance"
+      ],
+      "answer": 0,
+      "explanation": "It means evaluate something in a broader context."
+    },
+    {
+      "id": "q11389",
+      "category": "Advanced English Usage",
+      "question": "Advanced English Usage: Choose the correctly punctuated sentence:",
+      "options": [
+        "The supervisor said, 'Please wait here.'",
+        "The supervisor said 'Please wait here'.",
+        "The supervisor said, Please wait here.",
+        "The supervisor said; 'Please wait here'"
+      ],
+      "answer": 0,
+      "explanation": "The introductory clause takes a comma and the quoted sentence ends inside the quotation marks."
+    },
+    {
+      "id": "q11390",
+      "category": "Advanced English Usage",
+      "question": "Advanced English Usage: A plausible explanation is:",
+      "options": [
+        "reasonable and believable",
+        "proven false",
+        "impossible to understand",
+        "unrelated to evidence"
+      ],
+      "answer": 0,
+      "explanation": "Plausible means seeming reasonable or probable."
     }
   ]
 }
