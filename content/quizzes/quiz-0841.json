@@ -3,139 +3,139 @@
   "slug": "quiz-0841",
   "title": "English Practice Quiz 0841",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q038",
-      "category": "Prepositions",
-      "question": "We have a meeting ___ Monday.",
+      "id": "q11501",
+      "category": "Public Relations",
+      "question": "Public Relations 01: A press release communicates what?",
       "options": [
-        "in",
-        "at",
-        "on",
-        "by"
-      ],
-      "answer": 2,
-      "explanation": "Use on with days and dates."
-    },
-    {
-      "id": "q047",
-      "category": "Sentence Building",
-      "question": "Choose the correct question.",
-      "options": [
-        "Where you live?",
-        "Where do you live?",
-        "Where does you live?",
-        "Where are live you?"
-      ],
-      "answer": 1,
-      "explanation": "Use do + subject + base verb for present simple questions with you."
-    },
-    {
-      "id": "q056",
-      "category": "Pronunciation",
-      "question": "Which word has a different beginning sound?",
-      "options": [
-        "think",
-        "three",
-        "this",
-        "thank"
-      ],
-      "answer": 2,
-      "explanation": "This begins with the voiced /ð/ sound; the others begin with the unvoiced /θ/ sound."
-    },
-    {
-      "id": "q065",
-      "category": "Reading",
-      "question": "Read: 'Please keep the floor dry to prevent accidents.' What is the instruction?",
-      "options": [
-        "Wash the floor now",
-        "Keep the floor dry",
-        "Close the office",
-        "Move the furniture"
-      ],
-      "answer": 1,
-      "explanation": "The notice instructs people to keep the floor dry."
-    },
-    {
-      "id": "q074",
-      "category": "Questions",
-      "question": "Which question asks for a reason?",
-      "options": [
-        "What happened?",
-        "Where are you?",
-        "Why are you late?",
-        "When is lunch?"
-      ],
-      "answer": 2,
-      "explanation": "Why asks for a reason."
-    },
-    {
-      "id": "q083",
-      "category": "Confusing Words",
-      "question": "Please ___ the correct answer.",
-      "options": [
-        "choose",
-        "chose",
-        "choice",
-        "chosen"
+        "An official announcement to the media",
+        "Staff attendance",
+        "A supply request",
+        "A payment approval"
       ],
       "answer": 0,
-      "explanation": "Choose is the base verb used after please."
+      "explanation": "A press release communicates what? The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q092",
-      "category": "Passive Voice",
-      "question": "Choose the passive form: 'The manager signed the letter.'",
+      "id": "q11502",
+      "category": "Public Relations",
+      "question": "Public Relations 02: A public complaint should be met with:",
       "options": [
-        "The letter is signed.",
-        "The letter was signed by the manager.",
-        "The letter signed the manager.",
-        "The letter has sign."
+        "Acknowledgement and verified information",
+        "An argument",
+        "Private details",
+        "Silence"
       ],
-      "answer": 1,
-      "explanation": "Past simple passive: was/were + past participle."
+      "answer": 0,
+      "explanation": "A public complaint should be met with: The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q101",
-      "category": "Determiners",
-      "question": "There isn't ___ milk left.",
+      "id": "q11503",
+      "category": "Public Relations",
+      "question": "Public Relations 03: A spokesperson should avoid:",
       "options": [
-        "many",
-        "much",
-        "few",
-        "several"
+        "Speculation about unconfirmed events",
+        "Approved facts",
+        "Clear speech",
+        "Policy guidance"
       ],
-      "answer": 1,
-      "explanation": "Milk is uncountable, so use much in a negative sentence."
+      "answer": 0,
+      "explanation": "A spokesperson should avoid: The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q110",
-      "category": "Adverbs",
-      "question": "Please drive ___.",
+      "id": "q11504",
+      "category": "Public Relations",
+      "question": "Public Relations 04: A media briefing is held to:",
       "options": [
-        "careful",
-        "carefully",
-        "care",
-        "caring"
+        "Provide information and answer journalists",
+        "Count stock",
+        "Issue ID cards",
+        "Replace an annual report"
       ],
-      "answer": 1,
-      "explanation": "Carefully is the adverb modifying drive."
+      "answer": 0,
+      "explanation": "A media briefing is held to: The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q004",
-      "category": "Grammar",
-      "question": "There ___ two chairs in the room.",
+      "id": "q11505",
+      "category": "Public Relations",
+      "question": "Public Relations 05: An official update should say:",
       "options": [
-        "is",
-        "are",
-        "am",
-        "was"
+        "The review is ongoing; verified details will follow.",
+        "We know everything.",
+        "Someone is probably guilty.",
+        "No comment forever."
       ],
-      "answer": 1,
-      "explanation": "Use are with the plural noun chairs."
+      "answer": 0,
+      "explanation": "An official update should say: The first option is correct because it reflects the relevant principle or standard."
+    },
+    {
+      "id": "q11506",
+      "category": "Public Relations",
+      "question": "Public Relations 06: A public notice should use:",
+      "options": [
+        "Clear language and essential details",
+        "Unexplained abbreviations",
+        "Ambiguous dates",
+        "Unverified claims"
+      ],
+      "answer": 0,
+      "explanation": "A public notice should use: The first option is correct because it reflects the relevant principle or standard."
+    },
+    {
+      "id": "q11507",
+      "category": "Public Relations",
+      "question": "Public Relations 07: Before publishing a visitor's photograph, check:",
+      "options": [
+        "Consent and privacy rules",
+        "Assumed consent",
+        "Group popularity",
+        "An invented caption"
+      ],
+      "answer": 0,
+      "explanation": "Before publishing a visitor's photograph, check: The first option is correct because it reflects the relevant principle or standard."
+    },
+    {
+      "id": "q11508",
+      "category": "Public Relations",
+      "question": "Public Relations 08: A correction to an announcement should:",
+      "options": [
+        "Clearly identify and correct the error",
+        "Silently alter unrelated content",
+        "Blame readers",
+        "Repeat the error"
+      ],
+      "answer": 0,
+      "explanation": "A correction to an announcement should: The first option is correct because it reflects the relevant principle or standard."
+    },
+    {
+      "id": "q11509",
+      "category": "Public Relations",
+      "question": "Public Relations 09: An embargoed statement cannot be published:",
+      "options": [
+        "Before the agreed time",
+        "After any time",
+        "By its author",
+        "With a headline"
+      ],
+      "answer": 0,
+      "explanation": "An embargoed statement cannot be published: The first option is correct because it reflects the relevant principle or standard."
+    },
+    {
+      "id": "q11510",
+      "category": "Public Relations",
+      "question": "Public Relations 10: A safety message should sound:",
+      "options": [
+        "Calm, direct and actionable",
+        "Sarcastic and vague",
+        "Alarmist without evidence",
+        "Overly technical"
+      ],
+      "answer": 0,
+      "explanation": "A safety message should sound: The first option is correct because it reflects the relevant principle or standard."
     }
   ]
 }
