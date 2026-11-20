@@ -3,139 +3,139 @@
   "slug": "quiz-0987",
   "title": "English Practice Quiz 0987",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q105",
-      "category": "Determiners",
-      "question": "___ student must bring an ID card.",
+      "id": "q10161",
+      "category": "Digital Skills",
+      "question": "A strong password should generally be ___.",
       "options": [
-        "Each",
-        "Many",
-        "Few",
-        "Several"
+        "long and difficult to guess",
+        "your birth date only",
+        "the word password",
+        "the same for every account"
       ],
       "answer": 0,
-      "explanation": "Each refers to every individual in a group."
+      "explanation": "Long, unique passwords are harder to guess."
     },
     {
-      "id": "q019",
-      "category": "Tenses",
-      "question": "She ___ in this hospital for five years.",
+      "id": "q10162",
+      "category": "Digital Skills",
+      "question": "Two-factor authentication adds ___.",
       "options": [
-        "works",
-        "worked",
-        "has worked",
-        "is work"
-      ],
-      "answer": 2,
-      "explanation": "The present perfect can describe a situation continuing to the present."
-    },
-    {
-      "id": "q048",
-      "category": "Sentence Building",
-      "question": "Choose the correct sentence.",
-      "options": [
-        "Because I was tired, I went to bed early.",
-        "Because I tired, went bed early.",
-        "I because was tired bed early.",
-        "Because tired I went early bed."
+        "a second verification step",
+        "a second username for everyone",
+        "automatic public access",
+        "a replacement for all passwords"
       ],
       "answer": 0,
-      "explanation": "The subordinate clause beginning with because explains the reason."
+      "explanation": "It requires another proof of identity beyond the password."
     },
     {
-      "id": "q077",
-      "category": "Punctuation",
-      "question": "Which sentence uses the apostrophe correctly?",
+      "id": "q10163",
+      "category": "Digital Skills",
+      "question": "A file ending in .pdf is commonly a ___.",
       "options": [
-        "The guards uniform is blue.",
-        "The guard's uniform is blue.",
-        "The guards' uniform is blue. (one guard)",
-        "The guard uniform's is blue."
-      ],
-      "answer": 1,
-      "explanation": "Guard's shows possession by one guard."
-    },
-    {
-      "id": "q106",
-      "category": "Adjectives",
-      "question": "The test was ___ than I expected.",
-      "options": [
-        "easy",
-        "easier",
-        "easiest",
-        "more easy"
-      ],
-      "answer": 1,
-      "explanation": "Use the comparative form easier."
-    },
-    {
-      "id": "q020",
-      "category": "Tenses",
-      "question": "By next June, he ___ the course.",
-      "options": [
-        "completes",
-        "completed",
-        "will have completed",
-        "has complete"
-      ],
-      "answer": 2,
-      "explanation": "The future perfect describes an action completed before a future time."
-    },
-    {
-      "id": "q049",
-      "category": "Sentence Building",
-      "question": "Choose the correct plural of 'child'.",
-      "options": [
-        "childs",
-        "childes",
-        "children",
-        "childrens"
-      ],
-      "answer": 2,
-      "explanation": "Children is the irregular plural of child."
-    },
-    {
-      "id": "q078",
-      "category": "Punctuation",
-      "question": "Choose the correct sentence.",
-      "options": [
-        "I like tea, coffee and milk.",
-        "I like tea coffee and milk",
-        "I like, tea coffee, and milk.",
-        "i like tea, coffee and milk"
+        "document format",
+        "video cable",
+        "computer battery",
+        "web browser"
       ],
       "answer": 0,
-      "explanation": "Use commas to separate items in a list and capitalise the first word."
+      "explanation": "PDF is a widely used document file format."
     },
     {
-      "id": "q107",
-      "category": "Adjectives",
-      "question": "She is the ___ student in the class.",
+      "id": "q10164",
+      "category": "Digital Skills",
+      "question": "A browser is software used to ___.",
       "options": [
-        "tall",
-        "taller",
-        "tallest",
-        "more tall"
+        "access websites",
+        "charge a phone",
+        "print currency",
+        "repair a keyboard"
       ],
-      "answer": 2,
-      "explanation": "Use the superlative tallest when comparing one with the whole class."
+      "answer": 0,
+      "explanation": "Browsers display and interact with web pages."
     },
     {
-      "id": "q021",
-      "category": "Vocabulary",
-      "question": "A person who repairs water pipes is a ___.",
+      "id": "q10165",
+      "category": "Digital Skills",
+      "question": "Before clicking an unfamiliar email link, check ___.",
       "options": [
-        "carpenter",
-        "plumber",
-        "tailor",
-        "baker"
+        "the sender and the destination address",
+        "the email's font size only",
+        "the number of emojis",
+        "the wallpaper colour"
       ],
-      "answer": 1,
-      "explanation": "A plumber installs and repairs water pipes and fittings."
+      "answer": 0,
+      "explanation": "Sender and link checks can reveal suspicious messages."
+    },
+    {
+      "id": "q10166",
+      "category": "Digital Skills",
+      "question": "Cloud storage keeps files on ___.",
+      "options": [
+        "remote internet-connected servers",
+        "only a paper notebook",
+        "a television screen",
+        "a disconnected keyboard"
+      ],
+      "answer": 0,
+      "explanation": "Cloud services store data on remote servers."
+    },
+    {
+      "id": "q10167",
+      "category": "Digital Skills",
+      "question": "To 'download' a file means to ___.",
+      "options": [
+        "receive it from another system onto your device",
+        "delete it permanently",
+        "rename the internet",
+        "turn off the screen"
+      ],
+      "answer": 0,
+      "explanation": "Downloading transfers a file to your device."
+    },
+    {
+      "id": "q10168",
+      "category": "Digital Skills",
+      "question": "A software update may include ___.",
+      "options": [
+        "security fixes and improvements",
+        "a guaranteed new phone",
+        "free mobile data forever",
+        "a new physical keyboard"
+      ],
+      "answer": 0,
+      "explanation": "Updates often fix vulnerabilities and improve software."
+    },
+    {
+      "id": "q10169",
+      "category": "Digital Skills",
+      "question": "A QR code is usually scanned to ___.",
+      "options": [
+        "open linked information or a service",
+        "increase battery capacity",
+        "clean the camera lens",
+        "change the screen size"
+      ],
+      "answer": 0,
+      "explanation": "QR codes encode data such as a web link."
+    },
+    {
+      "id": "q10170",
+      "category": "Digital Skills",
+      "question": "A backup is important because it can ___.",
+      "options": [
+        "help restore lost data",
+        "prevent every possible cyberattack",
+        "make passwords unnecessary",
+        "replace all software updates"
+      ],
+      "answer": 0,
+      "explanation": "Backups provide copies that can be restored after data loss."
     }
   ]
 }
