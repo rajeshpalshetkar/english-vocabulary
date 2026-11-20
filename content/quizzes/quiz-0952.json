@@ -3,139 +3,139 @@
   "slug": "quiz-0952",
   "title": "English Practice Quiz 0952",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q085",
-      "category": "Confusing Words",
-      "question": "The bus is ___ than the car today.",
+      "id": "q10411",
+      "category": "Customer Relations",
+      "question": "A customer says a product is faulty. You should first ___.",
       "options": [
-        "fast",
-        "faster",
-        "fastest",
-        "more fast"
-      ],
-      "answer": 1,
-      "explanation": "Use the comparative form faster when comparing two things."
-    },
-    {
-      "id": "q096",
-      "category": "Reported Speech",
-      "question": "He said, 'I am tired.' Reported speech:",
-      "options": [
-        "He said that he was tired.",
-        "He said I am tired.",
-        "He says that I tired.",
-        "He said he is tire."
+        "listen and ask for relevant details",
+        "accuse the customer",
+        "promise a refund without checking policy",
+        "ignore the complaint"
       ],
       "answer": 0,
-      "explanation": "In standard backshift, am changes to was after a past reporting verb."
+      "explanation": "Listening and gathering facts is the first step towards a fair response."
     },
     {
-      "id": "q107",
-      "category": "Adjectives",
-      "question": "She is the ___ student in the class.",
+      "id": "q10412",
+      "category": "Customer Relations",
+      "question": "A 'replacement' is an item provided ___.",
       "options": [
-        "tall",
-        "taller",
-        "tallest",
-        "more tall"
-      ],
-      "answer": 2,
-      "explanation": "Use the superlative tallest when comparing one with the whole class."
-    },
-    {
-      "id": "q003",
-      "category": "Grammar",
-      "question": "I ___ a new notebook yesterday.",
-      "options": [
-        "buy",
-        "buys",
-        "bought",
-        "buying"
-      ],
-      "answer": 2,
-      "explanation": "Yesterday signals the past simple. The past form of buy is bought."
-    },
-    {
-      "id": "q014",
-      "category": "Tenses",
-      "question": "I think it ___ tomorrow.",
-      "options": [
-        "rains",
-        "rained",
-        "will rain",
-        "raining"
-      ],
-      "answer": 2,
-      "explanation": "Will plus the base verb can express a future prediction."
-    },
-    {
-      "id": "q025",
-      "category": "Vocabulary",
-      "question": "A person you can trust is ___.",
-      "options": [
-        "reliable",
-        "careless",
-        "silent",
-        "narrow"
+        "instead of another item",
+        "as an additional tax",
+        "to cancel a receipt",
+        "to record attendance"
       ],
       "answer": 0,
-      "explanation": "Reliable means dependable or trustworthy."
+      "explanation": "A replacement takes the place of the original item."
     },
     {
-      "id": "q036",
-      "category": "Prepositions",
-      "question": "The meeting starts ___ 9 a.m.",
+      "id": "q10413",
+      "category": "Customer Relations",
+      "question": "Which response is best when you do not know an answer?",
       "options": [
-        "in",
-        "on",
-        "at",
-        "by"
+        "I will confirm the information and get back to you.",
+        "I will guess.",
+        "That is not my problem.",
+        "Ask someone else and stop speaking."
       ],
-      "answer": 2,
-      "explanation": "Use at for a specific clock time."
+      "answer": 0,
+      "explanation": "It is better to verify information than provide an unreliable answer."
     },
     {
-      "id": "q047",
-      "category": "Sentence Building",
-      "question": "Choose the correct question.",
+      "id": "q10414",
+      "category": "Customer Relations",
+      "question": "A customer who returns regularly is often called a ___.",
       "options": [
-        "Where you live?",
-        "Where do you live?",
-        "Where does you live?",
-        "Where are live you?"
+        "repeat customer",
+        "new supplier",
+        "temporary visitor",
+        "silent partner"
       ],
-      "answer": 1,
-      "explanation": "Use do + subject + base verb for present simple questions with you."
+      "answer": 0,
+      "explanation": "A repeat customer makes purchases or uses a service more than once."
     },
     {
-      "id": "q058",
-      "category": "Pronunciation",
-      "question": "Which word has the /ʃ/ sound as in 'ship'?",
+      "id": "q10415",
+      "category": "Customer Relations",
+      "question": "To 'escalate' a complaint means to ___.",
       "options": [
-        "sip",
-        "shop",
-        "zip",
-        "tip"
+        "refer it to a higher level for attention",
+        "delete it from the register",
+        "make it less important",
+        "send it to an unrelated customer"
       ],
-      "answer": 1,
-      "explanation": "Shop begins with the /ʃ/ sound."
+      "answer": 0,
+      "explanation": "Escalation passes an issue to someone with greater authority or expertise."
     },
     {
-      "id": "q069",
-      "category": "Workplace English",
-      "question": "A polite way to disagree is:",
+      "id": "q10416",
+      "category": "Customer Relations",
+      "question": "A service guarantee is a promise about ___.",
       "options": [
-        "You are totally wrong.",
-        "I see your point, but I have a different view.",
-        "No, stop.",
-        "That is stupid."
+        "the standard or remedy a provider will offer",
+        "the customer's private password",
+        "the weather next week",
+        "the employee's lunch break"
       ],
-      "answer": 1,
-      "explanation": "This phrase acknowledges the other person before presenting a different view."
+      "answer": 0,
+      "explanation": "A guarantee describes a provider's commitment under stated conditions."
+    },
+    {
+      "id": "q10417",
+      "category": "Customer Relations",
+      "question": "Which phrase is suitable after resolving a customer's issue?",
+      "options": [
+        "Thank you for bringing this to our attention.",
+        "You should not have complained.",
+        "Do not contact us again.",
+        "It was never our concern."
+      ],
+      "answer": 0,
+      "explanation": "This acknowledges the customer and closes the interaction courteously."
+    },
+    {
+      "id": "q10418",
+      "category": "Customer Relations",
+      "question": "A customer's feedback can help an organisation ___.",
+      "options": [
+        "improve its products or services",
+        "avoid every form of communication",
+        "remove all quality checks",
+        "guarantee every customer agrees"
+      ],
+      "answer": 0,
+      "explanation": "Feedback can reveal strengths and areas needing improvement."
+    },
+    {
+      "id": "q10419",
+      "category": "Customer Relations",
+      "question": "A 'courtesy call' is generally made as a gesture of ___.",
+      "options": [
+        "politeness or consideration",
+        "legal punishment",
+        "payment collection only",
+        "technical repair"
+      ],
+      "answer": 0,
+      "explanation": "A courtesy call is made to maintain helpful communication."
+    },
+    {
+      "id": "q10420",
+      "category": "Customer Relations",
+      "question": "When explaining a service charge, staff should ___.",
+      "options": [
+        "state the amount and what it covers clearly",
+        "hide the price until payment",
+        "use unexplained abbreviations",
+        "give different amounts to different people without reason"
+      ],
+      "answer": 0,
+      "explanation": "Clear explanations help customers understand what they are paying for."
     }
   ]
 }
