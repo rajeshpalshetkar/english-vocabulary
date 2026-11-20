@@ -3,139 +3,139 @@
   "slug": "quiz-0832",
   "title": "English Practice Quiz 0832",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q115",
-      "category": "Gerunds",
-      "question": "I want ___ English fluently.",
+      "id": "q11611",
+      "category": "Hospital Communication",
+      "question": "Hospital Communication 01: Before discussing patient information, staff should:",
       "options": [
-        "speak",
-        "speaking",
-        "to speak",
-        "spoke"
-      ],
-      "answer": 2,
-      "explanation": "Want is followed by a to-infinitive."
-    },
-    {
-      "id": "q011",
-      "category": "Tenses",
-      "question": "Listen! The baby ___.",
-      "options": [
-        "cries",
-        "is crying",
-        "cry",
-        "cried"
-      ],
-      "answer": 1,
-      "explanation": "Listen! suggests an action happening now, so use the present continuous."
-    },
-    {
-      "id": "q022",
-      "category": "Vocabulary",
-      "question": "Choose the opposite of 'polite'.",
-      "options": [
-        "kind",
-        "rude",
-        "helpful",
-        "calm"
-      ],
-      "answer": 1,
-      "explanation": "Rude is the opposite of polite."
-    },
-    {
-      "id": "q033",
-      "category": "Articles",
-      "question": "Please close ___ door.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 2,
-      "explanation": "The refers to a specific door known to the speaker and listener."
-    },
-    {
-      "id": "q044",
-      "category": "Modals",
-      "question": "You look tired. You ___ get some rest.",
-      "options": [
-        "should",
-        "mustn't",
-        "can't",
-        "wouldn't"
+        "Confirm authority and follow privacy policy",
+        "Speak to any visitor",
+        "Use a public corridor",
+        "Post details online"
       ],
       "answer": 0,
-      "explanation": "Should gives advice."
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q055",
-      "category": "Conversation",
-      "question": "A colleague asks for help. A polite reply is:",
+      "id": "q11612",
+      "category": "Hospital Communication",
+      "question": "Hospital Communication 02: A clinical emergency should be communicated using:",
       "options": [
-        "Certainly. What do you need?",
-        "Never ask me.",
-        "You do yourself.",
-        "No speaking."
+        "The hospital emergency escalation process",
+        "An informal rumour",
+        "A delayed personal message",
+        "An unverified announcement"
       ],
       "answer": 0,
-      "explanation": "Certainly. What do you need? is helpful and polite."
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q066",
-      "category": "Workplace English",
-      "question": "A professional way to ask for a file is:",
+      "id": "q11613",
+      "category": "Hospital Communication",
+      "question": "Hospital Communication 03: A visitor asks for a patient's room number. Staff should:",
       "options": [
-        "Give file now.",
-        "Could you please share the file?",
-        "File give me.",
-        "You must file."
+        "Follow information-disclosure policy",
+        "Reveal it automatically",
+        "Share the diagnosis too",
+        "Ask another visitor"
       ],
-      "answer": 1,
-      "explanation": "Could you please is a polite and professional request."
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q077",
-      "category": "Punctuation",
-      "question": "Which sentence uses the apostrophe correctly?",
+      "id": "q11614",
+      "category": "Hospital Communication",
+      "question": "Hospital Communication 04: A concise incident report should include:",
       "options": [
-        "The guards uniform is blue.",
-        "The guard's uniform is blue.",
-        "The guards' uniform is blue. (one guard)",
-        "The guard uniform's is blue."
+        "Time, location, facts and actions taken",
+        "Personal assumptions",
+        "Unrelated history",
+        "Blame without evidence"
       ],
-      "answer": 1,
-      "explanation": "Guard's shows possession by one guard."
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q088",
-      "category": "Conditionals",
-      "question": "If you heat ice, it ___.",
+      "id": "q11615",
+      "category": "Hospital Communication",
+      "question": "Hospital Communication 05: When a family member is distressed, staff should:",
       "options": [
-        "melt",
-        "melts",
-        "will melted",
-        "melting"
+        "Listen calmly and contact the appropriate team",
+        "Argue",
+        "Dismiss the concern",
+        "Promise beyond their authority"
       ],
-      "answer": 1,
-      "explanation": "The zero conditional uses present simple for general truths."
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q099",
-      "category": "Reported Speech",
-      "question": "She said, 'Please sit down.'",
+      "id": "q11616",
+      "category": "Hospital Communication",
+      "question": "Hospital Communication 06: A hospital wayfinding instruction should mention:",
       "options": [
-        "She told me sit down.",
-        "She asked me to sit down.",
-        "She said me to sit.",
-        "She asked that I sat."
+        "A clear destination and route",
+        "An uncertain guess",
+        "An unrelated department",
+        "A private number"
       ],
-      "answer": 1,
-      "explanation": "A request can be reported with asked + object + to-infinitive."
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11617",
+      "category": "Hospital Communication",
+      "question": "Hospital Communication 07: A Code Violet generally relates to:",
+      "options": [
+        "A violent or potentially violent situation",
+        "A billing query",
+        "Maintenance",
+        "A food order"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11618",
+      "category": "Hospital Communication",
+      "question": "Hospital Communication 08: A staff member notices a patient safety hazard. They should:",
+      "options": [
+        "Report it promptly through the required channel",
+        "Ignore it",
+        "Move evidence without authority",
+        "Post online"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11619",
+      "category": "Hospital Communication",
+      "question": "Hospital Communication 09: Confidential papers should be:",
+      "options": [
+        "Kept secure and accessed only by authorised staff",
+        "Left at reception",
+        "Placed in public bins",
+        "Shown to visitors"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11620",
+      "category": "Hospital Communication",
+      "question": "Hospital Communication 10: A security handover should include:",
+      "options": [
+        "Relevant facts, current status and action required",
+        "Speculation",
+        "Insults",
+        "Unrelated details"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
     }
   ]
 }
