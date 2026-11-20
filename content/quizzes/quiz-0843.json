@@ -3,139 +3,139 @@
   "slug": "quiz-0843",
   "title": "English Practice Quiz 0843",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q072",
-      "category": "Questions",
-      "question": "Which question asks about time?",
+      "id": "q11521",
+      "category": "Business Writing",
+      "question": "Business Writing 01: An executive summary presents:",
       "options": [
-        "Who is calling?",
-        "When does the train leave?",
-        "Where is the station?",
-        "Why are you here?"
-      ],
-      "answer": 1,
-      "explanation": "When asks about time."
-    },
-    {
-      "id": "q085",
-      "category": "Confusing Words",
-      "question": "The bus is ___ than the car today.",
-      "options": [
-        "fast",
-        "faster",
-        "fastest",
-        "more fast"
-      ],
-      "answer": 1,
-      "explanation": "Use the comparative form faster when comparing two things."
-    },
-    {
-      "id": "q098",
-      "category": "Reported Speech",
-      "question": "He asked, 'Where do you live?'",
-      "options": [
-        "He asked where I lived.",
-        "He asked where do I live.",
-        "He asked where did I lived.",
-        "He asked where I live do."
+        "Key points of a longer report",
+        "Every source in full",
+        "No evidence",
+        "The writer's hobbies"
       ],
       "answer": 0,
-      "explanation": "Reported questions use statement word order; do is removed."
+      "explanation": "An executive summary presents: The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q111",
-      "category": "Gerunds",
-      "question": "I enjoy ___ books.",
+      "id": "q11522",
+      "category": "Business Writing",
+      "question": "Business Writing 02: A formal report should distinguish:",
       "options": [
-        "read",
-        "to read",
-        "reading",
-        "reads"
-      ],
-      "answer": 2,
-      "explanation": "Enjoy is followed by a gerund (-ing form)."
-    },
-    {
-      "id": "q009",
-      "category": "Grammar",
-      "question": "Choose the correct comparative form.",
-      "options": [
-        "more tall",
-        "taller",
-        "tallest than",
-        "most tall"
-      ],
-      "answer": 1,
-      "explanation": "The comparative form of the short adjective tall is taller."
-    },
-    {
-      "id": "q022",
-      "category": "Vocabulary",
-      "question": "Choose the opposite of 'polite'.",
-      "options": [
-        "kind",
-        "rude",
-        "helpful",
-        "calm"
-      ],
-      "answer": 1,
-      "explanation": "Rude is the opposite of polite."
-    },
-    {
-      "id": "q035",
-      "category": "Articles",
-      "question": "Mount Everest is ___ highest mountain in the world.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 2,
-      "explanation": "Use the with superlative adjectives."
-    },
-    {
-      "id": "q048",
-      "category": "Sentence Building",
-      "question": "Choose the correct sentence.",
-      "options": [
-        "Because I was tired, I went to bed early.",
-        "Because I tired, went bed early.",
-        "I because was tired bed early.",
-        "Because tired I went early bed."
+        "Facts, analysis and recommendations",
+        "Rumours and jokes",
+        "Attacks and assumptions",
+        "Unrelated opinions"
       ],
       "answer": 0,
-      "explanation": "The subordinate clause beginning with because explains the reason."
+      "explanation": "A formal report should distinguish: The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q061",
-      "category": "Reading",
-      "question": "Read: 'Mina takes the bus at 8 a.m. and reaches work at 8:45.' How does Mina travel?",
+      "id": "q11523",
+      "category": "Business Writing",
+      "question": "Business Writing 03: Which subject line is clearest?",
       "options": [
-        "By train",
-        "By bus",
-        "By car",
-        "On foot"
+        "Monthly Safety Inspection Report – October 2026",
+        "Hello",
+        "Important!!!",
+        "Please read maybe"
       ],
-      "answer": 1,
-      "explanation": "The passage clearly says Mina takes the bus."
+      "answer": 0,
+      "explanation": "Which subject line is clearest? The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q074",
-      "category": "Questions",
-      "question": "Which question asks for a reason?",
+      "id": "q11524",
+      "category": "Business Writing",
+      "question": "Business Writing 04: A report recommendation should be:",
       "options": [
-        "What happened?",
-        "Where are you?",
-        "Why are you late?",
-        "When is lunch?"
+        "Practical and supported by findings",
+        "Unrelated to evidence",
+        "Impossible to measure",
+        "Based on rumours"
       ],
-      "answer": 2,
-      "explanation": "Why asks for a reason."
+      "answer": 0,
+      "explanation": "A report recommendation should be: The first option is correct because it reflects the relevant principle or standard."
+    },
+    {
+      "id": "q11525",
+      "category": "Business Writing",
+      "question": "Business Writing 05: An appendix contains:",
+      "options": [
+        "Supporting material after the main report",
+        "An email greeting",
+        "Staff passwords",
+        "Only the title"
+      ],
+      "answer": 0,
+      "explanation": "An appendix contains: The first option is correct because it reflects the relevant principle or standard."
+    },
+    {
+      "id": "q11526",
+      "category": "Business Writing",
+      "question": "Business Writing 06: Passive voice can be useful when:",
+      "options": [
+        "The action or result matters more than the actor",
+        "Hiding every fact",
+        "Writing a diary",
+        "Greeting a friend"
+      ],
+      "answer": 0,
+      "explanation": "Passive voice can be useful when: The first option is correct because it reflects the relevant principle or standard."
+    },
+    {
+      "id": "q11527",
+      "category": "Business Writing",
+      "question": "Business Writing 07: A version number helps readers:",
+      "options": [
+        "Identify the current revision",
+        "Calculate salary",
+        "Find an exit",
+        "Measure paper"
+      ],
+      "answer": 0,
+      "explanation": "A version number helps readers: The first option is correct because it reflects the relevant principle or standard."
+    },
+    {
+      "id": "q11528",
+      "category": "Business Writing",
+      "question": "Business Writing 08: A report's scope explains:",
+      "options": [
+        "What it covers and excludes",
+        "Who owns the office",
+        "The writer's hobby",
+        "The printer model"
+      ],
+      "answer": 0,
+      "explanation": "A report's scope explains: The first option is correct because it reflects the relevant principle or standard."
+    },
+    {
+      "id": "q11529",
+      "category": "Business Writing",
+      "question": "Business Writing 09: A concise paragraph should contain:",
+      "options": [
+        "One main idea and relevant details",
+        "Unrelated topics",
+        "Only abbreviations",
+        "Repeated sentences"
+      ],
+      "answer": 0,
+      "explanation": "A concise paragraph should contain: The first option is correct because it reflects the relevant principle or standard."
+    },
+    {
+      "id": "q11530",
+      "category": "Business Writing",
+      "question": "Business Writing 10: Before sending a report, check:",
+      "options": [
+        "Facts, figures, names and formatting",
+        "Invent missing data",
+        "Remove evidence",
+        "Skip proofreading"
+      ],
+      "answer": 0,
+      "explanation": "Before sending a report, check: The first option is correct because it reflects the relevant principle or standard."
     }
   ]
 }
