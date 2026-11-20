@@ -3,139 +3,139 @@
   "slug": "quiz-0866",
   "title": "English Practice Quiz 0866",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q003",
-      "category": "Grammar",
-      "question": "I ___ a new notebook yesterday.",
+      "id": "q11351",
+      "category": "Customer Relations",
+      "question": "Customer Relations: A customer has waited for an hour. Best response:",
       "options": [
-        "buy",
-        "buys",
-        "bought",
-        "buying"
-      ],
-      "answer": 2,
-      "explanation": "Yesterday signals the past simple. The past form of buy is bought."
-    },
-    {
-      "id": "q026",
-      "category": "Vocabulary",
-      "question": "What does 'borrow' mean?",
-      "options": [
-        "give something forever",
-        "take something temporarily and return it",
-        "break something",
-        "buy something"
+        "Not my fault",
+        "I apologise for the wait. I will check the status for you",
+        "Come earlier",
+        "Stop complaining"
       ],
       "answer": 1,
-      "explanation": "Borrow means to take something for a period and return it."
+      "explanation": "Acknowledge the delay and offer a practical next step."
     },
     {
-      "id": "q049",
-      "category": "Sentence Building",
-      "question": "Choose the correct plural of 'child'.",
+      "id": "q11352",
+      "category": "Customer Relations",
+      "question": "Customer Relations: Professionalism includes:",
       "options": [
-        "childs",
-        "childes",
-        "children",
-        "childrens"
-      ],
-      "answer": 2,
-      "explanation": "Children is the irregular plural of child."
-    },
-    {
-      "id": "q072",
-      "category": "Questions",
-      "question": "Which question asks about time?",
-      "options": [
-        "Who is calling?",
-        "When does the train leave?",
-        "Where is the station?",
-        "Why are you here?"
-      ],
-      "answer": 1,
-      "explanation": "When asks about time."
-    },
-    {
-      "id": "q095",
-      "category": "Passive Voice",
-      "question": "The windows ___ every week.",
-      "options": [
-        "are cleaned",
-        "clean",
-        "is cleaned",
-        "cleaning"
+        "courtesy, reliability and respect",
+        "gossip and favouritism",
+        "ignoring procedures",
+        "false promises"
       ],
       "answer": 0,
-      "explanation": "Plural subject windows takes are + past participle."
+      "explanation": "Professional conduct involves respectful and dependable behaviour."
     },
     {
-      "id": "q003",
-      "category": "Grammar",
-      "question": "I ___ a new notebook yesterday.",
+      "id": "q11353",
+      "category": "Customer Relations",
+      "question": "Customer Relations: A service standard describes:",
       "options": [
-        "buy",
-        "buys",
-        "bought",
-        "buying"
-      ],
-      "answer": 2,
-      "explanation": "Yesterday signals the past simple. The past form of buy is bought."
-    },
-    {
-      "id": "q026",
-      "category": "Vocabulary",
-      "question": "What does 'borrow' mean?",
-      "options": [
-        "give something forever",
-        "take something temporarily and return it",
-        "break something",
-        "buy something"
-      ],
-      "answer": 1,
-      "explanation": "Borrow means to take something for a period and return it."
-    },
-    {
-      "id": "q049",
-      "category": "Sentence Building",
-      "question": "Choose the correct plural of 'child'.",
-      "options": [
-        "childs",
-        "childes",
-        "children",
-        "childrens"
-      ],
-      "answer": 2,
-      "explanation": "Children is the irregular plural of child."
-    },
-    {
-      "id": "q072",
-      "category": "Questions",
-      "question": "Which question asks about time?",
-      "options": [
-        "Who is calling?",
-        "When does the train leave?",
-        "Where is the station?",
-        "Why are you here?"
-      ],
-      "answer": 1,
-      "explanation": "When asks about time."
-    },
-    {
-      "id": "q095",
-      "category": "Passive Voice",
-      "question": "The windows ___ every week.",
-      "options": [
-        "are cleaned",
-        "clean",
-        "is cleaned",
-        "cleaning"
+        "the expected level of service",
+        "a private opinion",
+        "a leave plan",
+        "one preference"
       ],
       "answer": 0,
-      "explanation": "Plural subject windows takes are + past participle."
+      "explanation": "Service standards define expected performance."
+    },
+    {
+      "id": "q11354",
+      "category": "Customer Relations",
+      "question": "Customer Relations: You do not know an answer. Say:",
+      "options": [
+        "I will check the correct information for you",
+        "I will make it up",
+        "That is silly",
+        "Ask anyone"
+      ],
+      "answer": 0,
+      "explanation": "It is honest and offers to find accurate information."
+    },
+    {
+      "id": "q11355",
+      "category": "Customer Relations",
+      "question": "Customer Relations: Customer feedback can help:",
+      "options": [
+        "identify areas for improvement",
+        "avoid communication",
+        "remove every procedure",
+        "ignore quality"
+      ],
+      "answer": 0,
+      "explanation": "Feedback reveals strengths and improvement opportunities."
+    },
+    {
+      "id": "q11356",
+      "category": "Customer Relations",
+      "question": "Customer Relations: Courtesy means:",
+      "options": [
+        "polite and considerate behaviour",
+        "a penalty",
+        "a technical failure",
+        "a delivery schedule"
+      ],
+      "answer": 0,
+      "explanation": "Courtesy is politeness and consideration."
+    },
+    {
+      "id": "q11357",
+      "category": "Customer Relations",
+      "question": "Customer Relations: A customer asks for a supervisor. You should:",
+      "options": [
+        "follow the escalation procedure respectfully",
+        "refuse automatically",
+        "argue",
+        "hide the supervisor"
+      ],
+      "answer": 0,
+      "explanation": "Follow the established escalation process."
+    },
+    {
+      "id": "q11358",
+      "category": "Customer Relations",
+      "question": "Customer Relations: Which behaviour builds trust?",
+      "options": [
+        "accurate information and keeping commitments",
+        "unsupported guarantees",
+        "changing answers",
+        "withholding updates"
+      ],
+      "answer": 0,
+      "explanation": "Trust grows through accuracy and reliability."
+    },
+    {
+      "id": "q11359",
+      "category": "Customer Relations",
+      "question": "Customer Relations: Close a service request when:",
+      "options": [
+        "the action is completed and recorded",
+        "it is merely received",
+        "the customer stops calling",
+        "the shift changes"
+      ],
+      "answer": 0,
+      "explanation": "Closure requires completion and documentation."
+    },
+    {
+      "id": "q11360",
+      "category": "Customer Relations",
+      "question": "Customer Relations: A professional apology should be:",
+      "options": [
+        "sincere, clear and relevant",
+        "sarcastic",
+        "blaming",
+        "unrelated"
+      ],
+      "answer": 0,
+      "explanation": "A sincere apology acknowledges the issue directly."
     }
   ]
 }
