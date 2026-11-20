@@ -3,139 +3,139 @@
   "slug": "quiz-0929",
   "title": "English Practice Quiz 0929",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
+  "category": "Practical English",
   "level": "Advanced",
   "question_count": 10,
   "questions": [
     {
-      "id": "q039",
-      "category": "Prepositions",
-      "question": "She is interested ___ music.",
+      "id": "q10781",
+      "category": "Reading Comprehension",
+      "question": "Notice: 'Registration closes at 11:00 a.m.' When does it close?",
       "options": [
-        "on",
-        "at",
-        "in",
-        "for"
+        "11:00 a.m.",
+        "8:30 a.m.",
+        "11:30 a.m.",
+        "12:00 noon"
       ],
-      "answer": 2,
-      "explanation": "The adjective interested is followed by in."
+      "answer": 0,
+      "explanation": "11:00 a.m. is correct. The sentence or passage provides the relevant meaning and context."
     },
     {
-      "id": "q076",
-      "category": "Punctuation",
-      "question": "Choose the correctly punctuated sentence.",
+      "id": "q10782",
+      "category": "Reading Comprehension",
+      "question": "Nita must bring the original ID for verification. What must she bring?",
       "options": [
-        "where are you.",
-        "Where are you?",
-        "Where are you,",
-        "where are you!"
+        "A second online form",
+        "The original identity document",
+        "A website screenshot",
+        "A bank statement"
       ],
       "answer": 1,
-      "explanation": "Start with a capital letter and use a question mark."
+      "explanation": "The original identity document is correct. The sentence or passage provides the relevant meaning and context."
     },
     {
-      "id": "q113",
-      "category": "Gerunds",
-      "question": "She is good at ___.",
+      "id": "q10783",
+      "category": "Reading Comprehension",
+      "question": "A delivery was postponed because heavy rain closed the road. Why was it postponed?",
       "options": [
-        "swim",
-        "to swim",
-        "swimming",
-        "swam"
+        "The driver forgot",
+        "The customer cancelled",
+        "The road was closed after heavy rain",
+        "The warehouse was empty"
       ],
       "answer": 2,
-      "explanation": "A preposition such as at is followed by a noun or gerund."
+      "explanation": "The road was closed after heavy rain is correct. The sentence or passage provides the relevant meaning and context."
     },
     {
-      "id": "q035",
-      "category": "Articles",
-      "question": "Mount Everest is ___ highest mountain in the world.",
+      "id": "q10784",
+      "category": "Reading Comprehension",
+      "question": "Arun checks equipment at the beginning of every shift. When does he check it?",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
+        "At month end",
+        "After annual leave",
+        "Once in five years",
+        "At the beginning of each shift"
+      ],
+      "answer": 3,
+      "explanation": "At the beginning of each shift is correct. The sentence or passage provides the relevant meaning and context."
+    },
+    {
+      "id": "q10785",
+      "category": "Reading Comprehension",
+      "question": "Visitors must wear an identification badge. What should they wear?",
+      "options": [
+        "An identification badge",
+        "A company uniform",
+        "A personal key",
+        "A helmet in every room"
+      ],
+      "answer": 0,
+      "explanation": "An identification badge is correct. The sentence or passage provides the relevant meaning and context."
+    },
+    {
+      "id": "q10786",
+      "category": "Reading Comprehension",
+      "question": "Meera called her supervisor because she missed the bus. Why did she call?",
+      "options": [
+        "To request a raise",
+        "To report that she would be late",
+        "To resign",
+        "To book a room"
+      ],
+      "answer": 1,
+      "explanation": "To report that she would be late is correct. The sentence or passage provides the relevant meaning and context."
+    },
+    {
+      "id": "q10787",
+      "category": "Reading Comprehension",
+      "question": "The storeroom is locked after 6 p.m.; staff should contact the duty manager. Whom should they contact?",
+      "options": [
+        "A shopkeeper",
+        "A customer",
+        "The duty manager",
+        "A former employee"
       ],
       "answer": 2,
-      "explanation": "Use the with superlative adjectives."
+      "explanation": "The duty manager is correct. The sentence or passage provides the relevant meaning and context."
     },
     {
-      "id": "q072",
-      "category": "Questions",
-      "question": "Which question asks about time?",
+      "id": "q10788",
+      "category": "Reading Comprehension",
+      "question": "A session starts at 2 p.m. and lasts 90 minutes. When does it end?",
       "options": [
-        "Who is calling?",
-        "When does the train leave?",
-        "Where is the station?",
-        "Why are you here?"
+        "2:30 p.m.",
+        "3:00 p.m.",
+        "4:00 p.m.",
+        "3:30 p.m."
+      ],
+      "answer": 3,
+      "explanation": "3:30 p.m. is correct. The sentence or passage provides the relevant meaning and context."
+    },
+    {
+      "id": "q10789",
+      "category": "Reading Comprehension",
+      "question": "Only sealed containers may go on the top shelf. Which is allowed?",
+      "options": [
+        "A sealed container",
+        "An open container",
+        "A leaking container",
+        "An uncovered tray"
+      ],
+      "answer": 0,
+      "explanation": "A sealed container is correct. The sentence or passage provides the relevant meaning and context."
+    },
+    {
+      "id": "q10790",
+      "category": "Reading Comprehension",
+      "question": "A report was returned because two pages were missing. Why was it returned?",
+      "options": [
+        "Its title was short",
+        "Two pages were missing",
+        "The printer was off",
+        "The meeting began early"
       ],
       "answer": 1,
-      "explanation": "When asks about time."
-    },
-    {
-      "id": "q109",
-      "category": "Adverbs",
-      "question": "She arrived ___.",
-      "options": [
-        "late",
-        "lately",
-        "latest",
-        "laterly"
-      ],
-      "answer": 0,
-      "explanation": "Late is the correct adverb meaning not on time."
-    },
-    {
-      "id": "q031",
-      "category": "Articles",
-      "question": "I saw ___ elephant at the zoo.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "Use an before a vowel sound."
-    },
-    {
-      "id": "q068",
-      "category": "Workplace English",
-      "question": "You need to report a problem. You say:",
-      "options": [
-        "There is an issue with the printer.",
-        "Printer bad you.",
-        "I issue printer.",
-        "No printer yesterday."
-      ],
-      "answer": 0,
-      "explanation": "There is an issue with... clearly introduces a problem."
-    },
-    {
-      "id": "q105",
-      "category": "Determiners",
-      "question": "___ student must bring an ID card.",
-      "options": [
-        "Each",
-        "Many",
-        "Few",
-        "Several"
-      ],
-      "answer": 0,
-      "explanation": "Each refers to every individual in a group."
-    },
-    {
-      "id": "q027",
-      "category": "Vocabulary",
-      "question": "Choose the correct word: Please ___ the details.",
-      "options": [
-        "confirm",
-        "crowded",
-        "repairing",
-        "hungry"
-      ],
-      "answer": 0,
-      "explanation": "Confirm means to check or establish that something is correct."
+      "explanation": "Two pages were missing is correct. The sentence or passage provides the relevant meaning and context."
     }
   ]
 }
