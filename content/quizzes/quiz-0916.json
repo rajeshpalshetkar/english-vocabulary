@@ -3,139 +3,139 @@
   "slug": "quiz-0916",
   "title": "English Practice Quiz 0916",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q048",
-      "category": "Sentence Building",
-      "question": "Choose the correct sentence.",
+      "id": "q10851",
+      "category": "Environmental Compliance",
+      "question": "Segregating waste means ___.",
       "options": [
-        "Because I was tired, I went to bed early.",
-        "Because I tired, went bed early.",
-        "I because was tired bed early.",
-        "Because tired I went early bed."
-      ],
-      "answer": 0,
-      "explanation": "The subordinate clause beginning with because explains the reason."
-    },
-    {
-      "id": "q071",
-      "category": "Questions",
-      "question": "Choose the correct WH question for a place.",
-      "options": [
-        "When do you live?",
-        "Where do you live?",
-        "Who do you live?",
-        "Why do you live?"
+        "mixing every waste type",
+        "separating waste into appropriate categories",
+        "burning all rubbish",
+        "leaving waste in corridors"
       ],
       "answer": 1,
-      "explanation": "Where asks about a place or location."
+      "explanation": "separating waste into appropriate categories is the correct choice based on the meaning and context of the question."
     },
     {
-      "id": "q094",
-      "category": "Passive Voice",
-      "question": "English ___ in many countries.",
+      "id": "q10852",
+      "category": "Environmental Compliance",
+      "question": "A recycling symbol generally indicates an item ___.",
       "options": [
-        "speaks",
-        "is spoken",
-        "spoken",
-        "is speaking"
+        "must go in general waste",
+        "is safe to eat",
+        "contains confidential data",
+        "may be recyclable under suitable local arrangements"
+      ],
+      "answer": 3,
+      "explanation": "may be recyclable under suitable local arrangements is the correct choice based on the meaning and context of the question."
+    },
+    {
+      "id": "q10853",
+      "category": "Environmental Compliance",
+      "question": "An environmental audit may examine ___.",
+      "options": [
+        "employee hobbies",
+        "resource use, waste and compliance practices",
+        "shopping lists",
+        "sports results"
       ],
       "answer": 1,
-      "explanation": "Present simple passive: is spoken."
+      "explanation": "resource use, waste and compliance practices is the correct choice based on the meaning and context of the question."
     },
     {
-      "id": "q002",
-      "category": "Grammar",
-      "question": "They ___ ready for the meeting.",
+      "id": "q10854",
+      "category": "Environmental Compliance",
+      "question": "Why label chemical containers?",
       "options": [
-        "is",
-        "am",
-        "are",
-        "be"
+        "To improve appearance only",
+        "To hide supplier details",
+        "To replace safe storage",
+        "To identify contents and communicate hazards"
       ],
-      "answer": 2,
-      "explanation": "Use are with the plural subject they."
+      "answer": 3,
+      "explanation": "To identify contents and communicate hazards is the correct choice based on the meaning and context of the question."
     },
     {
-      "id": "q025",
-      "category": "Vocabulary",
-      "question": "A person you can trust is ___.",
+      "id": "q10855",
+      "category": "Environmental Compliance",
+      "question": "A spill should be handled by ___.",
       "options": [
-        "reliable",
-        "careless",
-        "silent",
-        "narrow"
-      ],
-      "answer": 0,
-      "explanation": "Reliable means dependable or trustworthy."
-    },
-    {
-      "id": "q048",
-      "category": "Sentence Building",
-      "question": "Choose the correct sentence.",
-      "options": [
-        "Because I was tired, I went to bed early.",
-        "Because I tired, went bed early.",
-        "I because was tired bed early.",
-        "Because tired I went early bed."
-      ],
-      "answer": 0,
-      "explanation": "The subordinate clause beginning with because explains the reason."
-    },
-    {
-      "id": "q071",
-      "category": "Questions",
-      "question": "Choose the correct WH question for a place.",
-      "options": [
-        "When do you live?",
-        "Where do you live?",
-        "Who do you live?",
-        "Why do you live?"
+        "washing it into any drain",
+        "following the relevant spill-response procedure",
+        "ignoring it",
+        "touching it without protection"
       ],
       "answer": 1,
-      "explanation": "Where asks about a place or location."
+      "explanation": "following the relevant spill-response procedure is the correct choice based on the meaning and context of the question."
     },
     {
-      "id": "q094",
-      "category": "Passive Voice",
-      "question": "English ___ in many countries.",
+      "id": "q10856",
+      "category": "Environmental Compliance",
+      "question": "Energy conservation at work can include ___.",
       "options": [
-        "speaks",
-        "is spoken",
-        "spoken",
-        "is speaking"
+        "leaving devices running",
+        "blocking ventilation",
+        "opening refrigerators unnecessarily",
+        "switching off unused lights and equipment"
+      ],
+      "answer": 3,
+      "explanation": "switching off unused lights and equipment is the correct choice based on the meaning and context of the question."
+    },
+    {
+      "id": "q10857",
+      "category": "Environmental Compliance",
+      "question": "Hazardous waste requires ___.",
+      "options": [
+        "ordinary disposal in every case",
+        "appropriate handling and authorised disposal",
+        "mixing with food waste",
+        "storage near drinking water"
       ],
       "answer": 1,
-      "explanation": "Present simple passive: is spoken."
+      "explanation": "appropriate handling and authorised disposal is the correct choice based on the meaning and context of the question."
     },
     {
-      "id": "q002",
-      "category": "Grammar",
-      "question": "They ___ ready for the meeting.",
+      "id": "q10858",
+      "category": "Environmental Compliance",
+      "question": "Environmental compliance means following ___.",
       "options": [
-        "is",
-        "am",
-        "are",
-        "be"
+        "personal guesses",
+        "unofficial rumours",
+        "advertising slogans",
+        "applicable environmental rules and requirements"
       ],
-      "answer": 2,
-      "explanation": "Use are with the plural subject they."
+      "answer": 3,
+      "explanation": "applicable environmental rules and requirements is the correct choice based on the meaning and context of the question."
     },
     {
-      "id": "q025",
-      "category": "Vocabulary",
-      "question": "A person you can trust is ___.",
+      "id": "q10859",
+      "category": "Environmental Compliance",
+      "question": "A water leak should be ___.",
       "options": [
-        "reliable",
-        "careless",
-        "silent",
-        "narrow"
+        "left until next year",
+        "reported promptly for repair",
+        "covered with paper",
+        "ignored if small"
       ],
-      "answer": 0,
-      "explanation": "Reliable means dependable or trustworthy."
+      "answer": 1,
+      "explanation": "reported promptly for repair is the correct choice based on the meaning and context of the question."
+    },
+    {
+      "id": "q10860",
+      "category": "Environmental Compliance",
+      "question": "Waste disposal records support ___.",
+      "options": [
+        "staff training replacement",
+        "product advertising",
+        "visitor feedback",
+        "traceability and demonstration of compliance"
+      ],
+      "answer": 3,
+      "explanation": "traceability and demonstration of compliance is the correct choice based on the meaning and context of the question."
     }
   ]
 }
