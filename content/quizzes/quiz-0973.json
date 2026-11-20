@@ -3,139 +3,139 @@
   "slug": "quiz-0973",
   "title": "English Practice Quiz 0973",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q097",
-      "category": "Reported Speech",
-      "question": "She said, 'I can swim.'",
+      "id": "q10221",
+      "category": "Office Administration",
+      "question": "An agenda is a list of ___.",
       "options": [
-        "She said she can swam.",
-        "She said that she could swim.",
-        "She said she swims can.",
-        "She told that could swim."
-      ],
-      "answer": 1,
-      "explanation": "Can commonly changes to could in reported speech after a past reporting verb."
-    },
-    {
-      "id": "q110",
-      "category": "Adverbs",
-      "question": "Please drive ___.",
-      "options": [
-        "careful",
-        "carefully",
-        "care",
-        "caring"
-      ],
-      "answer": 1,
-      "explanation": "Carefully is the adverb modifying drive."
-    },
-    {
-      "id": "q008",
-      "category": "Grammar",
-      "question": "This is the woman ___ helped me.",
-      "options": [
-        "which",
-        "who",
-        "where",
-        "when"
-      ],
-      "answer": 1,
-      "explanation": "Who is used for people."
-    },
-    {
-      "id": "q021",
-      "category": "Vocabulary",
-      "question": "A person who repairs water pipes is a ___.",
-      "options": [
-        "carpenter",
-        "plumber",
-        "tailor",
-        "baker"
-      ],
-      "answer": 1,
-      "explanation": "A plumber installs and repairs water pipes and fittings."
-    },
-    {
-      "id": "q034",
-      "category": "Articles",
-      "question": "He wants to become ___ engineer.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "Engineer begins with a vowel sound, so use an."
-    },
-    {
-      "id": "q047",
-      "category": "Sentence Building",
-      "question": "Choose the correct question.",
-      "options": [
-        "Where you live?",
-        "Where do you live?",
-        "Where does you live?",
-        "Where are live you?"
-      ],
-      "answer": 1,
-      "explanation": "Use do + subject + base verb for present simple questions with you."
-    },
-    {
-      "id": "q060",
-      "category": "Pronunciation",
-      "question": "How many syllables are in 'computer'?",
-      "options": [
-        "one",
-        "two",
-        "three",
-        "four"
-      ],
-      "answer": 2,
-      "explanation": "Computer is commonly pronounced with three syllables: com-pu-ter."
-    },
-    {
-      "id": "q073",
-      "category": "Questions",
-      "question": "Choose the correct question.",
-      "options": [
-        "Does she work here?",
-        "Do she work here?",
-        "Is she works here?",
-        "Does she works here?"
+        "items to be discussed at a meeting",
+        "staff birthdays only",
+        "office furniture",
+        "completed invoices"
       ],
       "answer": 0,
-      "explanation": "Use does + subject + base verb with he, she or it."
+      "explanation": "An agenda outlines the subjects planned for discussion."
     },
     {
-      "id": "q086",
-      "category": "Conditionals",
-      "question": "If it rains, we ___ indoors.",
+      "id": "q10222",
+      "category": "Office Administration",
+      "question": "The minutes of a meeting are ___.",
       "options": [
-        "stay",
-        "will stay",
-        "stayed",
-        "would stayed"
+        "the official written record of discussion and decisions",
+        "a list of lunch orders",
+        "a personal diary",
+        "a timetable for holidays"
       ],
-      "answer": 1,
-      "explanation": "The first conditional uses if + present simple, will + base verb."
+      "answer": 0,
+      "explanation": "Meeting minutes record key discussions, decisions and actions."
     },
     {
-      "id": "q099",
-      "category": "Reported Speech",
-      "question": "She said, 'Please sit down.'",
+      "id": "q10223",
+      "category": "Office Administration",
+      "question": "A document marked 'draft' is ___.",
       "options": [
-        "She told me sit down.",
-        "She asked me to sit down.",
-        "She said me to sit.",
-        "She asked that I sat."
+        "not yet in its final form",
+        "already legally approved",
+        "always confidential",
+        "ready to destroy"
       ],
-      "answer": 1,
-      "explanation": "A request can be reported with asked + object + to-infinitive."
+      "answer": 0,
+      "explanation": "A draft is a preliminary version that may be revised."
+    },
+    {
+      "id": "q10224",
+      "category": "Office Administration",
+      "question": "To 'file' a document means to ___.",
+      "options": [
+        "organise and store it for reference",
+        "send it to every customer",
+        "delete all copies",
+        "translate it automatically"
+      ],
+      "answer": 0,
+      "explanation": "Filing keeps documents organised and retrievable."
+    },
+    {
+      "id": "q10225",
+      "category": "Office Administration",
+      "question": "Which subject line suits an email requesting leave approval?",
+      "options": [
+        "Leave Request for 12 December",
+        "Hello there",
+        "Important thing",
+        "Please read"
+      ],
+      "answer": 0,
+      "explanation": "A specific subject line tells the recipient what the email concerns."
+    },
+    {
+      "id": "q10226",
+      "category": "Office Administration",
+      "question": "A 'duplicate' document is ___.",
+      "options": [
+        "an additional copy of the same document",
+        "a document with no words",
+        "a signed original only",
+        "a deleted record"
+      ],
+      "answer": 0,
+      "explanation": "Duplicate means a copy or something repeated."
+    },
+    {
+      "id": "q10227",
+      "category": "Office Administration",
+      "question": "A document's 'version number' helps identify ___.",
+      "options": [
+        "which revision it is",
+        "who printed the paper",
+        "the weight of the file",
+        "the room temperature"
+      ],
+      "answer": 0,
+      "explanation": "Version numbers distinguish successive revisions."
+    },
+    {
+      "id": "q10228",
+      "category": "Office Administration",
+      "question": "Before sending an attachment, you should check that it is ___.",
+      "options": [
+        "the correct and intended file",
+        "an unrelated old file",
+        "empty by design",
+        "passwords in plain text"
+      ],
+      "answer": 0,
+      "explanation": "Checking the attachment prevents accidental sharing of the wrong document."
+    },
+    {
+      "id": "q10229",
+      "category": "Office Administration",
+      "question": "A 'dispatch' register records items that have been ___.",
+      "options": [
+        "sent out",
+        "painted",
+        "repaired only",
+        "borrowed privately"
+      ],
+      "answer": 0,
+      "explanation": "Dispatch records track outgoing documents or goods."
+    },
+    {
+      "id": "q10230",
+      "category": "Office Administration",
+      "question": "Which phrase politely asks for confirmation of receipt?",
+      "options": [
+        "Please confirm that you have received this email.",
+        "You got it, right?",
+        "Reply or else.",
+        "I sent something."
+      ],
+      "answer": 0,
+      "explanation": "This is a clear and professional confirmation request."
     }
   ]
 }
