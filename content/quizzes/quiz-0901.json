@@ -3,139 +3,139 @@
   "slug": "quiz-0901",
   "title": "English Practice Quiz 0901",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q023",
-      "category": "Vocabulary",
-      "question": "A synonym of 'begin' is ___.",
+      "id": "q10901",
+      "category": "Workplace Communication",
+      "question": "What is the clearest way to update a colleague?",
       "options": [
-        "finish",
-        "start",
-        "stop",
-        "close"
-      ],
-      "answer": 1,
-      "explanation": "Start has the same basic meaning as begin."
-    },
-    {
-      "id": "q032",
-      "category": "Articles",
-      "question": "She is ___ university student.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
+        "The inspection is complete; the report is attached.",
+        "Done stuff.",
+        "Everything is fine maybe.",
+        "You know what happened."
       ],
       "answer": 0,
-      "explanation": "University begins with the consonant sound /y/, so use a."
+      "explanation": "The inspection is complete; the report is attached. is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q041",
-      "category": "Modals",
-      "question": "___ I borrow your pen, please?",
+      "id": "q10902",
+      "category": "Workplace Communication",
+      "question": "When giving instructions, it is helpful to ___.",
       "options": [
-        "May",
-        "Must",
-        "Should",
-        "Would have"
+        "leave out important details",
+        "use unexplained abbreviations",
+        "change steps repeatedly",
+        "use clear steps in the order they should be done"
       ],
-      "answer": 0,
-      "explanation": "May is a polite way to ask permission."
+      "answer": 3,
+      "explanation": "use clear steps in the order they should be done is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q050",
-      "category": "Sentence Building",
-      "question": "Choose the correct sentence.",
+      "id": "q10903",
+      "category": "Workplace Communication",
+      "question": "A colleague misunderstands your message. You should ___.",
       "options": [
-        "There is many books.",
-        "There are many books.",
-        "There be many books.",
-        "There am many books."
-      ],
-      "answer": 1,
-      "explanation": "Use there are with plural nouns."
-    },
-    {
-      "id": "q059",
-      "category": "Pronunciation",
-      "question": "Which word rhymes with 'light'?",
-      "options": [
-        "late",
-        "lit",
-        "night",
-        "let"
+        "blame the colleague",
+        "repeat it louder without explanation",
+        "rephrase it calmly and check their understanding",
+        "ignore the misunderstanding"
       ],
       "answer": 2,
-      "explanation": "Light and night share the same ending sound."
+      "explanation": "rephrase it calmly and check their understanding is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q068",
-      "category": "Workplace English",
-      "question": "You need to report a problem. You say:",
+      "id": "q10904",
+      "category": "Workplace Communication",
+      "question": "Which phrase politely asks someone to wait?",
       "options": [
-        "There is an issue with the printer.",
-        "Printer bad you.",
-        "I issue printer.",
-        "No printer yesterday."
-      ],
-      "answer": 0,
-      "explanation": "There is an issue with... clearly introduces a problem."
-    },
-    {
-      "id": "q077",
-      "category": "Punctuation",
-      "question": "Which sentence uses the apostrophe correctly?",
-      "options": [
-        "The guards uniform is blue.",
-        "The guard's uniform is blue.",
-        "The guards' uniform is blue. (one guard)",
-        "The guard uniform's is blue."
+        "Wait there.",
+        "Could you please hold for a moment?",
+        "Stop talking.",
+        "Don't move."
       ],
       "answer": 1,
-      "explanation": "Guard's shows possession by one guard."
+      "explanation": "Could you please hold for a moment? is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q086",
-      "category": "Conditionals",
-      "question": "If it rains, we ___ indoors.",
+      "id": "q10905",
+      "category": "Workplace Communication",
+      "question": "An effective handover should include ___.",
       "options": [
-        "stay",
-        "will stay",
-        "stayed",
-        "would stayed"
-      ],
-      "answer": 1,
-      "explanation": "The first conditional uses if + present simple, will + base verb."
-    },
-    {
-      "id": "q095",
-      "category": "Passive Voice",
-      "question": "The windows ___ every week.",
-      "options": [
-        "are cleaned",
-        "clean",
-        "is cleaned",
-        "cleaning"
+        "pending tasks, important updates and relevant risks",
+        "personal gossip",
+        "unconfirmed rumours",
+        "unrelated opinions"
       ],
       "answer": 0,
-      "explanation": "Plural subject windows takes are + past participle."
+      "explanation": "pending tasks, important updates and relevant risks is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q104",
-      "category": "Determiners",
-      "question": "There is ___ water in the bottle.",
+      "id": "q10906",
+      "category": "Workplace Communication",
+      "question": "Which action demonstrates active listening?",
       "options": [
-        "a few",
-        "many",
-        "a little",
-        "several"
+        "interrupting frequently",
+        "checking your phone",
+        "changing the subject",
+        "Summarising the speaker's point to confirm understanding"
+      ],
+      "answer": 3,
+      "explanation": "Summarising the speaker's point to confirm understanding is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q10907",
+      "category": "Workplace Communication",
+      "question": "A concise message is ___.",
+      "options": [
+        "long and repetitive",
+        "missing key facts",
+        "brief but complete",
+        "full of unrelated detail"
       ],
       "answer": 2,
-      "explanation": "A little is used with uncountable nouns."
+      "explanation": "brief but complete is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q10908",
+      "category": "Workplace Communication",
+      "question": "If an instruction is unclear, you should ___.",
+      "options": [
+        "guess what it means",
+        "ask a specific clarifying question",
+        "ignore it",
+        "pass on your guess as fact"
+      ],
+      "answer": 1,
+      "explanation": "ask a specific clarifying question is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q10909",
+      "category": "Workplace Communication",
+      "question": "Which phrase respectfully expresses disagreement?",
+      "options": [
+        "I see your point, although I have a different view.",
+        "That is nonsense.",
+        "You never understand.",
+        "Only my idea matters."
+      ],
+      "answer": 0,
+      "explanation": "I see your point, although I have a different view. is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q10910",
+      "category": "Workplace Communication",
+      "question": "Choose a communication channel based on ___.",
+      "options": [
+        "sender's favourite colour",
+        "random selection",
+        "message length alone",
+        "urgency, sensitivity and the need for a record"
+      ],
+      "answer": 3,
+      "explanation": "urgency, sensitivity and the need for a record is the correct answer based on the meaning and context of the question."
     }
   ]
 }
