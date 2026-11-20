@@ -3,139 +3,139 @@
   "slug": "quiz-0803",
   "title": "English Practice Quiz 0803",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q082",
-      "category": "Confusing Words",
-      "question": "The weather can ___ your travel plans.",
+      "id": "q11921",
+      "category": "Emergency Preparedness",
+      "question": "Emergency Preparedness 01: During an evacuation, staff should:",
       "options": [
-        "affect",
-        "effect",
-        "infect",
-        "effort"
+        "Follow the designated route and instructions",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
       ],
       "answer": 0,
-      "explanation": "Affect is usually a verb meaning to influence."
+      "explanation": "Option A is correct: Follow the designated route and instructions. This is the appropriate professional practice or standard English usage."
     },
     {
-      "id": "q095",
-      "category": "Passive Voice",
-      "question": "The windows ___ every week.",
+      "id": "q11922",
+      "category": "Emergency Preparedness",
+      "question": "Emergency Preparedness 02: An assembly point is where people:",
       "options": [
-        "are cleaned",
-        "clean",
-        "is cleaned",
-        "cleaning"
+        "Gather after evacuating",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
       ],
       "answer": 0,
-      "explanation": "Plural subject windows takes are + past participle."
+      "explanation": "Option A is correct: Gather after evacuating. This is the appropriate professional practice or standard English usage."
     },
     {
-      "id": "q108",
-      "category": "Adverbs",
-      "question": "He speaks English ___.",
+      "id": "q11923",
+      "category": "Emergency Preparedness",
+      "question": "Emergency Preparedness 03: An emergency contact list should be:",
       "options": [
-        "clear",
-        "clearly",
-        "clarity",
-        "clearest"
-      ],
-      "answer": 1,
-      "explanation": "Clearly is the adverb describing how he speaks."
-    },
-    {
-      "id": "q006",
-      "category": "Grammar",
-      "question": "He is ___ honest man.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "Use an before a vowel sound. Honest begins with a silent h."
-    },
-    {
-      "id": "q019",
-      "category": "Tenses",
-      "question": "She ___ in this hospital for five years.",
-      "options": [
-        "works",
-        "worked",
-        "has worked",
-        "is work"
-      ],
-      "answer": 2,
-      "explanation": "The present perfect can describe a situation continuing to the present."
-    },
-    {
-      "id": "q032",
-      "category": "Articles",
-      "question": "She is ___ university student.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
+        "Current and accessible to authorised staff",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
       ],
       "answer": 0,
-      "explanation": "University begins with the consonant sound /y/, so use a."
+      "explanation": "Option A is correct: Current and accessible to authorised staff. This is the appropriate professional practice or standard English usage."
     },
     {
-      "id": "q045",
-      "category": "Modals",
-      "question": "It ___ rain later; take an umbrella.",
+      "id": "q11924",
+      "category": "Emergency Preparedness",
+      "question": "Emergency Preparedness 04: If you discover smoke, you should:",
       "options": [
-        "might",
-        "mustn't",
-        "shouldn't",
-        "has"
+        "Raise the alarm and follow emergency procedures",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
       ],
       "answer": 0,
-      "explanation": "Might expresses possibility."
+      "explanation": "Option A is correct: Raise the alarm and follow emergency procedures. This is the appropriate professional practice or standard English usage."
     },
     {
-      "id": "q058",
-      "category": "Pronunciation",
-      "question": "Which word has the /ʃ/ sound as in 'ship'?",
+      "id": "q11925",
+      "category": "Emergency Preparedness",
+      "question": "Emergency Preparedness 05: A fire extinguisher should be used by:",
       "options": [
-        "sip",
-        "shop",
-        "zip",
-        "tip"
+        "A trained person when safe and appropriate",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
       ],
-      "answer": 1,
-      "explanation": "Shop begins with the /ʃ/ sound."
+      "answer": 0,
+      "explanation": "Option A is correct: A trained person when safe and appropriate. This is the appropriate professional practice or standard English usage."
     },
     {
-      "id": "q071",
-      "category": "Questions",
-      "question": "Choose the correct WH question for a place.",
+      "id": "q11926",
+      "category": "Emergency Preparedness",
+      "question": "Emergency Preparedness 06: Emergency drills are conducted to:",
       "options": [
-        "When do you live?",
-        "Where do you live?",
-        "Who do you live?",
-        "Why do you live?"
+        "Practise responses and identify gaps",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
       ],
-      "answer": 1,
-      "explanation": "Where asks about a place or location."
+      "answer": 0,
+      "explanation": "Option A is correct: Practise responses and identify gaps. This is the appropriate professional practice or standard English usage."
     },
     {
-      "id": "q084",
-      "category": "Confusing Words",
-      "question": "I have ___ my keys.",
+      "id": "q11927",
+      "category": "Emergency Preparedness",
+      "question": "Emergency Preparedness 07: A first aider should work:",
       "options": [
-        "loose",
-        "lose",
-        "lost",
-        "loss"
+        "Within their training and the site's emergency protocol",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
       ],
-      "answer": 2,
-      "explanation": "Lost is the past participle of lose."
+      "answer": 0,
+      "explanation": "Option A is correct: Within their training and the site's emergency protocol. This is the appropriate professional practice or standard English usage."
+    },
+    {
+      "id": "q11928",
+      "category": "Emergency Preparedness",
+      "question": "Emergency Preparedness 08: During a power failure, staff should:",
+      "options": [
+        "Follow the site's contingency procedure",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: Follow the site's contingency procedure. This is the appropriate professional practice or standard English usage."
+    },
+    {
+      "id": "q11929",
+      "category": "Emergency Preparedness",
+      "question": "Emergency Preparedness 09: An emergency route must remain:",
+      "options": [
+        "Clear and accessible",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: Clear and accessible. This is the appropriate professional practice or standard English usage."
+    },
+    {
+      "id": "q11930",
+      "category": "Emergency Preparedness",
+      "question": "Emergency Preparedness 10: After an emergency drill, the team should:",
+      "options": [
+        "Review performance and corrective actions",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: Review performance and corrective actions. This is the appropriate professional practice or standard English usage."
     }
   ]
 }
