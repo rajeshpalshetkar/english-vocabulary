@@ -1,0 +1,19 @@
+{
+  "kind": "post",
+  "title": "Your complete lesson title",
+  "description": "A unique, useful search description between 140 and 160 characters where practical.",
+  "slug": "your-complete-lesson-title",
+  "labels": ["Basic English", "Grammar"],
+  "primary_keyword": "main search phrase",
+  "secondary_keywords": ["related phrase one", "related phrase two"],
+  "audience_level": "Beginner",
+  "estimated_reading_minutes": 8,
+  "learning_objectives": ["Learning objective one.", "Learning objective two."],
+  "image_brief": "Describe an original, relevant educational image.",
+  "image_alt": "Accurate description of the image.",
+  "body_markdown": "# Introduction\nWrite original, complete teaching content with rules, examples, common mistakes, practice questions and answer explanations. Aim for at least 500 useful words.\n\n## Topic explanation\n...\n\n## Examples\n...\n\n## Practice\n...\n",
+  "faq": [{"question":"Relevant learner question?","answer":"A clear, accurate answer."}],
+  "references": [],
+  "related_posts": [],
+  "author_reviewed": true
+}
