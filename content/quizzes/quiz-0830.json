@@ -3,139 +3,139 @@
   "slug": "quiz-0830",
   "title": "English Practice Quiz 0830",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
-  "level": "Intermediate",
+  "category": "Practical English",
+  "level": "Advanced",
   "question_count": 10,
   "questions": [
     {
-      "id": "q081",
-      "category": "Confusing Words",
-      "question": "Choose the correct word: ___ going to arrive soon.",
+      "id": "q11791",
+      "category": "Advanced English Usage",
+      "question": "Advanced English Usage 01: Choose the correct sentence:",
       "options": [
-        "Their",
-        "There",
-        "They're",
-        "Theirs"
-      ],
-      "answer": 2,
-      "explanation": "They're is the contraction of they are."
-    },
-    {
-      "id": "q088",
-      "category": "Conditionals",
-      "question": "If you heat ice, it ___.",
-      "options": [
-        "melt",
-        "melts",
-        "will melted",
-        "melting"
-      ],
-      "answer": 1,
-      "explanation": "The zero conditional uses present simple for general truths."
-    },
-    {
-      "id": "q095",
-      "category": "Passive Voice",
-      "question": "The windows ___ every week.",
-      "options": [
-        "are cleaned",
-        "clean",
-        "is cleaned",
-        "cleaning"
+        "Not until the report arrived did we begin the review.",
+        "Not until the report arrived we did begin the review.",
+        "Not until arrived the report did we begin.",
+        "Not until the report did arrive we began."
       ],
       "answer": 0,
-      "explanation": "Plural subject windows takes are + past participle."
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
     },
     {
-      "id": "q102",
-      "category": "Determiners",
-      "question": "How ___ apples do you need?",
+      "id": "q11792",
+      "category": "Advanced English Usage",
+      "question": "Advanced English Usage 02: The proposal requires ___ before approval.",
       "options": [
-        "much",
-        "many",
-        "little",
-        "any"
-      ],
-      "answer": 1,
-      "explanation": "Apples are countable plural nouns, so use many."
-    },
-    {
-      "id": "q109",
-      "category": "Adverbs",
-      "question": "She arrived ___.",
-      "options": [
-        "late",
-        "lately",
-        "latest",
-        "laterly"
+        "further consideration",
+        "consider further",
+        "to further consider",
+        "considered further"
       ],
       "answer": 0,
-      "explanation": "Late is the correct adverb meaning not on time."
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
     },
     {
-      "id": "q001",
-      "category": "Grammar",
-      "question": "She ___ to work every day.",
+      "id": "q11793",
+      "category": "Advanced English Usage",
+      "question": "Advanced English Usage 03: Choose the correct phrase:",
       "options": [
-        "go",
-        "goes",
-        "going",
-        "gone"
+        "Had I known about the delay, I would have called.",
+        "If I would know about the delay, I called.",
+        "Had I knew about delay, I call.",
+        "If I had know, I would called."
       ],
-      "answer": 1,
-      "explanation": "With he, she or it in the present simple, add -s or -es to most verbs."
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
     },
     {
-      "id": "q008",
-      "category": "Grammar",
-      "question": "This is the woman ___ helped me.",
+      "id": "q11794",
+      "category": "Advanced English Usage",
+      "question": "Advanced English Usage 04: The findings are consistent ___ the earlier assessment.",
       "options": [
-        "which",
-        "who",
-        "where",
-        "when"
+        "with",
+        "to",
+        "for",
+        "at"
       ],
-      "answer": 1,
-      "explanation": "Who is used for people."
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
     },
     {
-      "id": "q015",
-      "category": "Tenses",
-      "question": "She ___ the report before the manager arrived.",
+      "id": "q11795",
+      "category": "Advanced English Usage",
+      "question": "Advanced English Usage 05: Choose the correct sentence:",
       "options": [
-        "finished",
-        "has finished",
-        "had finished",
-        "finishes"
+        "Neither the manager nor the assistants were available.",
+        "Neither the manager nor the assistants was available.",
+        "Neither manager or assistants were available.",
+        "Neither the manager nor assistants be available."
       ],
-      "answer": 2,
-      "explanation": "Use the past perfect for an action completed before another past action."
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
     },
     {
-      "id": "q022",
-      "category": "Vocabulary",
-      "question": "Choose the opposite of 'polite'.",
+      "id": "q11796",
+      "category": "Advanced English Usage",
+      "question": "Advanced English Usage 06: A 'pragmatic' solution is one that is:",
       "options": [
-        "kind",
-        "rude",
-        "helpful",
-        "calm"
+        "Practical and realistic",
+        "Purely theoretical",
+        "Impossible to implement",
+        "Based on emotion alone"
       ],
-      "answer": 1,
-      "explanation": "Rude is the opposite of polite."
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
     },
     {
-      "id": "q029",
-      "category": "Vocabulary",
-      "question": "What is the meaning of 'available'?",
+      "id": "q11797",
+      "category": "Advanced English Usage",
+      "question": "Advanced English Usage 07: Choose the correct use of 'complement':",
       "options": [
-        "not possible to use",
-        "ready or able to be used",
-        "very expensive",
-        "already broken"
+        "The new system will complement the existing process.",
+        "The system will compliment the process by replacing it.",
+        "Please complement her on the award.",
+        "The complement was a kind remark."
       ],
-      "answer": 1,
-      "explanation": "Available means ready for use or accessible."
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
+    },
+    {
+      "id": "q11798",
+      "category": "Advanced English Usage",
+      "question": "Advanced English Usage 08: The report was delayed ___ a shortage of verified data.",
+      "options": [
+        "owing to",
+        "although",
+        "whereas",
+        "despite of"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
+    },
+    {
+      "id": "q11799",
+      "category": "Advanced English Usage",
+      "question": "Advanced English Usage 09: Choose the correct sentence:",
+      "options": [
+        "Scarcely had we entered when the lights went out.",
+        "Scarcely we had entered when lights went out.",
+        "Scarcely had entered we when lights went out.",
+        "Scarcely we entered when had lights gone."
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
+    },
+    {
+      "id": "q11800",
+      "category": "Advanced English Usage",
+      "question": "Advanced English Usage 10: To 'corroborate' a statement means to:",
+      "options": [
+        "Confirm it with supporting evidence",
+        "Withdraw it without explanation",
+        "Make it less specific",
+        "Translate it into another language"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
     }
   ]
 }
