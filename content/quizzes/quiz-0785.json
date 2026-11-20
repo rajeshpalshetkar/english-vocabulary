@@ -3,139 +3,139 @@
   "slug": "quiz-0785",
   "title": "English Practice Quiz 0785",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Conversation",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q006",
-      "category": "Grammar",
-      "question": "He is ___ honest man.",
+      "id": "q12141",
+      "category": "Facilities and Maintenance",
+      "question": "Facilities and Maintenance 01: Preventive maintenance is performed to?",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "Use an before a vowel sound. Honest begins with a silent h."
-    },
-    {
-      "id": "q025",
-      "category": "Vocabulary",
-      "question": "A person you can trust is ___.",
-      "options": [
-        "reliable",
-        "careless",
-        "silent",
-        "narrow"
+        "reduce the likelihood of equipment failure",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
       ],
       "answer": 0,
-      "explanation": "Reliable means dependable or trustworthy."
+      "explanation": "Option A is correct: reduce the likelihood of equipment failure."
     },
     {
-      "id": "q044",
-      "category": "Modals",
-      "question": "You look tired. You ___ get some rest.",
+      "id": "q12142",
+      "category": "Facilities and Maintenance",
+      "question": "Facilities and Maintenance 02: A maintenance request should include?",
       "options": [
-        "should",
-        "mustn't",
-        "can't",
-        "wouldn't"
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "the asset, problem and location"
       ],
-      "answer": 0,
-      "explanation": "Should gives advice."
+      "answer": 3,
+      "explanation": "Option D is correct: the asset, problem and location."
     },
     {
-      "id": "q063",
-      "category": "Reading",
-      "question": "Read: 'Ravi practises English for twenty minutes every evening.' How long does he practise?",
+      "id": "q12143",
+      "category": "Facilities and Maintenance",
+      "question": "Facilities and Maintenance 03: A faulty electrical socket should be?",
       "options": [
-        "Ten minutes",
-        "Twenty minutes",
-        "Thirty minutes",
-        "One hour"
-      ],
-      "answer": 1,
-      "explanation": "The passage states twenty minutes."
-    },
-    {
-      "id": "q082",
-      "category": "Confusing Words",
-      "question": "The weather can ___ your travel plans.",
-      "options": [
-        "affect",
-        "effect",
-        "infect",
-        "effort"
-      ],
-      "answer": 0,
-      "explanation": "Affect is usually a verb meaning to influence."
-    },
-    {
-      "id": "q101",
-      "category": "Determiners",
-      "question": "There isn't ___ milk left.",
-      "options": [
-        "many",
-        "much",
-        "few",
-        "several"
-      ],
-      "answer": 1,
-      "explanation": "Milk is uncountable, so use much in a negative sentence."
-    },
-    {
-      "id": "q005",
-      "category": "Grammar",
-      "question": "Choose the correct sentence.",
-      "options": [
-        "She don't like tea.",
-        "She doesn't likes tea.",
-        "She doesn't like tea.",
-        "She not like tea."
+        "make an unsupported assumption",
+        "share the information publicly",
+        "isolated if safe and reported to qualified staff",
+        "ignore the issue and continue"
       ],
       "answer": 2,
-      "explanation": "After doesn't, use the base form of the verb: like."
+      "explanation": "Option C is correct: isolated if safe and reported to qualified staff."
     },
     {
-      "id": "q024",
-      "category": "Vocabulary",
-      "question": "If a task is 'urgent', it needs ___.",
+      "id": "q12144",
+      "category": "Facilities and Maintenance",
+      "question": "Facilities and Maintenance 04: A maintenance log records?",
       "options": [
-        "no attention",
-        "quick attention",
-        "a holiday",
-        "a receipt"
+        "share the information publicly",
+        "work performed, dates and observations",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
       ],
       "answer": 1,
-      "explanation": "Urgent means requiring immediate or prompt attention."
+      "explanation": "Option B is correct: work performed, dates and observations."
     },
     {
-      "id": "q043",
-      "category": "Modals",
-      "question": "When I was five, I ___ swim.",
+      "id": "q12145",
+      "category": "Facilities and Maintenance",
+      "question": "Facilities and Maintenance 05: A planned inspection helps?",
       "options": [
-        "can",
-        "could",
-        "may",
-        "must"
+        "identify defects before they cause disruption",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
       ],
-      "answer": 1,
-      "explanation": "Could expresses past ability."
+      "answer": 0,
+      "explanation": "Option A is correct: identify defects before they cause disruption."
     },
     {
-      "id": "q062",
-      "category": "Reading",
-      "question": "Read: 'The shop closes at 9 p.m., but it opens at 10 a.m.' When does it open?",
+      "id": "q12146",
+      "category": "Facilities and Maintenance",
+      "question": "Facilities and Maintenance 06: A service-level agreement defines?",
       "options": [
-        "9 a.m.",
-        "10 a.m.",
-        "9 p.m.",
-        "10 p.m."
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "the expected service standards and responsibilities"
+      ],
+      "answer": 3,
+      "explanation": "Option D is correct: the expected service standards and responsibilities."
+    },
+    {
+      "id": "q12147",
+      "category": "Facilities and Maintenance",
+      "question": "Facilities and Maintenance 07: A building access system should be maintained by?",
+      "options": [
+        "make an unsupported assumption",
+        "share the information publicly",
+        "authorised and competent personnel",
+        "ignore the issue and continue"
+      ],
+      "answer": 2,
+      "explanation": "Option C is correct: authorised and competent personnel."
+    },
+    {
+      "id": "q12148",
+      "category": "Facilities and Maintenance",
+      "question": "Facilities and Maintenance 08: A blocked drainage line should be?",
+      "options": [
+        "share the information publicly",
+        "reported and addressed promptly",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
       ],
       "answer": 1,
-      "explanation": "The opening time given is 10 a.m."
+      "explanation": "Option B is correct: reported and addressed promptly."
+    },
+    {
+      "id": "q12149",
+      "category": "Facilities and Maintenance",
+      "question": "Facilities and Maintenance 09: Spare parts inventory helps?",
+      "options": [
+        "reduce delays during repairs",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: reduce delays during repairs."
+    },
+    {
+      "id": "q12150",
+      "category": "Facilities and Maintenance",
+      "question": "Facilities and Maintenance 10: After maintenance, equipment should be?",
+      "options": [
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "checked before being returned to service"
+      ],
+      "answer": 3,
+      "explanation": "Option D is correct: checked before being returned to service."
     }
   ]
 }
