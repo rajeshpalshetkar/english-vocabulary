@@ -3,139 +3,139 @@
   "slug": "quiz-0845",
   "title": "English Practice Quiz 0845",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q106",
-      "category": "Adjectives",
-      "question": "The test was ___ than I expected.",
+      "id": "q11541",
+      "category": "Cybersecurity",
+      "question": "Cybersecurity 01: Multi-factor authentication requires:",
       "options": [
-        "easy",
-        "easier",
-        "easiest",
-        "more easy"
-      ],
-      "answer": 1,
-      "explanation": "Use the comparative form easier."
-    },
-    {
-      "id": "q010",
-      "category": "Grammar",
-      "question": "You ___ wear your identity card at work.",
-      "options": [
-        "should to",
-        "should",
-        "are should",
-        "shoulds"
-      ],
-      "answer": 1,
-      "explanation": "Modal verbs such as should are followed by the base verb without to."
-    },
-    {
-      "id": "q029",
-      "category": "Vocabulary",
-      "question": "What is the meaning of 'available'?",
-      "options": [
-        "not possible to use",
-        "ready or able to be used",
-        "very expensive",
-        "already broken"
-      ],
-      "answer": 1,
-      "explanation": "Available means ready for use or accessible."
-    },
-    {
-      "id": "q048",
-      "category": "Sentence Building",
-      "question": "Choose the correct sentence.",
-      "options": [
-        "Because I was tired, I went to bed early.",
-        "Because I tired, went bed early.",
-        "I because was tired bed early.",
-        "Because tired I went early bed."
+        "More than one form of verification",
+        "No password ever",
+        "One shared account",
+        "Disabled updates"
       ],
       "answer": 0,
-      "explanation": "The subordinate clause beginning with because explains the reason."
+      "explanation": "Multi-factor authentication requires: The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q067",
-      "category": "Workplace English",
-      "question": "You have completed a task. You say:",
+      "id": "q11542",
+      "category": "Cybersecurity",
+      "question": "Cybersecurity 02: An unexpected email requests your password. You should:",
       "options": [
-        "The task is complete.",
-        "The task complete yesterday tomorrow.",
-        "I task finish.",
-        "Task is completing me."
+        "Avoid its link and report it",
+        "Reply with password",
+        "Forward to everyone",
+        "Download all files"
       ],
       "answer": 0,
-      "explanation": "The task is complete is a clear status update."
+      "explanation": "An unexpected email requests your password. You should: The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q086",
-      "category": "Conditionals",
-      "question": "If it rains, we ___ indoors.",
+      "id": "q11543",
+      "category": "Cybersecurity",
+      "question": "Cybersecurity 03: A strong password is:",
       "options": [
-        "stay",
-        "will stay",
-        "stayed",
-        "would stayed"
-      ],
-      "answer": 1,
-      "explanation": "The first conditional uses if + present simple, will + base verb."
-    },
-    {
-      "id": "q105",
-      "category": "Determiners",
-      "question": "___ student must bring an ID card.",
-      "options": [
-        "Each",
-        "Many",
-        "Few",
-        "Several"
+        "Long, unique and difficult to guess",
+        "Your name and birth year",
+        "The word password",
+        "Shared with colleagues"
       ],
       "answer": 0,
-      "explanation": "Each refers to every individual in a group."
+      "explanation": "A strong password is: The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q009",
-      "category": "Grammar",
-      "question": "Choose the correct comparative form.",
+      "id": "q11544",
+      "category": "Cybersecurity",
+      "question": "Cybersecurity 04: Software updates often:",
       "options": [
-        "more tall",
-        "taller",
-        "tallest than",
-        "most tall"
+        "Fix security vulnerabilities and bugs",
+        "Delete every account",
+        "Make backups unnecessary",
+        "Reveal passwords"
       ],
-      "answer": 1,
-      "explanation": "The comparative form of the short adjective tall is taller."
+      "answer": 0,
+      "explanation": "Software updates often: The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q028",
-      "category": "Vocabulary",
-      "question": "A place where medicines are dispensed is a ___.",
+      "id": "q11545",
+      "category": "Cybersecurity",
+      "question": "Cybersecurity 05: On public Wi-Fi, avoid:",
       "options": [
-        "bakery",
-        "pharmacy",
-        "library",
-        "garage"
+        "Sensitive account access without suitable protection",
+        "Reading public news",
+        "Checking a public timetable",
+        "Viewing general information"
       ],
-      "answer": 1,
-      "explanation": "A pharmacy is a place where medicines are prepared or supplied."
+      "answer": 0,
+      "explanation": "On public Wi-Fi, avoid: The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q047",
-      "category": "Sentence Building",
-      "question": "Choose the correct question.",
+      "id": "q11546",
+      "category": "Cybersecurity",
+      "question": "Cybersecurity 06: Ransomware typically:",
       "options": [
-        "Where you live?",
-        "Where do you live?",
-        "Where does you live?",
-        "Where are live you?"
+        "Encrypts or blocks data and demands payment",
+        "Improves filing",
+        "Creates backups",
+        "Repairs printers"
       ],
-      "answer": 1,
-      "explanation": "Use do + subject + base verb for present simple questions with you."
+      "answer": 0,
+      "explanation": "Ransomware typically: The first option is correct because it reflects the relevant principle or standard."
+    },
+    {
+      "id": "q11547",
+      "category": "Cybersecurity",
+      "question": "Cybersecurity 07: Least privilege means users get:",
+      "options": [
+        "Only the access needed for their duties",
+        "Administrator rights by default",
+        "Optional passwords",
+        "Public access to all files"
+      ],
+      "answer": 0,
+      "explanation": "Least privilege means users get: The first option is correct because it reflects the relevant principle or standard."
+    },
+    {
+      "id": "q11548",
+      "category": "Cybersecurity",
+      "question": "Cybersecurity 08: A lost work device should be:",
+      "options": [
+        "Reported immediately under security procedure",
+        "Ignored for days",
+        "Advertised publicly",
+        "Left unreported"
+      ],
+      "answer": 0,
+      "explanation": "A lost work device should be: The first option is correct because it reflects the relevant principle or standard."
+    },
+    {
+      "id": "q11549",
+      "category": "Cybersecurity",
+      "question": "Cybersecurity 09: A secure backup should be:",
+      "options": [
+        "Protected and tested",
+        "Open to everyone",
+        "Only beside the original",
+        "Never checked"
+      ],
+      "answer": 0,
+      "explanation": "A secure backup should be: The first option is correct because it reflects the relevant principle or standard."
+    },
+    {
+      "id": "q11550",
+      "category": "Cybersecurity",
+      "question": "Cybersecurity 10: An unknown QR code should be:",
+      "options": [
+        "Checked carefully before opening its destination",
+        "Scanned without thought",
+        "Shared with all contacts",
+        "Used for credentials automatically"
+      ],
+      "answer": 0,
+      "explanation": "An unknown QR code should be: The first option is correct because it reflects the relevant principle or standard."
     }
   ]
 }
