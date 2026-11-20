@@ -3,139 +3,139 @@
   "slug": "quiz-0923",
   "title": "English Practice Quiz 0923",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q052",
-      "category": "Conversation",
-      "question": "You did not hear someone. You say:",
+      "id": "q10721",
+      "category": "Workplace Ethics",
+      "question": "A conflict of interest may influence ___.",
       "options": [
-        "Speak now!",
-        "Could you repeat that, please?",
-        "What your problem?",
-        "I don't hear you yesterday."
-      ],
-      "answer": 1,
-      "explanation": "Could you repeat that, please? is a polite request."
-    },
-    {
-      "id": "q065",
-      "category": "Reading",
-      "question": "Read: 'Please keep the floor dry to prevent accidents.' What is the instruction?",
-      "options": [
-        "Wash the floor now",
-        "Keep the floor dry",
-        "Close the office",
-        "Move the furniture"
-      ],
-      "answer": 1,
-      "explanation": "The notice instructs people to keep the floor dry."
-    },
-    {
-      "id": "q078",
-      "category": "Punctuation",
-      "question": "Choose the correct sentence.",
-      "options": [
-        "I like tea, coffee and milk.",
-        "I like tea coffee and milk",
-        "I like, tea coffee, and milk.",
-        "i like tea, coffee and milk"
-      ],
-      "answer": 0,
-      "explanation": "Use commas to separate items in a list and capitalise the first word."
-    },
-    {
-      "id": "q091",
-      "category": "Passive Voice",
-      "question": "Choose the passive form: 'They clean the room.'",
-      "options": [
-        "The room cleaned them.",
-        "The room is cleaned by them.",
-        "The room is cleaning.",
-        "The room has clean."
-      ],
-      "answer": 1,
-      "explanation": "Present simple passive: am/is/are + past participle."
-    },
-    {
-      "id": "q104",
-      "category": "Determiners",
-      "question": "There is ___ water in the bottle.",
-      "options": [
-        "a few",
-        "many",
-        "a little",
-        "several"
+        "office lighting",
+        "weather",
+        "professional judgement",
+        "chair arrangement"
       ],
       "answer": 2,
-      "explanation": "A little is used with uncountable nouns."
+      "explanation": "professional judgement is correct. The sentence or passage provides the relevant meaning and context."
     },
     {
-      "id": "q002",
-      "category": "Grammar",
-      "question": "They ___ ready for the meeting.",
+      "id": "q10722",
+      "category": "Workplace Ethics",
+      "question": "An honest record error should be handled by ___.",
       "options": [
-        "is",
-        "am",
-        "are",
-        "be"
+        "secretly changing it",
+        "spreading gossip",
+        "destroying the record",
+        "following the correction procedure"
       ],
-      "answer": 2,
-      "explanation": "Use are with the plural subject they."
+      "answer": 3,
+      "explanation": "following the correction procedure is correct. The sentence or passage provides the relevant meaning and context."
     },
     {
-      "id": "q015",
-      "category": "Tenses",
-      "question": "She ___ the report before the manager arrived.",
+      "id": "q10723",
+      "category": "Workplace Ethics",
+      "question": "Confidential information should be shared ___.",
       "options": [
-        "finished",
-        "has finished",
-        "had finished",
-        "finishes"
+        "only with authorised people who need it",
+        "in a crowded lift",
+        "on social media",
+        "with every visitor"
       ],
-      "answer": 2,
-      "explanation": "Use the past perfect for an action completed before another past action."
+      "answer": 0,
+      "explanation": "only with authorised people who need it is correct. The sentence or passage provides the relevant meaning and context."
     },
     {
-      "id": "q028",
-      "category": "Vocabulary",
-      "question": "A place where medicines are dispensed is a ___.",
+      "id": "q10724",
+      "category": "Workplace Ethics",
+      "question": "An expensive supplier gift may create ___.",
       "options": [
-        "bakery",
-        "pharmacy",
-        "library",
-        "garage"
+        "a guaranteed promotion",
+        "an appearance of improper influence",
+        "a legal holiday",
+        "an automatic discount"
       ],
       "answer": 1,
-      "explanation": "A pharmacy is a place where medicines are prepared or supplied."
+      "explanation": "an appearance of improper influence is correct. The sentence or passage provides the relevant meaning and context."
     },
     {
-      "id": "q041",
-      "category": "Modals",
-      "question": "___ I borrow your pen, please?",
+      "id": "q10725",
+      "category": "Workplace Ethics",
+      "question": "Fair decisions should rely on ___.",
       "options": [
-        "May",
-        "Must",
-        "Should",
-        "Would have"
+        "friendships alone",
+        "rumours",
+        "relevant criteria applied consistently",
+        "personal favour"
       ],
-      "answer": 0,
-      "explanation": "May is a polite way to ask permission."
+      "answer": 2,
+      "explanation": "relevant criteria applied consistently is correct. The sentence or passage provides the relevant meaning and context."
     },
     {
-      "id": "q054",
-      "category": "Conversation",
-      "question": "You need a moment to think. You say:",
+      "id": "q10726",
+      "category": "Workplace Ethics",
+      "question": "If asked to falsify attendance, you should ___.",
       "options": [
-        "Let me think for a moment.",
-        "I no idea ever.",
-        "Wait your mouth.",
-        "I am think."
+        "alter it quietly",
+        "ask for payment",
+        "delete the system",
+        "refuse and report it appropriately"
+      ],
+      "answer": 3,
+      "explanation": "refuse and report it appropriately is correct. The sentence or passage provides the relevant meaning and context."
+    },
+    {
+      "id": "q10727",
+      "category": "Workplace Ethics",
+      "question": "Accountability means accepting responsibility for ___.",
+      "options": [
+        "your actions and decisions",
+        "others' private lives",
+        "every rumour",
+        "unrelated events"
       ],
       "answer": 0,
-      "explanation": "This phrase politely signals that you need a little time."
+      "explanation": "your actions and decisions is correct. The sentence or passage provides the relevant meaning and context."
+    },
+    {
+      "id": "q10728",
+      "category": "Workplace Ethics",
+      "question": "A whistleblowing channel is intended to ___.",
+      "options": [
+        "advertise products",
+        "report serious wrongdoing safely",
+        "apply for leave",
+        "share jokes"
+      ],
+      "answer": 1,
+      "explanation": "report serious wrongdoing safely is correct. The sentence or passage provides the relevant meaning and context."
+    },
+    {
+      "id": "q10729",
+      "category": "Workplace Ethics",
+      "question": "Company resources should be used according to ___.",
+      "options": [
+        "a colleague's guess",
+        "online rumours",
+        "organisational policy",
+        "no rules"
+      ],
+      "answer": 2,
+      "explanation": "organisational policy is correct. The sentence or passage provides the relevant meaning and context."
+    },
+    {
+      "id": "q10730",
+      "category": "Workplace Ethics",
+      "question": "An ethical decision considers facts, rules and ___.",
+      "options": [
+        "personal convenience only",
+        "ways to hide details",
+        "assumptions alone",
+        "the likely impact on others"
+      ],
+      "answer": 3,
+      "explanation": "the likely impact on others is correct. The sentence or passage provides the relevant meaning and context."
     }
   ]
 }
