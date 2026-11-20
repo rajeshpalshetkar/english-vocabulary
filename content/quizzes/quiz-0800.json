@@ -3,139 +3,139 @@
   "slug": "quiz-0800",
   "title": "English Practice Quiz 0800",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Conversation",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q031",
-      "category": "Articles",
-      "question": "I saw ___ elephant at the zoo.",
+      "id": "q12091",
+      "category": "Financial Literacy",
+      "question": "Financial Literacy 01: Cash flow describes?",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "money moving into and out of an organisation"
       ],
-      "answer": 1,
-      "explanation": "Use an before a vowel sound."
+      "answer": 3,
+      "explanation": "Option D is correct: money moving into and out of an organisation."
     },
     {
-      "id": "q038",
-      "category": "Prepositions",
-      "question": "We have a meeting ___ Monday.",
+      "id": "q12092",
+      "category": "Financial Literacy",
+      "question": "Financial Literacy 02: A balance sheet reports?",
       "options": [
-        "in",
-        "at",
-        "on",
-        "by"
+        "make an unsupported assumption",
+        "share the information publicly",
+        "assets, liabilities and equity at a point in time",
+        "ignore the issue and continue"
       ],
       "answer": 2,
-      "explanation": "Use on with days and dates."
+      "explanation": "Option C is correct: assets, liabilities and equity at a point in time."
     },
     {
-      "id": "q045",
-      "category": "Modals",
-      "question": "It ___ rain later; take an umbrella.",
+      "id": "q12093",
+      "category": "Financial Literacy",
+      "question": "Financial Literacy 03: An operating expense is?",
       "options": [
-        "might",
-        "mustn't",
-        "shouldn't",
-        "has"
+        "share the information publicly",
+        "a cost incurred in day-to-day business operations",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
+      ],
+      "answer": 1,
+      "explanation": "Option B is correct: a cost incurred in day-to-day business operations."
+    },
+    {
+      "id": "q12094",
+      "category": "Financial Literacy",
+      "question": "Financial Literacy 04: Gross profit is calculated as?",
+      "options": [
+        "revenue minus cost of goods sold",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
       ],
       "answer": 0,
-      "explanation": "Might expresses possibility."
+      "explanation": "Option A is correct: revenue minus cost of goods sold."
     },
     {
-      "id": "q052",
-      "category": "Conversation",
-      "question": "You did not hear someone. You say:",
+      "id": "q12095",
+      "category": "Financial Literacy",
+      "question": "Financial Literacy 05: A financial forecast is?",
       "options": [
-        "Speak now!",
-        "Could you repeat that, please?",
-        "What your problem?",
-        "I don't hear you yesterday."
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "an estimate of future results based on assumptions"
       ],
-      "answer": 1,
-      "explanation": "Could you repeat that, please? is a polite request."
+      "answer": 3,
+      "explanation": "Option D is correct: an estimate of future results based on assumptions."
     },
     {
-      "id": "q059",
-      "category": "Pronunciation",
-      "question": "Which word rhymes with 'light'?",
+      "id": "q12096",
+      "category": "Financial Literacy",
+      "question": "Financial Literacy 06: A credit note is commonly issued to?",
       "options": [
-        "late",
-        "lit",
-        "night",
-        "let"
+        "make an unsupported assumption",
+        "share the information publicly",
+        "reduce or adjust an amount previously invoiced",
+        "ignore the issue and continue"
       ],
       "answer": 2,
-      "explanation": "Light and night share the same ending sound."
+      "explanation": "Option C is correct: reduce or adjust an amount previously invoiced."
     },
     {
-      "id": "q066",
-      "category": "Workplace English",
-      "question": "A professional way to ask for a file is:",
+      "id": "q12097",
+      "category": "Financial Literacy",
+      "question": "Financial Literacy 07: An asset is?",
       "options": [
-        "Give file now.",
-        "Could you please share the file?",
-        "File give me.",
-        "You must file."
+        "share the information publicly",
+        "a resource controlled by an organisation with economic value",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
       ],
       "answer": 1,
-      "explanation": "Could you please is a polite and professional request."
+      "explanation": "Option B is correct: a resource controlled by an organisation with economic value."
     },
     {
-      "id": "q073",
-      "category": "Questions",
-      "question": "Choose the correct question.",
+      "id": "q12098",
+      "category": "Financial Literacy",
+      "question": "Financial Literacy 08: A liability is?",
       "options": [
-        "Does she work here?",
-        "Do she work here?",
-        "Is she works here?",
-        "Does she works here?"
+        "an obligation the organisation is required to settle",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
       ],
       "answer": 0,
-      "explanation": "Use does + subject + base verb with he, she or it."
+      "explanation": "Option A is correct: an obligation the organisation is required to settle."
     },
     {
-      "id": "q080",
-      "category": "Punctuation",
-      "question": "Choose the correctly written date phrase.",
+      "id": "q12099",
+      "category": "Financial Literacy",
+      "question": "Financial Literacy 09: A break-even point occurs when?",
       "options": [
-        "on monday",
-        "on Monday",
-        "On monday",
-        "on Monday."
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "total revenue equals total costs"
       ],
-      "answer": 1,
-      "explanation": "Days of the week begin with a capital letter."
+      "answer": 3,
+      "explanation": "Option D is correct: total revenue equals total costs."
     },
     {
-      "id": "q087",
-      "category": "Conditionals",
-      "question": "If I had more time, I ___ another language.",
+      "id": "q12100",
+      "category": "Financial Literacy",
+      "question": "Financial Literacy 10: Variance analysis helps?",
       "options": [
-        "learn",
-        "will learn",
-        "would learn",
-        "am learn"
+        "make an unsupported assumption",
+        "share the information publicly",
+        "understand differences between planned and actual results",
+        "ignore the issue and continue"
       ],
       "answer": 2,
-      "explanation": "The second conditional uses would + base verb for an unreal or imagined situation."
-    },
-    {
-      "id": "q094",
-      "category": "Passive Voice",
-      "question": "English ___ in many countries.",
-      "options": [
-        "speaks",
-        "is spoken",
-        "spoken",
-        "is speaking"
-      ],
-      "answer": 1,
-      "explanation": "Present simple passive: is spoken."
+      "explanation": "Option C is correct: understand differences between planned and actual results."
     }
   ]
 }
