@@ -3,139 +3,139 @@
   "slug": "quiz-0883",
   "title": "English Practice Quiz 0883",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q062",
-      "category": "Reading",
-      "question": "Read: 'The shop closes at 9 p.m., but it opens at 10 a.m.' When does it open?",
+      "id": "q11121",
+      "category": "Customer Complaints",
+      "question": "A customer says a service was delayed. The best first response is:",
       "options": [
-        "9 a.m.",
-        "10 a.m.",
-        "9 p.m.",
-        "10 p.m."
+        "That is not our problem.",
+        "I apologise for the delay. Let me check the status.",
+        "You should have waited.",
+        "Complain elsewhere."
       ],
       "answer": 1,
-      "explanation": "The opening time given is 10 a.m."
+      "explanation": "Acknowledge the concern and offer to investigate."
     },
     {
-      "id": "q075",
-      "category": "Questions",
-      "question": "Choose the correct question tag: 'You are ready, ___?'",
+      "id": "q11122",
+      "category": "Customer Complaints",
+      "question": "To 'resolve' a complaint means to:",
       "options": [
-        "are you",
-        "aren't you",
-        "do you",
-        "don't you"
+        "make it worse",
+        "find a satisfactory solution",
+        "ignore it",
+        "record a rumour"
       ],
       "answer": 1,
-      "explanation": "A positive statement with are usually takes the negative tag aren't you."
+      "explanation": "Resolve means settle or solve a problem."
     },
     {
-      "id": "q088",
-      "category": "Conditionals",
-      "question": "If you heat ice, it ___.",
+      "id": "q11123",
+      "category": "Customer Complaints",
+      "question": "Which question helps clarify a complaint?",
       "options": [
-        "melt",
-        "melts",
-        "will melted",
-        "melting"
+        "Why are you always angry?",
+        "Could you explain when the issue first occurred?",
+        "Who told you to complain?",
+        "Are you finished?"
       ],
       "answer": 1,
-      "explanation": "The zero conditional uses present simple for general truths."
+      "explanation": "An open, neutral question gathers relevant details."
     },
     {
-      "id": "q101",
-      "category": "Determiners",
-      "question": "There isn't ___ milk left.",
+      "id": "q11124",
+      "category": "Customer Complaints",
+      "question": "A customer is speaking angrily. You should:",
       "options": [
-        "many",
-        "much",
-        "few",
-        "several"
+        "interrupt repeatedly",
+        "listen calmly without arguing",
+        "laugh at the customer",
+        "walk away immediately"
       ],
       "answer": 1,
-      "explanation": "Milk is uncountable, so use much in a negative sentence."
+      "explanation": "Calm listening helps identify the concern and de-escalate tension."
     },
     {
-      "id": "q114",
-      "category": "Gerunds",
-      "question": "They finished ___ the room.",
+      "id": "q11125",
+      "category": "Customer Complaints",
+      "question": "'We will look into the matter' means:",
       "options": [
-        "clean",
-        "to clean",
-        "cleaning",
-        "cleaned"
-      ],
-      "answer": 2,
-      "explanation": "Finish is followed by a gerund."
-    },
-    {
-      "id": "q012",
-      "category": "Tenses",
-      "question": "We ___ here since 2022.",
-      "options": [
-        "live",
-        "lived",
-        "have lived",
-        "are live"
-      ],
-      "answer": 2,
-      "explanation": "Since gives a starting point; the present perfect connects the past to now."
-    },
-    {
-      "id": "q025",
-      "category": "Vocabulary",
-      "question": "A person you can trust is ___.",
-      "options": [
-        "reliable",
-        "careless",
-        "silent",
-        "narrow"
+        "we will investigate it",
+        "we will forget it",
+        "we have rejected it",
+        "we have completed it"
       ],
       "answer": 0,
-      "explanation": "Reliable means dependable or trustworthy."
+      "explanation": "Look into means investigate."
     },
     {
-      "id": "q038",
-      "category": "Prepositions",
-      "question": "We have a meeting ___ Monday.",
+      "id": "q11126",
+      "category": "Customer Complaints",
+      "question": "Which response avoids making an unsupported promise?",
       "options": [
-        "in",
-        "at",
-        "on",
-        "by"
-      ],
-      "answer": 2,
-      "explanation": "Use on with days and dates."
-    },
-    {
-      "id": "q051",
-      "category": "Conversation",
-      "question": "Someone says, 'Thank you for your help.' You reply:",
-      "options": [
-        "Never mind you.",
-        "You're welcome.",
-        "I am welcome you.",
-        "No thank."
+        "It will definitely be fixed in five minutes.",
+        "I will check with the team and update you.",
+        "You will never face this again.",
+        "I guarantee a refund now."
       ],
       "answer": 1,
-      "explanation": "You're welcome is a natural response to thank you."
+      "explanation": "It commits to a realistic next step without promising an unknown outcome."
     },
     {
-      "id": "q064",
-      "category": "Reading",
-      "question": "Read: 'The meeting was cancelled because the manager was ill.' Why was it cancelled?",
+      "id": "q11127",
+      "category": "Customer Complaints",
+      "question": "A complaint should be escalated when:",
       "options": [
-        "The room was full",
-        "The manager was ill",
-        "It was Sunday",
-        "The staff were late"
+        "it requires authority beyond your role",
+        "the customer asks a simple question",
+        "the queue is short",
+        "you know the answer"
+      ],
+      "answer": 0,
+      "explanation": "Escalation is appropriate when the issue exceeds your authority."
+    },
+    {
+      "id": "q11128",
+      "category": "Customer Complaints",
+      "question": "Choose the most empathetic phrase.",
+      "options": [
+        "Calm down.",
+        "I understand why this is frustrating.",
+        "You are overreacting.",
+        "It happens to everyone."
       ],
       "answer": 1,
-      "explanation": "The reason is explicitly stated: the manager was ill."
+      "explanation": "It recognises the customer's feelings without dismissing them."
+    },
+    {
+      "id": "q11129",
+      "category": "Customer Complaints",
+      "question": "A service recovery action is intended to:",
+      "options": [
+        "restore customer confidence after a failure",
+        "hide all records",
+        "avoid communication",
+        "increase waiting time"
+      ],
+      "answer": 0,
+      "explanation": "Service recovery addresses a failure and rebuilds trust."
+    },
+    {
+      "id": "q11130",
+      "category": "Customer Complaints",
+      "question": "After resolving a complaint, it is useful to:",
+      "options": [
+        "close the record without checking",
+        "confirm the customer understands the outcome",
+        "remove all details",
+        "avoid follow-up"
+      ],
+      "answer": 1,
+      "explanation": "Confirming the outcome ensures the resolution is understood."
     }
   ]
 }
