@@ -3,139 +3,139 @@
   "slug": "quiz-0964",
   "title": "English Practice Quiz 0964",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q059",
-      "category": "Pronunciation",
-      "question": "Which word rhymes with 'light'?",
+      "id": "q10331",
+      "category": "Legal and Business Terms",
+      "question": "A contract is an agreement that may create ___.",
       "options": [
-        "late",
-        "lit",
-        "night",
-        "let"
+        "legal obligations",
+        "weather conditions",
+        "a medical diagnosis",
+        "a school timetable only"
       ],
-      "answer": 2,
-      "explanation": "Light and night share the same ending sound."
+      "answer": 0,
+      "explanation": "A contract can create enforceable rights and obligations."
     },
     {
-      "id": "q076",
-      "category": "Punctuation",
-      "question": "Choose the correctly punctuated sentence.",
+      "id": "q10332",
+      "category": "Legal and Business Terms",
+      "question": "A witness is a person who ___.",
       "options": [
-        "where are you.",
-        "Where are you?",
-        "Where are you,",
-        "where are you!"
+        "saw an event or can give relevant evidence",
+        "always signs every contract",
+        "approves every payment",
+        "owns the building"
       ],
-      "answer": 1,
-      "explanation": "Start with a capital letter and use a question mark."
+      "answer": 0,
+      "explanation": "A witness may provide an account of what they observed."
     },
     {
-      "id": "q093",
-      "category": "Passive Voice",
-      "question": "The work ___ tomorrow.",
+      "id": "q10333",
+      "category": "Legal and Business Terms",
+      "question": "A receipt is proof that ___.",
       "options": [
-        "will complete",
-        "will be completed",
-        "completed",
-        "is completing"
+        "a payment or transaction was made",
+        "a person passed an examination",
+        "a vehicle was repaired perfectly",
+        "a contract can never change"
       ],
-      "answer": 1,
-      "explanation": "Future passive uses will be + past participle."
+      "answer": 0,
+      "explanation": "A receipt records details of a transaction or payment."
     },
     {
-      "id": "q110",
-      "category": "Adverbs",
-      "question": "Please drive ___.",
+      "id": "q10334",
+      "category": "Legal and Business Terms",
+      "question": "The term 'liable' generally means ___.",
       "options": [
-        "careful",
-        "carefully",
-        "care",
-        "caring"
+        "legally responsible",
+        "temporarily absent",
+        "financially wealthy",
+        "officially retired"
       ],
-      "answer": 1,
-      "explanation": "Carefully is the adverb modifying drive."
+      "answer": 0,
+      "explanation": "Liable means responsible under the law or an obligation."
     },
     {
-      "id": "q012",
-      "category": "Tenses",
-      "question": "We ___ here since 2022.",
+      "id": "q10335",
+      "category": "Legal and Business Terms",
+      "question": "A 'policy' in an organisation is usually ___.",
       "options": [
-        "live",
-        "lived",
-        "have lived",
-        "are live"
+        "a set of rules or guiding principles",
+        "a personal shopping list",
+        "a weather report",
+        "a casual conversation"
       ],
-      "answer": 2,
-      "explanation": "Since gives a starting point; the present perfect connects the past to now."
+      "answer": 0,
+      "explanation": "A policy guides decisions and behaviour within an organisation."
     },
     {
-      "id": "q029",
-      "category": "Vocabulary",
-      "question": "What is the meaning of 'available'?",
+      "id": "q10336",
+      "category": "Legal and Business Terms",
+      "question": "An invoice is a document that requests ___.",
       "options": [
-        "not possible to use",
-        "ready or able to be used",
-        "very expensive",
-        "already broken"
+        "payment for goods or services",
+        "permission to travel",
+        "a job interview",
+        "a medical appointment"
       ],
-      "answer": 1,
-      "explanation": "Available means ready for use or accessible."
+      "answer": 0,
+      "explanation": "An invoice states what is owed for supplied goods or services."
     },
     {
-      "id": "q046",
-      "category": "Sentence Building",
-      "question": "Choose the correct word order.",
+      "id": "q10337",
+      "category": "Legal and Business Terms",
+      "question": "A signature on a document is commonly used to ___.",
       "options": [
-        "Always I am late.",
-        "I am always late.",
-        "I late am always.",
-        "Am always I late."
+        "show approval or acknowledge the document",
+        "change the paper colour",
+        "guarantee every statement is true",
+        "replace all supporting evidence"
       ],
-      "answer": 1,
-      "explanation": "Frequency adverbs such as always usually come after the verb be."
+      "answer": 0,
+      "explanation": "A signature can indicate approval or acknowledgement, depending on the document."
     },
     {
-      "id": "q063",
-      "category": "Reading",
-      "question": "Read: 'Ravi practises English for twenty minutes every evening.' How long does he practise?",
+      "id": "q10338",
+      "category": "Legal and Business Terms",
+      "question": "A 'breach of contract' occurs when a party ___.",
       "options": [
-        "Ten minutes",
-        "Twenty minutes",
-        "Thirty minutes",
-        "One hour"
+        "fails to meet a contractual obligation",
+        "completes every agreed duty",
+        "requests a copy of the contract",
+        "updates a contact number"
       ],
-      "answer": 1,
-      "explanation": "The passage states twenty minutes."
+      "answer": 0,
+      "explanation": "A breach is a failure to perform a contractual duty."
     },
     {
-      "id": "q080",
-      "category": "Punctuation",
-      "question": "Choose the correctly written date phrase.",
+      "id": "q10339",
+      "category": "Legal and Business Terms",
+      "question": "A business's 'revenue' is the money it ___.",
       "options": [
-        "on monday",
-        "on Monday",
-        "On monday",
-        "on Monday."
+        "earns from its activities before expenses are deducted",
+        "borrows from every employee",
+        "pays only as tax",
+        "keeps as office furniture"
       ],
-      "answer": 1,
-      "explanation": "Days of the week begin with a capital letter."
+      "answer": 0,
+      "explanation": "Revenue is income generated by business operations before expenses."
     },
     {
-      "id": "q097",
-      "category": "Reported Speech",
-      "question": "She said, 'I can swim.'",
+      "id": "q10340",
+      "category": "Legal and Business Terms",
+      "question": "A 'refund' is money that is ___.",
       "options": [
-        "She said she can swam.",
-        "She said that she could swim.",
-        "She said she swims can.",
-        "She told that could swim."
+        "returned to a customer",
+        "charged twice",
+        "kept as a deposit forever",
+        "paid as a salary"
       ],
-      "answer": 1,
-      "explanation": "Can commonly changes to could in reported speech after a past reporting verb."
+      "answer": 0,
+      "explanation": "A refund returns money previously paid."
     }
   ]
 }
