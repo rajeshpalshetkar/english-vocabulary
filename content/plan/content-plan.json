@@ -1,0 +1,382 @@
+{
+  "schema_version": "1.0",
+  "site": "English Fluency Guide",
+  "blog_url": "https://englishfluencyguide.blogspot.com/",
+  "canonical_labels": [
+    "Basic English",
+    "Grammar",
+    "Vocabulary",
+    "Daily Sentences",
+    "Conversation",
+    "Speaking Practice",
+    "Listening Practice",
+    "Pronunciation",
+    "Reading Practice",
+    "Writing Practice",
+    "English for Work",
+    "Interview English",
+    "Quizzes & Tests",
+    "English Stories",
+    "30-Day Challenge",
+    "365-Day English Practice"
+  ],
+  "core_library": {
+    "Basic English": [
+      "English Alphabet and Basic Sounds",
+      "Basic English Words for Beginners",
+      "Parts of Speech Explained Simply",
+      "Use of Is, Am and Are",
+      "Use of Was, Were, Has and Have",
+      "Subject and Predicate",
+      "How to Make Simple English Sentences",
+      "Positive, Negative and Question Sentences",
+      "WH Questions: What, Where, When, Why and How",
+      "Singular and Plural Words",
+      "This, That, These and Those",
+      "Basic English Test for Beginners"
+    ],
+    "Grammar": [
+      "English Grammar Basics",
+      "Nouns and Their Types",
+      "Pronouns and Their Uses",
+      "Verbs and Helping Verbs",
+      "Adjectives and Adverbs",
+      "Articles: A, An and The",
+      "Prepositions: In, On and At",
+      "Present Simple Tense",
+      "Present Continuous Tense",
+      "Present Perfect Tense",
+      "Past Simple Tense",
+      "Past Continuous Tense",
+      "Future Simple Tense",
+      "All 12 English Tenses Overview",
+      "Modal Verbs: Can, Could, Should and Would",
+      "Do, Does and Did",
+      "Active and Passive Voice",
+      "Direct and Indirect Speech"
+    ],
+    "Vocabulary": [
+      "100 Most Common English Words",
+      "50 Daily Use English Verbs",
+      "100 English Words Used at Home",
+      "Food and Kitchen Vocabulary",
+      "Travel and Transport Vocabulary",
+      "Office and Workplace Vocabulary",
+      "Feelings and Emotions Vocabulary",
+      "Health and Body Vocabulary",
+      "Common Opposite Words",
+      "Synonyms and Antonyms",
+      "Commonly Confused English Words",
+      "50 Useful English Phrasal Verbs"
+    ],
+    "Daily Sentences": [
+      "50 Daily Use English Sentences",
+      "English Sentences Used at Home",
+      "Morning Routine Sentences",
+      "English Sentences Used in the Kitchen",
+      "English Sentences Used at School",
+      "English Sentences Used at Work",
+      "English Sentences for Shopping",
+      "English Sentences for Travelling",
+      "English Sentences for Asking Questions",
+      "English Sentences for Giving Instructions",
+      "English Sentences for Making Requests",
+      "English Sentences for Apologizing",
+      "English Sentences for Expressing Opinions",
+      "English Sentences for Talking on the Phone",
+      "100 Useful English Questions and Answers"
+    ],
+    "Conversation": [
+      "Introducing Yourself",
+      "Meeting Someone for the First Time",
+      "Conversation Between Two Friends",
+      "Conversation at a Shop",
+      "Conversation at a Restaurant",
+      "Conversation at a Bus Station",
+      "Conversation at a Railway Station",
+      "Conversation at a Hospital",
+      "Conversation with a Neighbour",
+      "Asking for Directions",
+      "Talking About Your Daily Routine",
+      "Making Plans with Friends"
+    ],
+    "Speaking Practice": [
+      "Speak English for 5 Minutes Daily",
+      "Describe Your Family in English",
+      "Describe Your Daily Routine",
+      "Talk About Your Hobbies",
+      "Describe a Person in English",
+      "Describe a Place You Visited",
+      "Speak About Your Favourite Food",
+      "Express Your Opinion in English",
+      "Answer Common English Questions",
+      "Think in English: Daily Exercises",
+      "Speak English Without Translating",
+      "7-Day English Speaking Challenge"
+    ],
+    "Listening Practice": [
+      "Beginner English Listening Test 1",
+      "Listen and Identify the Correct Word",
+      "Listen to a Short Daily Conversation",
+      "Listening Practice: At Home",
+      "Listening Practice: At Work",
+      "Listening Practice: Asking Questions",
+      "Understand Common Indian English Expressions",
+      "Listen to a Short English Story",
+      "English Listening Comprehension Test",
+      "Listening and Speaking Combined Practice"
+    ],
+    "Pronunciation": [
+      "English Vowel Sounds",
+      "English Consonant Sounds",
+      "Difference Between V and W",
+      "Difference Between S and SH",
+      "TH Sound in English",
+      "Silent Letters in English",
+      "Word Stress and Sentence Stress",
+      "Common English Pronunciation Mistakes"
+    ],
+    "Reading Practice": [
+      "Easy English Reading for Beginners",
+      "Read a Short Story and Answer Questions",
+      "Daily Reading Practice: Level 1",
+      "Daily Reading Practice: Level 2",
+      "Read and Understand a Short News Report",
+      "Reading Comprehension: Daily Life",
+      "Improve English Reading Speed",
+      "Reading Comprehension Test"
+    ],
+    "Writing Practice": [
+      "How to Write Simple English Sentences",
+      "Write About Yourself in English",
+      "How to Write a Short Paragraph",
+      "Describe Your Daily Routine in Writing",
+      "How to Write an Informal Email",
+      "How to Write a Professional Email",
+      "Common English Writing Mistakes",
+      "English Writing Practice Test"
+    ],
+    "English for Work": [
+      "50 English Sentences Used at Work",
+      "English for Office Communication",
+      "How to Talk to Your Manager",
+      "English for Customer Service",
+      "English for Security Guards",
+      "English for Housekeeping Staff",
+      "English for Drivers",
+      "English for Hospital Staff",
+      "How to Give Instructions at Work",
+      "Workplace English Conversation Practice"
+    ],
+    "Interview English": [
+      "How to Introduce Yourself in an Interview",
+      "Tell Me About Yourself: Best Answers",
+      "Common Job Interview Questions",
+      "How to Talk About Your Experience",
+      "How to Explain Your Strengths and Weaknesses",
+      "English for Telephone Interviews",
+      "Interview Conversation Between Candidate and HR",
+      "Complete English Interview Practice Test"
+    ],
+    "Quizzes & Tests": [
+      "Basic English Level Test",
+      "Is, Am and Are Quiz",
+      "Tenses Practice Quiz",
+      "Articles A, An and The Quiz",
+      "Prepositions Quiz",
+      "Vocabulary Test",
+      "Daily Sentences Quiz",
+      "Pronunciation Quiz",
+      "Conversation Understanding Test",
+      "Listening Comprehension Quiz",
+      "English Grammar Mixed Test",
+      "Complete English Fluency Assessment"
+    ],
+    "English Stories": [
+      "The Honest Woodcutter",
+      "The Thirsty Crow",
+      "The Clever Rabbit",
+      "The Lion and the Mouse",
+      "The Two Friends",
+      "A Day in the Life of a Student",
+      "A New Employee's First Day",
+      "Learning English Through Short Stories"
+    ]
+  },
+  "challenge_30_days": [
+    [
+      "Introduce Yourself in English",
+      "Basic English"
+    ],
+    [
+      "Learn 20 Common English Words",
+      "Vocabulary"
+    ],
+    [
+      "Make Simple English Sentences",
+      "Basic English"
+    ],
+    [
+      "Use Is, Am and Are",
+      "Grammar"
+    ],
+    [
+      "Talk About Your Family",
+      "Speaking Practice"
+    ],
+    [
+      "Daily Routine in English",
+      "Daily Sentences"
+    ],
+    [
+      "Week 1 Review and Test",
+      "Quizzes & Tests"
+    ],
+    [
+      "Ask Questions in English",
+      "Grammar"
+    ],
+    [
+      "Use Present Simple Tense",
+      "Grammar"
+    ],
+    [
+      "Speak About Your Work",
+      "English for Work"
+    ],
+    [
+      "20 Useful Daily Expressions",
+      "Vocabulary"
+    ],
+    [
+      "Conversation Between Friends",
+      "Conversation"
+    ],
+    [
+      "Listen and Understand English",
+      "Listening Practice"
+    ],
+    [
+      "Week 2 Speaking Test",
+      "Quizzes & Tests"
+    ],
+    [
+      "Talk About Your Hobbies",
+      "Speaking Practice"
+    ],
+    [
+      "Use Past Simple Tense",
+      "Grammar"
+    ],
+    [
+      "English at a Shop",
+      "Conversation"
+    ],
+    [
+      "Learn 20 Action Verbs",
+      "Vocabulary"
+    ],
+    [
+      "Describe a Place",
+      "Speaking Practice"
+    ],
+    [
+      "Read a Short English Story",
+      "Reading Practice"
+    ],
+    [
+      "Week 3 Review and Test",
+      "Quizzes & Tests"
+    ],
+    [
+      "Use Future Tense",
+      "Grammar"
+    ],
+    [
+      "English Phone Conversation",
+      "Conversation"
+    ],
+    [
+      "Common Pronunciation Practice",
+      "Pronunciation"
+    ],
+    [
+      "Write a Short Paragraph",
+      "Writing Practice"
+    ],
+    [
+      "English Interview Questions",
+      "Interview English"
+    ],
+    [
+      "Listen and Repeat Sentences",
+      "Listening Practice"
+    ],
+    [
+      "Speak for 5 Minutes",
+      "Speaking Practice"
+    ],
+    [
+      "Complete Grammar and Vocabulary Test",
+      "Quizzes & Tests"
+    ],
+    [
+      "Final English Fluency Challenge",
+      "Quizzes & Tests"
+    ]
+  ],
+  "year_practice_52_weeks": [
+    "Learn and Revise Basic English",
+    "Daily English Words Practice",
+    "Make Correct English Sentences",
+    "Is, Am and Are Practice",
+    "Speak About Yourself",
+    "Daily Routine Speaking Practice",
+    "Common English Questions",
+    "Basic Vocabulary Revision",
+    "Present Simple Tense Practice",
+    "Present Continuous Practice",
+    "Describe People and Places",
+    "English Conversation at Home",
+    "Listening Practice for Beginners",
+    "Past Simple Tense Practice",
+    "50 Useful English Verbs",
+    "Speak About Your Work",
+    "Asking Questions Confidently",
+    "Future Tense Practice",
+    "English at Shops and Markets",
+    "Pronunciation Improvement",
+    "Reading Short English Stories",
+    "Prepositions Practice",
+    "English Phone Conversations",
+    "Speak for 5 Minutes Daily",
+    "Mid-Year English Assessment",
+    "Articles and Determiners Practice",
+    "Describe Your Experiences",
+    "Workplace English Communication",
+    "Listening to Indian English",
+    "Modal Verbs Practice",
+    "English for Job Interviews",
+    "Writing Short Paragraphs",
+    "Vocabulary for Everyday Life",
+    "English Conversation with Strangers",
+    "Improve Sentence Formation",
+    "Understand Spoken English",
+    "Express Your Opinions",
+    "Active and Passive Voice Practice",
+    "English Email Writing",
+    "Storytelling in English",
+    "Advanced Daily Vocabulary",
+    "English Discussion Practice",
+    "Improve Fluency and Confidence",
+    "Mixed Grammar Revision",
+    "Listening and Speaking Test",
+    "Professional English Communication",
+    "Read and Explain English Texts",
+    "Speak Without Translating",
+    "Complete Vocabulary Revision",
+    "Real-Life Conversation Assessment",
+    "Complete English Grammar Test",
+    "Final 365-Day English Assessment"
+  ]
+}
