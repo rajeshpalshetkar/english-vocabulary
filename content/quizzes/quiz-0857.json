@@ -3,139 +3,139 @@
   "slug": "quiz-0857",
   "title": "English Practice Quiz 0857",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q080",
-      "category": "Punctuation",
-      "question": "Choose the correctly written date phrase.",
+      "id": "q11461",
+      "category": "Travel and Logistics",
+      "question": "Travel and Logistics: What is a travel itinerary?",
       "options": [
-        "on monday",
-        "on Monday",
-        "On monday",
-        "on Monday."
-      ],
-      "answer": 1,
-      "explanation": "Days of the week begin with a capital letter."
-    },
-    {
-      "id": "q109",
-      "category": "Adverbs",
-      "question": "She arrived ___.",
-      "options": [
-        "late",
-        "lately",
-        "latest",
-        "laterly"
+        "A planned schedule of a journey",
+        "A payment password",
+        "A warning",
+        "A stock register"
       ],
       "answer": 0,
-      "explanation": "Late is the correct adverb meaning not on time."
+      "explanation": "An itinerary lists journey details and timing."
     },
     {
-      "id": "q023",
-      "category": "Vocabulary",
-      "question": "A synonym of 'begin' is ___.",
+      "id": "q11462",
+      "category": "Travel and Logistics",
+      "question": "Travel and Logistics: What is a booking reference used for?",
       "options": [
-        "finish",
-        "start",
-        "stop",
-        "close"
-      ],
-      "answer": 1,
-      "explanation": "Start has the same basic meaning as begin."
-    },
-    {
-      "id": "q052",
-      "category": "Conversation",
-      "question": "You did not hear someone. You say:",
-      "options": [
-        "Speak now!",
-        "Could you repeat that, please?",
-        "What your problem?",
-        "I don't hear you yesterday."
-      ],
-      "answer": 1,
-      "explanation": "Could you repeat that, please? is a polite request."
-    },
-    {
-      "id": "q081",
-      "category": "Confusing Words",
-      "question": "Choose the correct word: ___ going to arrive soon.",
-      "options": [
-        "Their",
-        "There",
-        "They're",
-        "Theirs"
-      ],
-      "answer": 2,
-      "explanation": "They're is the contraction of they are."
-    },
-    {
-      "id": "q110",
-      "category": "Adverbs",
-      "question": "Please drive ___.",
-      "options": [
-        "careful",
-        "carefully",
-        "care",
-        "caring"
-      ],
-      "answer": 1,
-      "explanation": "Carefully is the adverb modifying drive."
-    },
-    {
-      "id": "q024",
-      "category": "Vocabulary",
-      "question": "If a task is 'urgent', it needs ___.",
-      "options": [
-        "no attention",
-        "quick attention",
-        "a holiday",
-        "a receipt"
-      ],
-      "answer": 1,
-      "explanation": "Urgent means requiring immediate or prompt attention."
-    },
-    {
-      "id": "q053",
-      "category": "Conversation",
-      "question": "A visitor asks, 'Where is reception?' You say:",
-      "options": [
-        "It is near the main entrance.",
-        "I am reception.",
-        "Yesterday at home.",
-        "No, it isn't."
+        "Identify a reservation or travel booking",
+        "Measure luggage weight",
+        "Replace identity document",
+        "Approve leave"
       ],
       "answer": 0,
-      "explanation": "Give a clear location using a complete sentence."
+      "explanation": "The reference helps locate the booking."
     },
     {
-      "id": "q082",
-      "category": "Confusing Words",
-      "question": "The weather can ___ your travel plans.",
+      "id": "q11463",
+      "category": "Travel and Logistics",
+      "question": "Travel and Logistics: What does a consignment note record?",
       "options": [
-        "affect",
-        "effect",
-        "infect",
-        "effort"
+        "Details of goods being transported",
+        "An employee appraisal",
+        "A meeting agenda",
+        "A prescription"
       ],
       "answer": 0,
-      "explanation": "Affect is usually a verb meaning to influence."
+      "explanation": "A consignment note accompanies and describes transported goods."
     },
     {
-      "id": "q111",
-      "category": "Gerunds",
-      "question": "I enjoy ___ books.",
+      "id": "q11464",
+      "category": "Travel and Logistics",
+      "question": "Travel and Logistics: What is a route contingency?",
       "options": [
-        "read",
-        "to read",
-        "reading",
-        "reads"
+        "An alternative plan if the planned route is unavailable",
+        "A final invoice",
+        "An attendance sheet",
+        "A parking fine"
       ],
-      "answer": 2,
-      "explanation": "Enjoy is followed by a gerund (-ing form)."
+      "answer": 0,
+      "explanation": "A contingency provides an alternative when plans fail."
+    },
+    {
+      "id": "q11465",
+      "category": "Travel and Logistics",
+      "question": "Travel and Logistics: A shipment is delayed. What is the best response?",
+      "options": [
+        "Inform affected parties and obtain an updated estimate",
+        "Change date secretly",
+        "Ignore enquiries",
+        "Mark it delivered"
+      ],
+      "answer": 0,
+      "explanation": "Accurate updates help manage expectations."
+    },
+    {
+      "id": "q11466",
+      "category": "Travel and Logistics",
+      "question": "Travel and Logistics: What should a pre-journey vehicle inspection include?",
+      "options": [
+        "Safety-critical checks required by procedure",
+        "Only the radio station",
+        "Passenger preferences",
+        "Seat colour"
+      ],
+      "answer": 0,
+      "explanation": "Pre-journey checks identify safety issues."
+    },
+    {
+      "id": "q11467",
+      "category": "Travel and Logistics",
+      "question": "Travel and Logistics: What is a waybill?",
+      "options": [
+        "A document detailing a shipment and its movement",
+        "Staff holidays",
+        "Meeting votes",
+        "Salary increase"
+      ],
+      "answer": 0,
+      "explanation": "A waybill accompanies goods in transit."
+    },
+    {
+      "id": "q11468",
+      "category": "Travel and Logistics",
+      "question": "Travel and Logistics: What is a logistics bottleneck?",
+      "options": [
+        "A point that slows the flow of goods or work",
+        "A completed delivery",
+        "A spare vehicle",
+        "A promotion"
+      ],
+      "answer": 0,
+      "explanation": "A bottleneck restricts the flow of work."
+    },
+    {
+      "id": "q11469",
+      "category": "Travel and Logistics",
+      "question": "Travel and Logistics: What does a delivery window refer to?",
+      "options": [
+        "The expected time range for delivery",
+        "A vehicle glass panel",
+        "A leave period",
+        "A shelf"
+      ],
+      "answer": 0,
+      "explanation": "It specifies the expected delivery time range."
+    },
+    {
+      "id": "q11470",
+      "category": "Travel and Logistics",
+      "question": "Travel and Logistics: What should a receiver do when goods arrive?",
+      "options": [
+        "Record shortages or damage before confirming receipt",
+        "Sign a blank form",
+        "Ignore labels",
+        "Change supplier details"
+      ],
+      "answer": 0,
+      "explanation": "Recording discrepancies protects delivery records."
     }
   ]
 }
