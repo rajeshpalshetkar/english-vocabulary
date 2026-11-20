@@ -1,52 +1,35 @@
-# English Fluency Guide — Blogger Content Engine
+# English Fluency Guide — JSON-First Static Learning Portal
 
-This repository turns ChatGPT-authored JSON lessons into Blogger content using GitHub Actions.
+GitHub JSON is the content source of truth. GitHub Actions builds a fast static website with a separate HTML URL for every completed lesson. Blogger is not required to store 237 separate lesson posts.
 
-## Automatic publishing mode
+## Content structure
+- `content/data/content-catalog.json`: 16 topic labels, 155 core topics, 30 challenge days and 52 weekly practice topics.
+- `content/lessons/`: one complete JSON file per finished lesson. Use `lesson-template.json` as a schema reference; do not edit it as a lesson.
+- `content/data/portal-index.json`: catalogue navigation configuration.
+- `prompts/MASTER-CONTENT-PROMPT.md`: prompt for creating each lesson JSON.
+- `scripts/build_site.py`: renders lesson HTML, topic pages, challenge pages, sitemap and robots.txt.
+- `.github/workflows/deploy-pages.yml`: builds and deploys the site to GitHub Pages.
 
-When a reviewed article JSON is committed to `content/inbox/`, GitHub Actions:
-1. validates schema, canonical labels, SEO fields, and minimum content length;
-2. converts Markdown to safe HTML;
-3. publishes to Blogger as **LIVE** when repository variable `PUBLISH_MODE=live`, or as a draft when `PUBLISH_MODE=draft`.
+## Add a lesson
+1. Use the master prompt to create one complete JSON lesson.
+2. Review the accuracy, examples, exercises, answers, originality and sources.
+3. Save it as `content/lessons/<unique-slug>.json`. Do not overwrite `lesson-template.json`.
+4. Commit and push to `main`. GitHub Actions automatically builds and deploys the site.
+5. The lesson URL will be `https://vocab.prasiddhbharat.com/lessons/<unique-slug>/`.
 
-The repository should start with `PUBLISH_MODE=draft` for a test. After Blogger OAuth is configured and a test succeeds, change it to `live` to enable automatic live publishing after each committed article.
+## First-time GitHub Pages setup
+1. Open repository Settings → Pages.
+2. Set Build and deployment source to **GitHub Actions**.
+3. Ensure the repository Actions are enabled.
+4. Add DNS record at your DNS provider: CNAME `vocab` → `rajeshpalshetkar.github.io` (DNS Only while configuring).
+5. After Pages deployment recognizes the custom domain and HTTPS certificate is provisioned, enable Enforce HTTPS.
 
-> Automation cannot verify educational correctness, rights to media, originality or AdSense compliance. Review every article before committing it. Do not submit bulk AI-generated thin or repetitive content.
+The build writes a CNAME file for `vocab.prasiddhbharat.com`.
 
-## Connect Blogger
+## SEO and quality
+Each completed lesson gets a unique static HTML URL, title, meta description and canonical URL. The sitemap is generated on each build. Catalogue topics without full lesson JSON are shown as planned, not linked to missing lesson URLs. A topic appearing in the 237-item plan is not yet a published article until its full JSON lesson has been added.
 
-1. In Google Cloud Console enable **Blogger API v3**.
-2. Create an OAuth client of type **Desktop app**.
-3. Download the client file as `client_secret.json` in a trusted local copy.
-4. Run:
-   ```bash
-   python -m pip install -r requirements.txt
-   python scripts/oauth_setup.py
-   ```
-5. Add repository Actions secrets:
-   - `BLOGGER_CLIENT_ID`
-   - `BLOGGER_CLIENT_SECRET`
-   - `BLOGGER_REFRESH_TOKEN`
-   - `BLOGGER_BLOG_ID`
-6. Set repository variable `PUBLISH_MODE` to `draft` for initial test; switch to `live` when ready.
+The content validator/build process cannot guarantee accuracy, originality, search ranking or AdSense approval. Review every lesson before publishing.
 
-Never commit OAuth secrets or refresh tokens.
-
-## Workflow: prompt to Blogger
-
-1. Give ChatGPT the prompt from `prompts/MASTER-CONTENT-PROMPT.md`.
-2. Ask it for one complete JSON file following `content/templates/article-template.json`.
-3. Save the JSON under `content/inbox/` with a unique filename.
-4. Commit and push. The workflow publishes according to `PUBLISH_MODE`.
-
-## Pages
-
-Use `kind: "page"` for static Blogger pages. The same validation and publishing mode apply.
-
-## Plan
-
-`content/plan/content-plan.json` contains 16 canonical labels, 155 core posts, 30 challenge lessons and 52 weekly practice lessons (237 planned items).
-
-## Required review
-
-The JSON must have `author_reviewed: true` only after a human has checked accuracy, usefulness, grammar, originality and media rights. The validator cannot perform this review for you.
+## Blogger
+Blogger can remain the main brand/blog or host a portal landing page, but the full lesson pages in this architecture are deployed from GitHub Pages. The optional Blogger catalogue loader is at `portal/blogger-catalogue-loader.html`.
