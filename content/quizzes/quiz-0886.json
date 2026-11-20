@@ -3,139 +3,139 @@
   "slug": "quiz-0886",
   "title": "English Practice Quiz 0886",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q113",
-      "category": "Gerunds",
-      "question": "She is good at ___.",
+      "id": "q11151",
+      "category": "Meetings and Coordination",
+      "question": "An agenda is:",
       "options": [
-        "swim",
-        "to swim",
-        "swimming",
-        "swam"
-      ],
-      "answer": 2,
-      "explanation": "A preposition such as at is followed by a noun or gerund."
-    },
-    {
-      "id": "q021",
-      "category": "Vocabulary",
-      "question": "A person who repairs water pipes is a ___.",
-      "options": [
-        "carpenter",
-        "plumber",
-        "tailor",
-        "baker"
-      ],
-      "answer": 1,
-      "explanation": "A plumber installs and repairs water pipes and fittings."
-    },
-    {
-      "id": "q044",
-      "category": "Modals",
-      "question": "You look tired. You ___ get some rest.",
-      "options": [
-        "should",
-        "mustn't",
-        "can't",
-        "wouldn't"
+        "a list of topics planned for a meeting",
+        "the final salary sheet",
+        "a visitor pass",
+        "a travel receipt"
       ],
       "answer": 0,
-      "explanation": "Should gives advice."
+      "explanation": "An agenda outlines the items to be discussed."
     },
     {
-      "id": "q067",
-      "category": "Workplace English",
-      "question": "You have completed a task. You say:",
+      "id": "q11152",
+      "category": "Meetings and Coordination",
+      "question": "Meeting minutes should record:",
       "options": [
-        "The task is complete.",
-        "The task complete yesterday tomorrow.",
-        "I task finish.",
-        "Task is completing me."
+        "key discussions, decisions and actions",
+        "every unrelated conversation",
+        "personal gossip",
+        "only refreshments served"
       ],
       "answer": 0,
-      "explanation": "The task is complete is a clear status update."
+      "explanation": "Minutes provide a concise record of outcomes and responsibilities."
     },
     {
-      "id": "q090",
-      "category": "Conditionals",
-      "question": "If I were you, I ___ apologise.",
+      "id": "q11153",
+      "category": "Meetings and Coordination",
+      "question": "An action item should ideally include:",
       "options": [
-        "will",
-        "would",
-        "am",
-        "did"
-      ],
-      "answer": 1,
-      "explanation": "If I were you is followed by would for advice."
-    },
-    {
-      "id": "q113",
-      "category": "Gerunds",
-      "question": "She is good at ___.",
-      "options": [
-        "swim",
-        "to swim",
-        "swimming",
-        "swam"
-      ],
-      "answer": 2,
-      "explanation": "A preposition such as at is followed by a noun or gerund."
-    },
-    {
-      "id": "q021",
-      "category": "Vocabulary",
-      "question": "A person who repairs water pipes is a ___.",
-      "options": [
-        "carpenter",
-        "plumber",
-        "tailor",
-        "baker"
-      ],
-      "answer": 1,
-      "explanation": "A plumber installs and repairs water pipes and fittings."
-    },
-    {
-      "id": "q044",
-      "category": "Modals",
-      "question": "You look tired. You ___ get some rest.",
-      "options": [
-        "should",
-        "mustn't",
-        "can't",
-        "wouldn't"
+        "an owner and due date",
+        "a vague wish",
+        "no assigned person",
+        "an unrelated opinion"
       ],
       "answer": 0,
-      "explanation": "Should gives advice."
+      "explanation": "Ownership and deadlines make actions trackable."
     },
     {
-      "id": "q067",
-      "category": "Workplace English",
-      "question": "You have completed a task. You say:",
+      "id": "q11154",
+      "category": "Meetings and Coordination",
+      "question": "If you disagree during a meeting, you should:",
       "options": [
-        "The task is complete.",
-        "The task complete yesterday tomorrow.",
-        "I task finish.",
-        "Task is completing me."
-      ],
-      "answer": 0,
-      "explanation": "The task is complete is a clear status update."
-    },
-    {
-      "id": "q090",
-      "category": "Conditionals",
-      "question": "If I were you, I ___ apologise.",
-      "options": [
-        "will",
-        "would",
-        "am",
-        "did"
+        "criticise the speaker personally",
+        "explain your concern respectfully with reasons",
+        "shout over others",
+        "leave without notice"
       ],
       "answer": 1,
-      "explanation": "If I were you is followed by would for advice."
+      "explanation": "Respectful evidence-based disagreement supports productive discussion."
+    },
+    {
+      "id": "q11155",
+      "category": "Meetings and Coordination",
+      "question": "A meeting facilitator is responsible for:",
+      "options": [
+        "guiding the discussion and keeping it focused",
+        "making every decision alone",
+        "avoiding the agenda",
+        "recording private passwords"
+      ],
+      "answer": 0,
+      "explanation": "The facilitator helps the group work through the agenda."
+    },
+    {
+      "id": "q11156",
+      "category": "Meetings and Coordination",
+      "question": "'Let's take this offline' usually means:",
+      "options": [
+        "discuss it separately after the meeting",
+        "disconnect the building power",
+        "cancel all future meetings",
+        "publish the discussion"
+      ],
+      "answer": 0,
+      "explanation": "The issue can be handled outside the current meeting."
+    },
+    {
+      "id": "q11157",
+      "category": "Meetings and Coordination",
+      "question": "Which update is most useful?",
+      "options": [
+        "Everything is fine, probably.",
+        "The inspection is complete; two issues remain open.",
+        "We did some things.",
+        "No comment."
+      ],
+      "answer": 1,
+      "explanation": "A useful update states progress and outstanding work clearly."
+    },
+    {
+      "id": "q11158",
+      "category": "Meetings and Coordination",
+      "question": "A deadline is:",
+      "options": [
+        "the latest time by which work is due",
+        "the date work began",
+        "an optional meeting topic",
+        "a staff member's title"
+      ],
+      "answer": 0,
+      "explanation": "A deadline is the due date or time limit."
+    },
+    {
+      "id": "q11159",
+      "category": "Meetings and Coordination",
+      "question": "If a task depends on another team's work, you should:",
+      "options": [
+        "coordinate timelines with that team",
+        "wait silently until the deadline",
+        "assume it is finished",
+        "remove it from the plan"
+      ],
+      "answer": 0,
+      "explanation": "Coordination makes dependencies and timing clear."
+    },
+    {
+      "id": "q11160",
+      "category": "Meetings and Coordination",
+      "question": "A meeting should end with:",
+      "options": [
+        "unclear responsibilities",
+        "a summary of decisions and next steps",
+        "new unrelated arguments",
+        "no record of outcomes"
+      ],
+      "answer": 1,
+      "explanation": "Summarising decisions and next steps creates shared understanding."
     }
   ]
 }
