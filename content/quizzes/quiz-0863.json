@@ -3,139 +3,139 @@
   "slug": "quiz-0863",
   "title": "English Practice Quiz 0863",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q067",
-      "category": "Workplace English",
-      "question": "You have completed a task. You say:",
+      "id": "q11321",
+      "category": "Formal Reporting",
+      "question": "Formal Reporting: Which sentence suits a formal incident report?",
       "options": [
-        "The task is complete.",
-        "The task complete yesterday tomorrow.",
-        "I task finish.",
-        "Task is completing me."
+        "It was crazy",
+        "At 10:35, the alarm was activated and the response team attended",
+        "Everyone was careless",
+        "It was a weird day"
+      ],
+      "answer": 1,
+      "explanation": "Formal reports use precise and factual wording."
+    },
+    {
+      "id": "q11322",
+      "category": "Formal Reporting",
+      "question": "Formal Reporting: A recommendation section contains:",
+      "options": [
+        "suggested actions based on findings",
+        "personal stories",
+        "only the title",
+        "rumours"
       ],
       "answer": 0,
-      "explanation": "The task is complete is a clear status update."
+      "explanation": "Recommendations propose actions arising from findings."
     },
     {
-      "id": "q080",
-      "category": "Punctuation",
-      "question": "Choose the correctly written date phrase.",
+      "id": "q11323",
+      "category": "Formal Reporting",
+      "question": "Formal Reporting: Which word formally introduces an additional point?",
       "options": [
-        "on monday",
-        "on Monday",
-        "On monday",
-        "on Monday."
+        "Anyway",
+        "Furthermore",
+        "Whatever",
+        "Perhaps"
       ],
       "answer": 1,
-      "explanation": "Days of the week begin with a capital letter."
+      "explanation": "Furthermore is a formal linking word."
     },
     {
-      "id": "q093",
-      "category": "Passive Voice",
-      "question": "The work ___ tomorrow.",
+      "id": "q11324",
+      "category": "Formal Reporting",
+      "question": "Formal Reporting: A draft document is:",
       "options": [
-        "will complete",
-        "will be completed",
-        "completed",
-        "is completing"
-      ],
-      "answer": 1,
-      "explanation": "Future passive uses will be + past participle."
-    },
-    {
-      "id": "q106",
-      "category": "Adjectives",
-      "question": "The test was ___ than I expected.",
-      "options": [
-        "easy",
-        "easier",
-        "easiest",
-        "more easy"
-      ],
-      "answer": 1,
-      "explanation": "Use the comparative form easier."
-    },
-    {
-      "id": "q004",
-      "category": "Grammar",
-      "question": "There ___ two chairs in the room.",
-      "options": [
-        "is",
-        "are",
-        "am",
-        "was"
-      ],
-      "answer": 1,
-      "explanation": "Use are with the plural noun chairs."
-    },
-    {
-      "id": "q017",
-      "category": "Tenses",
-      "question": "They ___ football every Sunday.",
-      "options": [
-        "plays",
-        "are play",
-        "play",
-        "playing"
-      ],
-      "answer": 2,
-      "explanation": "Use the base verb with the plural subject they in the present simple."
-    },
-    {
-      "id": "q030",
-      "category": "Vocabulary",
-      "question": "Choose the best word: The road is very ___. There are many cars.",
-      "options": [
-        "crowded",
-        "empty",
-        "quietly",
-        "soft"
+        "an initial version that may be revised",
+        "a final approved copy",
+        "a deleted record",
+        "a receipt"
       ],
       "answer": 0,
-      "explanation": "Crowded means filled with many people or things; it can describe busy roads."
+      "explanation": "A draft is a preliminary version."
     },
     {
-      "id": "q043",
-      "category": "Modals",
-      "question": "When I was five, I ___ swim.",
+      "id": "q11325",
+      "category": "Formal Reporting",
+      "question": "Formal Reporting: Choose the correct sentence:",
       "options": [
-        "can",
-        "could",
-        "may",
-        "must"
+        "The staff have completed their checks",
+        "The staff completing checks",
+        "The staff is complete checks",
+        "The staff has complete checks"
+      ],
+      "answer": 0,
+      "explanation": "Have completed is correct with staff in its plural sense here."
+    },
+    {
+      "id": "q11326",
+      "category": "Formal Reporting",
+      "question": "Formal Reporting: A concise report should avoid:",
+      "options": [
+        "relevant facts",
+        "repetition and irrelevant details",
+        "clear headings",
+        "accurate dates"
       ],
       "answer": 1,
-      "explanation": "Could expresses past ability."
+      "explanation": "Unnecessary detail reduces clarity."
     },
     {
-      "id": "q056",
-      "category": "Pronunciation",
-      "question": "Which word has a different beginning sound?",
+      "id": "q11327",
+      "category": "Formal Reporting",
+      "question": "Formal Reporting: As per the instructions means:",
       "options": [
-        "think",
-        "three",
-        "this",
-        "thank"
+        "in accordance with the instructions",
+        "against instructions",
+        "without reading them",
+        "before they existed"
       ],
-      "answer": 2,
-      "explanation": "This begins with the voiced /ð/ sound; the others begin with the unvoiced /θ/ sound."
+      "answer": 0,
+      "explanation": "The phrase means according to the instructions."
     },
     {
-      "id": "q069",
-      "category": "Workplace English",
-      "question": "A polite way to disagree is:",
+      "id": "q11328",
+      "category": "Formal Reporting",
+      "question": "Formal Reporting: Which wording describes an unresolved issue?",
       "options": [
-        "You are totally wrong.",
-        "I see your point, but I have a different view.",
-        "No, stop.",
-        "That is stupid."
+        "The matter remains pending",
+        "The matter is magic",
+        "Nobody cares",
+        "It vanished perhaps"
       ],
-      "answer": 1,
-      "explanation": "This phrase acknowledges the other person before presenting a different view."
+      "answer": 0,
+      "explanation": "Remains pending clearly indicates the issue is unresolved."
+    },
+    {
+      "id": "q11329",
+      "category": "Formal Reporting",
+      "question": "Formal Reporting: A version number helps users:",
+      "options": [
+        "identify the revision being used",
+        "calculate distance",
+        "unlock a door",
+        "replace a signature"
+      ],
+      "answer": 0,
+      "explanation": "Version numbers distinguish revisions."
+    },
+    {
+      "id": "q11330",
+      "category": "Formal Reporting",
+      "question": "Formal Reporting: Before submitting a report, check:",
+      "options": [
+        "names, dates and factual accuracy",
+        "assumptions",
+        "removal of incident time",
+        "nothing"
+      ],
+      "answer": 0,
+      "explanation": "Reviewing details helps prevent errors."
     }
   ]
 }
