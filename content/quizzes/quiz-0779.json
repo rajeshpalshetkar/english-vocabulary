@@ -3,139 +3,139 @@
   "slug": "quiz-0779",
   "title": "English Practice Quiz 0779",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Conversation",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q019",
-      "category": "Tenses",
-      "question": "She ___ in this hospital for five years.",
+      "id": "q12281",
+      "category": "Civic Awareness and Public Services",
+      "question": "Civic Awareness and Public Services 01: A municipal corporation generally manages?",
       "options": [
-        "works",
-        "worked",
-        "has worked",
-        "is work"
-      ],
-      "answer": 2,
-      "explanation": "The present perfect can describe a situation continuing to the present."
-    },
-    {
-      "id": "q056",
-      "category": "Pronunciation",
-      "question": "Which word has a different beginning sound?",
-      "options": [
-        "think",
-        "three",
-        "this",
-        "thank"
-      ],
-      "answer": 2,
-      "explanation": "This begins with the voiced /ð/ sound; the others begin with the unvoiced /θ/ sound."
-    },
-    {
-      "id": "q093",
-      "category": "Passive Voice",
-      "question": "The work ___ tomorrow.",
-      "options": [
-        "will complete",
-        "will be completed",
-        "completed",
-        "is completing"
-      ],
-      "answer": 1,
-      "explanation": "Future passive uses will be + past participle."
-    },
-    {
-      "id": "q015",
-      "category": "Tenses",
-      "question": "She ___ the report before the manager arrived.",
-      "options": [
-        "finished",
-        "has finished",
-        "had finished",
-        "finishes"
-      ],
-      "answer": 2,
-      "explanation": "Use the past perfect for an action completed before another past action."
-    },
-    {
-      "id": "q052",
-      "category": "Conversation",
-      "question": "You did not hear someone. You say:",
-      "options": [
-        "Speak now!",
-        "Could you repeat that, please?",
-        "What your problem?",
-        "I don't hear you yesterday."
-      ],
-      "answer": 1,
-      "explanation": "Could you repeat that, please? is a polite request."
-    },
-    {
-      "id": "q089",
-      "category": "Conditionals",
-      "question": "If she studies, she ___ the test.",
-      "options": [
-        "passes",
-        "passed",
-        "will pass",
-        "would passed"
-      ],
-      "answer": 2,
-      "explanation": "Use will + base verb in the main clause of the first conditional."
-    },
-    {
-      "id": "q011",
-      "category": "Tenses",
-      "question": "Listen! The baby ___.",
-      "options": [
-        "cries",
-        "is crying",
-        "cry",
-        "cried"
-      ],
-      "answer": 1,
-      "explanation": "Listen! suggests an action happening now, so use the present continuous."
-    },
-    {
-      "id": "q048",
-      "category": "Sentence Building",
-      "question": "Choose the correct sentence.",
-      "options": [
-        "Because I was tired, I went to bed early.",
-        "Because I tired, went bed early.",
-        "I because was tired bed early.",
-        "Because tired I went early bed."
+        "local civic services in an urban area",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
       ],
       "answer": 0,
-      "explanation": "The subordinate clause beginning with because explains the reason."
+      "explanation": "Option A is correct: local civic services in an urban area."
     },
     {
-      "id": "q085",
-      "category": "Confusing Words",
-      "question": "The bus is ___ than the car today.",
+      "id": "q12282",
+      "category": "Civic Awareness and Public Services",
+      "question": "Civic Awareness and Public Services 02: A birth certificate is an official record of?",
       "options": [
-        "fast",
-        "faster",
-        "fastest",
-        "more fast"
+        "share the information publicly",
+        "a person's birth",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
       ],
       "answer": 1,
-      "explanation": "Use the comparative form faster when comparing two things."
+      "explanation": "Option B is correct: a person's birth."
     },
     {
-      "id": "q007",
-      "category": "Grammar",
-      "question": "The keys are ___ the table.",
+      "id": "q12283",
+      "category": "Civic Awareness and Public Services",
+      "question": "Civic Awareness and Public Services 03: A public grievance system allows citizens to?",
       "options": [
-        "in",
-        "at",
-        "on",
-        "by"
+        "make an unsupported assumption",
+        "share the information publicly",
+        "submit complaints about public services",
+        "ignore the issue and continue"
       ],
       "answer": 2,
-      "explanation": "On describes something resting on a surface."
+      "explanation": "Option C is correct: submit complaints about public services."
+    },
+    {
+      "id": "q12284",
+      "category": "Civic Awareness and Public Services",
+      "question": "Civic Awareness and Public Services 04: A voter registration record is used to?",
+      "options": [
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "establish eligibility to vote in an election"
+      ],
+      "answer": 3,
+      "explanation": "Option D is correct: establish eligibility to vote in an election."
+    },
+    {
+      "id": "q12285",
+      "category": "Civic Awareness and Public Services",
+      "question": "Civic Awareness and Public Services 05: A public notice communicates?",
+      "options": [
+        "information relevant to the community",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: information relevant to the community."
+    },
+    {
+      "id": "q12286",
+      "category": "Civic Awareness and Public Services",
+      "question": "Civic Awareness and Public Services 06: A local sanitation service helps?",
+      "options": [
+        "share the information publicly",
+        "maintain public cleanliness and hygiene",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
+      ],
+      "answer": 1,
+      "explanation": "Option B is correct: maintain public cleanliness and hygiene."
+    },
+    {
+      "id": "q12287",
+      "category": "Civic Awareness and Public Services",
+      "question": "Civic Awareness and Public Services 07: An official government form should be completed with?",
+      "options": [
+        "make an unsupported assumption",
+        "share the information publicly",
+        "accurate information and required documents",
+        "ignore the issue and continue"
+      ],
+      "answer": 2,
+      "explanation": "Option C is correct: accurate information and required documents."
+    },
+    {
+      "id": "q12288",
+      "category": "Civic Awareness and Public Services",
+      "question": "Civic Awareness and Public Services 08: A public library provides?",
+      "options": [
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "access to books and learning resources"
+      ],
+      "answer": 3,
+      "explanation": "Option D is correct: access to books and learning resources."
+    },
+    {
+      "id": "q12289",
+      "category": "Civic Awareness and Public Services",
+      "question": "Civic Awareness and Public Services 09: A civic responsibility includes?",
+      "options": [
+        "following lawful public rules and respecting shared spaces",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: following lawful public rules and respecting shared spaces."
+    },
+    {
+      "id": "q12290",
+      "category": "Civic Awareness and Public Services",
+      "question": "Civic Awareness and Public Services 10: A service application reference number helps?",
+      "options": [
+        "share the information publicly",
+        "track the application status",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
+      ],
+      "answer": 1,
+      "explanation": "Option B is correct: track the application status."
     }
   ]
 }
