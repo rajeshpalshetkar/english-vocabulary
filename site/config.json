@@ -1,0 +1,9 @@
+{
+  "site_name": "English Fluency Guide",
+  "site_url": "https://vocab.prasiddhbharat.com",
+  "description": "Practical English lessons, speaking practice, grammar, vocabulary and guided challenges for learners.",
+  "language": "en-IN",
+  "catalogue_path": "content/data/content-catalog.json",
+  "lessons_path": "content/lessons",
+  "default_author": "English Fluency Guide"
+}
