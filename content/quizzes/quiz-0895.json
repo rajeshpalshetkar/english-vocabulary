@@ -3,139 +3,139 @@
   "slug": "quiz-0895",
   "title": "English Practice Quiz 0895",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q036",
-      "category": "Prepositions",
-      "question": "The meeting starts ___ 9 a.m.",
+      "id": "q11041",
+      "category": "Facilities and Maintenance",
+      "question": "A maintenance log records ___.",
       "options": [
-        "in",
-        "on",
-        "at",
-        "by"
-      ],
-      "answer": 2,
-      "explanation": "Use at for a specific clock time."
-    },
-    {
-      "id": "q055",
-      "category": "Conversation",
-      "question": "A colleague asks for help. A polite reply is:",
-      "options": [
-        "Certainly. What do you need?",
-        "Never ask me.",
-        "You do yourself.",
-        "No speaking."
+        "reported faults, inspections and repair actions",
+        "birthdays",
+        "marketing preferences",
+        "shopping lists"
       ],
       "answer": 0,
-      "explanation": "Certainly. What do you need? is helpful and polite."
+      "explanation": "reported faults, inspections and repair actions is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q074",
-      "category": "Questions",
-      "question": "Which question asks for a reason?",
+      "id": "q11042",
+      "category": "Facilities and Maintenance",
+      "question": "Preventive maintenance is performed to ___.",
       "options": [
-        "What happened?",
-        "Where are you?",
-        "Why are you late?",
-        "When is lunch?"
+        "wait until equipment breaks",
+        "avoid inspections",
+        "increase downtime",
+        "reduce the likelihood of equipment failure"
+      ],
+      "answer": 3,
+      "explanation": "reduce the likelihood of equipment failure is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q11043",
+      "category": "Facilities and Maintenance",
+      "question": "A reported equipment fault should include ___.",
+      "options": [
+        "favourite colour",
+        "unrelated customer details",
+        "equipment identity, symptoms and location",
+        "a guessed cost only"
       ],
       "answer": 2,
-      "explanation": "Why asks for a reason."
+      "explanation": "equipment identity, symptoms and location is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q093",
-      "category": "Passive Voice",
-      "question": "The work ___ tomorrow.",
+      "id": "q11044",
+      "category": "Facilities and Maintenance",
+      "question": "A maintenance work order describes ___.",
       "options": [
-        "will complete",
-        "will be completed",
-        "completed",
-        "is completing"
+        "salary adjustment",
+        "a specific maintenance task",
+        "visitor invitation",
+        "sales promotion"
       ],
       "answer": 1,
-      "explanation": "Future passive uses will be + past participle."
+      "explanation": "a specific maintenance task is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q112",
-      "category": "Gerunds",
-      "question": "He decided ___ early.",
+      "id": "q11045",
+      "category": "Facilities and Maintenance",
+      "question": "If a damaged electrical cable is found, staff should ___.",
       "options": [
-        "leave",
-        "leaving",
-        "to leave",
-        "leaves"
-      ],
-      "answer": 2,
-      "explanation": "Decide is commonly followed by a to-infinitive."
-    },
-    {
-      "id": "q016",
-      "category": "Tenses",
-      "question": "Water ___ at 100°C at sea level.",
-      "options": [
-        "boil",
-        "boils",
-        "is boiling",
-        "boiled"
-      ],
-      "answer": 1,
-      "explanation": "Use the present simple for general facts."
-    },
-    {
-      "id": "q035",
-      "category": "Articles",
-      "question": "Mount Everest is ___ highest mountain in the world.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 2,
-      "explanation": "Use the with superlative adjectives."
-    },
-    {
-      "id": "q054",
-      "category": "Conversation",
-      "question": "You need a moment to think. You say:",
-      "options": [
-        "Let me think for a moment.",
-        "I no idea ever.",
-        "Wait your mouth.",
-        "I am think."
+        "keep people away and report it through the safety process",
+        "touch it to test it",
+        "cover it with paper",
+        "continue using the equipment"
       ],
       "answer": 0,
-      "explanation": "This phrase politely signals that you need a little time."
+      "explanation": "keep people away and report it through the safety process is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q073",
-      "category": "Questions",
-      "question": "Choose the correct question.",
+      "id": "q11046",
+      "category": "Facilities and Maintenance",
+      "question": "An asset register tracks ___.",
       "options": [
-        "Does she work here?",
-        "Do she work here?",
-        "Is she works here?",
-        "Does she works here?"
+        "weather reports",
+        "employee opinions",
+        "customer passwords",
+        "equipment and other organisational assets"
       ],
-      "answer": 0,
-      "explanation": "Use does + subject + base verb with he, she or it."
+      "answer": 3,
+      "explanation": "equipment and other organisational assets is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q092",
-      "category": "Passive Voice",
-      "question": "Choose the passive form: 'The manager signed the letter.'",
+      "id": "q11047",
+      "category": "Facilities and Maintenance",
+      "question": "A planned maintenance window is ___.",
       "options": [
-        "The letter is signed.",
-        "The letter was signed by the manager.",
-        "The letter signed the manager.",
-        "The letter has sign."
+        "an unplanned emergency",
+        "a leave request",
+        "a scheduled period for inspection or repair",
+        "a supplier invoice"
+      ],
+      "answer": 2,
+      "explanation": "a scheduled period for inspection or repair is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q11048",
+      "category": "Facilities and Maintenance",
+      "question": "Recording a completed repair helps ___.",
+      "options": [
+        "remove the asset from lists",
+        "maintain history and confirm the work was done",
+        "avoid future inspections",
+        "replace the label"
       ],
       "answer": 1,
-      "explanation": "Past simple passive: was/were + past participle."
+      "explanation": "maintain history and confirm the work was done is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q11049",
+      "category": "Facilities and Maintenance",
+      "question": "A recurring equipment fault should prompt ___.",
+      "options": [
+        "investigation into its underlying cause",
+        "repeated resets without review",
+        "deletion of records",
+        "ignoring reports"
+      ],
+      "answer": 0,
+      "explanation": "investigation into its underlying cause is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q11050",
+      "category": "Facilities and Maintenance",
+      "question": "Before returning repaired equipment to service, confirm ___.",
+      "options": [
+        "the repair label looks attractive",
+        "the area is empty only",
+        "the supplier has left",
+        "it has been checked and released under procedure"
+      ],
+      "answer": 3,
+      "explanation": "it has been checked and released under procedure is the correct answer based on the meaning and context of the question."
     }
   ]
 }
