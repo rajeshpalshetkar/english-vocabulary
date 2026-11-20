@@ -3,139 +3,139 @@
   "slug": "quiz-0921",
   "title": "English Practice Quiz 0921",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q018",
-      "category": "Tenses",
-      "question": "I ___ him last week.",
+      "id": "q10701",
+      "category": "Email Etiquette",
+      "question": "Which subject line is clearest for a leave request?",
       "options": [
-        "see",
-        "have seen",
-        "saw",
-        "seeing"
-      ],
-      "answer": 2,
-      "explanation": "Use the past simple with a finished past time such as last week."
-    },
-    {
-      "id": "q027",
-      "category": "Vocabulary",
-      "question": "Choose the correct word: Please ___ the details.",
-      "options": [
-        "confirm",
-        "crowded",
-        "repairing",
-        "hungry"
+        "Leave request for 12 December",
+        "Hello",
+        "Important",
+        "Please read"
       ],
       "answer": 0,
-      "explanation": "Confirm means to check or establish that something is correct."
+      "explanation": "Leave request for 12 December is correct. The sentence or passage provides the relevant meaning and context."
     },
     {
-      "id": "q036",
-      "category": "Prepositions",
-      "question": "The meeting starts ___ 9 a.m.",
+      "id": "q10702",
+      "category": "Email Etiquette",
+      "question": "Which greeting suits an unfamiliar manager?",
       "options": [
-        "in",
-        "on",
-        "at",
-        "by"
+        "Hey there!",
+        "Dear Ms Patel,",
+        "Yo manager,",
+        "What's up?"
+      ],
+      "answer": 1,
+      "explanation": "Dear Ms Patel, is correct. The sentence or passage provides the relevant meaning and context."
+    },
+    {
+      "id": "q10703",
+      "category": "Email Etiquette",
+      "question": "What does 'Please find attached' indicate?",
+      "options": [
+        "The message was deleted",
+        "A meeting was cancelled",
+        "A file accompanies the email",
+        "The sender is absent"
       ],
       "answer": 2,
-      "explanation": "Use at for a specific clock time."
+      "explanation": "A file accompanies the email is correct. The sentence or passage provides the relevant meaning and context."
     },
     {
-      "id": "q045",
-      "category": "Modals",
-      "question": "It ___ rain later; take an umbrella.",
+      "id": "q10704",
+      "category": "Email Etiquette",
+      "question": "Which closing is suitable for a formal email?",
       "options": [
-        "might",
-        "mustn't",
-        "shouldn't",
-        "has"
+        "See ya!",
+        "Later!!!",
+        "Cheers mate",
+        "Kind regards,"
+      ],
+      "answer": 3,
+      "explanation": "Kind regards, is correct. The sentence or passage provides the relevant meaning and context."
+    },
+    {
+      "id": "q10705",
+      "category": "Email Etiquette",
+      "question": "You forgot an attachment. What should you do?",
+      "options": [
+        "Send a follow-up with the missing file",
+        "Wait for a complaint",
+        "Resend repeatedly",
+        "Blame the recipient"
       ],
       "answer": 0,
-      "explanation": "Might expresses possibility."
+      "explanation": "Send a follow-up with the missing file is correct. The sentence or passage provides the relevant meaning and context."
     },
     {
-      "id": "q054",
-      "category": "Conversation",
-      "question": "You need a moment to think. You say:",
+      "id": "q10706",
+      "category": "Email Etiquette",
+      "question": "What does CC do in an email?",
       "options": [
-        "Let me think for a moment.",
-        "I no idea ever.",
-        "Wait your mouth.",
-        "I am think."
-      ],
-      "answer": 0,
-      "explanation": "This phrase politely signals that you need a little time."
-    },
-    {
-      "id": "q063",
-      "category": "Reading",
-      "question": "Read: 'Ravi practises English for twenty minutes every evening.' How long does he practise?",
-      "options": [
-        "Ten minutes",
-        "Twenty minutes",
-        "Thirty minutes",
-        "One hour"
+        "Hides all recipients",
+        "Copies another visible recipient",
+        "Encrypts the message",
+        "Compresses a file"
       ],
       "answer": 1,
-      "explanation": "The passage states twenty minutes."
+      "explanation": "Copies another visible recipient is correct. The sentence or passage provides the relevant meaning and context."
     },
     {
-      "id": "q072",
-      "category": "Questions",
-      "question": "Which question asks about time?",
+      "id": "q10707",
+      "category": "Email Etiquette",
+      "question": "Which sentence is a polite request?",
       "options": [
-        "Who is calling?",
-        "When does the train leave?",
-        "Where is the station?",
-        "Why are you here?"
-      ],
-      "answer": 1,
-      "explanation": "When asks about time."
-    },
-    {
-      "id": "q081",
-      "category": "Confusing Words",
-      "question": "Choose the correct word: ___ going to arrive soon.",
-      "options": [
-        "Their",
-        "There",
-        "They're",
-        "Theirs"
+        "Give me that now.",
+        "Send it, no questions.",
+        "Could you share the updated schedule, please?",
+        "Why are you so late?"
       ],
       "answer": 2,
-      "explanation": "They're is the contraction of they are."
+      "explanation": "Could you share the updated schedule, please? is correct. The sentence or passage provides the relevant meaning and context."
     },
     {
-      "id": "q090",
-      "category": "Conditionals",
-      "question": "If I were you, I ___ apologise.",
+      "id": "q10708",
+      "category": "Email Etiquette",
+      "question": "Before using Reply All, check whether ___.",
       "options": [
-        "will",
-        "would",
-        "am",
-        "did"
+        "the screen is bright",
+        "the email has a logo",
+        "the sender is online",
+        "everyone needs your response"
       ],
-      "answer": 1,
-      "explanation": "If I were you is followed by would for advice."
+      "answer": 3,
+      "explanation": "everyone needs your response is correct. The sentence or passage provides the relevant meaning and context."
     },
     {
-      "id": "q099",
-      "category": "Reported Speech",
-      "question": "She said, 'Please sit down.'",
+      "id": "q10709",
+      "category": "Email Etiquette",
+      "question": "What does EOD commonly mean?",
       "options": [
-        "She told me sit down.",
-        "She asked me to sit down.",
-        "She said me to sit.",
-        "She asked that I sat."
+        "End of day",
+        "Every other day",
+        "Email on demand",
+        "Entry of document"
+      ],
+      "answer": 0,
+      "explanation": "End of day is correct. The sentence or passage provides the relevant meaning and context."
+    },
+    {
+      "id": "q10710",
+      "category": "Email Etiquette",
+      "question": "What should you check before sending a formal email?",
+      "options": [
+        "Only font colour",
+        "Recipients, attachments and wording",
+        "Only screen brightness",
+        "Nothing at all"
       ],
       "answer": 1,
-      "explanation": "A request can be reported with asked + object + to-infinitive."
+      "explanation": "Recipients, attachments and wording is correct. The sentence or passage provides the relevant meaning and context."
     }
   ]
 }
