@@ -3,139 +3,139 @@
   "slug": "quiz-0877",
   "title": "English Practice Quiz 0877",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q075",
-      "category": "Questions",
-      "question": "Choose the correct question tag: 'You are ready, ___?'",
+      "id": "q11261",
+      "category": "Public Information and Directions",
+      "question": "A 'designated area' is an area that is:",
       "options": [
-        "are you",
-        "aren't you",
-        "do you",
-        "don't you"
-      ],
-      "answer": 1,
-      "explanation": "A positive statement with are usually takes the negative tag aren't you."
-    },
-    {
-      "id": "q104",
-      "category": "Determiners",
-      "question": "There is ___ water in the bottle.",
-      "options": [
-        "a few",
-        "many",
-        "a little",
-        "several"
-      ],
-      "answer": 2,
-      "explanation": "A little is used with uncountable nouns."
-    },
-    {
-      "id": "q018",
-      "category": "Tenses",
-      "question": "I ___ him last week.",
-      "options": [
-        "see",
-        "have seen",
-        "saw",
-        "seeing"
-      ],
-      "answer": 2,
-      "explanation": "Use the past simple with a finished past time such as last week."
-    },
-    {
-      "id": "q047",
-      "category": "Sentence Building",
-      "question": "Choose the correct question.",
-      "options": [
-        "Where you live?",
-        "Where do you live?",
-        "Where does you live?",
-        "Where are live you?"
-      ],
-      "answer": 1,
-      "explanation": "Use do + subject + base verb for present simple questions with you."
-    },
-    {
-      "id": "q076",
-      "category": "Punctuation",
-      "question": "Choose the correctly punctuated sentence.",
-      "options": [
-        "where are you.",
-        "Where are you?",
-        "Where are you,",
-        "where are you!"
-      ],
-      "answer": 1,
-      "explanation": "Start with a capital letter and use a question mark."
-    },
-    {
-      "id": "q105",
-      "category": "Determiners",
-      "question": "___ student must bring an ID card.",
-      "options": [
-        "Each",
-        "Many",
-        "Few",
-        "Several"
+        "officially assigned for a particular purpose",
+        "closed without explanation",
+        "always outdoors",
+        "temporarily flooded"
       ],
       "answer": 0,
-      "explanation": "Each refers to every individual in a group."
+      "explanation": "Designated means officially selected or assigned."
     },
     {
-      "id": "q019",
-      "category": "Tenses",
-      "question": "She ___ in this hospital for five years.",
+      "id": "q11262",
+      "category": "Public Information and Directions",
+      "question": "A sign says 'Proceed to the counter'. It instructs you to:",
       "options": [
-        "works",
-        "worked",
-        "has worked",
-        "is work"
-      ],
-      "answer": 2,
-      "explanation": "The present perfect can describe a situation continuing to the present."
-    },
-    {
-      "id": "q048",
-      "category": "Sentence Building",
-      "question": "Choose the correct sentence.",
-      "options": [
-        "Because I was tired, I went to bed early.",
-        "Because I tired, went bed early.",
-        "I because was tired bed early.",
-        "Because tired I went early bed."
+        "go to the counter",
+        "leave the building",
+        "wait outside",
+        "use the lift"
       ],
       "answer": 0,
-      "explanation": "The subordinate clause beginning with because explains the reason."
+      "explanation": "Proceed to means go forward to a place."
     },
     {
-      "id": "q077",
-      "category": "Punctuation",
-      "question": "Which sentence uses the apostrophe correctly?",
+      "id": "q11263",
+      "category": "Public Information and Directions",
+      "question": "'Adjacent to' means:",
       "options": [
-        "The guards uniform is blue.",
-        "The guard's uniform is blue.",
-        "The guards' uniform is blue. (one guard)",
-        "The guard uniform's is blue."
+        "next to",
+        "far away from",
+        "inside",
+        "opposite in time"
       ],
-      "answer": 1,
-      "explanation": "Guard's shows possession by one guard."
+      "answer": 0,
+      "explanation": "Adjacent means next to or adjoining."
     },
     {
-      "id": "q106",
-      "category": "Adjectives",
-      "question": "The test was ___ than I expected.",
+      "id": "q11264",
+      "category": "Public Information and Directions",
+      "question": "A 'restricted area' is a place where access is:",
       "options": [
-        "easy",
-        "easier",
-        "easiest",
-        "more easy"
+        "limited to authorised people",
+        "open to everyone",
+        "always free",
+        "not monitored"
       ],
-      "answer": 1,
-      "explanation": "Use the comparative form easier."
+      "answer": 0,
+      "explanation": "Restricted areas have controlled access."
+    },
+    {
+      "id": "q11265",
+      "category": "Public Information and Directions",
+      "question": "If a room is 'temporarily closed', it is:",
+      "options": [
+        "not open for a limited period",
+        "permanently demolished",
+        "open all night",
+        "reserved for every visitor"
+      ],
+      "answer": 0,
+      "explanation": "Temporarily closed means closed for now, not necessarily permanently."
+    },
+    {
+      "id": "q11266",
+      "category": "Public Information and Directions",
+      "question": "A 'one-way system' allows movement:",
+      "options": [
+        "in one direction",
+        "in every direction",
+        "only backwards",
+        "without any route"
+      ],
+      "answer": 0,
+      "explanation": "One-way means traffic or movement proceeds in a single direction."
+    },
+    {
+      "id": "q11267",
+      "category": "Public Information and Directions",
+      "question": "A 'landmark' is useful because it:",
+      "options": [
+        "helps identify a location",
+        "measures a person's weight",
+        "issues a receipt",
+        "checks a password"
+      ],
+      "answer": 0,
+      "explanation": "A landmark is a recognisable feature used for navigation."
+    },
+    {
+      "id": "q11268",
+      "category": "Public Information and Directions",
+      "question": "'Keep to your left' means:",
+      "options": [
+        "stay on the left side",
+        "turn around immediately",
+        "walk in the centre",
+        "stop at the entrance"
+      ],
+      "answer": 0,
+      "explanation": "The instruction directs people to use the left side."
+    },
+    {
+      "id": "q11269",
+      "category": "Public Information and Directions",
+      "question": "A 'detour' is:",
+      "options": [
+        "an alternative route",
+        "a final destination",
+        "a parking receipt",
+        "a travel document"
+      ],
+      "answer": 0,
+      "explanation": "A detour is a route used instead of the usual one."
+    },
+    {
+      "id": "q11270",
+      "category": "Public Information and Directions",
+      "question": "A public announcement should be:",
+      "options": [
+        "clear, brief and easy to understand",
+        "full of unexplained jargon",
+        "spoken as quickly as possible",
+        "based on rumours"
+      ],
+      "answer": 0,
+      "explanation": "Clear and concise announcements are easier for the public to follow."
     }
   ]
 }
