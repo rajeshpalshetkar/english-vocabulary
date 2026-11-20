@@ -3,139 +3,139 @@
   "slug": "quiz-0914",
   "title": "English Practice Quiz 0914",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q014",
-      "category": "Tenses",
-      "question": "I think it ___ tomorrow.",
+      "id": "q10831",
+      "category": "Logistics",
+      "question": "A consignment is ___.",
       "options": [
-        "rains",
-        "rained",
-        "will rain",
-        "raining"
+        "a staff appraisal",
+        "a meeting agenda",
+        "a payment reminder",
+        "a shipment of goods sent to someone"
       ],
-      "answer": 2,
-      "explanation": "Will plus the base verb can express a future prediction."
+      "answer": 3,
+      "explanation": "a shipment of goods sent to someone is the correct choice based on the meaning and context of the question."
     },
     {
-      "id": "q031",
-      "category": "Articles",
-      "question": "I saw ___ elephant at the zoo.",
+      "id": "q10832",
+      "category": "Logistics",
+      "question": "A tracking number is used to ___.",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
+        "calculate leave",
+        "monitor the progress of a shipment",
+        "approve a purchase",
+        "measure temperature"
       ],
       "answer": 1,
-      "explanation": "Use an before a vowel sound."
+      "explanation": "monitor the progress of a shipment is the correct choice based on the meaning and context of the question."
     },
     {
-      "id": "q048",
-      "category": "Sentence Building",
-      "question": "Choose the correct sentence.",
+      "id": "q10833",
+      "category": "Logistics",
+      "question": "Before dispatching a package, check ___.",
       "options": [
-        "Because I was tired, I went to bed early.",
-        "Because I tired, went bed early.",
-        "I because was tired bed early.",
-        "Because tired I went early bed."
+        "recipient's favourite colour",
+        "driver's messages",
+        "unrelated invoices",
+        "address, contents and required documentation"
       ],
-      "answer": 0,
-      "explanation": "The subordinate clause beginning with because explains the reason."
+      "answer": 3,
+      "explanation": "address, contents and required documentation is the correct choice based on the meaning and context of the question."
     },
     {
-      "id": "q065",
-      "category": "Reading",
-      "question": "Read: 'Please keep the floor dry to prevent accidents.' What is the instruction?",
+      "id": "q10834",
+      "category": "Logistics",
+      "question": "A delivery delay should be communicated ___.",
       "options": [
-        "Wash the floor now",
-        "Keep the floor dry",
-        "Close the office",
-        "Move the furniture"
-      ],
-      "answer": 1,
-      "explanation": "The notice instructs people to keep the floor dry."
-    },
-    {
-      "id": "q082",
-      "category": "Confusing Words",
-      "question": "The weather can ___ your travel plans.",
-      "options": [
-        "affect",
-        "effect",
-        "infect",
-        "effort"
-      ],
-      "answer": 0,
-      "explanation": "Affect is usually a verb meaning to influence."
-    },
-    {
-      "id": "q099",
-      "category": "Reported Speech",
-      "question": "She said, 'Please sit down.'",
-      "options": [
-        "She told me sit down.",
-        "She asked me to sit down.",
-        "She said me to sit.",
-        "She asked that I sat."
+        "only after a complaint",
+        "promptly with an updated estimate when available",
+        "by hiding tracking status",
+        "through an advertisement"
       ],
       "answer": 1,
-      "explanation": "A request can be reported with asked + object + to-infinitive."
+      "explanation": "promptly with an updated estimate when available is the correct choice based on the meaning and context of the question."
     },
     {
-      "id": "q001",
-      "category": "Grammar",
-      "question": "She ___ to work every day.",
+      "id": "q10835",
+      "category": "Logistics",
+      "question": "A fragile label indicates that a parcel ___.",
       "options": [
-        "go",
-        "goes",
-        "going",
-        "gone"
+        "must be stored outdoors",
+        "contains no goods",
+        "should not be checked",
+        "needs careful handling"
+      ],
+      "answer": 3,
+      "explanation": "needs careful handling is the correct choice based on the meaning and context of the question."
+    },
+    {
+      "id": "q10836",
+      "category": "Logistics",
+      "question": "Proof of delivery confirms ___.",
+      "options": [
+        "that an invoice was paid",
+        "that the shipment was received",
+        "that goods were manufactured",
+        "that an order was cancelled"
       ],
       "answer": 1,
-      "explanation": "With he, she or it in the present simple, add -s or -es to most verbs."
+      "explanation": "that the shipment was received is the correct choice based on the meaning and context of the question."
     },
     {
-      "id": "q018",
-      "category": "Tenses",
-      "question": "I ___ him last week.",
+      "id": "q10837",
+      "category": "Logistics",
+      "question": "A route plan helps a driver ___.",
       "options": [
-        "see",
-        "have seen",
-        "saw",
-        "seeing"
+        "change parcel contents",
+        "avoid traffic rules",
+        "skip address checks",
+        "organise the order of delivery stops"
       ],
-      "answer": 2,
-      "explanation": "Use the past simple with a finished past time such as last week."
+      "answer": 3,
+      "explanation": "organise the order of delivery stops is the correct choice based on the meaning and context of the question."
     },
     {
-      "id": "q035",
-      "category": "Articles",
-      "question": "Mount Everest is ___ highest mountain in the world.",
+      "id": "q10838",
+      "category": "Logistics",
+      "question": "A damaged package found before dispatch should be ___.",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 2,
-      "explanation": "Use the with superlative adjectives."
-    },
-    {
-      "id": "q052",
-      "category": "Conversation",
-      "question": "You did not hear someone. You say:",
-      "options": [
-        "Speak now!",
-        "Could you repeat that, please?",
-        "What your problem?",
-        "I don't hear you yesterday."
+        "sent without comment",
+        "reported and handled according to procedure",
+        "covered with another label only",
+        "left in a public place"
       ],
       "answer": 1,
-      "explanation": "Could you repeat that, please? is a polite request."
+      "explanation": "reported and handled according to procedure is the correct choice based on the meaning and context of the question."
+    },
+    {
+      "id": "q10839",
+      "category": "Logistics",
+      "question": "A delivery manifest usually lists ___.",
+      "options": [
+        "employee birthdays",
+        "office passwords",
+        "meeting opinions",
+        "items or consignments being transported"
+      ],
+      "answer": 3,
+      "explanation": "items or consignments being transported is the correct choice based on the meaning and context of the question."
+    },
+    {
+      "id": "q10840",
+      "category": "Logistics",
+      "question": "Accurate address information helps reduce ___.",
+      "options": [
+        "paperwork accuracy",
+        "failed or misdirected deliveries",
+        "tracking",
+        "all traffic"
+      ],
+      "answer": 1,
+      "explanation": "failed or misdirected deliveries is the correct choice based on the meaning and context of the question."
     }
   ]
 }
