@@ -3,139 +3,139 @@
   "slug": "quiz-0881",
   "title": "English Practice Quiz 0881",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q028",
-      "category": "Vocabulary",
-      "question": "A place where medicines are dispensed is a ___.",
+      "id": "q11101",
+      "category": "Incident Reporting",
+      "question": "A report that records events in the order they occurred is a ___ report.",
       "options": [
-        "bakery",
-        "pharmacy",
-        "library",
-        "garage"
-      ],
-      "answer": 1,
-      "explanation": "A pharmacy is a place where medicines are prepared or supplied."
-    },
-    {
-      "id": "q037",
-      "category": "Prepositions",
-      "question": "My birthday is ___ July.",
-      "options": [
-        "at",
-        "in",
-        "on",
-        "from"
-      ],
-      "answer": 1,
-      "explanation": "Use in with months."
-    },
-    {
-      "id": "q046",
-      "category": "Sentence Building",
-      "question": "Choose the correct word order.",
-      "options": [
-        "Always I am late.",
-        "I am always late.",
-        "I late am always.",
-        "Am always I late."
-      ],
-      "answer": 1,
-      "explanation": "Frequency adverbs such as always usually come after the verb be."
-    },
-    {
-      "id": "q055",
-      "category": "Conversation",
-      "question": "A colleague asks for help. A polite reply is:",
-      "options": [
-        "Certainly. What do you need?",
-        "Never ask me.",
-        "You do yourself.",
-        "No speaking."
+        "chronological",
+        "imaginary",
+        "casual",
+        "decorative"
       ],
       "answer": 0,
-      "explanation": "Certainly. What do you need? is helpful and polite."
+      "explanation": "Chronological means arranged by time."
     },
     {
-      "id": "q064",
-      "category": "Reading",
-      "question": "Read: 'The meeting was cancelled because the manager was ill.' Why was it cancelled?",
+      "id": "q11102",
+      "category": "Incident Reporting",
+      "question": "Which sentence is most suitable for an incident log?",
       "options": [
-        "The room was full",
-        "The manager was ill",
-        "It was Sunday",
-        "The staff were late"
+        "A terrible thing happened.",
+        "At 14:20, the visitor slipped near the entrance.",
+        "Someone was careless.",
+        "It was a very bad day."
       ],
       "answer": 1,
-      "explanation": "The reason is explicitly stated: the manager was ill."
+      "explanation": "An incident log should state observable facts and the time."
     },
     {
-      "id": "q073",
-      "category": "Questions",
-      "question": "Choose the correct question.",
+      "id": "q11103",
+      "category": "Incident Reporting",
+      "question": "The phrase 'no injuries were reported' means:",
       "options": [
-        "Does she work here?",
-        "Do she work here?",
-        "Is she works here?",
-        "Does she works here?"
-      ],
-      "answer": 0,
-      "explanation": "Use does + subject + base verb with he, she or it."
-    },
-    {
-      "id": "q082",
-      "category": "Confusing Words",
-      "question": "The weather can ___ your travel plans.",
-      "options": [
-        "affect",
-        "effect",
-        "infect",
-        "effort"
-      ],
-      "answer": 0,
-      "explanation": "Affect is usually a verb meaning to influence."
-    },
-    {
-      "id": "q091",
-      "category": "Passive Voice",
-      "question": "Choose the passive form: 'They clean the room.'",
-      "options": [
-        "The room cleaned them.",
-        "The room is cleaned by them.",
-        "The room is cleaning.",
-        "The room has clean."
+        "Everyone was injured.",
+        "No one reported being hurt.",
+        "The report was lost.",
+        "Treatment was refused."
       ],
       "answer": 1,
-      "explanation": "Present simple passive: am/is/are + past participle."
+      "explanation": "The sentence states that nobody reported an injury."
     },
     {
-      "id": "q100",
-      "category": "Reported Speech",
-      "question": "They said, 'We have finished.'",
+      "id": "q11104",
+      "category": "Incident Reporting",
+      "question": "Choose the most neutral wording.",
       "options": [
-        "They said they had finished.",
-        "They said they have finish.",
-        "They told finished.",
-        "They said we finished have."
+        "The driver behaved foolishly.",
+        "The driver entered without authorisation.",
+        "The driver was obviously guilty.",
+        "The driver caused trouble on purpose."
       ],
-      "answer": 0,
-      "explanation": "Present perfect commonly shifts to past perfect in reported speech."
+      "answer": 1,
+      "explanation": "Neutral reporting avoids assumptions about intention."
     },
     {
-      "id": "q109",
-      "category": "Adverbs",
-      "question": "She arrived ___.",
+      "id": "q11105",
+      "category": "Incident Reporting",
+      "question": "A witness statement should contain:",
       "options": [
-        "late",
-        "lately",
-        "latest",
-        "laterly"
+        "Personal rumours",
+        "Direct observations",
+        "Unverified conclusions",
+        "Unrelated opinions"
+      ],
+      "answer": 1,
+      "explanation": "Witness statements should record what the witness directly observed."
+    },
+    {
+      "id": "q11106",
+      "category": "Incident Reporting",
+      "question": "The supervisor asked me to ___ the details before submitting the report.",
+      "options": [
+        "verify",
+        "assume",
+        "ignore",
+        "invent"
       ],
       "answer": 0,
-      "explanation": "Late is the correct adverb meaning not on time."
+      "explanation": "Verify means check that information is accurate."
+    },
+    {
+      "id": "q11107",
+      "category": "Incident Reporting",
+      "question": "Which detail is most useful in a security incident report?",
+      "options": [
+        "The guard's favourite team",
+        "Exact location and time",
+        "A guess about motive",
+        "An unrelated conversation"
+      ],
+      "answer": 1,
+      "explanation": "Location and time help establish the incident record."
+    },
+    {
+      "id": "q11108",
+      "category": "Incident Reporting",
+      "question": "'The area was cordoned off' means it was:",
+      "options": [
+        "decorated",
+        "restricted with a barrier",
+        "cleaned completely",
+        "opened to visitors"
+      ],
+      "answer": 1,
+      "explanation": "Cordoned off means closed off to prevent access."
+    },
+    {
+      "id": "q11109",
+      "category": "Incident Reporting",
+      "question": "Choose the correct passive sentence.",
+      "options": [
+        "The alarm activated the guard.",
+        "The guard was informed by the control room.",
+        "The control room informing guard.",
+        "The guard has inform."
+      ],
+      "answer": 1,
+      "explanation": "Was informed is the past simple passive form."
+    },
+    {
+      "id": "q11110",
+      "category": "Incident Reporting",
+      "question": "A report marked 'confidential' should be:",
+      "options": [
+        "shared publicly",
+        "handled only by authorised people",
+        "posted on social media",
+        "left at reception"
+      ],
+      "answer": 1,
+      "explanation": "Confidential information is restricted to authorised recipients."
     }
   ]
 }
