@@ -3,139 +3,139 @@
   "slug": "quiz-0820",
   "title": "English Practice Quiz 0820",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
-  "level": "Intermediate",
+  "category": "Practical English",
+  "level": "Advanced",
   "question_count": 10,
   "questions": [
     {
-      "id": "q026",
-      "category": "Vocabulary",
-      "question": "What does 'borrow' mean?",
+      "id": "q11891",
+      "category": "Business and Financial Basics",
+      "question": "Business and Financial Basics 01: Cash flow describes:",
       "options": [
-        "give something forever",
-        "take something temporarily and return it",
-        "break something",
-        "buy something"
-      ],
-      "answer": 1,
-      "explanation": "Borrow means to take something for a period and return it."
-    },
-    {
-      "id": "q033",
-      "category": "Articles",
-      "question": "Please close ___ door.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 2,
-      "explanation": "The refers to a specific door known to the speaker and listener."
-    },
-    {
-      "id": "q040",
-      "category": "Prepositions",
-      "question": "The hospital is ___ the bank and the post office.",
-      "options": [
-        "among",
-        "between",
-        "inside",
-        "over"
-      ],
-      "answer": 1,
-      "explanation": "Between is used for a position separating two things."
-    },
-    {
-      "id": "q047",
-      "category": "Sentence Building",
-      "question": "Choose the correct question.",
-      "options": [
-        "Where you live?",
-        "Where do you live?",
-        "Where does you live?",
-        "Where are live you?"
-      ],
-      "answer": 1,
-      "explanation": "Use do + subject + base verb for present simple questions with you."
-    },
-    {
-      "id": "q054",
-      "category": "Conversation",
-      "question": "You need a moment to think. You say:",
-      "options": [
-        "Let me think for a moment.",
-        "I no idea ever.",
-        "Wait your mouth.",
-        "I am think."
+        "Money moving into and out of an organisation",
+        "Employees on leave",
+        "Furniture value only",
+        "Stock quantity"
       ],
       "answer": 0,
-      "explanation": "This phrase politely signals that you need a little time."
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q061",
-      "category": "Reading",
-      "question": "Read: 'Mina takes the bus at 8 a.m. and reaches work at 8:45.' How does Mina travel?",
+      "id": "q11892",
+      "category": "Business and Financial Basics",
+      "question": "Business and Financial Basics 02: A balance sheet reports:",
       "options": [
-        "By train",
-        "By bus",
-        "By car",
-        "On foot"
-      ],
-      "answer": 1,
-      "explanation": "The passage clearly says Mina takes the bus."
-    },
-    {
-      "id": "q068",
-      "category": "Workplace English",
-      "question": "You need to report a problem. You say:",
-      "options": [
-        "There is an issue with the printer.",
-        "Printer bad you.",
-        "I issue printer.",
-        "No printer yesterday."
+        "Assets, liabilities and equity at a point in time",
+        "Daily cash sales only",
+        "Weather conditions",
+        "Attendance by shift"
       ],
       "answer": 0,
-      "explanation": "There is an issue with... clearly introduces a problem."
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q075",
-      "category": "Questions",
-      "question": "Choose the correct question tag: 'You are ready, ___?'",
+      "id": "q11893",
+      "category": "Business and Financial Basics",
+      "question": "Business and Financial Basics 03: An operating expense is:",
       "options": [
-        "are you",
-        "aren't you",
-        "do you",
-        "don't you"
-      ],
-      "answer": 1,
-      "explanation": "A positive statement with are usually takes the negative tag aren't you."
-    },
-    {
-      "id": "q082",
-      "category": "Confusing Words",
-      "question": "The weather can ___ your travel plans.",
-      "options": [
-        "affect",
-        "effect",
-        "infect",
-        "effort"
+        "A cost incurred in day-to-day business operations",
+        "A shareholder's personal purchase",
+        "A refund request",
+        "A safety observation"
       ],
       "answer": 0,
-      "explanation": "Affect is usually a verb meaning to influence."
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q089",
-      "category": "Conditionals",
-      "question": "If she studies, she ___ the test.",
+      "id": "q11894",
+      "category": "Business and Financial Basics",
+      "question": "Business and Financial Basics 04: Gross profit is calculated as:",
       "options": [
-        "passes",
-        "passed",
-        "will pass",
-        "would passed"
+        "Revenue minus cost of goods sold",
+        "Assets minus liabilities",
+        "Cash minus salaries only",
+        "Revenue plus tax payable"
       ],
-      "answer": 2,
-      "explanation": "Use will + base verb in the main clause of the first conditional."
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11895",
+      "category": "Business and Financial Basics",
+      "question": "Business and Financial Basics 05: A financial forecast is:",
+      "options": [
+        "An estimate of future results based on assumptions",
+        "A historical receipt",
+        "An employee address list",
+        "A delivery note"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11896",
+      "category": "Business and Financial Basics",
+      "question": "Business and Financial Basics 06: A credit note is commonly issued to:",
+      "options": [
+        "Reduce or adjust an amount previously invoiced",
+        "Request an employee",
+        "Record a fire drill",
+        "Confirm a staff transfer"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11897",
+      "category": "Business and Financial Basics",
+      "question": "Business and Financial Basics 07: An asset is:",
+      "options": [
+        "A resource controlled by an organisation with economic value",
+        "A bill to be paid",
+        "A staff complaint",
+        "An unapproved quotation"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11898",
+      "category": "Business and Financial Basics",
+      "question": "Business and Financial Basics 08: A liability is:",
+      "options": [
+        "An obligation the organisation is required to settle",
+        "A resource owned by the organisation",
+        "A sales target",
+        "A training objective"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11899",
+      "category": "Business and Financial Basics",
+      "question": "Business and Financial Basics 09: A break-even point occurs when:",
+      "options": [
+        "Total revenue equals total costs",
+        "Revenue is always zero",
+        "Cash exceeds every budget",
+        "All invoices are overdue"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11900",
+      "category": "Business and Financial Basics",
+      "question": "Business and Financial Basics 10: Variance analysis is used to:",
+      "options": [
+        "Understand differences between planned and actual results",
+        "Change bank passwords",
+        "Approve visitor access",
+        "Replace a supplier contract"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     }
   ]
 }
