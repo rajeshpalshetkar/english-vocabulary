@@ -3,139 +3,139 @@
   "slug": "quiz-0959",
   "title": "English Practice Quiz 0959",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q089",
-      "category": "Conditionals",
-      "question": "If she studies, she ___ the test.",
+      "id": "q10481",
+      "category": "Advanced Grammar",
+      "question": "Which sentence uses correct subject-verb agreement with 'neither'?",
       "options": [
-        "passes",
-        "passed",
-        "will pass",
-        "would passed"
-      ],
-      "answer": 2,
-      "explanation": "Use will + base verb in the main clause of the first conditional."
-    },
-    {
-      "id": "q011",
-      "category": "Tenses",
-      "question": "Listen! The baby ___.",
-      "options": [
-        "cries",
-        "is crying",
-        "cry",
-        "cried"
-      ],
-      "answer": 1,
-      "explanation": "Listen! suggests an action happening now, so use the present continuous."
-    },
-    {
-      "id": "q048",
-      "category": "Sentence Building",
-      "question": "Choose the correct sentence.",
-      "options": [
-        "Because I was tired, I went to bed early.",
-        "Because I tired, went bed early.",
-        "I because was tired bed early.",
-        "Because tired I went early bed."
+        "Neither of the answers is correct.",
+        "Neither of the answers are correct.",
+        "Neither answers is correct.",
+        "Neither of answer are correct."
       ],
       "answer": 0,
-      "explanation": "The subordinate clause beginning with because explains the reason."
+      "explanation": "Neither is singular in standard formal usage in this construction."
     },
     {
-      "id": "q085",
-      "category": "Confusing Words",
-      "question": "The bus is ___ than the car today.",
+      "id": "q10482",
+      "category": "Advanced Grammar",
+      "question": "Choose the correct inversion: 'Rarely ___ such a beautiful view.'",
       "options": [
-        "fast",
-        "faster",
-        "fastest",
-        "more fast"
-      ],
-      "answer": 1,
-      "explanation": "Use the comparative form faster when comparing two things."
-    },
-    {
-      "id": "q007",
-      "category": "Grammar",
-      "question": "The keys are ___ the table.",
-      "options": [
-        "in",
-        "at",
-        "on",
-        "by"
-      ],
-      "answer": 2,
-      "explanation": "On describes something resting on a surface."
-    },
-    {
-      "id": "q044",
-      "category": "Modals",
-      "question": "You look tired. You ___ get some rest.",
-      "options": [
-        "should",
-        "mustn't",
-        "can't",
-        "wouldn't"
+        "have I seen",
+        "I have seen",
+        "I saw have",
+        "seen I have"
       ],
       "answer": 0,
-      "explanation": "Should gives advice."
+      "explanation": "Negative adverbials such as rarely trigger subject-auxiliary inversion at the beginning."
     },
     {
-      "id": "q081",
-      "category": "Confusing Words",
-      "question": "Choose the correct word: ___ going to arrive soon.",
+      "id": "q10483",
+      "category": "Advanced Grammar",
+      "question": "Choose the correct form: 'If he had left earlier, he ___ the train.'",
       "options": [
-        "Their",
-        "There",
-        "They're",
-        "Theirs"
+        "would have caught",
+        "will catch",
+        "would catch",
+        "had caught"
       ],
-      "answer": 2,
-      "explanation": "They're is the contraction of they are."
+      "answer": 0,
+      "explanation": "This is a third conditional describing an unreal past situation."
     },
     {
-      "id": "q003",
-      "category": "Grammar",
-      "question": "I ___ a new notebook yesterday.",
+      "id": "q10484",
+      "category": "Advanced Grammar",
+      "question": "Choose the correct reported speech: She said, 'I have finished.'",
       "options": [
-        "buy",
-        "buys",
-        "bought",
-        "buying"
+        "She said that she had finished.",
+        "She said that I have finished.",
+        "She says that she finished yesterday.",
+        "She said she has finish."
       ],
-      "answer": 2,
-      "explanation": "Yesterday signals the past simple. The past form of buy is bought."
+      "answer": 0,
+      "explanation": "In standard backshifted reported speech, present perfect becomes past perfect."
     },
     {
-      "id": "q040",
-      "category": "Prepositions",
-      "question": "The hospital is ___ the bank and the post office.",
+      "id": "q10485",
+      "category": "Advanced Grammar",
+      "question": "Which sentence correctly uses the uncountable noun 'information'?",
       "options": [
-        "among",
-        "between",
-        "inside",
-        "over"
+        "The information is useful.",
+        "The informations are useful.",
+        "An information is useful.",
+        "The information are useful."
       ],
-      "answer": 1,
-      "explanation": "Between is used for a position separating two things."
+      "answer": 0,
+      "explanation": "Information is an uncountable noun and takes a singular verb."
     },
     {
-      "id": "q077",
-      "category": "Punctuation",
-      "question": "Which sentence uses the apostrophe correctly?",
+      "id": "q10486",
+      "category": "Advanced Grammar",
+      "question": "Choose the correct relative pronoun: 'The person to ___ I spoke was helpful.'",
       "options": [
-        "The guards uniform is blue.",
-        "The guard's uniform is blue.",
-        "The guards' uniform is blue. (one guard)",
-        "The guard uniform's is blue."
+        "whom",
+        "which",
+        "whose",
+        "where"
       ],
-      "answer": 1,
-      "explanation": "Guard's shows possession by one guard."
+      "answer": 0,
+      "explanation": "Whom is used as the object of the preposition 'to' in formal English."
+    },
+    {
+      "id": "q10487",
+      "category": "Advanced Grammar",
+      "question": "Choose the correct phrase.",
+      "options": [
+        "Despite the rain, the event continued.",
+        "Despite of the rain, the event continued.",
+        "Although the rain, the event continued.",
+        "In spite the rain, the event continued."
+      ],
+      "answer": 0,
+      "explanation": "Despite is followed directly by a noun phrase, without 'of'."
+    },
+    {
+      "id": "q10488",
+      "category": "Advanced Grammar",
+      "question": "Which sentence has correct subject-verb agreement?",
+      "options": [
+        "The quality of the products is excellent.",
+        "The quality of the products are excellent.",
+        "The products quality are excellent.",
+        "The quality of products have excellent."
+      ],
+      "answer": 0,
+      "explanation": "The subject is 'quality', which is singular."
+    },
+    {
+      "id": "q10489",
+      "category": "Advanced Grammar",
+      "question": "Choose the correct sentence to express a present wish.",
+      "options": [
+        "I wish I knew the answer.",
+        "I wish I know the answer yesterday.",
+        "I wish I had know the answer.",
+        "I wish I knowing the answer."
+      ],
+      "answer": 0,
+      "explanation": "Wish + past simple expresses a present situation that is different from reality."
+    },
+    {
+      "id": "q10490",
+      "category": "Advanced Grammar",
+      "question": "Choose the sentence with correct parallel structure.",
+      "options": [
+        "She enjoys reading, writing and cycling.",
+        "She enjoys reading, to write and cycling.",
+        "She enjoys to read, writing and cycle.",
+        "She enjoys read, write and cycling."
+      ],
+      "answer": 0,
+      "explanation": "Parallel items in a series should use matching grammatical forms."
     }
   ]
 }
