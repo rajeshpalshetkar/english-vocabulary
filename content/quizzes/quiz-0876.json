@@ -3,139 +3,139 @@
   "slug": "quiz-0876",
   "title": "English Practice Quiz 0876",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q058",
-      "category": "Pronunciation",
-      "question": "Which word has the /ʃ/ sound as in 'ship'?",
+      "id": "q11251",
+      "category": "Time and Scheduling",
+      "question": "A task scheduled 'biweekly' may mean:",
       "options": [
-        "sip",
-        "shop",
-        "zip",
-        "tip"
+        "twice a week or every two weeks, depending on context",
+        "every day",
+        "once a year",
+        "only on weekends"
+      ],
+      "answer": 0,
+      "explanation": "Biweekly is ambiguous and can mean either twice weekly or every two weeks."
+    },
+    {
+      "id": "q11252",
+      "category": "Time and Scheduling",
+      "question": "If a shift starts at 7:30 a.m. and lasts 8 hours, it ends at:",
+      "options": [
+        "2:30 p.m.",
+        "3:30 p.m.",
+        "4:30 p.m.",
+        "5:30 p.m."
       ],
       "answer": 1,
-      "explanation": "Shop begins with the /ʃ/ sound."
+      "explanation": "Adding eight hours to 7:30 a.m. gives 3:30 p.m."
     },
     {
-      "id": "q081",
-      "category": "Confusing Words",
-      "question": "Choose the correct word: ___ going to arrive soon.",
+      "id": "q11253",
+      "category": "Time and Scheduling",
+      "question": "A 'buffer period' in a schedule is:",
       "options": [
-        "Their",
-        "There",
-        "They're",
-        "Theirs"
+        "extra time allowed for unexpected delays",
+        "a mandatory lunch",
+        "a staff uniform",
+        "a cancelled appointment"
       ],
-      "answer": 2,
-      "explanation": "They're is the contraction of they are."
+      "answer": 0,
+      "explanation": "A buffer provides spare time to absorb delays."
     },
     {
-      "id": "q104",
-      "category": "Determiners",
-      "question": "There is ___ water in the bottle.",
+      "id": "q11254",
+      "category": "Time and Scheduling",
+      "question": "A task marked 'overdue' is:",
       "options": [
-        "a few",
-        "many",
-        "a little",
-        "several"
+        "past its deadline",
+        "finished early",
+        "not yet assigned",
+        "optional"
       ],
-      "answer": 2,
-      "explanation": "A little is used with uncountable nouns."
+      "answer": 0,
+      "explanation": "Overdue means the due time has passed."
     },
     {
-      "id": "q012",
-      "category": "Tenses",
-      "question": "We ___ here since 2022.",
+      "id": "q11255",
+      "category": "Time and Scheduling",
+      "question": "To 'reschedule' an appointment is to:",
       "options": [
-        "live",
-        "lived",
-        "have lived",
-        "are live"
+        "arrange it for a different time",
+        "cancel it without notice",
+        "attend it early",
+        "forget its location"
       ],
-      "answer": 2,
-      "explanation": "Since gives a starting point; the present perfect connects the past to now."
+      "answer": 0,
+      "explanation": "Reschedule means set a new date or time."
     },
     {
-      "id": "q035",
-      "category": "Articles",
-      "question": "Mount Everest is ___ highest mountain in the world.",
+      "id": "q11256",
+      "category": "Time and Scheduling",
+      "question": "Which task should generally receive priority?",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 2,
-      "explanation": "Use the with superlative adjectives."
-    },
-    {
-      "id": "q058",
-      "category": "Pronunciation",
-      "question": "Which word has the /ʃ/ sound as in 'ship'?",
-      "options": [
-        "sip",
-        "shop",
-        "zip",
-        "tip"
+        "A low-impact task due next month",
+        "An urgent safety issue requiring immediate action",
+        "A decorative change",
+        "An optional reading list"
       ],
       "answer": 1,
-      "explanation": "Shop begins with the /ʃ/ sound."
+      "explanation": "Immediate safety concerns require prompt attention."
     },
     {
-      "id": "q081",
-      "category": "Confusing Words",
-      "question": "Choose the correct word: ___ going to arrive soon.",
+      "id": "q11257",
+      "category": "Time and Scheduling",
+      "question": "A recurring meeting takes place:",
       "options": [
-        "Their",
-        "There",
-        "They're",
-        "Theirs"
+        "repeatedly at set intervals",
+        "only once",
+        "without participants",
+        "after it is cancelled"
       ],
-      "answer": 2,
-      "explanation": "They're is the contraction of they are."
+      "answer": 0,
+      "explanation": "Recurring means happening repeatedly."
     },
     {
-      "id": "q104",
-      "category": "Determiners",
-      "question": "There is ___ water in the bottle.",
+      "id": "q11258",
+      "category": "Time and Scheduling",
+      "question": "If a deadline is extended, it has been:",
       "options": [
-        "a few",
-        "many",
-        "a little",
-        "several"
+        "moved to a later time",
+        "brought forward",
+        "removed from the record",
+        "completed"
       ],
-      "answer": 2,
-      "explanation": "A little is used with uncountable nouns."
+      "answer": 0,
+      "explanation": "Extended means given more time."
     },
     {
-      "id": "q012",
-      "category": "Tenses",
-      "question": "We ___ here since 2022.",
+      "id": "q11259",
+      "category": "Time and Scheduling",
+      "question": "'At your earliest convenience' means:",
       "options": [
-        "live",
-        "lived",
-        "have lived",
-        "are live"
+        "when you can reasonably do it soon",
+        "only next year",
+        "at midnight",
+        "after everyone else"
       ],
-      "answer": 2,
-      "explanation": "Since gives a starting point; the present perfect connects the past to now."
+      "answer": 0,
+      "explanation": "The phrase politely asks for action when reasonably possible."
     },
     {
-      "id": "q035",
-      "category": "Articles",
-      "question": "Mount Everest is ___ highest mountain in the world.",
+      "id": "q11260",
+      "category": "Time and Scheduling",
+      "question": "A contingency plan is prepared for:",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
+        "possible unexpected events",
+        "routine greetings",
+        "a staff birthday only",
+        "decorating a noticeboard"
       ],
-      "answer": 2,
-      "explanation": "Use the with superlative adjectives."
+      "answer": 0,
+      "explanation": "A contingency plan outlines responses to potential problems."
     }
   ]
 }
