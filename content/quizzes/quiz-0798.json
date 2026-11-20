@@ -3,139 +3,139 @@
   "slug": "quiz-0798",
   "title": "English Practice Quiz 0798",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Conversation",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q112",
-      "category": "Gerunds",
-      "question": "He decided ___ early.",
+      "id": "q12071",
+      "category": "Business Reporting",
+      "question": "Business Reporting 01: An executive summary presents?",
       "options": [
-        "leave",
-        "leaving",
-        "to leave",
-        "leaves"
-      ],
-      "answer": 2,
-      "explanation": "Decide is commonly followed by a to-infinitive."
-    },
-    {
-      "id": "q028",
-      "category": "Vocabulary",
-      "question": "A place where medicines are dispensed is a ___.",
-      "options": [
-        "bakery",
-        "pharmacy",
-        "library",
-        "garage"
+        "share the information publicly",
+        "the main issue, findings and recommended action",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
       ],
       "answer": 1,
-      "explanation": "A pharmacy is a place where medicines are prepared or supplied."
+      "explanation": "Option B is correct: the main issue, findings and recommended action."
     },
     {
-      "id": "q059",
-      "category": "Pronunciation",
-      "question": "Which word rhymes with 'light'?",
+      "id": "q12072",
+      "category": "Business Reporting",
+      "question": "Business Reporting 02: A report heading should be?",
       "options": [
-        "late",
-        "lit",
-        "night",
-        "let"
-      ],
-      "answer": 2,
-      "explanation": "Light and night share the same ending sound."
-    },
-    {
-      "id": "q090",
-      "category": "Conditionals",
-      "question": "If I were you, I ___ apologise.",
-      "options": [
-        "will",
-        "would",
-        "am",
-        "did"
-      ],
-      "answer": 1,
-      "explanation": "If I were you is followed by would for advice."
-    },
-    {
-      "id": "q006",
-      "category": "Grammar",
-      "question": "He is ___ honest man.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "Use an before a vowel sound. Honest begins with a silent h."
-    },
-    {
-      "id": "q037",
-      "category": "Prepositions",
-      "question": "My birthday is ___ July.",
-      "options": [
-        "at",
-        "in",
-        "on",
-        "from"
-      ],
-      "answer": 1,
-      "explanation": "Use in with months."
-    },
-    {
-      "id": "q068",
-      "category": "Workplace English",
-      "question": "You need to report a problem. You say:",
-      "options": [
-        "There is an issue with the printer.",
-        "Printer bad you.",
-        "I issue printer.",
-        "No printer yesterday."
+        "specific and informative",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
       ],
       "answer": 0,
-      "explanation": "There is an issue with... clearly introduces a problem."
+      "explanation": "Option A is correct: specific and informative."
     },
     {
-      "id": "q099",
-      "category": "Reported Speech",
-      "question": "She said, 'Please sit down.'",
+      "id": "q12073",
+      "category": "Business Reporting",
+      "question": "Business Reporting 03: A recommendation should be supported by?",
       "options": [
-        "She told me sit down.",
-        "She asked me to sit down.",
-        "She said me to sit.",
-        "She asked that I sat."
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "relevant evidence and reasoning"
       ],
-      "answer": 1,
-      "explanation": "A request can be reported with asked + object + to-infinitive."
+      "answer": 3,
+      "explanation": "Option D is correct: relevant evidence and reasoning."
     },
     {
-      "id": "q015",
-      "category": "Tenses",
-      "question": "She ___ the report before the manager arrived.",
+      "id": "q12074",
+      "category": "Business Reporting",
+      "question": "Business Reporting 04: An objective inspection statement is?",
       "options": [
-        "finished",
-        "has finished",
-        "had finished",
-        "finishes"
+        "make an unsupported assumption",
+        "share the information publicly",
+        "The inspection identified three blocked exits.",
+        "ignore the issue and continue"
       ],
       "answer": 2,
-      "explanation": "Use the past perfect for an action completed before another past action."
+      "explanation": "Option C is correct: The inspection identified three blocked exits.."
     },
     {
-      "id": "q046",
-      "category": "Sentence Building",
-      "question": "Choose the correct word order.",
+      "id": "q12075",
+      "category": "Business Reporting",
+      "question": "Business Reporting 05: Meeting minutes should record?",
       "options": [
-        "Always I am late.",
-        "I am always late.",
-        "I late am always.",
-        "Am always I late."
+        "share the information publicly",
+        "decisions, actions, owners and due dates",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
       ],
       "answer": 1,
-      "explanation": "Frequency adverbs such as always usually come after the verb be."
+      "explanation": "Option B is correct: decisions, actions, owners and due dates."
+    },
+    {
+      "id": "q12076",
+      "category": "Business Reporting",
+      "question": "Business Reporting 06: A formal notice should clearly state?",
+      "options": [
+        "what is changing, when and who is affected",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: what is changing, when and who is affected."
+    },
+    {
+      "id": "q12077",
+      "category": "Business Reporting",
+      "question": "Business Reporting 07: A data table should include?",
+      "options": [
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "clear headings and relevant units"
+      ],
+      "answer": 3,
+      "explanation": "Option D is correct: clear headings and relevant units."
+    },
+    {
+      "id": "q12078",
+      "category": "Business Reporting",
+      "question": "Business Reporting 08: A phrase that introduces a reason is?",
+      "options": [
+        "make an unsupported assumption",
+        "share the information publicly",
+        "Due to the equipment failure",
+        "ignore the issue and continue"
+      ],
+      "answer": 2,
+      "explanation": "Option C is correct: Due to the equipment failure."
+    },
+    {
+      "id": "q12079",
+      "category": "Business Reporting",
+      "question": "Business Reporting 09: A corrective action report identifies?",
+      "options": [
+        "share the information publicly",
+        "the issue, cause, action owner and follow-up",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
+      ],
+      "answer": 1,
+      "explanation": "Option B is correct: the issue, cause, action owner and follow-up."
+    },
+    {
+      "id": "q12080",
+      "category": "Business Reporting",
+      "question": "Business Reporting 10: Before submitting a report, check?",
+      "options": [
+        "facts, calculations and references",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: facts, calculations and references."
     }
   ]
 }
