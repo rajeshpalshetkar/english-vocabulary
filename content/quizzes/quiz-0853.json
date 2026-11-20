@@ -3,139 +3,139 @@
   "slug": "quiz-0853",
   "title": "English Practice Quiz 0853",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q012",
-      "category": "Tenses",
-      "question": "We ___ here since 2022.",
+      "id": "q11421",
+      "category": "Telephone Skills",
+      "question": "Telephone Skills: How should you answer a business call?",
       "options": [
-        "live",
-        "lived",
-        "have lived",
-        "are live"
-      ],
-      "answer": 2,
-      "explanation": "Since gives a starting point; the present perfect connects the past to now."
-    },
-    {
-      "id": "q025",
-      "category": "Vocabulary",
-      "question": "A person you can trust is ___.",
-      "options": [
-        "reliable",
-        "careless",
-        "silent",
-        "narrow"
+        "Give the organisation's name and a greeting",
+        "Say nothing",
+        "Ask for a password",
+        "Put caller on hold without explanation"
       ],
       "answer": 0,
-      "explanation": "Reliable means dependable or trustworthy."
+      "explanation": "A clear greeting identifies the organisation."
     },
     {
-      "id": "q038",
-      "category": "Prepositions",
-      "question": "We have a meeting ___ Monday.",
+      "id": "q11422",
+      "category": "Telephone Skills",
+      "question": "Telephone Skills: What should happen before transferring a call?",
       "options": [
-        "in",
-        "at",
-        "on",
-        "by"
+        "Explain the transfer and identify the destination",
+        "Disconnect without warning",
+        "Share another caller's details",
+        "Put phone aside"
       ],
-      "answer": 2,
-      "explanation": "Use on with days and dates."
+      "answer": 0,
+      "explanation": "Explaining the transfer avoids confusion."
     },
     {
-      "id": "q051",
-      "category": "Conversation",
-      "question": "Someone says, 'Thank you for your help.' You reply:",
+      "id": "q11423",
+      "category": "Telephone Skills",
+      "question": "Telephone Skills: How should you place a caller on hold?",
       "options": [
-        "Never mind you.",
-        "You're welcome.",
-        "I am welcome you.",
-        "No thank."
+        "Ask permission and explain briefly",
+        "Do it without warning",
+        "Leave indefinitely",
+        "End the call"
       ],
-      "answer": 1,
-      "explanation": "You're welcome is a natural response to thank you."
+      "answer": 0,
+      "explanation": "Asking permission is courteous."
     },
     {
-      "id": "q064",
-      "category": "Reading",
-      "question": "Read: 'The meeting was cancelled because the manager was ill.' Why was it cancelled?",
+      "id": "q11424",
+      "category": "Telephone Skills",
+      "question": "Telephone Skills: A caller gives a long reference number. What should you do?",
       "options": [
-        "The room was full",
-        "The manager was ill",
-        "It was Sunday",
-        "The staff were late"
+        "Repeat it back to confirm accuracy",
+        "Guess missing digits",
+        "Ignore the number",
+        "Post it publicly"
       ],
-      "answer": 1,
-      "explanation": "The reason is explicitly stated: the manager was ill."
+      "answer": 0,
+      "explanation": "Repeating helps prevent recording errors."
     },
     {
-      "id": "q077",
-      "category": "Punctuation",
-      "question": "Which sentence uses the apostrophe correctly?",
+      "id": "q11425",
+      "category": "Telephone Skills",
+      "question": "Telephone Skills: Which phrase is appropriate after a disconnected call?",
       "options": [
-        "The guards uniform is blue.",
-        "The guard's uniform is blue.",
-        "The guards' uniform is blue. (one guard)",
-        "The guard uniform's is blue."
+        "I am returning your call after we were disconnected.",
+        "You cut me off.",
+        "Why did you disappear?",
+        "Call someone else."
       ],
-      "answer": 1,
-      "explanation": "Guard's shows possession by one guard."
+      "answer": 0,
+      "explanation": "The phrase is neutral and professional."
     },
     {
-      "id": "q090",
-      "category": "Conditionals",
-      "question": "If I were you, I ___ apologise.",
+      "id": "q11426",
+      "category": "Telephone Skills",
+      "question": "Telephone Skills: What should a message for an unavailable colleague include?",
       "options": [
-        "will",
-        "would",
-        "am",
-        "did"
+        "Caller name, contact details, time and reason",
+        "Personal opinion",
+        "Rumours",
+        "Caller password"
       ],
-      "answer": 1,
-      "explanation": "If I were you is followed by would for advice."
+      "answer": 0,
+      "explanation": "These details help the colleague return the call."
     },
     {
-      "id": "q103",
-      "category": "Determiners",
-      "question": "I have ___ friends in this city.",
+      "id": "q11427",
+      "category": "Telephone Skills",
+      "question": "Telephone Skills: What should you say when the line is unclear?",
       "options": [
-        "a little",
-        "a few",
-        "much",
-        "anyone"
+        "Could you please repeat that? The line is unclear.",
+        "Speak properly.",
+        "I will invent the rest.",
+        "Stop calling."
       ],
-      "answer": 1,
-      "explanation": "A few is used with countable plural nouns."
+      "answer": 0,
+      "explanation": "This politely requests clarification."
     },
     {
-      "id": "q001",
-      "category": "Grammar",
-      "question": "She ___ to work every day.",
+      "id": "q11428",
+      "category": "Telephone Skills",
+      "question": "Telephone Skills: How should an angry caller be handled?",
       "options": [
-        "go",
-        "goes",
-        "going",
-        "gone"
+        "Listen calmly and clarify the concern",
+        "Argue louder",
+        "Interrupt repeatedly",
+        "Make threats"
       ],
-      "answer": 1,
-      "explanation": "With he, she or it in the present simple, add -s or -es to most verbs."
+      "answer": 0,
+      "explanation": "Calm listening helps identify the issue."
     },
     {
-      "id": "q014",
-      "category": "Tenses",
-      "question": "I think it ___ tomorrow.",
+      "id": "q11429",
+      "category": "Telephone Skills",
+      "question": "Telephone Skills: What is a blind call transfer?",
       "options": [
-        "rains",
-        "rained",
-        "will rain",
-        "raining"
+        "A transfer without first speaking to the receiving person",
+        "A caller using a headset",
+        "A recorded call",
+        "A night-time call"
       ],
-      "answer": 2,
-      "explanation": "Will plus the base verb can express a future prediction."
+      "answer": 0,
+      "explanation": "A blind transfer occurs without consulting the recipient."
+    },
+    {
+      "id": "q11430",
+      "category": "Telephone Skills",
+      "question": "Telephone Skills: How should a service call end?",
+      "options": [
+        "Summarise the next step and close politely",
+        "Hang up mid-sentence",
+        "Promise an impossible result",
+        "Avoid confirmation"
+      ],
+      "answer": 0,
+      "explanation": "A clear closing confirms what happens next."
     }
   ]
 }
