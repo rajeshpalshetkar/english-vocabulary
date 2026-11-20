@@ -3,139 +3,139 @@
   "slug": "quiz-0946",
   "title": "English Practice Quiz 0946",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q098",
-      "category": "Reported Speech",
-      "question": "He asked, 'Where do you live?'",
+      "id": "q10551",
+      "category": "Quality Management",
+      "question": "Quality control is used to check whether a product or service ___.",
       "options": [
-        "He asked where I lived.",
-        "He asked where do I live.",
-        "He asked where did I lived.",
-        "He asked where I live do."
+        "meets specified requirements",
+        "has the most colourful packaging",
+        "costs more than every alternative",
+        "is advertised frequently"
       ],
       "answer": 0,
-      "explanation": "Reported questions use statement word order; do is removed."
+      "explanation": "Quality control checks conformity with requirements."
     },
     {
-      "id": "q006",
-      "category": "Grammar",
-      "question": "He is ___ honest man.",
+      "id": "q10552",
+      "category": "Quality Management",
+      "question": "A standard operating procedure is commonly abbreviated as ___.",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "Use an before a vowel sound. Honest begins with a silent h."
-    },
-    {
-      "id": "q029",
-      "category": "Vocabulary",
-      "question": "What is the meaning of 'available'?",
-      "options": [
-        "not possible to use",
-        "ready or able to be used",
-        "very expensive",
-        "already broken"
-      ],
-      "answer": 1,
-      "explanation": "Available means ready for use or accessible."
-    },
-    {
-      "id": "q052",
-      "category": "Conversation",
-      "question": "You did not hear someone. You say:",
-      "options": [
-        "Speak now!",
-        "Could you repeat that, please?",
-        "What your problem?",
-        "I don't hear you yesterday."
-      ],
-      "answer": 1,
-      "explanation": "Could you repeat that, please? is a polite request."
-    },
-    {
-      "id": "q075",
-      "category": "Questions",
-      "question": "Choose the correct question tag: 'You are ready, ___?'",
-      "options": [
-        "are you",
-        "aren't you",
-        "do you",
-        "don't you"
-      ],
-      "answer": 1,
-      "explanation": "A positive statement with are usually takes the negative tag aren't you."
-    },
-    {
-      "id": "q098",
-      "category": "Reported Speech",
-      "question": "He asked, 'Where do you live?'",
-      "options": [
-        "He asked where I lived.",
-        "He asked where do I live.",
-        "He asked where did I lived.",
-        "He asked where I live do."
+        "SOP",
+        "ATM",
+        "GPS",
+        "USB"
       ],
       "answer": 0,
-      "explanation": "Reported questions use statement word order; do is removed."
+      "explanation": "SOP stands for standard operating procedure."
     },
     {
-      "id": "q006",
-      "category": "Grammar",
-      "question": "He is ___ honest man.",
+      "id": "q10553",
+      "category": "Quality Management",
+      "question": "A checklist supports quality by helping staff ___.",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
+        "complete required checks consistently",
+        "skip difficult tasks",
+        "avoid recording results",
+        "change standards without approval"
       ],
-      "answer": 1,
-      "explanation": "Use an before a vowel sound. Honest begins with a silent h."
+      "answer": 0,
+      "explanation": "Checklists make required steps easier to follow consistently."
     },
     {
-      "id": "q029",
-      "category": "Vocabulary",
-      "question": "What is the meaning of 'available'?",
+      "id": "q10554",
+      "category": "Quality Management",
+      "question": "A non-conformance is a failure to meet a ___.",
       "options": [
-        "not possible to use",
-        "ready or able to be used",
-        "very expensive",
-        "already broken"
+        "specified requirement",
+        "personal preference",
+        "marketing slogan",
+        "holiday plan"
       ],
-      "answer": 1,
-      "explanation": "Available means ready for use or accessible."
+      "answer": 0,
+      "explanation": "Non-conformance means a requirement has not been fulfilled."
     },
     {
-      "id": "q052",
-      "category": "Conversation",
-      "question": "You did not hear someone. You say:",
+      "id": "q10555",
+      "category": "Quality Management",
+      "question": "An audit is a systematic examination of ___.",
       "options": [
-        "Speak now!",
-        "Could you repeat that, please?",
-        "What your problem?",
-        "I don't hear you yesterday."
+        "records, processes or activities",
+        "only the office decoration",
+        "staff hobbies",
+        "the weather forecast"
       ],
-      "answer": 1,
-      "explanation": "Could you repeat that, please? is a polite request."
+      "answer": 0,
+      "explanation": "Audits assess evidence against defined criteria."
     },
     {
-      "id": "q075",
-      "category": "Questions",
-      "question": "Choose the correct question tag: 'You are ready, ___?'",
+      "id": "q10556",
+      "category": "Quality Management",
+      "question": "Corrective action is intended to ___.",
       "options": [
-        "are you",
-        "aren't you",
-        "do you",
-        "don't you"
+        "address the cause of a detected problem",
+        "hide the problem",
+        "repeat the error",
+        "remove all performance measures"
       ],
-      "answer": 1,
-      "explanation": "A positive statement with are usually takes the negative tag aren't you."
+      "answer": 0,
+      "explanation": "Corrective action aims to prevent recurrence by addressing causes."
+    },
+    {
+      "id": "q10557",
+      "category": "Quality Management",
+      "question": "A quality objective should be ___.",
+      "options": [
+        "clear and measurable where possible",
+        "impossible to evaluate",
+        "unrelated to customer needs",
+        "kept unknown to staff"
+      ],
+      "answer": 0,
+      "explanation": "Clear objectives help an organisation monitor performance."
+    },
+    {
+      "id": "q10558",
+      "category": "Quality Management",
+      "question": "Customer satisfaction can be measured using ___.",
+      "options": [
+        "feedback and service data",
+        "unverified rumours only",
+        "the manager's favourite colour",
+        "the number of office plants"
+      ],
+      "answer": 0,
+      "explanation": "Feedback and service indicators provide evidence of customer experience."
+    },
+    {
+      "id": "q10559",
+      "category": "Quality Management",
+      "question": "A process review should use ___.",
+      "options": [
+        "evidence and relevant performance data",
+        "assumptions only",
+        "personal attacks",
+        "unrelated social media posts"
+      ],
+      "answer": 0,
+      "explanation": "Evidence supports fair and useful process evaluation."
+    },
+    {
+      "id": "q10560",
+      "category": "Quality Management",
+      "question": "Continuous improvement means making ___.",
+      "options": [
+        "ongoing efforts to improve processes and results",
+        "one change and never reviewing it",
+        "changes without measuring outcomes",
+        "no changes under any circumstances"
+      ],
+      "answer": 0,
+      "explanation": "Continuous improvement involves repeated evaluation and refinement."
     }
   ]
 }
