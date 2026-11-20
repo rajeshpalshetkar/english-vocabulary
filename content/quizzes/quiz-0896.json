@@ -3,139 +3,139 @@
   "slug": "quiz-0896",
   "title": "English Practice Quiz 0896",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q053",
-      "category": "Conversation",
-      "question": "A visitor asks, 'Where is reception?' You say:",
+      "id": "q11051",
+      "category": "Financial Administration",
+      "question": "A payment voucher is used to ___.",
       "options": [
-        "It is near the main entrance.",
-        "I am reception.",
-        "Yesterday at home.",
-        "No, it isn't."
+        "record a visitor",
+        "document and authorise a payment",
+        "schedule training",
+        "approve evacuation"
+      ],
+      "answer": 1,
+      "explanation": "document and authorise a payment is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q11052",
+      "category": "Financial Administration",
+      "question": "A credit note generally reduces ___.",
+      "options": [
+        "the amount owed by a customer",
+        "employee count",
+        "delivery distance",
+        "invoice date"
       ],
       "answer": 0,
-      "explanation": "Give a clear location using a complete sentence."
+      "explanation": "the amount owed by a customer is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q076",
-      "category": "Punctuation",
-      "question": "Choose the correctly punctuated sentence.",
+      "id": "q11053",
+      "category": "Financial Administration",
+      "question": "A petty cash register records ___.",
       "options": [
-        "where are you.",
-        "Where are you?",
-        "Where are you,",
-        "where are you!"
+        "staff appraisals",
+        "equipment serial numbers",
+        "visitor permissions",
+        "small cash payments and balances"
       ],
-      "answer": 1,
-      "explanation": "Start with a capital letter and use a question mark."
+      "answer": 3,
+      "explanation": "small cash payments and balances is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q099",
-      "category": "Reported Speech",
-      "question": "She said, 'Please sit down.'",
+      "id": "q11054",
+      "category": "Financial Administration",
+      "question": "A bank reconciliation compares ___.",
       "options": [
-        "She told me sit down.",
-        "She asked me to sit down.",
-        "She said me to sit.",
-        "She asked that I sat."
-      ],
-      "answer": 1,
-      "explanation": "A request can be reported with asked + object + to-infinitive."
-    },
-    {
-      "id": "q007",
-      "category": "Grammar",
-      "question": "The keys are ___ the table.",
-      "options": [
-        "in",
-        "at",
-        "on",
-        "by"
+        "rosters with leave forms",
+        "orders with job descriptions",
+        "organisation cash records with the bank statement",
+        "targets with weather data"
       ],
       "answer": 2,
-      "explanation": "On describes something resting on a surface."
+      "explanation": "organisation cash records with the bank statement is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q030",
-      "category": "Vocabulary",
-      "question": "Choose the best word: The road is very ___. There are many cars.",
+      "id": "q11055",
+      "category": "Financial Administration",
+      "question": "An overdue invoice is one that ___.",
       "options": [
-        "crowded",
-        "empty",
-        "quietly",
-        "soft"
-      ],
-      "answer": 0,
-      "explanation": "Crowded means filled with many people or things; it can describe busy roads."
-    },
-    {
-      "id": "q053",
-      "category": "Conversation",
-      "question": "A visitor asks, 'Where is reception?' You say:",
-      "options": [
-        "It is near the main entrance.",
-        "I am reception.",
-        "Yesterday at home.",
-        "No, it isn't."
-      ],
-      "answer": 0,
-      "explanation": "Give a clear location using a complete sentence."
-    },
-    {
-      "id": "q076",
-      "category": "Punctuation",
-      "question": "Choose the correctly punctuated sentence.",
-      "options": [
-        "where are you.",
-        "Where are you?",
-        "Where are you,",
-        "where are you!"
+        "was paid early",
+        "has not been paid by its due date",
+        "has no supplier details",
+        "was cancelled before issue"
       ],
       "answer": 1,
-      "explanation": "Start with a capital letter and use a question mark."
+      "explanation": "has not been paid by its due date is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q099",
-      "category": "Reported Speech",
-      "question": "She said, 'Please sit down.'",
+      "id": "q11056",
+      "category": "Financial Administration",
+      "question": "A purchase budget sets out ___.",
       "options": [
-        "She told me sit down.",
-        "She asked me to sit down.",
-        "She said me to sit.",
-        "She asked that I sat."
+        "planned spending limits for purchases",
+        "visitor names",
+        "office seating",
+        "staff birthdays"
       ],
-      "answer": 1,
-      "explanation": "A request can be reported with asked + object + to-infinitive."
+      "answer": 0,
+      "explanation": "planned spending limits for purchases is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q007",
-      "category": "Grammar",
-      "question": "The keys are ___ the table.",
+      "id": "q11057",
+      "category": "Financial Administration",
+      "question": "A supporting receipt helps verify ___.",
       "options": [
-        "in",
-        "at",
-        "on",
-        "by"
+        "training attendance",
+        "supplier audit result",
+        "route safety",
+        "that an expense was incurred and paid"
+      ],
+      "answer": 3,
+      "explanation": "that an expense was incurred and paid is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q11058",
+      "category": "Financial Administration",
+      "question": "A duplicate payment should be ___.",
+      "options": [
+        "ignored if small",
+        "hidden from the ledger",
+        "investigated and corrected through the finance process",
+        "charged to another customer"
       ],
       "answer": 2,
-      "explanation": "On describes something resting on a surface."
+      "explanation": "investigated and corrected through the finance process is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q030",
-      "category": "Vocabulary",
-      "question": "Choose the best word: The road is very ___. There are many cars.",
+      "id": "q11059",
+      "category": "Financial Administration",
+      "question": "A cost centre classifies expenses by ___.",
       "options": [
-        "crowded",
-        "empty",
-        "quietly",
-        "soft"
+        "visitor badge",
+        "department or activity",
+        "room temperature",
+        "staff qualification"
+      ],
+      "answer": 1,
+      "explanation": "department or activity is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q11060",
+      "category": "Financial Administration",
+      "question": "Before reimbursing an expense, verify ___.",
+      "options": [
+        "eligibility, approval and supporting documents",
+        "shopping list",
+        "social media posts",
+        "receipt colour"
       ],
       "answer": 0,
-      "explanation": "Crowded means filled with many people or things; it can describe busy roads."
+      "explanation": "eligibility, approval and supporting documents is the correct answer based on the meaning and context of the question."
     }
   ]
 }
