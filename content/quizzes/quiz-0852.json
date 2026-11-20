@@ -3,139 +3,139 @@
   "slug": "quiz-0852",
   "title": "English Practice Quiz 0852",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q110",
-      "category": "Adverbs",
-      "question": "Please drive ___.",
+      "id": "q11411",
+      "category": "Inventory and Procurement",
+      "question": "Inventory and Procurement: What is a purchase requisition?",
       "options": [
-        "careful",
-        "carefully",
-        "care",
-        "caring"
-      ],
-      "answer": 1,
-      "explanation": "Carefully is the adverb modifying drive."
-    },
-    {
-      "id": "q006",
-      "category": "Grammar",
-      "question": "He is ___ honest man.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "Use an before a vowel sound. Honest begins with a silent h."
-    },
-    {
-      "id": "q017",
-      "category": "Tenses",
-      "question": "They ___ football every Sunday.",
-      "options": [
-        "plays",
-        "are play",
-        "play",
-        "playing"
-      ],
-      "answer": 2,
-      "explanation": "Use the base verb with the plural subject they in the present simple."
-    },
-    {
-      "id": "q028",
-      "category": "Vocabulary",
-      "question": "A place where medicines are dispensed is a ___.",
-      "options": [
-        "bakery",
-        "pharmacy",
-        "library",
-        "garage"
-      ],
-      "answer": 1,
-      "explanation": "A pharmacy is a place where medicines are prepared or supplied."
-    },
-    {
-      "id": "q039",
-      "category": "Prepositions",
-      "question": "She is interested ___ music.",
-      "options": [
-        "on",
-        "at",
-        "in",
-        "for"
-      ],
-      "answer": 2,
-      "explanation": "The adjective interested is followed by in."
-    },
-    {
-      "id": "q050",
-      "category": "Sentence Building",
-      "question": "Choose the correct sentence.",
-      "options": [
-        "There is many books.",
-        "There are many books.",
-        "There be many books.",
-        "There am many books."
-      ],
-      "answer": 1,
-      "explanation": "Use there are with plural nouns."
-    },
-    {
-      "id": "q061",
-      "category": "Reading",
-      "question": "Read: 'Mina takes the bus at 8 a.m. and reaches work at 8:45.' How does Mina travel?",
-      "options": [
-        "By train",
-        "By bus",
-        "By car",
-        "On foot"
-      ],
-      "answer": 1,
-      "explanation": "The passage clearly says Mina takes the bus."
-    },
-    {
-      "id": "q072",
-      "category": "Questions",
-      "question": "Which question asks about time?",
-      "options": [
-        "Who is calling?",
-        "When does the train leave?",
-        "Where is the station?",
-        "Why are you here?"
-      ],
-      "answer": 1,
-      "explanation": "When asks about time."
-    },
-    {
-      "id": "q083",
-      "category": "Confusing Words",
-      "question": "Please ___ the correct answer.",
-      "options": [
-        "choose",
-        "chose",
-        "choice",
-        "chosen"
+        "A formal request to buy goods or services",
+        "Proof of delivery",
+        "A leave form",
+        "A visitor pass"
       ],
       "answer": 0,
-      "explanation": "Choose is the base verb used after please."
+      "explanation": "A requisition requests approval to purchase."
     },
     {
-      "id": "q094",
-      "category": "Passive Voice",
-      "question": "English ___ in many countries.",
+      "id": "q11412",
+      "category": "Inventory and Procurement",
+      "question": "Inventory and Procurement: What does a stock discrepancy indicate?",
       "options": [
-        "speaks",
-        "is spoken",
-        "spoken",
-        "is speaking"
+        "Recorded quantity differs from physical quantity",
+        "All stock is expired",
+        "Supplier changed address",
+        "Order was cancelled"
       ],
-      "answer": 1,
-      "explanation": "Present simple passive: is spoken."
+      "answer": 0,
+      "explanation": "A discrepancy is a difference between records and actual stock."
+    },
+    {
+      "id": "q11413",
+      "category": "Inventory and Procurement",
+      "question": "Inventory and Procurement: What should happen before accepting a delivery?",
+      "options": [
+        "Check items against the order and delivery note",
+        "Sign without inspection",
+        "Discard invoice",
+        "Change quantities"
+      ],
+      "answer": 0,
+      "explanation": "Checking confirms that the delivery matches the order."
+    },
+    {
+      "id": "q11414",
+      "category": "Inventory and Procurement",
+      "question": "Inventory and Procurement: What is a reorder level?",
+      "options": [
+        "The stock point at which a new order should be considered",
+        "A point to discard all stock",
+        "When the store closes",
+        "When prices double"
+      ],
+      "answer": 0,
+      "explanation": "The reorder level helps prevent stockouts."
+    },
+    {
+      "id": "q11415",
+      "category": "Inventory and Procurement",
+      "question": "Inventory and Procurement: What does FIFO mean?",
+      "options": [
+        "First In, First Out",
+        "Final Invoice For Orders",
+        "Fast Inspection For Operations",
+        "First Item Fully Opened"
+      ],
+      "answer": 0,
+      "explanation": "FIFO issues older received stock before newer stock."
+    },
+    {
+      "id": "q11416",
+      "category": "Inventory and Procurement",
+      "question": "Inventory and Procurement: What does a purchase order normally record?",
+      "options": [
+        "Items, quantities, prices and supplier details",
+        "Employee medical history",
+        "Visitor complaints",
+        "Weather report"
+      ],
+      "answer": 0,
+      "explanation": "A purchase order documents agreed purchase details."
+    },
+    {
+      "id": "q11417",
+      "category": "Inventory and Procurement",
+      "question": "Inventory and Procurement: Why should damaged goods be recorded?",
+      "options": [
+        "To support returns, claims and accurate stock records",
+        "To hide damage",
+        "To increase stock count",
+        "To avoid informing supplier"
+      ],
+      "answer": 0,
+      "explanation": "Records support claims and inventory accuracy."
+    },
+    {
+      "id": "q11418",
+      "category": "Inventory and Procurement",
+      "question": "Inventory and Procurement: What is a supplier quotation?",
+      "options": [
+        "A stated price and terms for proposed goods or services",
+        "A payment receipt",
+        "A driver's ID",
+        "A final audit"
+      ],
+      "answer": 0,
+      "explanation": "A quotation outlines proposed prices and conditions."
+    },
+    {
+      "id": "q11419",
+      "category": "Inventory and Procurement",
+      "question": "Inventory and Procurement: What does stocktaking involve?",
+      "options": [
+        "Counting physical inventory and comparing records",
+        "Interviewing suppliers",
+        "Changing product names",
+        "Approving leave"
+      ],
+      "answer": 0,
+      "explanation": "Stocktaking checks actual quantities against records."
+    },
+    {
+      "id": "q11420",
+      "category": "Inventory and Procurement",
+      "question": "Inventory and Procurement: What is an obsolete item?",
+      "options": [
+        "No longer useful or current for its purpose",
+        "Newly delivered",
+        "Always in high demand",
+        "Paid twice"
+      ],
+      "answer": 0,
+      "explanation": "Obsolete stock is outdated or no longer useful."
     }
   ]
 }
