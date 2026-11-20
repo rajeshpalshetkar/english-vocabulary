@@ -1,0 +1,46 @@
+{
+  "kind": "post",
+  "title": "Active and Passive Voice in English",
+  "description": "Understand active and passive voice, learn the basic sentence patterns, see practical examples and practise changing sentences with an answer key.",
+  "slug": "active-and-passive-voice",
+  "labels": [
+    "Grammar"
+  ],
+  "primary_keyword": "active and passive voice in English",
+  "secondary_keywords": [
+    "active voice examples",
+    "passive voice rules",
+    "change active to passive"
+  ],
+  "audience_level": "Beginner",
+  "estimated_reading_minutes": 8,
+  "learning_objectives": [
+    "Identify the subject, verb and object in active sentences.",
+    "Recognise when passive voice is useful.",
+    "Change suitable active sentences into passive voice accurately."
+  ],
+  "image_brief": "A clean, original educational illustration for the lesson \"Active and Passive Voice in English\", with a simple visual concept, no embedded text, suitable for an English-learning website.",
+  "image_alt": "Educational illustration representing active and passive voice in english.",
+  "body_markdown": "# Introduction\n\nVoice shows the relationship between the subject and the action. In the **active voice**, the subject performs the action. In the **passive voice**, the subject receives the action.\n\nActive: The manager approved the request.\nPassive: The request was approved by the manager.\n\nBoth sentences describe the same event, but the focus changes.\n\n## Active voice pattern\n\nA common active sentence follows:\n\n**Subject + verb + object**\n\nExamples:\n- The guard checks the entry pass.\n- The nurse records the temperature.\n- The team completed the report.\n\nThe subject performs the action.\n\n## Passive voice pattern\n\nA common passive sentence follows:\n\n**Object + suitable form of be + past participle (V3) + by + doer (optional)**\n\nExamples:\n- The entry pass is checked by the guard.\n- The temperature is recorded by the nurse.\n- The report was completed by the team.\n\nThe object of the active sentence becomes the subject of the passive sentence. The main verb changes to its past participle form.\n\n## Passive voice in different tenses\n\n| Active | Passive |\n|---|---|\n| They clean the room. | The room is cleaned. |\n| They are cleaning the room. | The room is being cleaned. |\n| They cleaned the room. | The room was cleaned. |\n| They have cleaned the room. | The room has been cleaned. |\n| They will clean the room. | The room will be cleaned. |\n\nThe form of *be* changes according to the tense and the new subject. The main verb remains in its past participle form.\n\n## When is passive voice useful?\n\nUse passive voice when:\n- The action is more important than the person doing it.\n- The doer is unknown: “My phone was stolen.”\n- The doer is obvious or unimportant: “The road is being repaired.”\n- You are writing a formal report: “The incident was reported to the supervisor.”\n\nDo not use passive voice simply to make every sentence sound formal. Active voice is often clearer and shorter.\n\n## When can we omit 'by'?\n\nIf the doer is unknown, obvious or irrelevant, omit the *by* phrase.\n\n- The window was broken.\n- The meeting has been postponed.\n- The documents were delivered this morning.\n\n## Important limitation\n\nOnly verbs that take an object (transitive verbs) can normally form a standard passive sentence.\n\nActive: The child opened the door.\nPassive: The door was opened by the child.\n\nBut “He sleeps” has no object, so it does not normally have a passive form.\n\n## Common mistakes\n\n- Incorrect: The work completed by him. Correct: The work was completed by him.\n- Incorrect: The letter was wrote. Correct: The letter was written.\n- Incorrect: The room is clean by staff. Correct: The room is cleaned by staff.\n- Incorrect: The report was completed by they. Correct: The report was completed by them.\n\n## Practice: Change into passive voice\n\n1. The staff clean the office.\n2. The driver parked the car.\n3. The teacher is checking the notebooks.\n4. They have sent the email.\n5. The company will announce the result.\n\nChoose the correct form:\n\n6. The gate ___ every evening. (checks / is checked)\n7. The parcel was ___ yesterday. (deliver / delivered)\n\n## Answer key\n\n1. The office is cleaned by the staff. Present simple passive: is + V3.\n2. The car was parked by the driver. Past simple passive: was + V3.\n3. The notebooks are being checked by the teacher. Present continuous passive: are being + V3.\n4. The email has been sent. Present perfect passive: has been + V3.\n5. The result will be announced by the company. Future passive: will be + V3.\n6. is checked: the gate receives the action.\n7. delivered: passive voice needs the past participle.\n\n## Writing practice\n\nWrite a short incident update using two passive sentences and two active sentences. For example: “The alarm was activated at 10 a.m. The supervisor informed the control room. The area was checked by the response team. Staff guided visitors to a safe location.”\n\n## Key point\n\nChoose active voice when you want to highlight who did something. Choose passive voice when the action or the person or thing affected is more important.",
+  "faq": [
+    {
+      "question": "What is the main difference between active and passive voice?",
+      "answer": "In active voice the subject performs the action. In passive voice the subject receives the action."
+    },
+    {
+      "question": "Is passive voice always more formal?",
+      "answer": "No. Passive voice can be useful in reports, but active voice is often clearer and more direct."
+    },
+    {
+      "question": "Can every English verb be changed into passive voice?",
+      "answer": "No. A standard passive form normally requires a verb that takes an object."
+    }
+  ],
+  "references": [],
+  "related_posts": [
+    "English Grammar Basics",
+    "Verbs and Helping Verbs",
+    "All 12 English Tenses: A Simple Overview"
+  ],
+  "author_reviewed": true
+}
