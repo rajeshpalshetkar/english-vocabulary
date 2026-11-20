@@ -3,139 +3,139 @@
   "slug": "quiz-0827",
   "title": "English Practice Quiz 0827",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q030",
-      "category": "Vocabulary",
-      "question": "Choose the best word: The road is very ___. There are many cars.",
+      "id": "q11761",
+      "category": "Negotiation",
+      "question": "Negotiation 01: A negotiation begins effectively by:",
       "options": [
-        "crowded",
-        "empty",
-        "quietly",
-        "soft"
+        "Clarifying the interests and needs of each party",
+        "Making threats",
+        "Hiding facts",
+        "Demanding immediate agreement"
       ],
       "answer": 0,
-      "explanation": "Crowded means filled with many people or things; it can describe busy roads."
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
     },
     {
-      "id": "q059",
-      "category": "Pronunciation",
-      "question": "Which word rhymes with 'light'?",
+      "id": "q11762",
+      "category": "Negotiation",
+      "question": "Negotiation 02: A win-win outcome aims to:",
       "options": [
-        "late",
-        "lit",
-        "night",
-        "let"
-      ],
-      "answer": 2,
-      "explanation": "Light and night share the same ending sound."
-    },
-    {
-      "id": "q088",
-      "category": "Conditionals",
-      "question": "If you heat ice, it ___.",
-      "options": [
-        "melt",
-        "melts",
-        "will melted",
-        "melting"
-      ],
-      "answer": 1,
-      "explanation": "The zero conditional uses present simple for general truths."
-    },
-    {
-      "id": "q002",
-      "category": "Grammar",
-      "question": "They ___ ready for the meeting.",
-      "options": [
-        "is",
-        "am",
-        "are",
-        "be"
-      ],
-      "answer": 2,
-      "explanation": "Use are with the plural subject they."
-    },
-    {
-      "id": "q031",
-      "category": "Articles",
-      "question": "I saw ___ elephant at the zoo.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "Use an before a vowel sound."
-    },
-    {
-      "id": "q060",
-      "category": "Pronunciation",
-      "question": "How many syllables are in 'computer'?",
-      "options": [
-        "one",
-        "two",
-        "three",
-        "four"
-      ],
-      "answer": 2,
-      "explanation": "Computer is commonly pronounced with three syllables: com-pu-ter."
-    },
-    {
-      "id": "q089",
-      "category": "Conditionals",
-      "question": "If she studies, she ___ the test.",
-      "options": [
-        "passes",
-        "passed",
-        "will pass",
-        "would passed"
-      ],
-      "answer": 2,
-      "explanation": "Use will + base verb in the main clause of the first conditional."
-    },
-    {
-      "id": "q003",
-      "category": "Grammar",
-      "question": "I ___ a new notebook yesterday.",
-      "options": [
-        "buy",
-        "buys",
-        "bought",
-        "buying"
-      ],
-      "answer": 2,
-      "explanation": "Yesterday signals the past simple. The past form of buy is bought."
-    },
-    {
-      "id": "q032",
-      "category": "Articles",
-      "question": "She is ___ university student.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
+        "Address important interests of both parties",
+        "Ensure one side loses",
+        "Avoid discussion",
+        "Delay every decision"
       ],
       "answer": 0,
-      "explanation": "University begins with the consonant sound /y/, so use a."
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
     },
     {
-      "id": "q061",
-      "category": "Reading",
-      "question": "Read: 'Mina takes the bus at 8 a.m. and reaches work at 8:45.' How does Mina travel?",
+      "id": "q11763",
+      "category": "Negotiation",
+      "question": "Negotiation 03: When emotions rise during disagreement, it helps to:",
       "options": [
-        "By train",
-        "By bus",
-        "By car",
-        "On foot"
+        "Pause and return to the issue calmly",
+        "Raise your voice",
+        "Make accusations",
+        "Share private messages"
       ],
-      "answer": 1,
-      "explanation": "The passage clearly says Mina takes the bus."
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
+    },
+    {
+      "id": "q11764",
+      "category": "Negotiation",
+      "question": "Negotiation 04: A position in negotiation is:",
+      "options": [
+        "What a party says it wants",
+        "The hidden cause of every dispute",
+        "A signed invoice",
+        "A duty roster"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
+    },
+    {
+      "id": "q11765",
+      "category": "Negotiation",
+      "question": "Negotiation 05: An interest in negotiation refers to:",
+      "options": [
+        "The underlying need or reason behind a position",
+        "A job title",
+        "A room location",
+        "A document font"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
+    },
+    {
+      "id": "q11766",
+      "category": "Negotiation",
+      "question": "Negotiation 06: A neutral facilitator should:",
+      "options": [
+        "Help parties communicate without favouring either side",
+        "Decide based on friendship",
+        "Interrupt one party only",
+        "Hide agreed terms"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
+    },
+    {
+      "id": "q11767",
+      "category": "Negotiation",
+      "question": "Negotiation 07: A written agreement should state:",
+      "options": [
+        "Agreed actions, responsibilities and timelines",
+        "Unrelated opinions",
+        "Unverified allegations",
+        "Passwords"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
+    },
+    {
+      "id": "q11768",
+      "category": "Negotiation",
+      "question": "Negotiation 08: A negotiation concession is:",
+      "options": [
+        "A compromise made to help reach agreement",
+        "A formal complaint",
+        "A delivery receipt",
+        "A safety inspection"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
+    },
+    {
+      "id": "q11769",
+      "category": "Negotiation",
+      "question": "Negotiation 09: If a proposal is unacceptable, respond by:",
+      "options": [
+        "Explaining the concern and suggesting an alternative",
+        "Insulting the proposer",
+        "Pretending to agree",
+        "Ending communication permanently"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
+    },
+    {
+      "id": "q11770",
+      "category": "Negotiation",
+      "question": "Negotiation 10: After resolving a conflict, parties should:",
+      "options": [
+        "Review whether the agreed solution is working",
+        "Repeat the argument",
+        "Avoid follow-up",
+        "Delete the agreement"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
     }
   ]
 }
