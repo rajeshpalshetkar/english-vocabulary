@@ -3,139 +3,139 @@
   "slug": "quiz-0887",
   "title": "English Practice Quiz 0887",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q015",
-      "category": "Tenses",
-      "question": "She ___ the report before the manager arrived.",
+      "id": "q11161",
+      "category": "Procurement and Inventory",
+      "question": "A purchase order is generally used to:",
       "options": [
-        "finished",
-        "has finished",
-        "had finished",
-        "finishes"
-      ],
-      "answer": 2,
-      "explanation": "Use the past perfect for an action completed before another past action."
-    },
-    {
-      "id": "q044",
-      "category": "Modals",
-      "question": "You look tired. You ___ get some rest.",
-      "options": [
-        "should",
-        "mustn't",
-        "can't",
-        "wouldn't"
+        "formally request or authorise a purchase",
+        "record a holiday",
+        "report an accident",
+        "issue a visitor badge"
       ],
       "answer": 0,
-      "explanation": "Should gives advice."
+      "explanation": "A purchase order documents an authorised purchase request."
     },
     {
-      "id": "q073",
-      "category": "Questions",
-      "question": "Choose the correct question.",
+      "id": "q11162",
+      "category": "Procurement and Inventory",
+      "question": "A stocktake is the process of:",
       "options": [
-        "Does she work here?",
-        "Do she work here?",
-        "Is she works here?",
-        "Does she works here?"
+        "counting and checking inventory",
+        "training new staff",
+        "approving leave",
+        "cleaning office windows"
       ],
       "answer": 0,
-      "explanation": "Use does + subject + base verb with he, she or it."
+      "explanation": "A stocktake checks actual stock quantities against records."
     },
     {
-      "id": "q102",
-      "category": "Determiners",
-      "question": "How ___ apples do you need?",
+      "id": "q11163",
+      "category": "Procurement and Inventory",
+      "question": "When delivered goods do not match the order, you should:",
       "options": [
-        "much",
-        "many",
-        "little",
-        "any"
+        "accept them without checking",
+        "record the discrepancy and notify the responsible person",
+        "change the invoice yourself",
+        "discard the delivery note"
       ],
       "answer": 1,
-      "explanation": "Apples are countable plural nouns, so use many."
+      "explanation": "Documenting the mismatch supports correction and accountability."
     },
     {
-      "id": "q016",
-      "category": "Tenses",
-      "question": "Water ___ at 100°C at sea level.",
+      "id": "q11164",
+      "category": "Procurement and Inventory",
+      "question": "A reorder level indicates when:",
       "options": [
-        "boil",
-        "boils",
-        "is boiling",
-        "boiled"
-      ],
-      "answer": 1,
-      "explanation": "Use the present simple for general facts."
-    },
-    {
-      "id": "q045",
-      "category": "Modals",
-      "question": "It ___ rain later; take an umbrella.",
-      "options": [
-        "might",
-        "mustn't",
-        "shouldn't",
-        "has"
+        "new stock should be ordered",
+        "old records should be deleted",
+        "staff should leave",
+        "an invoice is overdue"
       ],
       "answer": 0,
-      "explanation": "Might expresses possibility."
+      "explanation": "The reorder level triggers replenishment before stock runs out."
     },
     {
-      "id": "q074",
-      "category": "Questions",
-      "question": "Which question asks for a reason?",
+      "id": "q11165",
+      "category": "Procurement and Inventory",
+      "question": "An invoice is a document that typically requests:",
       "options": [
-        "What happened?",
-        "Where are you?",
-        "Why are you late?",
-        "When is lunch?"
+        "payment for supplied goods or services",
+        "permission to enter a building",
+        "a medical diagnosis",
+        "a meeting room"
       ],
-      "answer": 2,
-      "explanation": "Why asks for a reason."
+      "answer": 0,
+      "explanation": "An invoice states the amount due for goods or services."
     },
     {
-      "id": "q103",
-      "category": "Determiners",
-      "question": "I have ___ friends in this city.",
+      "id": "q11166",
+      "category": "Procurement and Inventory",
+      "question": "Why should inventory records be updated promptly?",
       "options": [
-        "a little",
-        "a few",
-        "much",
-        "anyone"
+        "to keep recorded quantities accurate",
+        "to make the file longer",
+        "to avoid counting stock",
+        "to hide shortages"
       ],
-      "answer": 1,
-      "explanation": "A few is used with countable plural nouns."
+      "answer": 0,
+      "explanation": "Timely updates keep stock information reliable."
     },
     {
-      "id": "q017",
-      "category": "Tenses",
-      "question": "They ___ football every Sunday.",
+      "id": "q11167",
+      "category": "Procurement and Inventory",
+      "question": "A supplier quotation usually provides:",
       "options": [
-        "plays",
-        "are play",
-        "play",
-        "playing"
+        "prices and terms for proposed goods or services",
+        "the employee attendance list",
+        "a safety alarm code",
+        "a bank password"
       ],
-      "answer": 2,
-      "explanation": "Use the base verb with the plural subject they in the present simple."
+      "answer": 0,
+      "explanation": "A quotation outlines proposed pricing and conditions."
     },
     {
-      "id": "q046",
-      "category": "Sentence Building",
-      "question": "Choose the correct word order.",
+      "id": "q11168",
+      "category": "Procurement and Inventory",
+      "question": "Which practice reduces duplicate purchasing?",
       "options": [
-        "Always I am late.",
-        "I am always late.",
-        "I late am always.",
-        "Am always I late."
+        "checking existing stock before ordering",
+        "placing orders without records",
+        "ignoring the inventory system",
+        "using several uncoordinated lists"
       ],
-      "answer": 1,
-      "explanation": "Frequency adverbs such as always usually come after the verb be."
+      "answer": 0,
+      "explanation": "Checking stock first prevents unnecessary repeat orders."
+    },
+    {
+      "id": "q11169",
+      "category": "Procurement and Inventory",
+      "question": "'Back order' means an item:",
+      "options": [
+        "is temporarily unavailable and will be supplied later",
+        "has been delivered twice",
+        "is free of charge",
+        "has been permanently cancelled"
+      ],
+      "answer": 0,
+      "explanation": "A back-ordered item is pending future supply."
+    },
+    {
+      "id": "q11170",
+      "category": "Procurement and Inventory",
+      "question": "A delivery note is useful for confirming:",
+      "options": [
+        "what goods were delivered",
+        "who attended a meeting",
+        "how leave was approved",
+        "which email was sent"
+      ],
+      "answer": 0,
+      "explanation": "A delivery note lists the items supplied with a delivery."
     }
   ]
 }
