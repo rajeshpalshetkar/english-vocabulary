@@ -3,139 +3,139 @@
   "slug": "quiz-0927",
   "title": "English Practice Quiz 0927",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q005",
-      "category": "Grammar",
-      "question": "Choose the correct sentence.",
+      "id": "q10761",
+      "category": "Financial Literacy",
+      "question": "A budget is a plan for ___.",
       "options": [
-        "She don't like tea.",
-        "She doesn't likes tea.",
-        "She doesn't like tea.",
-        "She not like tea."
+        "currency colours",
+        "visitor counts",
+        "income and expenses",
+        "weather"
       ],
       "answer": 2,
-      "explanation": "After doesn't, use the base form of the verb: like."
+      "explanation": "income and expenses is correct. The sentence or passage provides the relevant meaning and context."
     },
     {
-      "id": "q034",
-      "category": "Articles",
-      "question": "He wants to become ___ engineer.",
+      "id": "q10762",
+      "category": "Financial Literacy",
+      "question": "An invoice usually requests ___.",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
+        "a promotion",
+        "leave correction",
+        "building inspection",
+        "payment for goods or services"
+      ],
+      "answer": 3,
+      "explanation": "payment for goods or services is correct. The sentence or passage provides the relevant meaning and context."
+    },
+    {
+      "id": "q10763",
+      "category": "Financial Literacy",
+      "question": "A receipt confirms that ___.",
+      "options": [
+        "payment has been made or received",
+        "a warranty is guaranteed",
+        "a meeting occurred",
+        "a loan was approved"
+      ],
+      "answer": 0,
+      "explanation": "payment has been made or received is correct. The sentence or passage provides the relevant meaning and context."
+    },
+    {
+      "id": "q10764",
+      "category": "Financial Literacy",
+      "question": "Loan interest is generally the ___.",
+      "options": [
+        "reward for leave",
+        "cost of borrowing money",
+        "chair price",
+        "tax identity"
       ],
       "answer": 1,
-      "explanation": "Engineer begins with a vowel sound, so use an."
+      "explanation": "cost of borrowing money is correct. The sentence or passage provides the relevant meaning and context."
     },
     {
-      "id": "q063",
-      "category": "Reading",
-      "question": "Read: 'Ravi practises English for twenty minutes every evening.' How long does he practise?",
+      "id": "q10765",
+      "category": "Financial Literacy",
+      "question": "A savings goal should be ___.",
       "options": [
-        "Ten minutes",
-        "Twenty minutes",
-        "Thirty minutes",
-        "One hour"
-      ],
-      "answer": 1,
-      "explanation": "The passage states twenty minutes."
-    },
-    {
-      "id": "q092",
-      "category": "Passive Voice",
-      "question": "Choose the passive form: 'The manager signed the letter.'",
-      "options": [
-        "The letter is signed.",
-        "The letter was signed by the manager.",
-        "The letter signed the manager.",
-        "The letter has sign."
-      ],
-      "answer": 1,
-      "explanation": "Past simple passive: was/were + past participle."
-    },
-    {
-      "id": "q006",
-      "category": "Grammar",
-      "question": "He is ___ honest man.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "Use an before a vowel sound. Honest begins with a silent h."
-    },
-    {
-      "id": "q035",
-      "category": "Articles",
-      "question": "Mount Everest is ___ highest mountain in the world.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
+        "kept secret from yourself",
+        "based on rumours",
+        "specific and measurable",
+        "changed hourly"
       ],
       "answer": 2,
-      "explanation": "Use the with superlative adjectives."
+      "explanation": "specific and measurable is correct. The sentence or passage provides the relevant meaning and context."
     },
     {
-      "id": "q064",
-      "category": "Reading",
-      "question": "Read: 'The meeting was cancelled because the manager was ill.' Why was it cancelled?",
+      "id": "q10766",
+      "category": "Financial Literacy",
+      "question": "A bank statement summarises ___.",
       "options": [
-        "The room was full",
-        "The manager was ill",
-        "It was Sunday",
-        "The staff were late"
+        "medical history",
+        "attendance roster",
+        "future stock prices",
+        "transactions in an account"
+      ],
+      "answer": 3,
+      "explanation": "transactions in an account is correct. The sentence or passage provides the relevant meaning and context."
+    },
+    {
+      "id": "q10767",
+      "category": "Financial Literacy",
+      "question": "An emergency fund is reserved for ___.",
+      "options": [
+        "unexpected expenses",
+        "luxury purchases",
+        "advertising",
+        "routine entertainment"
+      ],
+      "answer": 0,
+      "explanation": "unexpected expenses is correct. The sentence or passage provides the relevant meaning and context."
+    },
+    {
+      "id": "q10768",
+      "category": "Financial Literacy",
+      "question": "A debit from an account usually means money is ___.",
+      "options": [
+        "added",
+        "deducted",
+        "multiplied",
+        "automatically converted"
       ],
       "answer": 1,
-      "explanation": "The reason is explicitly stated: the manager was ill."
+      "explanation": "deducted is correct. The sentence or passage provides the relevant meaning and context."
     },
     {
-      "id": "q093",
-      "category": "Passive Voice",
-      "question": "The work ___ tomorrow.",
+      "id": "q10769",
+      "category": "Financial Literacy",
+      "question": "Financial records should be retained according to ___.",
       "options": [
-        "will complete",
-        "will be completed",
-        "completed",
-        "is completing"
-      ],
-      "answer": 1,
-      "explanation": "Future passive uses will be + past participle."
-    },
-    {
-      "id": "q007",
-      "category": "Grammar",
-      "question": "The keys are ___ the table.",
-      "options": [
-        "in",
-        "at",
-        "on",
-        "by"
+        "personal convenience",
+        "a colleague's memory",
+        "policy and legal requirements",
+        "paper colour"
       ],
       "answer": 2,
-      "explanation": "On describes something resting on a surface."
+      "explanation": "policy and legal requirements is correct. The sentence or passage provides the relevant meaning and context."
     },
     {
-      "id": "q036",
-      "category": "Prepositions",
-      "question": "The meeting starts ___ 9 a.m.",
+      "id": "q10770",
+      "category": "Financial Literacy",
+      "question": "Comparing expenses with a budget can reveal ___.",
       "options": [
-        "in",
-        "on",
-        "at",
-        "by"
+        "attendance",
+        "internet speed",
+        "building height",
+        "overspending or savings"
       ],
-      "answer": 2,
-      "explanation": "Use at for a specific clock time."
+      "answer": 3,
+      "explanation": "overspending or savings is correct. The sentence or passage provides the relevant meaning and context."
     }
   ]
 }
