@@ -3,139 +3,139 @@
   "slug": "quiz-0931",
   "title": "English Practice Quiz 0931",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q073",
-      "category": "Questions",
-      "question": "Choose the correct question.",
+      "id": "q10601",
+      "category": "Workplace Scheduling",
+      "question": "A shift roster shows ___.",
       "options": [
-        "Does she work here?",
-        "Do she work here?",
-        "Is she works here?",
-        "Does she works here?"
+        "who is assigned to work and when",
+        "the price of office furniture",
+        "customer passwords",
+        "the weather forecast"
       ],
       "answer": 0,
-      "explanation": "Use does + subject + base verb with he, she or it."
+      "explanation": "A roster lists work assignments and timings."
     },
     {
-      "id": "q082",
-      "category": "Confusing Words",
-      "question": "The weather can ___ your travel plans.",
+      "id": "q10602",
+      "category": "Workplace Scheduling",
+      "question": "If you need to swap shifts, you should ___.",
       "options": [
-        "affect",
-        "effect",
-        "infect",
-        "effort"
+        "request approval through the proper process",
+        "change the roster secretly",
+        "stop attending your shift",
+        "ask an unauthorised visitor"
       ],
       "answer": 0,
-      "explanation": "Affect is usually a verb meaning to influence."
+      "explanation": "Shift changes should be approved and recorded."
     },
     {
-      "id": "q091",
-      "category": "Passive Voice",
-      "question": "Choose the passive form: 'They clean the room.'",
+      "id": "q10603",
+      "category": "Workplace Scheduling",
+      "question": "An overlapping shift occurs when ___.",
       "options": [
-        "The room cleaned them.",
-        "The room is cleaned by them.",
-        "The room is cleaning.",
-        "The room has clean."
-      ],
-      "answer": 1,
-      "explanation": "Present simple passive: am/is/are + past participle."
-    },
-    {
-      "id": "q100",
-      "category": "Reported Speech",
-      "question": "They said, 'We have finished.'",
-      "options": [
-        "They said they had finished.",
-        "They said they have finish.",
-        "They told finished.",
-        "They said we finished have."
+        "two shifts share part of the same time period",
+        "no employee is scheduled",
+        "a shift is cancelled permanently",
+        "a worker changes departments"
       ],
       "answer": 0,
-      "explanation": "Present perfect commonly shifts to past perfect in reported speech."
+      "explanation": "Overlap means two scheduled periods coincide for some time."
     },
     {
-      "id": "q109",
-      "category": "Adverbs",
-      "question": "She arrived ___.",
+      "id": "q10604",
+      "category": "Workplace Scheduling",
+      "question": "A day off in a roster means ___.",
       "options": [
-        "late",
-        "lately",
-        "latest",
-        "laterly"
+        "the employee is not scheduled to work that day",
+        "the employee must work twice as long",
+        "the office is closed to everyone",
+        "the employee is on a night shift"
       ],
       "answer": 0,
-      "explanation": "Late is the correct adverb meaning not on time."
+      "explanation": "A day off is a scheduled non-working day."
     },
     {
-      "id": "q003",
-      "category": "Grammar",
-      "question": "I ___ a new notebook yesterday.",
+      "id": "q10605",
+      "category": "Workplace Scheduling",
+      "question": "If you are delayed and may miss the start of your shift, you should ___.",
       "options": [
-        "buy",
-        "buys",
-        "bought",
-        "buying"
-      ],
-      "answer": 2,
-      "explanation": "Yesterday signals the past simple. The past form of buy is bought."
-    },
-    {
-      "id": "q012",
-      "category": "Tenses",
-      "question": "We ___ here since 2022.",
-      "options": [
-        "live",
-        "lived",
-        "have lived",
-        "are live"
-      ],
-      "answer": 2,
-      "explanation": "Since gives a starting point; the present perfect connects the past to now."
-    },
-    {
-      "id": "q021",
-      "category": "Vocabulary",
-      "question": "A person who repairs water pipes is a ___.",
-      "options": [
-        "carpenter",
-        "plumber",
-        "tailor",
-        "baker"
-      ],
-      "answer": 1,
-      "explanation": "A plumber installs and repairs water pipes and fittings."
-    },
-    {
-      "id": "q030",
-      "category": "Vocabulary",
-      "question": "Choose the best word: The road is very ___. There are many cars.",
-      "options": [
-        "crowded",
-        "empty",
-        "quietly",
-        "soft"
+        "inform the supervisor as soon as possible",
+        "wait until the shift ends",
+        "ask a colleague to falsify attendance",
+        "avoid all communication"
       ],
       "answer": 0,
-      "explanation": "Crowded means filled with many people or things; it can describe busy roads."
+      "explanation": "Early notice helps supervisors arrange coverage."
     },
     {
-      "id": "q039",
-      "category": "Prepositions",
-      "question": "She is interested ___ music.",
+      "id": "q10606",
+      "category": "Workplace Scheduling",
+      "question": "A rotating shift pattern means employees ___.",
       "options": [
-        "on",
-        "at",
-        "in",
-        "for"
+        "move between different shift times according to a schedule",
+        "work only at one fixed time forever",
+        "choose any hours without notice",
+        "never receive a roster"
       ],
-      "answer": 2,
-      "explanation": "The adjective interested is followed by in."
+      "answer": 0,
+      "explanation": "Rotating shifts change according to an established pattern."
+    },
+    {
+      "id": "q10607",
+      "category": "Workplace Scheduling",
+      "question": "A handover period allows outgoing and incoming staff to ___.",
+      "options": [
+        "exchange important information",
+        "leave without communicating",
+        "change payroll records",
+        "cancel the next shift"
+      ],
+      "answer": 0,
+      "explanation": "Handover supports continuity between shifts."
+    },
+    {
+      "id": "q10608",
+      "category": "Workplace Scheduling",
+      "question": "An absentee is an employee who ___.",
+      "options": [
+        "is absent from scheduled work",
+        "works extra hours",
+        "trains a new colleague",
+        "approves the roster"
+      ],
+      "answer": 0,
+      "explanation": "Absentee refers to a person who is away from work."
+    },
+    {
+      "id": "q10609",
+      "category": "Workplace Scheduling",
+      "question": "A roster should be updated when an approved shift change ___.",
+      "options": [
+        "takes effect",
+        "is only discussed as a rumour",
+        "has no confirmed details",
+        "is rejected"
+      ],
+      "answer": 0,
+      "explanation": "The roster should reflect confirmed and approved changes."
+    },
+    {
+      "id": "q10610",
+      "category": "Workplace Scheduling",
+      "question": "A weekly schedule helps employees plan ___.",
+      "options": [
+        "work responsibilities and availability",
+        "private passwords",
+        "unrelated news stories",
+        "unapproved leave"
+      ],
+      "answer": 0,
+      "explanation": "A schedule makes work expectations and timings clear."
     }
   ]
 }
