@@ -8,134 +8,134 @@
   "question_count": 10,
   "questions": [
     {
-      "id": "q075",
-      "category": "Questions",
-      "question": "Choose the correct question tag: 'You are ready, ___?'",
+      "id": "q10011",
+      "category": "Customer Service",
+      "question": "A customer says an order is missing. What should you say first?",
       "options": [
-        "are you",
-        "aren't you",
-        "do you",
-        "don't you"
+        "That is not my problem.",
+        "I am sorry about that. Let me check it for you.",
+        "You must be mistaken.",
+        "Come back next week."
       ],
       "answer": 1,
-      "explanation": "A positive statement with are usually takes the negative tag aren't you."
+      "explanation": "Acknowledge the concern politely and offer to investigate."
     },
     {
-      "id": "q086",
-      "category": "Conditionals",
-      "question": "If it rains, we ___ indoors.",
-      "options": [
-        "stay",
-        "will stay",
-        "stayed",
-        "would stayed"
-      ],
-      "answer": 1,
-      "explanation": "The first conditional uses if + present simple, will + base verb."
-    },
-    {
-      "id": "q097",
-      "category": "Reported Speech",
-      "question": "She said, 'I can swim.'",
-      "options": [
-        "She said she can swam.",
-        "She said that she could swim.",
-        "She said she swims can.",
-        "She told that could swim."
-      ],
-      "answer": 1,
-      "explanation": "Can commonly changes to could in reported speech after a past reporting verb."
-    },
-    {
-      "id": "q108",
-      "category": "Adverbs",
-      "question": "He speaks English ___.",
-      "options": [
-        "clear",
-        "clearly",
-        "clarity",
-        "clearest"
-      ],
-      "answer": 1,
-      "explanation": "Clearly is the adverb describing how he speaks."
-    },
-    {
-      "id": "q004",
+      "id": "q10012",
       "category": "Grammar",
-      "question": "There ___ two chairs in the room.",
+      "question": "Each of the rooms ___ a smoke detector.",
       "options": [
-        "is",
-        "are",
-        "am",
-        "was"
+        "have",
+        "has",
+        "are having",
+        "were"
       ],
       "answer": 1,
-      "explanation": "Use are with the plural noun chairs."
+      "explanation": "Each is grammatically singular and takes has."
     },
     {
-      "id": "q015",
-      "category": "Tenses",
-      "question": "She ___ the report before the manager arrived.",
+      "id": "q10013",
+      "category": "Vocabulary",
+      "question": "To 'postpone' a meeting is to ___.",
       "options": [
-        "finished",
-        "has finished",
-        "had finished",
-        "finishes"
+        "bring it forward",
+        "cancel it forever",
+        "move it to a later time",
+        "finish it early"
       ],
       "answer": 2,
-      "explanation": "Use the past perfect for an action completed before another past action."
+      "explanation": "Postpone means to delay until a later time."
     },
     {
-      "id": "q026",
-      "category": "Vocabulary",
-      "question": "What does 'borrow' mean?",
-      "options": [
-        "give something forever",
-        "take something temporarily and return it",
-        "break something",
-        "buy something"
-      ],
-      "answer": 1,
-      "explanation": "Borrow means to take something for a period and return it."
-    },
-    {
-      "id": "q037",
+      "id": "q10014",
       "category": "Prepositions",
-      "question": "My birthday is ___ July.",
+      "question": "The receptionist is responsible ___ greeting visitors.",
       "options": [
-        "at",
-        "in",
-        "on",
-        "from"
+        "to",
+        "for",
+        "with",
+        "at"
       ],
       "answer": 1,
-      "explanation": "Use in with months."
+      "explanation": "The adjective responsible is followed by for."
     },
     {
-      "id": "q048",
-      "category": "Sentence Building",
-      "question": "Choose the correct sentence.",
+      "id": "q10015",
+      "category": "Reading Skills",
+      "question": "A notice says, 'Visitors must sign in before entering.' What must visitors do?",
       "options": [
-        "Because I was tired, I went to bed early.",
-        "Because I tired, went bed early.",
-        "I because was tired bed early.",
-        "Because tired I went early bed."
+        "Wait outside all day",
+        "Record their arrival first",
+        "Call the manager after leaving",
+        "Bring a parcel"
+      ],
+      "answer": 1,
+      "explanation": "Sign in means register your arrival before entry."
+    },
+    {
+      "id": "q10016",
+      "category": "Grammar",
+      "question": "If she ___ earlier, she would have caught the bus.",
+      "options": [
+        "leaves",
+        "left",
+        "had left",
+        "has left"
+      ],
+      "answer": 2,
+      "explanation": "The third conditional uses if + past perfect for an unreal past condition."
+    },
+    {
+      "id": "q10017",
+      "category": "Vocabulary",
+      "question": "A 'brief' explanation is ___.",
+      "options": [
+        "short and clear",
+        "very confusing",
+        "extremely loud",
+        "unnecessarily detailed"
       ],
       "answer": 0,
-      "explanation": "The subordinate clause beginning with because explains the reason."
+      "explanation": "Brief means short in duration or length."
     },
     {
-      "id": "q059",
-      "category": "Pronunciation",
-      "question": "Which word rhymes with 'light'?",
+      "id": "q10018",
+      "category": "Telephone English",
+      "question": "How should you respond when answering a business call?",
       "options": [
-        "late",
-        "lit",
-        "night",
-        "let"
+        "Who is this?",
+        "State your name or organisation and offer help.",
+        "Speak faster.",
+        "Put the phone down."
+      ],
+      "answer": 1,
+      "explanation": "A professional greeting identifies the person or organisation and offers assistance."
+    },
+    {
+      "id": "q10019",
+      "category": "Grammar",
+      "question": "The equipment, along with the tools, ___ in the store room.",
+      "options": [
+        "are",
+        "were",
+        "is",
+        "have"
       ],
       "answer": 2,
-      "explanation": "Light and night share the same ending sound."
+      "explanation": "The subject equipment is uncountable and singular; along with does not change it."
+    },
+    {
+      "id": "q10020",
+      "category": "Collocations",
+      "question": "Which word commonly completes the phrase '___ a decision'?",
+      "options": [
+        "do",
+        "make",
+        "take up",
+        "build"
+      ],
+      "answer": 1,
+      "explanation": "The standard collocation is make a decision."
     }
   ]
 }
