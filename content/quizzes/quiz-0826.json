@@ -3,139 +3,139 @@
   "slug": "quiz-0826",
   "title": "English Practice Quiz 0826",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q013",
-      "category": "Tenses",
-      "question": "At 8 p.m. yesterday, I ___ dinner.",
+      "id": "q11751",
+      "category": "Digital Privacy",
+      "question": "Digital Privacy 01: Personal data is information that:",
       "options": [
-        "cook",
-        "cooked",
-        "was cooking",
-        "am cooking"
-      ],
-      "answer": 2,
-      "explanation": "Use the past continuous for an action in progress at a specific past time."
-    },
-    {
-      "id": "q036",
-      "category": "Prepositions",
-      "question": "The meeting starts ___ 9 a.m.",
-      "options": [
-        "in",
-        "on",
-        "at",
-        "by"
-      ],
-      "answer": 2,
-      "explanation": "Use at for a specific clock time."
-    },
-    {
-      "id": "q059",
-      "category": "Pronunciation",
-      "question": "Which word rhymes with 'light'?",
-      "options": [
-        "late",
-        "lit",
-        "night",
-        "let"
-      ],
-      "answer": 2,
-      "explanation": "Light and night share the same ending sound."
-    },
-    {
-      "id": "q082",
-      "category": "Confusing Words",
-      "question": "The weather can ___ your travel plans.",
-      "options": [
-        "affect",
-        "effect",
-        "infect",
-        "effort"
+        "Identifies or can identify an individual",
+        "Only describes a building",
+        "Contains weather forecasts",
+        "Lists generic prices"
       ],
       "answer": 0,
-      "explanation": "Affect is usually a verb meaning to influence."
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
     },
     {
-      "id": "q105",
-      "category": "Determiners",
-      "question": "___ student must bring an ID card.",
+      "id": "q11752",
+      "category": "Digital Privacy",
+      "question": "Digital Privacy 02: Data minimisation means:",
       "options": [
-        "Each",
-        "Many",
-        "Few",
-        "Several"
+        "Collecting only information needed for a stated purpose",
+        "Collecting every detail",
+        "Keeping all data forever",
+        "Sharing with every department"
       ],
       "answer": 0,
-      "explanation": "Each refers to every individual in a group."
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
     },
     {
-      "id": "q013",
-      "category": "Tenses",
-      "question": "At 8 p.m. yesterday, I ___ dinner.",
+      "id": "q11753",
+      "category": "Digital Privacy",
+      "question": "Digital Privacy 03: A data breach may involve:",
       "options": [
-        "cook",
-        "cooked",
-        "was cooking",
-        "am cooking"
-      ],
-      "answer": 2,
-      "explanation": "Use the past continuous for an action in progress at a specific past time."
-    },
-    {
-      "id": "q036",
-      "category": "Prepositions",
-      "question": "The meeting starts ___ 9 a.m.",
-      "options": [
-        "in",
-        "on",
-        "at",
-        "by"
-      ],
-      "answer": 2,
-      "explanation": "Use at for a specific clock time."
-    },
-    {
-      "id": "q059",
-      "category": "Pronunciation",
-      "question": "Which word rhymes with 'light'?",
-      "options": [
-        "late",
-        "lit",
-        "night",
-        "let"
-      ],
-      "answer": 2,
-      "explanation": "Light and night share the same ending sound."
-    },
-    {
-      "id": "q082",
-      "category": "Confusing Words",
-      "question": "The weather can ___ your travel plans.",
-      "options": [
-        "affect",
-        "effect",
-        "infect",
-        "effort"
+        "Unauthorised access, disclosure or loss of personal information",
+        "A routine update",
+        "A team meeting",
+        "A document revision"
       ],
       "answer": 0,
-      "explanation": "Affect is usually a verb meaning to influence."
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
     },
     {
-      "id": "q105",
-      "category": "Determiners",
-      "question": "___ student must bring an ID card.",
+      "id": "q11754",
+      "category": "Digital Privacy",
+      "question": "Digital Privacy 04: Before sending a file with personal information, verify:",
       "options": [
-        "Each",
-        "Many",
-        "Few",
-        "Several"
+        "The recipient and their authority to receive it",
+        "Only file colour",
+        "Signature design",
+        "Sender's lunch time"
       ],
       "answer": 0,
-      "explanation": "Each refers to every individual in a group."
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
+    },
+    {
+      "id": "q11755",
+      "category": "Digital Privacy",
+      "question": "Digital Privacy 05: A privacy notice should explain:",
+      "options": [
+        "How personal information is collected and used",
+        "Office seating plan",
+        "Private opinions",
+        "Supplier route"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
+    },
+    {
+      "id": "q11756",
+      "category": "Digital Privacy",
+      "question": "Digital Privacy 06: Anonymisation aims to:",
+      "options": [
+        "Remove identifying links to individuals",
+        "Increase personal data",
+        "Create a public contact list",
+        "Add invoice passwords"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
+    },
+    {
+      "id": "q11757",
+      "category": "Digital Privacy",
+      "question": "Digital Privacy 07: A data controller generally:",
+      "options": [
+        "Determines purposes and means of processing personal data",
+        "Repairs printers",
+        "Delivers stationery",
+        "Approves access cards"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
+    },
+    {
+      "id": "q11758",
+      "category": "Digital Privacy",
+      "question": "Digital Privacy 08: A secure screen practice is to:",
+      "options": [
+        "Lock the device when leaving it unattended",
+        "Leave records open",
+        "Share the login session",
+        "Disable screen lock"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
+    },
+    {
+      "id": "q11759",
+      "category": "Digital Privacy",
+      "question": "Digital Privacy 09: A retention policy helps prevent:",
+      "options": [
+        "Keeping records longer than necessary",
+        "Using unique file names",
+        "Authorised access",
+        "Data validation"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
+    },
+    {
+      "id": "q11760",
+      "category": "Digital Privacy",
+      "question": "Digital Privacy 10: A suspected data incident should be:",
+      "options": [
+        "Reported promptly through the designated process",
+        "Discussed publicly first",
+        "Deleted from logs",
+        "Ignored until an audit"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
     }
   ]
 }
