@@ -3,139 +3,139 @@
   "slug": "quiz-0825",
   "title": "English Practice Quiz 0825",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q111",
-      "category": "Gerunds",
-      "question": "I enjoy ___ books.",
+      "id": "q11741",
+      "category": "Logistics",
+      "question": "Logistics 01: A dispatch note generally accompanies:",
       "options": [
-        "read",
-        "to read",
-        "reading",
-        "reads"
-      ],
-      "answer": 2,
-      "explanation": "Enjoy is followed by a gerund (-ing form)."
-    },
-    {
-      "id": "q015",
-      "category": "Tenses",
-      "question": "She ___ the report before the manager arrived.",
-      "options": [
-        "finished",
-        "has finished",
-        "had finished",
-        "finishes"
-      ],
-      "answer": 2,
-      "explanation": "Use the past perfect for an action completed before another past action."
-    },
-    {
-      "id": "q034",
-      "category": "Articles",
-      "question": "He wants to become ___ engineer.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "Engineer begins with a vowel sound, so use an."
-    },
-    {
-      "id": "q053",
-      "category": "Conversation",
-      "question": "A visitor asks, 'Where is reception?' You say:",
-      "options": [
-        "It is near the main entrance.",
-        "I am reception.",
-        "Yesterday at home.",
-        "No, it isn't."
+        "Goods sent from a supplier or warehouse",
+        "A staff appraisal",
+        "A meeting invitation",
+        "A leave application"
       ],
       "answer": 0,
-      "explanation": "Give a clear location using a complete sentence."
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
     },
     {
-      "id": "q072",
-      "category": "Questions",
-      "question": "Which question asks about time?",
+      "id": "q11742",
+      "category": "Logistics",
+      "question": "Logistics 02: Lead time is the period between:",
       "options": [
-        "Who is calling?",
-        "When does the train leave?",
-        "Where is the station?",
-        "Why are you here?"
+        "Placing an order and receiving it",
+        "Opening and closing an office",
+        "Two staff breaks",
+        "An invoice and salary review"
       ],
-      "answer": 1,
-      "explanation": "When asks about time."
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
     },
     {
-      "id": "q091",
-      "category": "Passive Voice",
-      "question": "Choose the passive form: 'They clean the room.'",
+      "id": "q11743",
+      "category": "Logistics",
+      "question": "Logistics 03: A warehouse picking list tells staff:",
       "options": [
-        "The room cleaned them.",
-        "The room is cleaned by them.",
-        "The room is cleaning.",
-        "The room has clean."
+        "Which items and quantities to collect",
+        "Who needs training",
+        "Which invoices are overdue",
+        "Which doors need painting"
       ],
-      "answer": 1,
-      "explanation": "Present simple passive: am/is/are + past participle."
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
     },
     {
-      "id": "q110",
-      "category": "Adverbs",
-      "question": "Please drive ___.",
+      "id": "q11744",
+      "category": "Logistics",
+      "question": "Logistics 04: A backorder occurs when:",
       "options": [
-        "careful",
-        "carefully",
-        "care",
-        "caring"
+        "An item is temporarily unavailable and will be supplied later",
+        "An order arrives early",
+        "A customer pays cash",
+        "A shipment is cancelled"
       ],
-      "answer": 1,
-      "explanation": "Carefully is the adverb modifying drive."
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
     },
     {
-      "id": "q014",
-      "category": "Tenses",
-      "question": "I think it ___ tomorrow.",
+      "id": "q11745",
+      "category": "Logistics",
+      "question": "Logistics 05: A consignment is:",
       "options": [
-        "rains",
-        "rained",
-        "will rain",
-        "raining"
+        "A batch of goods entrusted for transport or sale",
+        "An attendance sheet",
+        "A safety warning",
+        "A bank reconciliation"
       ],
-      "answer": 2,
-      "explanation": "Will plus the base verb can express a future prediction."
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
     },
     {
-      "id": "q033",
-      "category": "Articles",
-      "question": "Please close ___ door.",
+      "id": "q11746",
+      "category": "Logistics",
+      "question": "Logistics 06: A delivery discrepancy should be:",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
+        "Recorded and reported to the responsible party",
+        "Ignored if sealed",
+        "Changed in supplier records",
+        "Hidden from stock records"
       ],
-      "answer": 2,
-      "explanation": "The refers to a specific door known to the speaker and listener."
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
     },
     {
-      "id": "q052",
-      "category": "Conversation",
-      "question": "You did not hear someone. You say:",
+      "id": "q11747",
+      "category": "Logistics",
+      "question": "Logistics 07: A cold chain maintains:",
       "options": [
-        "Speak now!",
-        "Could you repeat that, please?",
-        "What your problem?",
-        "I don't hear you yesterday."
+        "Required temperature conditions during storage and transport",
+        "Winter uniforms",
+        "Cooling bills only",
+        "A fixed route"
       ],
-      "answer": 1,
-      "explanation": "Could you repeat that, please? is a polite request."
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
+    },
+    {
+      "id": "q11748",
+      "category": "Logistics",
+      "question": "Logistics 08: A stockout means:",
+      "options": [
+        "An item is unavailable when needed",
+        "Stock counted twice",
+        "Delivery signed",
+        "Supplier changed its logo"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
+    },
+    {
+      "id": "q11749",
+      "category": "Logistics",
+      "question": "Logistics 09: Route optimisation aims to:",
+      "options": [
+        "Improve delivery efficiency and reduce unnecessary travel",
+        "Increase empty journeys",
+        "Ignore delivery windows",
+        "Avoid fuel records"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
+    },
+    {
+      "id": "q11750",
+      "category": "Logistics",
+      "question": "Logistics 10: A proof of delivery confirms:",
+      "options": [
+        "Goods were delivered to the stated recipient or location",
+        "An order was requested",
+        "A quotation was approved",
+        "A vehicle was serviced"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
     }
   ]
 }
