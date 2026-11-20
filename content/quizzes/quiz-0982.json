@@ -3,139 +3,139 @@
   "slug": "quiz-0982",
   "title": "English Practice Quiz 0982",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q020",
-      "category": "Tenses",
-      "question": "By next June, he ___ the course.",
+      "id": "q10111",
+      "category": "Food and Dining",
+      "question": "At a restaurant, how can you politely ask for the menu?",
       "options": [
-        "completes",
-        "completed",
-        "will have completed",
-        "has complete"
-      ],
-      "answer": 2,
-      "explanation": "The future perfect describes an action completed before a future time."
-    },
-    {
-      "id": "q031",
-      "category": "Articles",
-      "question": "I saw ___ elephant at the zoo.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
+        "Bring menu now.",
+        "Could we see the menu, please?",
+        "Menu give.",
+        "Where menu is?"
       ],
       "answer": 1,
-      "explanation": "Use an before a vowel sound."
+      "explanation": "Could we see... please? is a polite request."
     },
     {
-      "id": "q042",
-      "category": "Modals",
-      "question": "You ___ smoke inside the hospital.",
+      "id": "q10112",
+      "category": "Food and Dining",
+      "question": "A dish described as 'spicy' has ___.",
       "options": [
-        "must",
-        "mustn't",
-        "should",
-        "could"
-      ],
-      "answer": 1,
-      "explanation": "Mustn't expresses prohibition."
-    },
-    {
-      "id": "q053",
-      "category": "Conversation",
-      "question": "A visitor asks, 'Where is reception?' You say:",
-      "options": [
-        "It is near the main entrance.",
-        "I am reception.",
-        "Yesterday at home.",
-        "No, it isn't."
+        "a hot flavour",
+        "no flavour",
+        "a sweet smell only",
+        "a frozen texture"
       ],
       "answer": 0,
-      "explanation": "Give a clear location using a complete sentence."
+      "explanation": "Spicy describes food with a strong, hot taste."
     },
     {
-      "id": "q064",
-      "category": "Reading",
-      "question": "Read: 'The meeting was cancelled because the manager was ill.' Why was it cancelled?",
+      "id": "q10113",
+      "category": "Food and Dining",
+      "question": "If you cannot eat peanuts, you should ___.",
       "options": [
-        "The room was full",
-        "The manager was ill",
-        "It was Sunday",
-        "The staff were late"
+        "inform the server about the allergy",
+        "say nothing",
+        "order the first dish",
+        "share your food"
       ],
-      "answer": 1,
-      "explanation": "The reason is explicitly stated: the manager was ill."
+      "answer": 0,
+      "explanation": "Informing the server helps avoid an allergen."
     },
     {
-      "id": "q075",
-      "category": "Questions",
-      "question": "Choose the correct question tag: 'You are ready, ___?'",
+      "id": "q10114",
+      "category": "Food and Dining",
+      "question": "What does 'vegetarian' usually mean?",
       "options": [
-        "are you",
-        "aren't you",
-        "do you",
-        "don't you"
+        "eats no meat",
+        "eats only fish",
+        "avoids all vegetables",
+        "eats only desserts"
       ],
-      "answer": 1,
-      "explanation": "A positive statement with are usually takes the negative tag aren't you."
+      "answer": 0,
+      "explanation": "A vegetarian diet excludes meat."
     },
     {
-      "id": "q086",
-      "category": "Conditionals",
-      "question": "If it rains, we ___ indoors.",
+      "id": "q10115",
+      "category": "Food and Dining",
+      "question": "The bill at a restaurant is the ___.",
       "options": [
-        "stay",
-        "will stay",
-        "stayed",
-        "would stayed"
+        "list of ingredients",
+        "amount you need to pay",
+        "table reservation",
+        "chef's timetable"
       ],
       "answer": 1,
-      "explanation": "The first conditional uses if + present simple, will + base verb."
+      "explanation": "The bill states the amount due."
     },
     {
-      "id": "q097",
-      "category": "Reported Speech",
-      "question": "She said, 'I can swim.'",
+      "id": "q10116",
+      "category": "Food and Dining",
+      "question": "If your order is incorrect, you should ___.",
       "options": [
-        "She said she can swam.",
-        "She said that she could swim.",
-        "She said she swims can.",
-        "She told that could swim."
+        "explain the mistake politely",
+        "shout at other customers",
+        "leave without speaking",
+        "blame the kitchen staff personally"
       ],
-      "answer": 1,
-      "explanation": "Can commonly changes to could in reported speech after a past reporting verb."
+      "answer": 0,
+      "explanation": "A calm explanation helps staff correct the order."
     },
     {
-      "id": "q108",
-      "category": "Adverbs",
-      "question": "He speaks English ___.",
+      "id": "q10117",
+      "category": "Food and Dining",
+      "question": "A 'side dish' is usually served ___.",
       "options": [
-        "clear",
-        "clearly",
-        "clarity",
-        "clearest"
+        "alongside the main dish",
+        "before the restaurant opens",
+        "instead of a menu",
+        "only as a drink"
       ],
-      "answer": 1,
-      "explanation": "Clearly is the adverb describing how he speaks."
+      "answer": 0,
+      "explanation": "A side dish accompanies the main course."
     },
     {
-      "id": "q004",
-      "category": "Grammar",
-      "question": "There ___ two chairs in the room.",
+      "id": "q10118",
+      "category": "Food and Dining",
+      "question": "Which phrase asks whether a meal contains dairy?",
       "options": [
-        "is",
-        "are",
-        "am",
-        "was"
+        "Does this contain milk or cheese?",
+        "Is this table free?",
+        "When do you close?",
+        "Can I pay tomorrow?"
       ],
-      "answer": 1,
-      "explanation": "Use are with the plural noun chairs."
+      "answer": 0,
+      "explanation": "This directly asks about common dairy ingredients."
+    },
+    {
+      "id": "q10119",
+      "category": "Food and Dining",
+      "question": "If food is 'stale', it is ___.",
+      "options": [
+        "not fresh",
+        "very hot",
+        "freshly cooked",
+        "well decorated"
+      ],
+      "answer": 0,
+      "explanation": "Stale food is no longer fresh."
+    },
+    {
+      "id": "q10120",
+      "category": "Food and Dining",
+      "question": "A table for two means a table for ___.",
+      "options": [
+        "two people",
+        "two meals",
+        "two hours",
+        "two restaurants"
+      ],
+      "answer": 0,
+      "explanation": "The number refers to the people who will be seated."
     }
   ]
 }
