@@ -8,134 +8,134 @@
   "question_count": 10,
   "questions": [
     {
-      "id": "q028",
-      "category": "Vocabulary",
-      "question": "A place where medicines are dispensed is a ___.",
+      "id": "q10051",
+      "category": "Health and Safety English",
+      "question": "Which sentence clearly reports an injury?",
       "options": [
-        "bakery",
-        "pharmacy",
-        "library",
-        "garage"
+        "Someone is not good.",
+        "A visitor has injured their ankle near the entrance.",
+        "There is a thing outside.",
+        "Maybe someone fell."
       ],
       "answer": 1,
-      "explanation": "A pharmacy is a place where medicines are prepared or supplied."
+      "explanation": "A good incident report states what happened and where."
     },
     {
-      "id": "q051",
-      "category": "Conversation",
-      "question": "Someone says, 'Thank you for your help.' You reply:",
-      "options": [
-        "Never mind you.",
-        "You're welcome.",
-        "I am welcome you.",
-        "No thank."
-      ],
-      "answer": 1,
-      "explanation": "You're welcome is a natural response to thank you."
-    },
-    {
-      "id": "q074",
-      "category": "Questions",
-      "question": "Which question asks for a reason?",
-      "options": [
-        "What happened?",
-        "Where are you?",
-        "Why are you late?",
-        "When is lunch?"
-      ],
-      "answer": 2,
-      "explanation": "Why asks for a reason."
-    },
-    {
-      "id": "q097",
-      "category": "Reported Speech",
-      "question": "She said, 'I can swim.'",
-      "options": [
-        "She said she can swam.",
-        "She said that she could swim.",
-        "She said she swims can.",
-        "She told that could swim."
-      ],
-      "answer": 1,
-      "explanation": "Can commonly changes to could in reported speech after a past reporting verb."
-    },
-    {
-      "id": "q005",
+      "id": "q10052",
       "category": "Grammar",
-      "question": "Choose the correct sentence.",
+      "question": "Neither of the answers ___ correct.",
       "options": [
-        "She don't like tea.",
-        "She doesn't likes tea.",
-        "She doesn't like tea.",
-        "She not like tea."
+        "are",
+        "were",
+        "is",
+        "have"
       ],
       "answer": 2,
-      "explanation": "After doesn't, use the base form of the verb: like."
+      "explanation": "Neither is singular in standard formal usage and takes is."
     },
     {
-      "id": "q028",
+      "id": "q10053",
       "category": "Vocabulary",
-      "question": "A place where medicines are dispensed is a ___.",
+      "question": "A 'precaution' is an action taken to ___.",
       "options": [
-        "bakery",
-        "pharmacy",
-        "library",
-        "garage"
+        "prevent possible harm",
+        "celebrate an event",
+        "delay a meeting",
+        "record a payment"
+      ],
+      "answer": 0,
+      "explanation": "A precaution is a preventive measure taken in advance."
+    },
+    {
+      "id": "q10054",
+      "category": "Emergency Communication",
+      "question": "Which message is most useful in an emergency?",
+      "options": [
+        "Come quickly!",
+        "There is a fire alarm on the second floor. Please use the stairs.",
+        "Something happened somewhere.",
+        "Do not ask questions."
       ],
       "answer": 1,
-      "explanation": "A pharmacy is a place where medicines are prepared or supplied."
+      "explanation": "An emergency message should state the incident, location and safe action."
     },
     {
-      "id": "q051",
-      "category": "Conversation",
-      "question": "Someone says, 'Thank you for your help.' You reply:",
-      "options": [
-        "Never mind you.",
-        "You're welcome.",
-        "I am welcome you.",
-        "No thank."
-      ],
-      "answer": 1,
-      "explanation": "You're welcome is a natural response to thank you."
-    },
-    {
-      "id": "q074",
-      "category": "Questions",
-      "question": "Which question asks for a reason?",
-      "options": [
-        "What happened?",
-        "Where are you?",
-        "Why are you late?",
-        "When is lunch?"
-      ],
-      "answer": 2,
-      "explanation": "Why asks for a reason."
-    },
-    {
-      "id": "q097",
-      "category": "Reported Speech",
-      "question": "She said, 'I can swim.'",
-      "options": [
-        "She said she can swam.",
-        "She said that she could swim.",
-        "She said she swims can.",
-        "She told that could swim."
-      ],
-      "answer": 1,
-      "explanation": "Can commonly changes to could in reported speech after a past reporting verb."
-    },
-    {
-      "id": "q005",
+      "id": "q10055",
       "category": "Grammar",
-      "question": "Choose the correct sentence.",
+      "question": "The patient was advised ___ plenty of water.",
       "options": [
-        "She don't like tea.",
-        "She doesn't likes tea.",
-        "She doesn't like tea.",
-        "She not like tea."
+        "drink",
+        "drinking",
+        "to drink",
+        "drank"
       ],
       "answer": 2,
-      "explanation": "After doesn't, use the base form of the verb: like."
+      "explanation": "Advise someone is followed by a to-infinitive."
+    },
+    {
+      "id": "q10056",
+      "category": "Vocabulary",
+      "question": "A 'symptom' is ___.",
+      "options": [
+        "a sign of an illness",
+        "a type of appointment",
+        "a hospital room",
+        "a medical bill"
+      ],
+      "answer": 0,
+      "explanation": "A symptom is an indication that someone may have an illness."
+    },
+    {
+      "id": "q10057",
+      "category": "Reporting",
+      "question": "Which detail is essential in an incident report?",
+      "options": [
+        "Personal guesses",
+        "Date, time, location and factual description",
+        "Rumours from visitors",
+        "Unrelated opinions"
+      ],
+      "answer": 1,
+      "explanation": "An incident report should record verifiable facts and key event details."
+    },
+    {
+      "id": "q10058",
+      "category": "Grammar",
+      "question": "The alarm sounded while the guards ___ the entrance.",
+      "options": [
+        "check",
+        "were checking",
+        "have checked",
+        "are checked"
+      ],
+      "answer": 1,
+      "explanation": "Past continuous describes an action in progress when another past event occurred."
+    },
+    {
+      "id": "q10059",
+      "category": "Vocabulary",
+      "question": "To 'evacuate' a building means to ___.",
+      "options": [
+        "clean every room",
+        "move people out to safety",
+        "lock all windows",
+        "switch on the lights"
+      ],
+      "answer": 1,
+      "explanation": "Evacuate means move people away from danger to a safer place."
+    },
+    {
+      "id": "q10060",
+      "category": "Polite Instructions",
+      "question": "Which instruction is firm but courteous?",
+      "options": [
+        "Move now, idiot.",
+        "Please keep this passage clear.",
+        "Get out of my way.",
+        "You cannot stand here, okay?"
+      ],
+      "answer": 1,
+      "explanation": "Please keep this passage clear is direct, respectful and easy to understand."
     }
   ]
 }
