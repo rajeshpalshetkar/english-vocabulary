@@ -3,139 +3,139 @@
   "slug": "quiz-0963",
   "title": "English Practice Quiz 0963",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q042",
-      "category": "Modals",
-      "question": "You ___ smoke inside the hospital.",
+      "id": "q10321",
+      "category": "Weather and Emergencies",
+      "question": "A weather forecast predicts ___.",
       "options": [
-        "must",
-        "mustn't",
-        "should",
-        "could"
-      ],
-      "answer": 1,
-      "explanation": "Mustn't expresses prohibition."
-    },
-    {
-      "id": "q055",
-      "category": "Conversation",
-      "question": "A colleague asks for help. A polite reply is:",
-      "options": [
-        "Certainly. What do you need?",
-        "Never ask me.",
-        "You do yourself.",
-        "No speaking."
+        "likely weather conditions",
+        "the exact result of every election",
+        "the price of all goods",
+        "a person's examination marks"
       ],
       "answer": 0,
-      "explanation": "Certainly. What do you need? is helpful and polite."
+      "explanation": "A forecast gives an estimate of future weather."
     },
     {
-      "id": "q068",
-      "category": "Workplace English",
-      "question": "You need to report a problem. You say:",
+      "id": "q10322",
+      "category": "Weather and Emergencies",
+      "question": "During a thunderstorm, it is safer to stay ___.",
       "options": [
-        "There is an issue with the printer.",
-        "Printer bad you.",
-        "I issue printer.",
-        "No printer yesterday."
+        "inside a substantial building",
+        "under an isolated tree",
+        "in an open field",
+        "beside a tall metal pole"
       ],
       "answer": 0,
-      "explanation": "There is an issue with... clearly introduces a problem."
+      "explanation": "A substantial enclosed building offers better protection from lightning."
     },
     {
-      "id": "q081",
-      "category": "Confusing Words",
-      "question": "Choose the correct word: ___ going to arrive soon.",
+      "id": "q10323",
+      "category": "Weather and Emergencies",
+      "question": "A flood warning means people should ___.",
       "options": [
-        "Their",
-        "There",
-        "They're",
-        "Theirs"
-      ],
-      "answer": 2,
-      "explanation": "They're is the contraction of they are."
-    },
-    {
-      "id": "q094",
-      "category": "Passive Voice",
-      "question": "English ___ in many countries.",
-      "options": [
-        "speaks",
-        "is spoken",
-        "spoken",
-        "is speaking"
-      ],
-      "answer": 1,
-      "explanation": "Present simple passive: is spoken."
-    },
-    {
-      "id": "q107",
-      "category": "Adjectives",
-      "question": "She is the ___ student in the class.",
-      "options": [
-        "tall",
-        "taller",
-        "tallest",
-        "more tall"
-      ],
-      "answer": 2,
-      "explanation": "Use the superlative tallest when comparing one with the whole class."
-    },
-    {
-      "id": "q005",
-      "category": "Grammar",
-      "question": "Choose the correct sentence.",
-      "options": [
-        "She don't like tea.",
-        "She doesn't likes tea.",
-        "She doesn't like tea.",
-        "She not like tea."
-      ],
-      "answer": 2,
-      "explanation": "After doesn't, use the base form of the verb: like."
-    },
-    {
-      "id": "q018",
-      "category": "Tenses",
-      "question": "I ___ him last week.",
-      "options": [
-        "see",
-        "have seen",
-        "saw",
-        "seeing"
-      ],
-      "answer": 2,
-      "explanation": "Use the past simple with a finished past time such as last week."
-    },
-    {
-      "id": "q031",
-      "category": "Articles",
-      "question": "I saw ___ elephant at the zoo.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "Use an before a vowel sound."
-    },
-    {
-      "id": "q044",
-      "category": "Modals",
-      "question": "You look tired. You ___ get some rest.",
-      "options": [
-        "should",
-        "mustn't",
-        "can't",
-        "wouldn't"
+        "follow official safety instructions and avoid floodwater",
+        "drive through deep water",
+        "stand near a fast-moving river",
+        "ignore local alerts"
       ],
       "answer": 0,
-      "explanation": "Should gives advice."
+      "explanation": "Official instructions help people respond to flood risk."
+    },
+    {
+      "id": "q10324",
+      "category": "Weather and Emergencies",
+      "question": "A drought is a long period with ___.",
+      "options": [
+        "very little rainfall",
+        "continuous snowfall",
+        "strong daily earthquakes",
+        "unusually high tides only"
+      ],
+      "answer": 0,
+      "explanation": "Drought involves an extended shortage of precipitation."
+    },
+    {
+      "id": "q10325",
+      "category": "Weather and Emergencies",
+      "question": "During an emergency, information should come from ___.",
+      "options": [
+        "reliable official sources",
+        "unverified forwarded messages",
+        "anonymous rumours",
+        "edited screenshots without context"
+      ],
+      "answer": 0,
+      "explanation": "Official sources are more dependable for emergency instructions."
+    },
+    {
+      "id": "q10326",
+      "category": "Weather and Emergencies",
+      "question": "An evacuation is the act of ___.",
+      "options": [
+        "moving people away from danger",
+        "repairing a computer",
+        "counting office supplies",
+        "delaying a safety drill"
+      ],
+      "answer": 0,
+      "explanation": "Evacuation moves people from a hazardous area to safety."
+    },
+    {
+      "id": "q10327",
+      "category": "Weather and Emergencies",
+      "question": "A first-aid kit should be kept ___.",
+      "options": [
+        "accessible and regularly checked",
+        "locked away with no authorised access",
+        "empty",
+        "near an open flame"
+      ],
+      "answer": 0,
+      "explanation": "A checked and accessible kit can be useful in an emergency."
+    },
+    {
+      "id": "q10328",
+      "category": "Weather and Emergencies",
+      "question": "If heavy rain reduces visibility while driving, you should ___.",
+      "options": [
+        "slow down and increase following distance",
+        "speed up to reach sooner",
+        "switch off the headlights at night",
+        "follow the vehicle ahead very closely"
+      ],
+      "answer": 0,
+      "explanation": "Lower speed and more distance allow extra time to react."
+    },
+    {
+      "id": "q10329",
+      "category": "Weather and Emergencies",
+      "question": "A heatwave is a period of ___.",
+      "options": [
+        "unusually hot weather",
+        "heavy snowfall",
+        "continuous fog",
+        "below-freezing temperatures"
+      ],
+      "answer": 0,
+      "explanation": "A heatwave is an extended spell of unusually high temperatures."
+    },
+    {
+      "id": "q10330",
+      "category": "Weather and Emergencies",
+      "question": "An emergency contact list should contain ___.",
+      "options": [
+        "current numbers for relevant responders and responsible staff",
+        "unverified celebrity numbers",
+        "old disconnected numbers only",
+        "personal passwords"
+      ],
+      "answer": 0,
+      "explanation": "Accurate contact details help people reach the right support quickly."
     }
   ]
 }
