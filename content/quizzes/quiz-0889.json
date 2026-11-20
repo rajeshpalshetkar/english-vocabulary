@@ -3,139 +3,139 @@
   "slug": "quiz-0889",
   "title": "English Practice Quiz 0889",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q049",
-      "category": "Sentence Building",
-      "question": "Choose the correct plural of 'child'.",
+      "id": "q11181",
+      "category": "Leadership and Teamwork",
+      "question": "Delegation means:",
       "options": [
-        "childs",
-        "childes",
-        "children",
-        "childrens"
-      ],
-      "answer": 2,
-      "explanation": "Children is the irregular plural of child."
-    },
-    {
-      "id": "q086",
-      "category": "Conditionals",
-      "question": "If it rains, we ___ indoors.",
-      "options": [
-        "stay",
-        "will stay",
-        "stayed",
-        "would stayed"
-      ],
-      "answer": 1,
-      "explanation": "The first conditional uses if + present simple, will + base verb."
-    },
-    {
-      "id": "q008",
-      "category": "Grammar",
-      "question": "This is the woman ___ helped me.",
-      "options": [
-        "which",
-        "who",
-        "where",
-        "when"
-      ],
-      "answer": 1,
-      "explanation": "Who is used for people."
-    },
-    {
-      "id": "q045",
-      "category": "Modals",
-      "question": "It ___ rain later; take an umbrella.",
-      "options": [
-        "might",
-        "mustn't",
-        "shouldn't",
-        "has"
+        "assigning responsibility for a task to another person",
+        "avoiding all responsibility",
+        "cancelling a project",
+        "repeating the same work"
       ],
       "answer": 0,
-      "explanation": "Might expresses possibility."
+      "explanation": "Delegation assigns tasks and appropriate responsibility."
     },
     {
-      "id": "q082",
-      "category": "Confusing Words",
-      "question": "The weather can ___ your travel plans.",
+      "id": "q11182",
+      "category": "Leadership and Teamwork",
+      "question": "A constructive performance review should focus on:",
       "options": [
-        "affect",
-        "effect",
-        "infect",
-        "effort"
+        "specific behaviour, results and development",
+        "personal insults",
+        "unverified rumours",
+        "irrelevant private matters"
       ],
       "answer": 0,
-      "explanation": "Affect is usually a verb meaning to influence."
+      "explanation": "Specific evidence supports fair feedback and improvement."
     },
     {
-      "id": "q004",
-      "category": "Grammar",
-      "question": "There ___ two chairs in the room.",
+      "id": "q11183",
+      "category": "Leadership and Teamwork",
+      "question": "A team member makes a mistake. A helpful leader should:",
       "options": [
-        "is",
-        "are",
-        "am",
-        "was"
+        "understand the cause and agree corrective action",
+        "humiliate the person publicly",
+        "hide the incident",
+        "blame the entire team"
+      ],
+      "answer": 0,
+      "explanation": "A learning-focused response addresses causes and prevents recurrence."
+    },
+    {
+      "id": "q11184",
+      "category": "Leadership and Teamwork",
+      "question": "Which behaviour demonstrates accountability?",
+      "options": [
+        "accepting responsibility and following through",
+        "blaming others automatically",
+        "avoiding updates",
+        "changing records secretly"
+      ],
+      "answer": 0,
+      "explanation": "Accountability includes ownership and completion of commitments."
+    },
+    {
+      "id": "q11185",
+      "category": "Leadership and Teamwork",
+      "question": "A team with clear roles is less likely to experience:",
+      "options": [
+        "confusion over responsibilities",
+        "communication",
+        "cooperation",
+        "shared planning"
+      ],
+      "answer": 0,
+      "explanation": "Clear roles reduce uncertainty about who does what."
+    },
+    {
+      "id": "q11186",
+      "category": "Leadership and Teamwork",
+      "question": "'Consensus' means:",
+      "options": [
+        "general agreement among a group",
+        "a private complaint",
+        "a strict timetable",
+        "a financial penalty"
+      ],
+      "answer": 0,
+      "explanation": "Consensus is a broadly shared agreement."
+    },
+    {
+      "id": "q11187",
+      "category": "Leadership and Teamwork",
+      "question": "When priorities conflict, a supervisor should:",
+      "options": [
+        "assess urgency and impact before assigning work",
+        "choose randomly",
+        "ignore both tasks",
+        "always select the easiest task"
+      ],
+      "answer": 0,
+      "explanation": "Prioritisation should consider urgency, impact and available resources."
+    },
+    {
+      "id": "q11188",
+      "category": "Leadership and Teamwork",
+      "question": "Which feedback is most actionable?",
+      "options": [
+        "Improve your attitude.",
+        "Submit the daily log by 6 p.m. and include pending issues.",
+        "Do better somehow.",
+        "You are not good."
       ],
       "answer": 1,
-      "explanation": "Use are with the plural noun chairs."
+      "explanation": "It states a clear behaviour and measurable expectation."
     },
     {
-      "id": "q041",
-      "category": "Modals",
-      "question": "___ I borrow your pen, please?",
+      "id": "q11189",
+      "category": "Leadership and Teamwork",
+      "question": "A collaborative team member is willing to:",
       "options": [
-        "May",
-        "Must",
-        "Should",
-        "Would have"
+        "share relevant information and support colleagues",
+        "withhold essential updates",
+        "compete by hiding resources",
+        "reject every suggestion"
       ],
       "answer": 0,
-      "explanation": "May is a polite way to ask permission."
+      "explanation": "Collaboration involves sharing information and helping the team."
     },
     {
-      "id": "q078",
-      "category": "Punctuation",
-      "question": "Choose the correct sentence.",
+      "id": "q11190",
+      "category": "Leadership and Teamwork",
+      "question": "A leader who listens to different viewpoints is showing:",
       "options": [
-        "I like tea, coffee and milk.",
-        "I like tea coffee and milk",
-        "I like, tea coffee, and milk.",
-        "i like tea, coffee and milk"
+        "openness",
+        "indifference",
+        "rigidity",
+        "negligence"
       ],
       "answer": 0,
-      "explanation": "Use commas to separate items in a list and capitalise the first word."
-    },
-    {
-      "id": "q115",
-      "category": "Gerunds",
-      "question": "I want ___ English fluently.",
-      "options": [
-        "speak",
-        "speaking",
-        "to speak",
-        "spoke"
-      ],
-      "answer": 2,
-      "explanation": "Want is followed by a to-infinitive."
-    },
-    {
-      "id": "q037",
-      "category": "Prepositions",
-      "question": "My birthday is ___ July.",
-      "options": [
-        "at",
-        "in",
-        "on",
-        "from"
-      ],
-      "answer": 1,
-      "explanation": "Use in with months."
+      "explanation": "Openness means considering others' perspectives."
     }
   ]
 }
