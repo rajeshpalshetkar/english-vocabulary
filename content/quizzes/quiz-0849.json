@@ -3,139 +3,139 @@
   "slug": "quiz-0849",
   "title": "English Practice Quiz 0849",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
-  "level": "Intermediate",
+  "category": "Practical English",
+  "level": "Advanced",
   "question_count": 10,
   "questions": [
     {
-      "id": "q059",
-      "category": "Pronunciation",
-      "question": "Which word rhymes with 'light'?",
+      "id": "q11581",
+      "category": "Advanced English Usage",
+      "question": "Advanced English Usage 01: Choose the correct sentence:",
       "options": [
-        "late",
-        "lit",
-        "night",
-        "let"
-      ],
-      "answer": 2,
-      "explanation": "Light and night share the same ending sound."
-    },
-    {
-      "id": "q096",
-      "category": "Reported Speech",
-      "question": "He said, 'I am tired.' Reported speech:",
-      "options": [
-        "He said that he was tired.",
-        "He said I am tired.",
-        "He says that I tired.",
-        "He said he is tire."
+        "Hardly had the meeting begun when the alarm rang.",
+        "Hardly the meeting had begun when the alarm rang.",
+        "Hardly had begun the meeting when alarm rang.",
+        "Hardly meeting begun when alarm rang."
       ],
       "answer": 0,
-      "explanation": "In standard backshift, am changes to was after a past reporting verb."
+      "explanation": "Choose the correct sentence: The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q018",
-      "category": "Tenses",
-      "question": "I ___ him last week.",
+      "id": "q11582",
+      "category": "Advanced English Usage",
+      "question": "Advanced English Usage 02: The manager insisted ___ a written explanation.",
       "options": [
-        "see",
-        "have seen",
-        "saw",
-        "seeing"
-      ],
-      "answer": 2,
-      "explanation": "Use the past simple with a finished past time such as last week."
-    },
-    {
-      "id": "q055",
-      "category": "Conversation",
-      "question": "A colleague asks for help. A polite reply is:",
-      "options": [
-        "Certainly. What do you need?",
-        "Never ask me.",
-        "You do yourself.",
-        "No speaking."
+        "on receiving",
+        "to receive",
+        "receive",
+        "for receive"
       ],
       "answer": 0,
-      "explanation": "Certainly. What do you need? is helpful and polite."
+      "explanation": "The manager insisted ___ a written explanation. The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q092",
-      "category": "Passive Voice",
-      "question": "Choose the passive form: 'The manager signed the letter.'",
+      "id": "q11583",
+      "category": "Advanced English Usage",
+      "question": "Advanced English Usage 03: Choose the correct use of 'affect':",
       "options": [
-        "The letter is signed.",
-        "The letter was signed by the manager.",
-        "The letter signed the manager.",
-        "The letter has sign."
+        "The delay may affect the delivery schedule.",
+        "The affect was positive.",
+        "We need to affect a solution.",
+        "Its affect is unknown."
       ],
-      "answer": 1,
-      "explanation": "Past simple passive: was/were + past participle."
+      "answer": 0,
+      "explanation": "Choose the correct use of 'affect': The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q014",
-      "category": "Tenses",
-      "question": "I think it ___ tomorrow.",
+      "id": "q11584",
+      "category": "Advanced English Usage",
+      "question": "Advanced English Usage 04: Choose the correct expression:",
       "options": [
-        "rains",
-        "rained",
-        "will rain",
-        "raining"
+        "Despite the heavy rain, the event continued.",
+        "Despite of the heavy rain, it continued.",
+        "Although the heavy rain, it continued.",
+        "In spite the heavy rain, it continued."
       ],
-      "answer": 2,
-      "explanation": "Will plus the base verb can express a future prediction."
+      "answer": 0,
+      "explanation": "Choose the correct expression: The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q051",
-      "category": "Conversation",
-      "question": "Someone says, 'Thank you for your help.' You reply:",
+      "id": "q11585",
+      "category": "Advanced English Usage",
+      "question": "Advanced English Usage 05: Choose the correct sentence:",
       "options": [
-        "Never mind you.",
-        "You're welcome.",
-        "I am welcome you.",
-        "No thank."
+        "Each applicant has submitted a form.",
+        "Each applicant have submitted a form.",
+        "Each applicants has submitted a form.",
+        "Each of applicant have submit."
       ],
-      "answer": 1,
-      "explanation": "You're welcome is a natural response to thank you."
+      "answer": 0,
+      "explanation": "Choose the correct sentence: The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q088",
-      "category": "Conditionals",
-      "question": "If you heat ice, it ___.",
+      "id": "q11586",
+      "category": "Advanced English Usage",
+      "question": "Advanced English Usage 06: The figures were incomplete; ___, the report was delayed.",
       "options": [
-        "melt",
-        "melts",
-        "will melted",
-        "melting"
+        "therefore",
+        "however",
+        "although",
+        "meanwhile"
       ],
-      "answer": 1,
-      "explanation": "The zero conditional uses present simple for general truths."
+      "answer": 0,
+      "explanation": "The figures were incomplete; ___, the report was delayed. The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q010",
-      "category": "Grammar",
-      "question": "You ___ wear your identity card at work.",
+      "id": "q11587",
+      "category": "Advanced English Usage",
+      "question": "Advanced English Usage 07: Which phrase means to make a problem worse?",
       "options": [
-        "should to",
-        "should",
-        "are should",
-        "shoulds"
+        "Exacerbate the problem",
+        "Alleviate the problem",
+        "Resolve the issue",
+        "Clarify the point"
       ],
-      "answer": 1,
-      "explanation": "Modal verbs such as should are followed by the base verb without to."
+      "answer": 0,
+      "explanation": "Which phrase means to make a problem worse? The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q047",
-      "category": "Sentence Building",
-      "question": "Choose the correct question.",
+      "id": "q11588",
+      "category": "Advanced English Usage",
+      "question": "Advanced English Usage 08: Choose the correct sentence:",
       "options": [
-        "Where you live?",
-        "Where do you live?",
-        "Where does you live?",
-        "Where are live you?"
+        "The information was carefully verified.",
+        "The informations were verified.",
+        "The information were verified.",
+        "An information was verified."
       ],
-      "answer": 1,
-      "explanation": "Use do + subject + base verb for present simple questions with you."
+      "answer": 0,
+      "explanation": "Choose the correct sentence: The first option is correct because it reflects the relevant principle or standard."
+    },
+    {
+      "id": "q11589",
+      "category": "Advanced English Usage",
+      "question": "Advanced English Usage 09: Choose the correct conditional:",
+      "options": [
+        "Were the deadline extended, we could complete the review.",
+        "Was the deadline extended, we could complete the review.",
+        "If the deadline would extend, we complete it.",
+        "Were extended the deadline, we can completed."
+      ],
+      "answer": 0,
+      "explanation": "Choose the correct conditional: The first option is correct because it reflects the relevant principle or standard."
+    },
+    {
+      "id": "q11590",
+      "category": "Advanced English Usage",
+      "question": "Advanced English Usage 10: Choose the correct collocation:",
+      "options": [
+        "Reach a consensus",
+        "Do a consensus",
+        "Make a consensus to",
+        "Arrive consensus"
+      ],
+      "answer": 0,
+      "explanation": "Choose the correct collocation: The first option is correct because it reflects the relevant principle or standard."
     }
   ]
 }
