@@ -3,139 +3,139 @@
   "slug": "quiz-0907",
   "title": "English Practice Quiz 0907",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q010",
-      "category": "Grammar",
-      "question": "You ___ wear your identity card at work.",
+      "id": "q10961",
+      "category": "Problem Solving",
+      "question": "A root-cause analysis aims to identify ___.",
       "options": [
-        "should to",
-        "should",
-        "are should",
-        "shoulds"
-      ],
-      "answer": 1,
-      "explanation": "Modal verbs such as should are followed by the base verb without to."
-    },
-    {
-      "id": "q039",
-      "category": "Prepositions",
-      "question": "She is interested ___ music.",
-      "options": [
-        "on",
-        "at",
-        "in",
-        "for"
+        "someone to blame immediately",
+        "the quickest rumour",
+        "the underlying reason a problem occurred",
+        "an unrelated outcome"
       ],
       "answer": 2,
-      "explanation": "The adjective interested is followed by in."
+      "explanation": "the underlying reason a problem occurred is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q068",
-      "category": "Workplace English",
-      "question": "You need to report a problem. You say:",
+      "id": "q10962",
+      "category": "Problem Solving",
+      "question": "When comparing possible solutions, consider ___.",
       "options": [
-        "There is an issue with the printer.",
-        "Printer bad you.",
-        "I issue printer.",
-        "No printer yesterday."
+        "personal popularity only",
+        "evidence, cost, risk and expected benefit",
+        "random choice",
+        "the longest description"
+      ],
+      "answer": 1,
+      "explanation": "evidence, cost, risk and expected benefit is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q10963",
+      "category": "Problem Solving",
+      "question": "A temporary workaround is intended to ___.",
+      "options": [
+        "keep operations functioning until a lasting fix is available",
+        "replace every final solution",
+        "hide the problem",
+        "remove reporting"
       ],
       "answer": 0,
-      "explanation": "There is an issue with... clearly introduces a problem."
+      "explanation": "keep operations functioning until a lasting fix is available is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q097",
-      "category": "Reported Speech",
-      "question": "She said, 'I can swim.'",
+      "id": "q10964",
+      "category": "Problem Solving",
+      "question": "A problem statement should describe ___.",
       "options": [
-        "She said she can swam.",
-        "She said that she could swim.",
-        "She said she swims can.",
-        "She told that could swim."
+        "a proposed blame",
+        "unrelated history",
+        "only an emotional opinion",
+        "the issue, its impact and relevant context"
       ],
-      "answer": 1,
-      "explanation": "Can commonly changes to could in reported speech after a past reporting verb."
+      "answer": 3,
+      "explanation": "the issue, its impact and relevant context is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q011",
-      "category": "Tenses",
-      "question": "Listen! The baby ___.",
+      "id": "q10965",
+      "category": "Problem Solving",
+      "question": "A pilot test evaluates a solution ___.",
       "options": [
-        "cries",
-        "is crying",
-        "cry",
-        "cried"
-      ],
-      "answer": 1,
-      "explanation": "Listen! suggests an action happening now, so use the present continuous."
-    },
-    {
-      "id": "q040",
-      "category": "Prepositions",
-      "question": "The hospital is ___ the bank and the post office.",
-      "options": [
-        "among",
-        "between",
-        "inside",
-        "over"
-      ],
-      "answer": 1,
-      "explanation": "Between is used for a position separating two things."
-    },
-    {
-      "id": "q069",
-      "category": "Workplace English",
-      "question": "A polite way to disagree is:",
-      "options": [
-        "You are totally wrong.",
-        "I see your point, but I have a different view.",
-        "No, stop.",
-        "That is stupid."
-      ],
-      "answer": 1,
-      "explanation": "This phrase acknowledges the other person before presenting a different view."
-    },
-    {
-      "id": "q098",
-      "category": "Reported Speech",
-      "question": "He asked, 'Where do you live?'",
-      "options": [
-        "He asked where I lived.",
-        "He asked where do I live.",
-        "He asked where did I lived.",
-        "He asked where I live do."
-      ],
-      "answer": 0,
-      "explanation": "Reported questions use statement word order; do is removed."
-    },
-    {
-      "id": "q012",
-      "category": "Tenses",
-      "question": "We ___ here since 2022.",
-      "options": [
-        "live",
-        "lived",
-        "have lived",
-        "are live"
+        "without measuring results",
+        "by replacing every procedure",
+        "on a limited scale before wider use",
+        "without feedback"
       ],
       "answer": 2,
-      "explanation": "Since gives a starting point; the present perfect connects the past to now."
+      "explanation": "on a limited scale before wider use is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q041",
-      "category": "Modals",
-      "question": "___ I borrow your pen, please?",
+      "id": "q10966",
+      "category": "Problem Solving",
+      "question": "If a solution does not work, the team should ___.",
       "options": [
-        "May",
-        "Must",
-        "Should",
-        "Would have"
+        "hide the outcome",
+        "review the evidence and adjust the approach",
+        "repeat it without review",
+        "blame the user"
+      ],
+      "answer": 1,
+      "explanation": "review the evidence and adjust the approach is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q10967",
+      "category": "Problem Solving",
+      "question": "A decision log records ___.",
+      "options": [
+        "the decision, rationale and relevant date",
+        "personal gossip",
+        "unrelated purchases",
+        "private passwords"
       ],
       "answer": 0,
-      "explanation": "May is a polite way to ask permission."
+      "explanation": "the decision, rationale and relevant date is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q10968",
+      "category": "Problem Solving",
+      "question": "A measurable success criterion helps determine ___.",
+      "options": [
+        "who speaks loudest",
+        "which option looks attractive",
+        "meeting duration",
+        "whether the solution achieved its objective"
+      ],
+      "answer": 3,
+      "explanation": "whether the solution achieved its objective is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q10969",
+      "category": "Problem Solving",
+      "question": "When escalating a problem, include ___.",
+      "options": [
+        "unverified accusations",
+        "unrelated messages",
+        "key facts, actions already taken and support needed",
+        "a vague complaint"
+      ],
+      "answer": 2,
+      "explanation": "key facts, actions already taken and support needed is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q10970",
+      "category": "Problem Solving",
+      "question": "Preventive action is intended to ___.",
+      "options": [
+        "hide a past incident",
+        "reduce the chance of a problem happening again",
+        "delay every repair",
+        "remove accountability"
+      ],
+      "answer": 1,
+      "explanation": "reduce the chance of a problem happening again is the correct answer based on the meaning and context of the question."
     }
   ]
 }
