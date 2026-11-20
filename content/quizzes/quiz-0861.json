@@ -3,139 +3,139 @@
   "slug": "quiz-0861",
   "title": "English Practice Quiz 0861",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q033",
-      "category": "Articles",
-      "question": "Please close ___ door.",
+      "id": "q11301",
+      "category": "Healthcare English",
+      "question": "Healthcare English: A patient asks for the laboratory. Which direction is clearest?",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 2,
-      "explanation": "The refers to a specific door known to the speaker and listener."
-    },
-    {
-      "id": "q042",
-      "category": "Modals",
-      "question": "You ___ smoke inside the hospital.",
-      "options": [
-        "must",
-        "mustn't",
-        "should",
-        "could"
-      ],
-      "answer": 1,
-      "explanation": "Mustn't expresses prohibition."
-    },
-    {
-      "id": "q051",
-      "category": "Conversation",
-      "question": "Someone says, 'Thank you for your help.' You reply:",
-      "options": [
-        "Never mind you.",
-        "You're welcome.",
-        "I am welcome you.",
-        "No thank."
-      ],
-      "answer": 1,
-      "explanation": "You're welcome is a natural response to thank you."
-    },
-    {
-      "id": "q060",
-      "category": "Pronunciation",
-      "question": "How many syllables are in 'computer'?",
-      "options": [
-        "one",
-        "two",
-        "three",
-        "four"
-      ],
-      "answer": 2,
-      "explanation": "Computer is commonly pronounced with three syllables: com-pu-ter."
-    },
-    {
-      "id": "q069",
-      "category": "Workplace English",
-      "question": "A polite way to disagree is:",
-      "options": [
-        "You are totally wrong.",
-        "I see your point, but I have a different view.",
-        "No, stop.",
-        "That is stupid."
-      ],
-      "answer": 1,
-      "explanation": "This phrase acknowledges the other person before presenting a different view."
-    },
-    {
-      "id": "q078",
-      "category": "Punctuation",
-      "question": "Choose the correct sentence.",
-      "options": [
-        "I like tea, coffee and milk.",
-        "I like tea coffee and milk",
-        "I like, tea coffee, and milk.",
-        "i like tea, coffee and milk"
+        "Beside the main lift",
+        "I am not laboratory",
+        "Yesterday it closed",
+        "Take any corridor"
       ],
       "answer": 0,
-      "explanation": "Use commas to separate items in a list and capitalise the first word."
+      "explanation": "A clear direction identifies a location."
     },
     {
-      "id": "q087",
-      "category": "Conditionals",
-      "question": "If I had more time, I ___ another language.",
+      "id": "q11302",
+      "category": "Healthcare English",
+      "question": "Healthcare English: A referral is a request to:",
       "options": [
-        "learn",
-        "will learn",
-        "would learn",
-        "am learn"
-      ],
-      "answer": 2,
-      "explanation": "The second conditional uses would + base verb for an unreal or imagined situation."
-    },
-    {
-      "id": "q096",
-      "category": "Reported Speech",
-      "question": "He said, 'I am tired.' Reported speech:",
-      "options": [
-        "He said that he was tired.",
-        "He said I am tired.",
-        "He says that I tired.",
-        "He said he is tire."
+        "another specialist or service",
+        "a cafeteria",
+        "a parking office",
+        "a payroll clerk"
       ],
       "answer": 0,
-      "explanation": "In standard backshift, am changes to was after a past reporting verb."
+      "explanation": "A referral directs a person to another professional or service."
     },
     {
-      "id": "q105",
-      "category": "Determiners",
-      "question": "___ student must bring an ID card.",
+      "id": "q11303",
+      "category": "Healthcare English",
+      "question": "Healthcare English: Which phrase politely asks a patient to wait?",
       "options": [
-        "Each",
-        "Many",
-        "Few",
-        "Several"
+        "Wait there",
+        "Could you please wait here for a moment?",
+        "Do not move ever",
+        "You are wasting time"
+      ],
+      "answer": 1,
+      "explanation": "This is a polite and clear request."
+    },
+    {
+      "id": "q11304",
+      "category": "Healthcare English",
+      "question": "Healthcare English: Where should confidential patient details be discussed?",
+      "options": [
+        "Public corridor",
+        "With authorised people in an appropriate place",
+        "With every visitor",
+        "On social media"
+      ],
+      "answer": 1,
+      "explanation": "Confidential information must be protected."
+    },
+    {
+      "id": "q11305",
+      "category": "Healthcare English",
+      "question": "Healthcare English: Discharge instructions are:",
+      "options": [
+        "guidance given when a patient leaves care",
+        "a recruitment notice",
+        "a payment reminder",
+        "an ambulance route"
       ],
       "answer": 0,
-      "explanation": "Each refers to every individual in a group."
+      "explanation": "They explain care after leaving the facility."
     },
     {
-      "id": "q114",
-      "category": "Gerunds",
-      "question": "They finished ___ the room.",
+      "id": "q11306",
+      "category": "Healthcare English",
+      "question": "Healthcare English: A ward round is:",
       "options": [
-        "clean",
-        "to clean",
-        "cleaning",
-        "cleaned"
+        "a clinical team's patient review visit",
+        "a car park patrol",
+        "a cleaning schedule",
+        "visitor registration"
       ],
-      "answer": 2,
-      "explanation": "Finish is followed by a gerund."
+      "answer": 0,
+      "explanation": "A ward round is a clinical review visit."
+    },
+    {
+      "id": "q11307",
+      "category": "Healthcare English",
+      "question": "Healthcare English: A visitor feels faint. What should you do?",
+      "options": [
+        "Ignore it",
+        "Alert appropriate clinical staff promptly",
+        "Offer a diagnosis",
+        "Ask them to leave"
+      ],
+      "answer": 1,
+      "explanation": "Promptly alerting clinical staff is appropriate."
+    },
+    {
+      "id": "q11308",
+      "category": "Healthcare English",
+      "question": "Healthcare English: Which word means not conscious?",
+      "options": [
+        "Alert",
+        "Unconscious",
+        "Comfortable",
+        "Available"
+      ],
+      "answer": 1,
+      "explanation": "Unconscious means not awake or aware."
+    },
+    {
+      "id": "q11309",
+      "category": "Healthcare English",
+      "question": "Healthcare English: A specimen is:",
+      "options": [
+        "a sample collected for testing",
+        "a staff uniform",
+        "a room key",
+        "a cupboard"
+      ],
+      "answer": 0,
+      "explanation": "A specimen is a sample used for examination or testing."
+    },
+    {
+      "id": "q11310",
+      "category": "Healthcare English",
+      "question": "Healthcare English: How should an urgent message be handled?",
+      "options": [
+        "Delay it",
+        "Communicate it promptly to the responsible person",
+        "Post it publicly",
+        "Change its meaning"
+      ],
+      "answer": 1,
+      "explanation": "Urgent information must reach the responsible person promptly."
     }
   ]
 }
