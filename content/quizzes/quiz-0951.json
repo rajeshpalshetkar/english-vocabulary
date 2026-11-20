@@ -3,139 +3,139 @@
   "slug": "quiz-0951",
   "title": "English Practice Quiz 0951",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q068",
-      "category": "Workplace English",
-      "question": "You need to report a problem. You say:",
+      "id": "q10401",
+      "category": "Meeting Skills",
+      "question": "Before a meeting begins, the organiser should share the ___.",
       "options": [
-        "There is an issue with the printer.",
-        "Printer bad you.",
-        "I issue printer.",
-        "No printer yesterday."
+        "agenda",
+        "invoice",
+        "receipt",
+        "password"
       ],
       "answer": 0,
-      "explanation": "There is an issue with... clearly introduces a problem."
+      "explanation": "An agenda lists the topics planned for discussion."
     },
     {
-      "id": "q077",
-      "category": "Punctuation",
-      "question": "Which sentence uses the apostrophe correctly?",
+      "id": "q10402",
+      "category": "Meeting Skills",
+      "question": "A person who leads a meeting is usually called the ___.",
       "options": [
-        "The guards uniform is blue.",
-        "The guard's uniform is blue.",
-        "The guards' uniform is blue. (one guard)",
-        "The guard uniform's is blue."
-      ],
-      "answer": 1,
-      "explanation": "Guard's shows possession by one guard."
-    },
-    {
-      "id": "q086",
-      "category": "Conditionals",
-      "question": "If it rains, we ___ indoors.",
-      "options": [
-        "stay",
-        "will stay",
-        "stayed",
-        "would stayed"
-      ],
-      "answer": 1,
-      "explanation": "The first conditional uses if + present simple, will + base verb."
-    },
-    {
-      "id": "q095",
-      "category": "Passive Voice",
-      "question": "The windows ___ every week.",
-      "options": [
-        "are cleaned",
-        "clean",
-        "is cleaned",
-        "cleaning"
+        "chairperson",
+        "passenger",
+        "cashier",
+        "tenant"
       ],
       "answer": 0,
-      "explanation": "Plural subject windows takes are + past participle."
+      "explanation": "The chairperson guides the meeting and manages discussion."
     },
     {
-      "id": "q104",
-      "category": "Determiners",
-      "question": "There is ___ water in the bottle.",
+      "id": "q10403",
+      "category": "Meeting Skills",
+      "question": "If you want to speak during a formal meeting, you can say ___.",
       "options": [
-        "a few",
-        "many",
-        "a little",
-        "several"
-      ],
-      "answer": 2,
-      "explanation": "A little is used with uncountable nouns."
-    },
-    {
-      "id": "q113",
-      "category": "Gerunds",
-      "question": "She is good at ___.",
-      "options": [
-        "swim",
-        "to swim",
-        "swimming",
-        "swam"
-      ],
-      "answer": 2,
-      "explanation": "A preposition such as at is followed by a noun or gerund."
-    },
-    {
-      "id": "q007",
-      "category": "Grammar",
-      "question": "The keys are ___ the table.",
-      "options": [
-        "in",
-        "at",
-        "on",
-        "by"
-      ],
-      "answer": 2,
-      "explanation": "On describes something resting on a surface."
-    },
-    {
-      "id": "q016",
-      "category": "Tenses",
-      "question": "Water ___ at 100°C at sea level.",
-      "options": [
-        "boil",
-        "boils",
-        "is boiling",
-        "boiled"
-      ],
-      "answer": 1,
-      "explanation": "Use the present simple for general facts."
-    },
-    {
-      "id": "q025",
-      "category": "Vocabulary",
-      "question": "A person you can trust is ___.",
-      "options": [
-        "reliable",
-        "careless",
-        "silent",
-        "narrow"
+        "May I add a point?",
+        "Give me the room.",
+        "I have no time.",
+        "Stop the meeting."
       ],
       "answer": 0,
-      "explanation": "Reliable means dependable or trustworthy."
+      "explanation": "This is a polite way to request a turn."
     },
     {
-      "id": "q034",
-      "category": "Articles",
-      "question": "He wants to become ___ engineer.",
+      "id": "q10404",
+      "category": "Meeting Skills",
+      "question": "The written record of decisions made at a meeting is called the ___.",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
+        "minutes",
+        "menu",
+        "manual",
+        "noticeboard"
       ],
-      "answer": 1,
-      "explanation": "Engineer begins with a vowel sound, so use an."
+      "answer": 0,
+      "explanation": "Minutes record important discussions, decisions and actions."
+    },
+    {
+      "id": "q10405",
+      "category": "Meeting Skills",
+      "question": "An action item in meeting minutes should ideally include an owner and a ___.",
+      "options": [
+        "deadline",
+        "nickname",
+        "favourite colour",
+        "holiday photo"
+      ],
+      "answer": 0,
+      "explanation": "An owner and deadline make follow-up responsibilities clear."
+    },
+    {
+      "id": "q10406",
+      "category": "Meeting Skills",
+      "question": "If a discussion moves away from the agenda, the chairperson may ___.",
+      "options": [
+        "bring it back to the topic",
+        "cancel all records",
+        "invite unrelated arguments",
+        "ignore the meeting purpose"
+      ],
+      "answer": 0,
+      "explanation": "Returning to the agenda helps keep the meeting focused."
+    },
+    {
+      "id": "q10407",
+      "category": "Meeting Skills",
+      "question": "A quorum is the minimum number of members needed to ___.",
+      "options": [
+        "conduct official business at a meeting",
+        "prepare refreshments",
+        "print the agenda",
+        "close the office"
+      ],
+      "answer": 0,
+      "explanation": "A quorum is the required minimum attendance for valid proceedings."
+    },
+    {
+      "id": "q10408",
+      "category": "Meeting Skills",
+      "question": "To 'adjourn' a meeting means to ___.",
+      "options": [
+        "formally end or suspend it",
+        "start a new department",
+        "change the meeting room colour",
+        "approve every proposal"
+      ],
+      "answer": 0,
+      "explanation": "Adjourn means bring a meeting to an end or pause it."
+    },
+    {
+      "id": "q10409",
+      "category": "Meeting Skills",
+      "question": "Which phrase politely asks a speaker to explain a point?",
+      "options": [
+        "Could you clarify that point, please?",
+        "That makes no sense.",
+        "Speak properly.",
+        "I will not listen."
+      ],
+      "answer": 0,
+      "explanation": "A polite clarification request encourages understanding."
+    },
+    {
+      "id": "q10410",
+      "category": "Meeting Skills",
+      "question": "A meeting follow-up email should summarise decisions and ___.",
+      "options": [
+        "next steps",
+        "unrelated personal news",
+        "private passwords",
+        "unconfirmed rumours"
+      ],
+      "answer": 0,
+      "explanation": "Follow-up messages help participants remember agreed actions."
     }
   ]
 }
