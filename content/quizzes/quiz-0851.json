@@ -3,139 +3,139 @@
   "slug": "quiz-0851",
   "title": "English Practice Quiz 0851",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q093",
-      "category": "Passive Voice",
-      "question": "The work ___ tomorrow.",
+      "id": "q11401",
+      "category": "Workplace Coordination",
+      "question": "Workplace Coordination: A colleague is absent. What should you check first?",
       "options": [
-        "will complete",
-        "will be completed",
-        "completed",
-        "is completing"
-      ],
-      "answer": 1,
-      "explanation": "Future passive uses will be + past participle."
-    },
-    {
-      "id": "q102",
-      "category": "Determiners",
-      "question": "How ___ apples do you need?",
-      "options": [
-        "much",
-        "many",
-        "little",
-        "any"
-      ],
-      "answer": 1,
-      "explanation": "Apples are countable plural nouns, so use many."
-    },
-    {
-      "id": "q111",
-      "category": "Gerunds",
-      "question": "I enjoy ___ books.",
-      "options": [
-        "read",
-        "to read",
-        "reading",
-        "reads"
-      ],
-      "answer": 2,
-      "explanation": "Enjoy is followed by a gerund (-ing form)."
-    },
-    {
-      "id": "q005",
-      "category": "Grammar",
-      "question": "Choose the correct sentence.",
-      "options": [
-        "She don't like tea.",
-        "She doesn't likes tea.",
-        "She doesn't like tea.",
-        "She not like tea."
-      ],
-      "answer": 2,
-      "explanation": "After doesn't, use the base form of the verb: like."
-    },
-    {
-      "id": "q014",
-      "category": "Tenses",
-      "question": "I think it ___ tomorrow.",
-      "options": [
-        "rains",
-        "rained",
-        "will rain",
-        "raining"
-      ],
-      "answer": 2,
-      "explanation": "Will plus the base verb can express a future prediction."
-    },
-    {
-      "id": "q023",
-      "category": "Vocabulary",
-      "question": "A synonym of 'begin' is ___.",
-      "options": [
-        "finish",
-        "start",
-        "stop",
-        "close"
-      ],
-      "answer": 1,
-      "explanation": "Start has the same basic meaning as begin."
-    },
-    {
-      "id": "q032",
-      "category": "Articles",
-      "question": "She is ___ university student.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
+        "Check the duty roster and inform the supervisor",
+        "Ignore the gap",
+        "Leave the post unattended",
+        "Change the roster secretly"
       ],
       "answer": 0,
-      "explanation": "University begins with the consonant sound /y/, so use a."
+      "explanation": "Checking and informing supports proper coordination."
     },
     {
-      "id": "q041",
-      "category": "Modals",
-      "question": "___ I borrow your pen, please?",
+      "id": "q11402",
+      "category": "Workplace Coordination",
+      "question": "Workplace Coordination: A task needs another team's approval. What should you do?",
       "options": [
-        "May",
-        "Must",
-        "Should",
-        "Would have"
+        "Confirm approval status with that team",
+        "Assume approval",
+        "Proceed without authority",
+        "Delete the request"
       ],
       "answer": 0,
-      "explanation": "May is a polite way to ask permission."
+      "explanation": "Confirming status avoids acting without approval."
     },
     {
-      "id": "q050",
-      "category": "Sentence Building",
-      "question": "Choose the correct sentence.",
+      "id": "q11403",
+      "category": "Workplace Coordination",
+      "question": "Workplace Coordination: A clear handover should identify what?",
       "options": [
-        "There is many books.",
-        "There are many books.",
-        "There be many books.",
-        "There am many books."
+        "Pending tasks, owners and deadlines",
+        "Personal opinions",
+        "Unrelated news",
+        "Old rumours"
       ],
-      "answer": 1,
-      "explanation": "Use there are with plural nouns."
+      "answer": 0,
+      "explanation": "A useful handover identifies what remains and who will act."
     },
     {
-      "id": "q059",
-      "category": "Pronunciation",
-      "question": "Which word rhymes with 'light'?",
+      "id": "q11404",
+      "category": "Workplace Coordination",
+      "question": "Workplace Coordination: When a plan changes, what should happen?",
       "options": [
-        "late",
-        "lit",
-        "night",
-        "let"
+        "Tell affected colleagues promptly",
+        "Keep everyone uninformed",
+        "Use obsolete instructions",
+        "Blame a new employee"
       ],
-      "answer": 2,
-      "explanation": "Light and night share the same ending sound."
+      "answer": 0,
+      "explanation": "Timely communication helps the team adjust."
+    },
+    {
+      "id": "q11405",
+      "category": "Workplace Coordination",
+      "question": "Workplace Coordination: A shared calendar is useful for what?",
+      "options": [
+        "Coordinating schedules and deadlines",
+        "Storing passwords",
+        "Replacing reports",
+        "Recording private medical details"
+      ],
+      "answer": 0,
+      "explanation": "A shared calendar makes schedules visible to relevant colleagues."
+    },
+    {
+      "id": "q11406",
+      "category": "Workplace Coordination",
+      "question": "Workplace Coordination: Which phrase checks understanding politely?",
+      "options": [
+        "Could you confirm that I understood correctly?",
+        "You never explain anything.",
+        "That makes no sense.",
+        "I will guess."
+      ],
+      "answer": 0,
+      "explanation": "This checks understanding respectfully."
+    },
+    {
+      "id": "q11407",
+      "category": "Workplace Coordination",
+      "question": "Workplace Coordination: What is a dependency in a work plan?",
+      "options": [
+        "A task that relies on another task",
+        "A completed invoice",
+        "A staff uniform",
+        "A visitor badge"
+      ],
+      "answer": 0,
+      "explanation": "A dependency relies on another task's completion."
+    },
+    {
+      "id": "q11408",
+      "category": "Workplace Coordination",
+      "question": "Workplace Coordination: A colleague misses a deadline. What is constructive?",
+      "options": [
+        "Discuss the delay and agree on a revised plan",
+        "Alter records",
+        "Ignore the impact",
+        "Send insults"
+      ],
+      "answer": 0,
+      "explanation": "A discussion supports a practical recovery plan."
+    },
+    {
+      "id": "q11409",
+      "category": "Workplace Coordination",
+      "question": "Workplace Coordination: Which update is most useful to a team?",
+      "options": [
+        "The inspection is complete; the report is due by 4 p.m.",
+        "Something happened.",
+        "Maybe it is fine.",
+        "Ask someone else."
+      ],
+      "answer": 0,
+      "explanation": "A useful update states status and the next deadline."
+    },
+    {
+      "id": "q11410",
+      "category": "Workplace Coordination",
+      "question": "Workplace Coordination: A coordination meeting should end with what?",
+      "options": [
+        "Agreed actions, owners and due dates",
+        "Unassigned ideas",
+        "No record of decisions",
+        "Unrelated complaints"
+      ],
+      "answer": 0,
+      "explanation": "Actions, owners and dates make follow-up possible."
     }
   ]
 }
