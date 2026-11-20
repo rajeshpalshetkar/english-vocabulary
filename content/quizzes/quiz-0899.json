@@ -3,139 +3,139 @@
   "slug": "quiz-0899",
   "title": "English Practice Quiz 0899",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
+  "category": "Practical English",
   "level": "Advanced",
   "question_count": 10,
   "questions": [
     {
-      "id": "q104",
-      "category": "Determiners",
-      "question": "There is ___ water in the bottle.",
+      "id": "q11081",
+      "category": "Advanced Vocabulary",
+      "question": "A 'comprehensive' review is ___.",
       "options": [
-        "a few",
-        "many",
-        "a little",
-        "several"
-      ],
-      "answer": 2,
-      "explanation": "A little is used with uncountable nouns."
-    },
-    {
-      "id": "q026",
-      "category": "Vocabulary",
-      "question": "What does 'borrow' mean?",
-      "options": [
-        "give something forever",
-        "take something temporarily and return it",
-        "break something",
-        "buy something"
-      ],
-      "answer": 1,
-      "explanation": "Borrow means to take something for a period and return it."
-    },
-    {
-      "id": "q063",
-      "category": "Reading",
-      "question": "Read: 'Ravi practises English for twenty minutes every evening.' How long does he practise?",
-      "options": [
-        "Ten minutes",
-        "Twenty minutes",
-        "Thirty minutes",
-        "One hour"
-      ],
-      "answer": 1,
-      "explanation": "The passage states twenty minutes."
-    },
-    {
-      "id": "q100",
-      "category": "Reported Speech",
-      "question": "They said, 'We have finished.'",
-      "options": [
-        "They said they had finished.",
-        "They said they have finish.",
-        "They told finished.",
-        "They said we finished have."
+        "complete and covering important aspects",
+        "brief and missing key areas",
+        "based on one rumour",
+        "unrelated to the subject"
       ],
       "answer": 0,
-      "explanation": "Present perfect commonly shifts to past perfect in reported speech."
+      "explanation": "complete and covering important aspects is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q022",
-      "category": "Vocabulary",
-      "question": "Choose the opposite of 'polite'.",
+      "id": "q11082",
+      "category": "Advanced Vocabulary",
+      "question": "To 'allocate' resources means to ___.",
       "options": [
-        "kind",
-        "rude",
-        "helpful",
-        "calm"
+        "hide them",
+        "destroy them",
+        "count without recording",
+        "assign them for a particular purpose"
       ],
-      "answer": 1,
-      "explanation": "Rude is the opposite of polite."
+      "answer": 3,
+      "explanation": "assign them for a particular purpose is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q059",
-      "category": "Pronunciation",
-      "question": "Which word rhymes with 'light'?",
+      "id": "q11083",
+      "category": "Advanced Vocabulary",
+      "question": "A 'discrepancy' is ___.",
       "options": [
-        "late",
-        "lit",
-        "night",
-        "let"
-      ],
-      "answer": 2,
-      "explanation": "Light and night share the same ending sound."
-    },
-    {
-      "id": "q096",
-      "category": "Reported Speech",
-      "question": "He said, 'I am tired.' Reported speech:",
-      "options": [
-        "He said that he was tired.",
-        "He said I am tired.",
-        "He says that I tired.",
-        "He said he is tire."
-      ],
-      "answer": 0,
-      "explanation": "In standard backshift, am changes to was after a past reporting verb."
-    },
-    {
-      "id": "q018",
-      "category": "Tenses",
-      "question": "I ___ him last week.",
-      "options": [
-        "see",
-        "have seen",
-        "saw",
-        "seeing"
+        "a confirmed agreement",
+        "a celebration",
+        "a difference or inconsistency that needs checking",
+        "a schedule"
       ],
       "answer": 2,
-      "explanation": "Use the past simple with a finished past time such as last week."
+      "explanation": "a difference or inconsistency that needs checking is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q055",
-      "category": "Conversation",
-      "question": "A colleague asks for help. A polite reply is:",
+      "id": "q11084",
+      "category": "Advanced Vocabulary",
+      "question": "To 'implement' a policy means to ___.",
       "options": [
-        "Certainly. What do you need?",
-        "Never ask me.",
-        "You do yourself.",
-        "No speaking."
-      ],
-      "answer": 0,
-      "explanation": "Certainly. What do you need? is helpful and polite."
-    },
-    {
-      "id": "q092",
-      "category": "Passive Voice",
-      "question": "Choose the passive form: 'The manager signed the letter.'",
-      "options": [
-        "The letter is signed.",
-        "The letter was signed by the manager.",
-        "The letter signed the manager.",
-        "The letter has sign."
+        "write and ignore it",
+        "put it into effect",
+        "remove it from records",
+        "discuss without action"
       ],
       "answer": 1,
-      "explanation": "Past simple passive: was/were + past participle."
+      "explanation": "put it into effect is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q11085",
+      "category": "Advanced Vocabulary",
+      "question": "An 'impartial' decision is made ___.",
+      "options": [
+        "without unfair favour or bias",
+        "to reward a friend",
+        "without evidence",
+        "to punish a rival"
+      ],
+      "answer": 0,
+      "explanation": "without unfair favour or bias is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q11086",
+      "category": "Advanced Vocabulary",
+      "question": "A 'subsequent' event occurs ___.",
+      "options": [
+        "before every event",
+        "at the same moment",
+        "without sequence",
+        "after an earlier event"
+      ],
+      "answer": 3,
+      "explanation": "after an earlier event is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q11087",
+      "category": "Advanced Vocabulary",
+      "question": "To 'facilitate' a process means to ___.",
+      "options": [
+        "make it difficult",
+        "cancel every step",
+        "make it easier to carry out",
+        "hide information"
+      ],
+      "answer": 2,
+      "explanation": "make it easier to carry out is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q11088",
+      "category": "Advanced Vocabulary",
+      "question": "A 'substantial' change is ___.",
+      "options": [
+        "minor and unnoticeable",
+        "large or significant",
+        "unrelated",
+        "always temporary"
+      ],
+      "answer": 1,
+      "explanation": "large or significant is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q11089",
+      "category": "Advanced Vocabulary",
+      "question": "To 'comply' with a rule means to ___.",
+      "options": [
+        "act according to the rule",
+        "ignore it",
+        "change it privately",
+        "ask others to break it"
+      ],
+      "answer": 0,
+      "explanation": "act according to the rule is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q11090",
+      "category": "Advanced Vocabulary",
+      "question": "An 'ambiguous' instruction is ___.",
+      "options": [
+        "perfectly clear",
+        "already completed",
+        "approved in every case",
+        "open to more than one interpretation"
+      ],
+      "answer": 3,
+      "explanation": "open to more than one interpretation is the correct answer based on the meaning and context of the question."
     }
   ]
 }
