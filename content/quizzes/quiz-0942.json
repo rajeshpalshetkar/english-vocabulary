@@ -3,139 +3,139 @@
   "slug": "quiz-0942",
   "title": "English Practice Quiz 0942",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q030",
-      "category": "Vocabulary",
-      "question": "Choose the best word: The road is very ___. There are many cars.",
+      "id": "q10511",
+      "category": "Email Writing",
+      "question": "Which subject line is clearest for sending a weekly report?",
       "options": [
-        "crowded",
-        "empty",
-        "quietly",
-        "soft"
+        "Weekly Security Report - 20 November",
+        "Hello",
+        "Important",
+        "Please see"
       ],
       "answer": 0,
-      "explanation": "Crowded means filled with many people or things; it can describe busy roads."
+      "explanation": "A specific subject helps the recipient identify the email's purpose."
     },
     {
-      "id": "q041",
-      "category": "Modals",
-      "question": "___ I borrow your pen, please?",
+      "id": "q10512",
+      "category": "Email Writing",
+      "question": "In a formal email, the opening paragraph should usually state ___.",
       "options": [
-        "May",
-        "Must",
-        "Should",
-        "Would have"
+        "the purpose of the message",
+        "every detail of your career",
+        "an unrelated story",
+        "a list of passwords"
       ],
       "answer": 0,
-      "explanation": "May is a polite way to ask permission."
+      "explanation": "Stating the purpose early makes the email easier to understand."
     },
     {
-      "id": "q052",
-      "category": "Conversation",
-      "question": "You did not hear someone. You say:",
+      "id": "q10513",
+      "category": "Email Writing",
+      "question": "Which sentence politely requests a document?",
       "options": [
-        "Speak now!",
-        "Could you repeat that, please?",
-        "What your problem?",
-        "I don't hear you yesterday."
-      ],
-      "answer": 1,
-      "explanation": "Could you repeat that, please? is a polite request."
-    },
-    {
-      "id": "q063",
-      "category": "Reading",
-      "question": "Read: 'Ravi practises English for twenty minutes every evening.' How long does he practise?",
-      "options": [
-        "Ten minutes",
-        "Twenty minutes",
-        "Thirty minutes",
-        "One hour"
-      ],
-      "answer": 1,
-      "explanation": "The passage states twenty minutes."
-    },
-    {
-      "id": "q074",
-      "category": "Questions",
-      "question": "Which question asks for a reason?",
-      "options": [
-        "What happened?",
-        "Where are you?",
-        "Why are you late?",
-        "When is lunch?"
-      ],
-      "answer": 2,
-      "explanation": "Why asks for a reason."
-    },
-    {
-      "id": "q085",
-      "category": "Confusing Words",
-      "question": "The bus is ___ than the car today.",
-      "options": [
-        "fast",
-        "faster",
-        "fastest",
-        "more fast"
-      ],
-      "answer": 1,
-      "explanation": "Use the comparative form faster when comparing two things."
-    },
-    {
-      "id": "q096",
-      "category": "Reported Speech",
-      "question": "He said, 'I am tired.' Reported speech:",
-      "options": [
-        "He said that he was tired.",
-        "He said I am tired.",
-        "He says that I tired.",
-        "He said he is tire."
+        "Could you please share the updated document?",
+        "Send it now, no questions.",
+        "You forgot again.",
+        "Give me whatever you have."
       ],
       "answer": 0,
-      "explanation": "In standard backshift, am changes to was after a past reporting verb."
+      "explanation": "The wording is courteous and specific."
     },
     {
-      "id": "q107",
-      "category": "Adjectives",
-      "question": "She is the ___ student in the class.",
+      "id": "q10514",
+      "category": "Email Writing",
+      "question": "An email signature commonly contains your name and ___.",
       "options": [
-        "tall",
-        "taller",
-        "tallest",
-        "more tall"
+        "professional contact details",
+        "your account password",
+        "private information about customers",
+        "unrelated jokes"
       ],
-      "answer": 2,
-      "explanation": "Use the superlative tallest when comparing one with the whole class."
+      "answer": 0,
+      "explanation": "A signature helps recipients identify and contact the sender."
     },
     {
-      "id": "q003",
-      "category": "Grammar",
-      "question": "I ___ a new notebook yesterday.",
+      "id": "q10515",
+      "category": "Email Writing",
+      "question": "Before sending a formal email, you should proofread it for ___.",
       "options": [
-        "buy",
-        "buys",
-        "bought",
-        "buying"
+        "accuracy, spelling and tone",
+        "the recipient's private messages",
+        "unrelated advertisements",
+        "hidden assumptions"
       ],
-      "answer": 2,
-      "explanation": "Yesterday signals the past simple. The past form of buy is bought."
+      "answer": 0,
+      "explanation": "Proofreading catches errors and improves clarity."
     },
     {
-      "id": "q014",
-      "category": "Tenses",
-      "question": "I think it ___ tomorrow.",
+      "id": "q10516",
+      "category": "Email Writing",
+      "question": "If an email needs a reply by a certain date, state the ___.",
       "options": [
-        "rains",
-        "rained",
-        "will rain",
-        "raining"
+        "deadline clearly",
+        "deadline only in an attachment name",
+        "date in an unrelated paragraph",
+        "request without any time"
       ],
-      "answer": 2,
-      "explanation": "Will plus the base verb can express a future prediction."
+      "answer": 0,
+      "explanation": "A clear deadline helps the recipient prioritise the response."
+    },
+    {
+      "id": "q10517",
+      "category": "Email Writing",
+      "question": "The phrase 'Please find attached' is used to introduce ___.",
+      "options": [
+        "a file included with the email",
+        "a person waiting outside",
+        "a phone call",
+        "a meeting room"
+      ],
+      "answer": 0,
+      "explanation": "It signals that the email contains an attachment."
+    },
+    {
+      "id": "q10518",
+      "category": "Email Writing",
+      "question": "When replying to an email thread, you should keep the response ___.",
+      "options": [
+        "relevant to the original discussion",
+        "filled with unrelated topics",
+        "intentionally confusing",
+        "without any context"
+      ],
+      "answer": 0,
+      "explanation": "Relevant replies help recipients follow the conversation."
+    },
+    {
+      "id": "q10519",
+      "category": "Email Writing",
+      "question": "Which closing is appropriate for a formal request?",
+      "options": [
+        "Thank you for your consideration.",
+        "Whatever you decide.",
+        "No need to reply.",
+        "Do it somehow."
+      ],
+      "answer": 0,
+      "explanation": "This closing is polite and professional."
+    },
+    {
+      "id": "q10520",
+      "category": "Email Writing",
+      "question": "If you accidentally send an email to the wrong person, you should ___.",
+      "options": [
+        "follow the organisation's procedure and notify the appropriate people promptly",
+        "pretend it never happened",
+        "forward it to more people",
+        "delete all records without approval"
+      ],
+      "answer": 0,
+      "explanation": "Prompt, policy-based action helps manage accidental disclosure."
     }
   ]
 }
