@@ -3,139 +3,139 @@
   "slug": "quiz-0945",
   "title": "English Practice Quiz 0945",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q081",
-      "category": "Confusing Words",
-      "question": "Choose the correct word: ___ going to arrive soon.",
+      "id": "q10541",
+      "category": "Inventory and Stock",
+      "question": "A stock count is carried out to compare physical items with ___.",
       "options": [
-        "Their",
-        "There",
-        "They're",
-        "Theirs"
-      ],
-      "answer": 2,
-      "explanation": "They're is the contraction of they are."
-    },
-    {
-      "id": "q100",
-      "category": "Reported Speech",
-      "question": "They said, 'We have finished.'",
-      "options": [
-        "They said they had finished.",
-        "They said they have finish.",
-        "They told finished.",
-        "They said we finished have."
+        "inventory records",
+        "weather reports",
+        "staff leave forms",
+        "customer reviews"
       ],
       "answer": 0,
-      "explanation": "Present perfect commonly shifts to past perfect in reported speech."
+      "explanation": "A stock count checks whether records match actual quantities."
     },
     {
-      "id": "q004",
-      "category": "Grammar",
-      "question": "There ___ two chairs in the room.",
+      "id": "q10542",
+      "category": "Inventory and Stock",
+      "question": "The term 'reorder level' refers to the stock quantity at which an organisation should ___.",
       "options": [
-        "is",
-        "are",
-        "am",
-        "was"
+        "place a new order",
+        "stop recording items",
+        "discard all remaining stock",
+        "close the store"
       ],
-      "answer": 1,
-      "explanation": "Use are with the plural noun chairs."
+      "answer": 0,
+      "explanation": "The reorder level helps prevent stock from running out."
     },
     {
-      "id": "q023",
-      "category": "Vocabulary",
-      "question": "A synonym of 'begin' is ___.",
+      "id": "q10543",
+      "category": "Inventory and Stock",
+      "question": "A damaged item found during inspection should be ___.",
       "options": [
-        "finish",
-        "start",
-        "stop",
-        "close"
+        "recorded and handled according to procedure",
+        "mixed with saleable stock without checking",
+        "hidden from the supervisor",
+        "given away without approval"
       ],
-      "answer": 1,
-      "explanation": "Start has the same basic meaning as begin."
+      "answer": 0,
+      "explanation": "Recording damage supports accountability and correct stock handling."
     },
     {
-      "id": "q042",
-      "category": "Modals",
-      "question": "You ___ smoke inside the hospital.",
+      "id": "q10544",
+      "category": "Inventory and Stock",
+      "question": "FIFO in stock management means ___.",
       "options": [
-        "must",
-        "mustn't",
-        "should",
-        "could"
+        "First In, First Out",
+        "Final Item For Order",
+        "Fast Inspection For Output",
+        "File In Front Office"
       ],
-      "answer": 1,
-      "explanation": "Mustn't expresses prohibition."
+      "answer": 0,
+      "explanation": "FIFO means older stock is issued before newer stock."
     },
     {
-      "id": "q061",
-      "category": "Reading",
-      "question": "Read: 'Mina takes the bus at 8 a.m. and reaches work at 8:45.' How does Mina travel?",
+      "id": "q10545",
+      "category": "Inventory and Stock",
+      "question": "A delivery note is used to record ___.",
       "options": [
-        "By train",
-        "By bus",
-        "By car",
-        "On foot"
+        "goods delivered and relevant quantities",
+        "employee attendance",
+        "customer passwords",
+        "the daily weather"
       ],
-      "answer": 1,
-      "explanation": "The passage clearly says Mina takes the bus."
+      "answer": 0,
+      "explanation": "A delivery note lists goods supplied in a delivery."
     },
     {
-      "id": "q080",
-      "category": "Punctuation",
-      "question": "Choose the correctly written date phrase.",
+      "id": "q10546",
+      "category": "Inventory and Stock",
+      "question": "A stock discrepancy is a difference between recorded and ___.",
       "options": [
-        "on monday",
-        "on Monday",
-        "On monday",
-        "on Monday."
+        "actual stock quantities",
+        "advertising costs",
+        "staff working hours",
+        "room temperatures"
       ],
-      "answer": 1,
-      "explanation": "Days of the week begin with a capital letter."
+      "answer": 0,
+      "explanation": "A discrepancy indicates that the physical count does not match the records."
     },
     {
-      "id": "q099",
-      "category": "Reported Speech",
-      "question": "She said, 'Please sit down.'",
+      "id": "q10547",
+      "category": "Inventory and Stock",
+      "question": "A purchase order is generally sent to a ___.",
       "options": [
-        "She told me sit down.",
-        "She asked me to sit down.",
-        "She said me to sit.",
-        "She asked that I sat."
+        "supplier",
+        "visitor",
+        "job applicant",
+        "security camera"
       ],
-      "answer": 1,
-      "explanation": "A request can be reported with asked + object + to-infinitive."
+      "answer": 0,
+      "explanation": "A purchase order formally requests goods or services from a supplier."
     },
     {
-      "id": "q003",
-      "category": "Grammar",
-      "question": "I ___ a new notebook yesterday.",
+      "id": "q10548",
+      "category": "Inventory and Stock",
+      "question": "A minimum stock level helps an organisation avoid ___.",
       "options": [
-        "buy",
-        "buys",
-        "bought",
-        "buying"
+        "running out of essential items",
+        "checking deliveries",
+        "recording stock",
+        "using approved suppliers"
       ],
-      "answer": 2,
-      "explanation": "Yesterday signals the past simple. The past form of buy is bought."
+      "answer": 0,
+      "explanation": "Minimum levels provide a warning before stock becomes too low."
     },
     {
-      "id": "q022",
-      "category": "Vocabulary",
-      "question": "Choose the opposite of 'polite'.",
+      "id": "q10549",
+      "category": "Inventory and Stock",
+      "question": "When receiving a delivery, staff should check the goods against the ___.",
       "options": [
-        "kind",
-        "rude",
-        "helpful",
-        "calm"
+        "purchase order or delivery documents",
+        "staff birthday list",
+        "office seating plan",
+        "public noticeboard"
       ],
-      "answer": 1,
-      "explanation": "Rude is the opposite of polite."
+      "answer": 0,
+      "explanation": "Comparing documents helps confirm that the correct items were supplied."
+    },
+    {
+      "id": "q10550",
+      "category": "Inventory and Stock",
+      "question": "A stock ledger records ___.",
+      "options": [
+        "receipts, issues and balances of items",
+        "only staff opinions",
+        "weather changes",
+        "telephone conversations"
+      ],
+      "answer": 0,
+      "explanation": "A stock ledger tracks movements and balances."
     }
   ]
 }
