@@ -3,139 +3,139 @@
   "slug": "quiz-0917",
   "title": "English Practice Quiz 0917",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q065",
-      "category": "Reading",
-      "question": "Read: 'Please keep the floor dry to prevent accidents.' What is the instruction?",
+      "id": "q10861",
+      "category": "Professional Reporting",
+      "question": "An incident report should primarily contain ___.",
       "options": [
-        "Wash the floor now",
-        "Keep the floor dry",
-        "Close the office",
-        "Move the furniture"
-      ],
-      "answer": 1,
-      "explanation": "The notice instructs people to keep the floor dry."
-    },
-    {
-      "id": "q094",
-      "category": "Passive Voice",
-      "question": "English ___ in many countries.",
-      "options": [
-        "speaks",
-        "is spoken",
-        "spoken",
-        "is speaking"
-      ],
-      "answer": 1,
-      "explanation": "Present simple passive: is spoken."
-    },
-    {
-      "id": "q008",
-      "category": "Grammar",
-      "question": "This is the woman ___ helped me.",
-      "options": [
-        "which",
-        "who",
-        "where",
-        "when"
-      ],
-      "answer": 1,
-      "explanation": "Who is used for people."
-    },
-    {
-      "id": "q037",
-      "category": "Prepositions",
-      "question": "My birthday is ___ July.",
-      "options": [
-        "at",
-        "in",
-        "on",
-        "from"
-      ],
-      "answer": 1,
-      "explanation": "Use in with months."
-    },
-    {
-      "id": "q066",
-      "category": "Workplace English",
-      "question": "A professional way to ask for a file is:",
-      "options": [
-        "Give file now.",
-        "Could you please share the file?",
-        "File give me.",
-        "You must file."
-      ],
-      "answer": 1,
-      "explanation": "Could you please is a polite and professional request."
-    },
-    {
-      "id": "q095",
-      "category": "Passive Voice",
-      "question": "The windows ___ every week.",
-      "options": [
-        "are cleaned",
-        "clean",
-        "is cleaned",
-        "cleaning"
-      ],
-      "answer": 0,
-      "explanation": "Plural subject windows takes are + past participle."
-    },
-    {
-      "id": "q009",
-      "category": "Grammar",
-      "question": "Choose the correct comparative form.",
-      "options": [
-        "more tall",
-        "taller",
-        "tallest than",
-        "most tall"
-      ],
-      "answer": 1,
-      "explanation": "The comparative form of the short adjective tall is taller."
-    },
-    {
-      "id": "q038",
-      "category": "Prepositions",
-      "question": "We have a meeting ___ Monday.",
-      "options": [
-        "in",
-        "at",
-        "on",
-        "by"
+        "personal accusations",
+        "unverified rumours",
+        "factual details of what happened",
+        "unrelated opinions"
       ],
       "answer": 2,
-      "explanation": "Use on with days and dates."
+      "explanation": "factual details of what happened is the correct choice based on the meaning and context of the question."
     },
     {
-      "id": "q067",
-      "category": "Workplace English",
-      "question": "You have completed a task. You say:",
+      "id": "q10862",
+      "category": "Professional Reporting",
+      "question": "Which details are essential in an incident record?",
       "options": [
-        "The task is complete.",
-        "The task complete yesterday tomorrow.",
-        "I task finish.",
-        "Task is completing me."
+        "Date, time and location",
+        "writer's favourite colour",
+        "shopping list",
+        "entertainment choices"
       ],
       "answer": 0,
-      "explanation": "The task is complete is a clear status update."
+      "explanation": "Date, time and location is the correct choice based on the meaning and context of the question."
     },
     {
-      "id": "q096",
-      "category": "Reported Speech",
-      "question": "He said, 'I am tired.' Reported speech:",
+      "id": "q10863",
+      "category": "Professional Reporting",
+      "question": "A chronological account presents events ___.",
       "options": [
-        "He said that he was tired.",
-        "He said I am tired.",
-        "He says that I tired.",
-        "He said he is tire."
+        "alphabetically",
+        "by writer preference",
+        "in the order they occurred",
+        "without sequence"
+      ],
+      "answer": 2,
+      "explanation": "in the order they occurred is the correct choice based on the meaning and context of the question."
+    },
+    {
+      "id": "q10864",
+      "category": "Professional Reporting",
+      "question": "An unconfirmed fact should be described as ___.",
+      "options": [
+        "unverified or pending confirmation",
+        "definitely true",
+        "a proven conclusion",
+        "irrelevant in every case"
       ],
       "answer": 0,
-      "explanation": "In standard backshift, am changes to was after a past reporting verb."
+      "explanation": "unverified or pending confirmation is the correct choice based on the meaning and context of the question."
+    },
+    {
+      "id": "q10865",
+      "category": "Professional Reporting",
+      "question": "An objective report avoids ___.",
+      "options": [
+        "clear dates",
+        "direct observations",
+        "emotional language and unsupported assumptions",
+        "relevant facts"
+      ],
+      "answer": 2,
+      "explanation": "emotional language and unsupported assumptions is the correct choice based on the meaning and context of the question."
+    },
+    {
+      "id": "q10866",
+      "category": "Professional Reporting",
+      "question": "A recommendation section should suggest ___.",
+      "options": [
+        "practical actions based on findings",
+        "unrelated stories",
+        "unverified blame",
+        "secret information"
+      ],
+      "answer": 0,
+      "explanation": "practical actions based on findings is the correct choice based on the meaning and context of the question."
+    },
+    {
+      "id": "q10867",
+      "category": "Professional Reporting",
+      "question": "A report reference number helps with ___.",
+      "options": [
+        "changing event dates",
+        "removing accountability",
+        "identifying and retrieving the record",
+        "replacing the report"
+      ],
+      "answer": 2,
+      "explanation": "identifying and retrieving the record is the correct choice based on the meaning and context of the question."
+    },
+    {
+      "id": "q10868",
+      "category": "Professional Reporting",
+      "question": "Why make report corrections traceable?",
+      "options": [
+        "To preserve an accurate record of changes",
+        "to hide original entries",
+        "to avoid review",
+        "to make it longer"
+      ],
+      "answer": 0,
+      "explanation": "To preserve an accurate record of changes is the correct choice based on the meaning and context of the question."
+    },
+    {
+      "id": "q10869",
+      "category": "Professional Reporting",
+      "question": "An executive summary presents ___.",
+      "options": [
+        "every minor detail",
+        "unrelated stories",
+        "main findings and key actions",
+        "private conversations"
+      ],
+      "answer": 2,
+      "explanation": "main findings and key actions is the correct choice based on the meaning and context of the question."
+    },
+    {
+      "id": "q10870",
+      "category": "Professional Reporting",
+      "question": "Before submitting a report, verify ___.",
+      "options": [
+        "names, dates, figures and supporting evidence",
+        "only font size",
+        "unrelated opinions",
+        "lunch time"
+      ],
+      "answer": 0,
+      "explanation": "names, dates, figures and supporting evidence is the correct choice based on the meaning and context of the question."
     }
   ]
 }
