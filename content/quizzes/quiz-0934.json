@@ -3,139 +3,139 @@
   "slug": "quiz-0934",
   "title": "English Practice Quiz 0934",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q009",
-      "category": "Grammar",
-      "question": "Choose the correct comparative form.",
+      "id": "q10631",
+      "category": "Data Privacy",
+      "question": "Personal data is information that can identify ___.",
       "options": [
-        "more tall",
-        "taller",
-        "tallest than",
-        "most tall"
-      ],
-      "answer": 1,
-      "explanation": "The comparative form of the short adjective tall is taller."
-    },
-    {
-      "id": "q026",
-      "category": "Vocabulary",
-      "question": "What does 'borrow' mean?",
-      "options": [
-        "give something forever",
-        "take something temporarily and return it",
-        "break something",
-        "buy something"
-      ],
-      "answer": 1,
-      "explanation": "Borrow means to take something for a period and return it."
-    },
-    {
-      "id": "q043",
-      "category": "Modals",
-      "question": "When I was five, I ___ swim.",
-      "options": [
-        "can",
-        "could",
-        "may",
-        "must"
-      ],
-      "answer": 1,
-      "explanation": "Could expresses past ability."
-    },
-    {
-      "id": "q060",
-      "category": "Pronunciation",
-      "question": "How many syllables are in 'computer'?",
-      "options": [
-        "one",
-        "two",
-        "three",
-        "four"
-      ],
-      "answer": 2,
-      "explanation": "Computer is commonly pronounced with three syllables: com-pu-ter."
-    },
-    {
-      "id": "q077",
-      "category": "Punctuation",
-      "question": "Which sentence uses the apostrophe correctly?",
-      "options": [
-        "The guards uniform is blue.",
-        "The guard's uniform is blue.",
-        "The guards' uniform is blue. (one guard)",
-        "The guard uniform's is blue."
-      ],
-      "answer": 1,
-      "explanation": "Guard's shows possession by one guard."
-    },
-    {
-      "id": "q094",
-      "category": "Passive Voice",
-      "question": "English ___ in many countries.",
-      "options": [
-        "speaks",
-        "is spoken",
-        "spoken",
-        "is speaking"
-      ],
-      "answer": 1,
-      "explanation": "Present simple passive: is spoken."
-    },
-    {
-      "id": "q111",
-      "category": "Gerunds",
-      "question": "I enjoy ___ books.",
-      "options": [
-        "read",
-        "to read",
-        "reading",
-        "reads"
-      ],
-      "answer": 2,
-      "explanation": "Enjoy is followed by a gerund (-ing form)."
-    },
-    {
-      "id": "q013",
-      "category": "Tenses",
-      "question": "At 8 p.m. yesterday, I ___ dinner.",
-      "options": [
-        "cook",
-        "cooked",
-        "was cooking",
-        "am cooking"
-      ],
-      "answer": 2,
-      "explanation": "Use the past continuous for an action in progress at a specific past time."
-    },
-    {
-      "id": "q030",
-      "category": "Vocabulary",
-      "question": "Choose the best word: The road is very ___. There are many cars.",
-      "options": [
-        "crowded",
-        "empty",
-        "quietly",
-        "soft"
+        "an individual",
+        "a type of office chair",
+        "a weather pattern",
+        "a road sign"
       ],
       "answer": 0,
-      "explanation": "Crowded means filled with many people or things; it can describe busy roads."
+      "explanation": "Personal data relates to an identifiable person."
     },
     {
-      "id": "q047",
-      "category": "Sentence Building",
-      "question": "Choose the correct question.",
+      "id": "q10632",
+      "category": "Data Privacy",
+      "question": "A secure screen lock helps prevent ___.",
       "options": [
-        "Where you live?",
-        "Where do you live?",
-        "Where does you live?",
-        "Where are live you?"
+        "unauthorised access to a device",
+        "all software updates",
+        "internet outages",
+        "the battery from charging"
       ],
-      "answer": 1,
-      "explanation": "Use do + subject + base verb for present simple questions with you."
+      "answer": 0,
+      "explanation": "A screen lock restricts access by unauthorised users."
+    },
+    {
+      "id": "q10633",
+      "category": "Data Privacy",
+      "question": "When sending a file containing personal data, you should use ___.",
+      "options": [
+        "an approved secure sharing method",
+        "a public link with no restrictions",
+        "an unknown file-sharing site",
+        "a public social media post"
+      ],
+      "answer": 0,
+      "explanation": "Approved secure methods reduce the risk of unauthorised disclosure."
+    },
+    {
+      "id": "q10634",
+      "category": "Data Privacy",
+      "question": "Data minimisation means collecting ___.",
+      "options": [
+        "only the information needed for a stated purpose",
+        "every detail that might be interesting",
+        "unrelated information from visitors",
+        "passwords for future use"
+      ],
+      "answer": 0,
+      "explanation": "Data minimisation limits collection to what is necessary."
+    },
+    {
+      "id": "q10635",
+      "category": "Data Privacy",
+      "question": "A data breach may involve ___.",
+      "options": [
+        "unauthorised access, loss or disclosure of information",
+        "a routine approved backup",
+        "a scheduled software update",
+        "a public weather alert"
+      ],
+      "answer": 0,
+      "explanation": "A breach can compromise the confidentiality, integrity or availability of data."
+    },
+    {
+      "id": "q10636",
+      "category": "Data Privacy",
+      "question": "Before sharing someone's contact details, you should check ___.",
+      "options": [
+        "whether you are authorised and have a valid reason",
+        "whether the details look interesting",
+        "how many people are online",
+        "whether the file has a colourful name"
+      ],
+      "answer": 0,
+      "explanation": "Contact details should be shared only when authorised and necessary."
+    },
+    {
+      "id": "q10637",
+      "category": "Data Privacy",
+      "question": "A strong privacy practice is to dispose of sensitive paper records by ___.",
+      "options": [
+        "using the approved secure disposal method",
+        "leaving them in a public bin",
+        "giving them to an unknown visitor",
+        "posting photographs of them"
+      ],
+      "answer": 0,
+      "explanation": "Secure disposal helps prevent information from being recovered or misused."
+    },
+    {
+      "id": "q10638",
+      "category": "Data Privacy",
+      "question": "A privacy notice explains how personal information is ___.",
+      "options": [
+        "collected and used",
+        "converted into electricity",
+        "printed in colour",
+        "stored in a person's memory"
+      ],
+      "answer": 0,
+      "explanation": "A privacy notice describes relevant information-handling practices."
+    },
+    {
+      "id": "q10639",
+      "category": "Data Privacy",
+      "question": "If you receive personal information by mistake, you should ___.",
+      "options": [
+        "avoid sharing it and report the incident as required",
+        "forward it to friends",
+        "save it for personal use",
+        "publish it online"
+      ],
+      "answer": 0,
+      "explanation": "Misdirected personal data should be handled under the organisation's incident procedure."
+    },
+    {
+      "id": "q10640",
+      "category": "Data Privacy",
+      "question": "Access to confidential records should follow the principle of ___.",
+      "options": [
+        "least privilege",
+        "open access for everyone",
+        "unlimited sharing",
+        "automatic public release"
+      ],
+      "answer": 0,
+      "explanation": "Least privilege limits access to what a person needs for their role."
     }
   ]
 }
