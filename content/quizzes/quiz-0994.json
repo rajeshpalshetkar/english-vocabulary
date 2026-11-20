@@ -8,134 +8,134 @@
   "question_count": 10,
   "questions": [
     {
-      "id": "q109",
-      "category": "Adverbs",
-      "question": "She arrived ___.",
+      "id": "q10031",
+      "category": "Problem Solving",
+      "question": "A machine stops working during a shift. What is the best first response?",
       "options": [
-        "late",
-        "lately",
-        "latest",
-        "laterly"
-      ],
-      "answer": 0,
-      "explanation": "Late is the correct adverb meaning not on time."
-    },
-    {
-      "id": "q011",
-      "category": "Tenses",
-      "question": "Listen! The baby ___.",
-      "options": [
-        "cries",
-        "is crying",
-        "cry",
-        "cried"
+        "Keep using it",
+        "Report the fault and follow the safety procedure",
+        "Hide the problem",
+        "Ask an untrained person to repair it"
       ],
       "answer": 1,
-      "explanation": "Listen! suggests an action happening now, so use the present continuous."
+      "explanation": "Report the fault and follow approved safety steps rather than risking injury."
     },
     {
-      "id": "q028",
+      "id": "q10032",
       "category": "Vocabulary",
-      "question": "A place where medicines are dispensed is a ___.",
+      "question": "To 'clarify' a point means to ___.",
       "options": [
-        "bakery",
-        "pharmacy",
-        "library",
-        "garage"
+        "make it easier to understand",
+        "make it longer",
+        "remove it",
+        "disagree with it"
+      ],
+      "answer": 0,
+      "explanation": "Clarify means explain something so it becomes clear."
+    },
+    {
+      "id": "q10033",
+      "category": "Grammar",
+      "question": "One of the applicants ___ already been interviewed.",
+      "options": [
+        "have",
+        "has",
+        "are",
+        "were"
       ],
       "answer": 1,
-      "explanation": "A pharmacy is a place where medicines are prepared or supplied."
+      "explanation": "The subject one is singular and takes has."
     },
     {
-      "id": "q045",
-      "category": "Modals",
-      "question": "It ___ rain later; take an umbrella.",
+      "id": "q10034",
+      "category": "Apologies",
+      "question": "Which apology sounds professional?",
       "options": [
-        "might",
-        "mustn't",
-        "shouldn't",
-        "has"
-      ],
-      "answer": 0,
-      "explanation": "Might expresses possibility."
-    },
-    {
-      "id": "q062",
-      "category": "Reading",
-      "question": "Read: 'The shop closes at 9 p.m., but it opens at 10 a.m.' When does it open?",
-      "options": [
-        "9 a.m.",
-        "10 a.m.",
-        "9 p.m.",
-        "10 p.m."
+        "Sorry if you got upset.",
+        "I apologise for the delay. Thank you for your patience.",
+        "It was not my fault.",
+        "Forget about it."
       ],
       "answer": 1,
-      "explanation": "The opening time given is 10 a.m."
+      "explanation": "A professional apology names the issue and acknowledges the other person's patience."
     },
     {
-      "id": "q079",
-      "category": "Punctuation",
-      "question": "Which is a complete sentence?",
+      "id": "q10035",
+      "category": "Vocabulary",
+      "question": "An 'obstacle' is something that ___.",
       "options": [
-        "Because it was raining.",
-        "After the meeting.",
-        "The team finished the work.",
-        "When I arrived."
+        "helps you relax",
+        "blocks progress",
+        "shows a direction",
+        "confirms a result"
       ],
-      "answer": 2,
-      "explanation": "The team finished the work contains a subject and a complete predicate."
+      "answer": 1,
+      "explanation": "An obstacle is a barrier or difficulty that prevents progress."
     },
     {
-      "id": "q096",
-      "category": "Reported Speech",
-      "question": "He said, 'I am tired.' Reported speech:",
+      "id": "q10036",
+      "category": "Grammar",
+      "question": "I would rather you ___ the details with the supervisor.",
       "options": [
-        "He said that he was tired.",
-        "He said I am tired.",
-        "He says that I tired.",
-        "He said he is tire."
+        "check",
+        "checked",
+        "checking",
+        "to check"
       ],
-      "answer": 0,
-      "explanation": "In standard backshift, am changes to was after a past reporting verb."
+      "answer": 1,
+      "explanation": "Would rather + subject is commonly followed by the past simple for a preference."
     },
     {
-      "id": "q113",
-      "category": "Gerunds",
-      "question": "She is good at ___.",
+      "id": "q10037",
+      "category": "Office English",
+      "question": "Which phrase is appropriate when you attach a file to an email?",
       "options": [
-        "swim",
-        "to swim",
-        "swimming",
-        "swam"
-      ],
-      "answer": 2,
-      "explanation": "A preposition such as at is followed by a noun or gerund."
-    },
-    {
-      "id": "q015",
-      "category": "Tenses",
-      "question": "She ___ the report before the manager arrived.",
-      "options": [
-        "finished",
-        "has finished",
-        "had finished",
-        "finishes"
-      ],
-      "answer": 2,
-      "explanation": "Use the past perfect for an action completed before another past action."
-    },
-    {
-      "id": "q032",
-      "category": "Articles",
-      "question": "She is ___ university student.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
+        "I have attached the requested file.",
+        "I am putting a file somewhere.",
+        "File is attached yesterday.",
+        "See this thing."
       ],
       "answer": 0,
-      "explanation": "University begins with the consonant sound /y/, so use a."
+      "explanation": "This is a standard, clear phrase for an email attachment."
+    },
+    {
+      "id": "q10038",
+      "category": "Word Choice",
+      "question": "The medicine should be stored in a cool, dry ___.",
+      "options": [
+        "place",
+        "placing",
+        "placed",
+        "places"
+      ],
+      "answer": 0,
+      "explanation": "Place is the noun needed after the adjective pair cool, dry."
+    },
+    {
+      "id": "q10039",
+      "category": "Grammar",
+      "question": "No sooner had he entered ___ the phone rang.",
+      "options": [
+        "when",
+        "then",
+        "than",
+        "while"
+      ],
+      "answer": 2,
+      "explanation": "The fixed construction is no sooner...than."
+    },
+    {
+      "id": "q10040",
+      "category": "Listening Skills",
+      "question": "If you do not understand an instruction, you should ___.",
+      "options": [
+        "guess and continue",
+        "ask the speaker to explain it again",
+        "ignore it",
+        "copy someone else's work"
+      ],
+      "answer": 1,
+      "explanation": "Asking for clarification prevents mistakes and improves safety."
     }
   ]
 }
