@@ -3,139 +3,139 @@
   "slug": "quiz-0867",
   "title": "English Practice Quiz 0867",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q020",
-      "category": "Tenses",
-      "question": "By next June, he ___ the course.",
+      "id": "q11361",
+      "category": "Cyber Awareness",
+      "question": "Cyber Awareness: A suspicious login alert should prompt you to:",
       "options": [
-        "completes",
-        "completed",
-        "will have completed",
-        "has complete"
-      ],
-      "answer": 2,
-      "explanation": "The future perfect describes an action completed before a future time."
-    },
-    {
-      "id": "q049",
-      "category": "Sentence Building",
-      "question": "Choose the correct plural of 'child'.",
-      "options": [
-        "childs",
-        "childes",
-        "children",
-        "childrens"
-      ],
-      "answer": 2,
-      "explanation": "Children is the irregular plural of child."
-    },
-    {
-      "id": "q078",
-      "category": "Punctuation",
-      "question": "Choose the correct sentence.",
-      "options": [
-        "I like tea, coffee and milk.",
-        "I like tea coffee and milk",
-        "I like, tea coffee, and milk.",
-        "i like tea, coffee and milk"
+        "verify activity and report through approved channels",
+        "share your password",
+        "ignore it",
+        "click unknown links"
       ],
       "answer": 0,
-      "explanation": "Use commas to separate items in a list and capitalise the first word."
+      "explanation": "Verify and report possible unauthorised access."
     },
     {
-      "id": "q107",
-      "category": "Adjectives",
-      "question": "She is the ___ student in the class.",
+      "id": "q11362",
+      "category": "Cyber Awareness",
+      "question": "Cyber Awareness: A QR code from an unknown source may:",
       "options": [
-        "tall",
-        "taller",
-        "tallest",
-        "more tall"
+        "lead to a malicious website",
+        "guarantee safe payment",
+        "replace antivirus",
+        "verify every identity"
       ],
-      "answer": 2,
-      "explanation": "Use the superlative tallest when comparing one with the whole class."
+      "answer": 0,
+      "explanation": "Unknown QR codes can direct users to unsafe sites."
     },
     {
-      "id": "q021",
-      "category": "Vocabulary",
-      "question": "A person who repairs water pipes is a ___.",
+      "id": "q11363",
+      "category": "Cyber Awareness",
+      "question": "Cyber Awareness: A secure website connection is commonly indicated by:",
       "options": [
-        "carpenter",
-        "plumber",
-        "tailor",
-        "baker"
+        "HTTPS in the address",
+        "a flashing banner",
+        "a long title",
+        "pop-ups"
       ],
-      "answer": 1,
-      "explanation": "A plumber installs and repairs water pipes and fittings."
+      "answer": 0,
+      "explanation": "HTTPS indicates an encrypted connection, not guaranteed legitimacy."
     },
     {
-      "id": "q050",
-      "category": "Sentence Building",
-      "question": "Choose the correct sentence.",
+      "id": "q11364",
+      "category": "Cyber Awareness",
+      "question": "Cyber Awareness: You should share an OTP:",
       "options": [
-        "There is many books.",
-        "There are many books.",
-        "There be many books.",
-        "There am many books."
+        "with nobody",
+        "with any delivery agent",
+        "in a public group",
+        "with an unknown website"
       ],
-      "answer": 1,
-      "explanation": "Use there are with plural nouns."
+      "answer": 0,
+      "explanation": "An OTP is a private authentication code."
     },
     {
-      "id": "q079",
-      "category": "Punctuation",
-      "question": "Which is a complete sentence?",
+      "id": "q11365",
+      "category": "Cyber Awareness",
+      "question": "Cyber Awareness: A backup is useful because it:",
       "options": [
-        "Because it was raining.",
-        "After the meeting.",
-        "The team finished the work.",
-        "When I arrived."
+        "helps restore data after loss or damage",
+        "makes passwords public",
+        "prevents every attack",
+        "replaces access control"
       ],
-      "answer": 2,
-      "explanation": "The team finished the work contains a subject and a complete predicate."
+      "answer": 0,
+      "explanation": "Backups provide copies for recovery."
     },
     {
-      "id": "q108",
-      "category": "Adverbs",
-      "question": "He speaks English ___.",
+      "id": "q11366",
+      "category": "Cyber Awareness",
+      "question": "Cyber Awareness: A spoofed email address is:",
       "options": [
-        "clear",
-        "clearly",
-        "clarity",
-        "clearest"
+        "disguised to appear to come from another source",
+        "always from your manager",
+        "without text",
+        "unable to contain links"
       ],
-      "answer": 1,
-      "explanation": "Clearly is the adverb describing how he speaks."
+      "answer": 0,
+      "explanation": "Spoofing disguises the sender's identity."
     },
     {
-      "id": "q022",
-      "category": "Vocabulary",
-      "question": "Choose the opposite of 'polite'.",
+      "id": "q11367",
+      "category": "Cyber Awareness",
+      "question": "Cyber Awareness: Why use public Wi-Fi cautiously?",
       "options": [
-        "kind",
-        "rude",
-        "helpful",
-        "calm"
+        "open networks may expose data to interception",
+        "it always deletes files",
+        "it blocks all sites",
+        "it guarantees privacy"
       ],
-      "answer": 1,
-      "explanation": "Rude is the opposite of polite."
+      "answer": 0,
+      "explanation": "Unsecured networks can expose transmitted information."
     },
     {
-      "id": "q051",
-      "category": "Conversation",
-      "question": "Someone says, 'Thank you for your help.' You reply:",
+      "id": "q11368",
+      "category": "Cyber Awareness",
+      "question": "Cyber Awareness: If a USB drive is found, you should:",
       "options": [
-        "Never mind you.",
-        "You're welcome.",
-        "I am welcome you.",
-        "No thank."
+        "follow procedure and avoid plugging it in",
+        "connect it to inspect files",
+        "take it home",
+        "share contents online"
       ],
-      "answer": 1,
-      "explanation": "You're welcome is a natural response to thank you."
+      "answer": 0,
+      "explanation": "Unknown USB devices may contain malicious software."
+    },
+    {
+      "id": "q11369",
+      "category": "Cyber Awareness",
+      "question": "Cyber Awareness: Software permissions should be:",
+      "options": [
+        "reviewed for necessity and legitimacy",
+        "approved without reading",
+        "shared with all users",
+        "ignored always"
+      ],
+      "answer": 0,
+      "explanation": "Reviewing permissions limits unnecessary access."
+    },
+    {
+      "id": "q11370",
+      "category": "Cyber Awareness",
+      "question": "Cyber Awareness: Social engineering attempts to:",
+      "options": [
+        "manipulate people into revealing information or unsafe actions",
+        "repair hardware",
+        "improve internet speed",
+        "organise files"
+      ],
+      "answer": 0,
+      "explanation": "Social engineering exploits human trust or behaviour."
     }
   ]
 }
