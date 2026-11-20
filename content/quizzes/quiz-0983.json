@@ -3,139 +3,139 @@
   "slug": "quiz-0983",
   "title": "English Practice Quiz 0983",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q037",
-      "category": "Prepositions",
-      "question": "My birthday is ___ July.",
+      "id": "q10121",
+      "category": "Shopping and Services",
+      "question": "A shop assistant asks, 'Can I help you?' You can reply:",
       "options": [
-        "at",
-        "in",
-        "on",
-        "from"
+        "I'm just looking, thank you.",
+        "You help yesterday.",
+        "No shop here.",
+        "I am buying yesterday."
       ],
-      "answer": 1,
-      "explanation": "Use in with months."
+      "answer": 0,
+      "explanation": "This is a natural way to browse without assistance."
     },
     {
-      "id": "q050",
-      "category": "Sentence Building",
-      "question": "Choose the correct sentence.",
+      "id": "q10122",
+      "category": "Shopping and Services",
+      "question": "A 'refund' is money ___.",
       "options": [
-        "There is many books.",
-        "There are many books.",
-        "There be many books.",
-        "There am many books."
+        "returned to a customer",
+        "borrowed from a friend",
+        "paid as a salary",
+        "saved for travel"
       ],
-      "answer": 1,
-      "explanation": "Use there are with plural nouns."
+      "answer": 0,
+      "explanation": "A refund is money given back after a purchase."
     },
     {
-      "id": "q063",
-      "category": "Reading",
-      "question": "Read: 'Ravi practises English for twenty minutes every evening.' How long does he practise?",
+      "id": "q10123",
+      "category": "Shopping and Services",
+      "question": "If an item is 'out of stock', it is ___.",
       "options": [
-        "Ten minutes",
-        "Twenty minutes",
-        "Thirty minutes",
-        "One hour"
+        "currently unavailable",
+        "free of charge",
+        "damaged by default",
+        "on display outside"
       ],
-      "answer": 1,
-      "explanation": "The passage states twenty minutes."
+      "answer": 0,
+      "explanation": "Out of stock means the shop has none available."
     },
     {
-      "id": "q076",
-      "category": "Punctuation",
-      "question": "Choose the correctly punctuated sentence.",
+      "id": "q10124",
+      "category": "Shopping and Services",
+      "question": "Which question asks about a product's size?",
       "options": [
-        "where are you.",
-        "Where are you?",
-        "Where are you,",
-        "where are you!"
+        "What size is this available in?",
+        "How old is the shop?",
+        "Where is the receipt?",
+        "When is lunch?"
       ],
-      "answer": 1,
-      "explanation": "Start with a capital letter and use a question mark."
+      "answer": 0,
+      "explanation": "This asks which sizes the shop has."
     },
     {
-      "id": "q089",
-      "category": "Conditionals",
-      "question": "If she studies, she ___ the test.",
+      "id": "q10125",
+      "category": "Shopping and Services",
+      "question": "A warranty provides ___.",
       "options": [
-        "passes",
-        "passed",
-        "will pass",
-        "would passed"
+        "a promise of repair or replacement under stated terms",
+        "a free holiday",
+        "a guaranteed discount on every item",
+        "a delivery address"
       ],
-      "answer": 2,
-      "explanation": "Use will + base verb in the main clause of the first conditional."
+      "answer": 0,
+      "explanation": "A warranty covers specified faults or repairs for a period."
     },
     {
-      "id": "q102",
-      "category": "Determiners",
-      "question": "How ___ apples do you need?",
+      "id": "q10126",
+      "category": "Shopping and Services",
+      "question": "To 'exchange' an item means to ___.",
       "options": [
-        "much",
-        "many",
-        "little",
-        "any"
+        "replace it with another item",
+        "throw it away",
+        "hide the receipt",
+        "pay the same bill twice"
       ],
-      "answer": 1,
-      "explanation": "Apples are countable plural nouns, so use many."
+      "answer": 0,
+      "explanation": "An exchange replaces one purchased item with another."
     },
     {
-      "id": "q115",
-      "category": "Gerunds",
-      "question": "I want ___ English fluently.",
+      "id": "q10127",
+      "category": "Shopping and Services",
+      "question": "Which detail should you check before paying online?",
       "options": [
-        "speak",
-        "speaking",
-        "to speak",
-        "spoke"
+        "the seller and payment page are genuine",
+        "the screen brightness",
+        "the number of open tabs",
+        "the phone wallpaper"
       ],
-      "answer": 2,
-      "explanation": "Want is followed by a to-infinitive."
+      "answer": 0,
+      "explanation": "Checking the seller and payment page helps reduce fraud risk."
     },
     {
-      "id": "q013",
-      "category": "Tenses",
-      "question": "At 8 p.m. yesterday, I ___ dinner.",
+      "id": "q10128",
+      "category": "Shopping and Services",
+      "question": "A 'receipt' is useful because it ___.",
       "options": [
-        "cook",
-        "cooked",
-        "was cooking",
-        "am cooking"
+        "records the purchase",
+        "guarantees every product is perfect",
+        "replaces the product manual",
+        "shows the shop's opening music"
       ],
-      "answer": 2,
-      "explanation": "Use the past continuous for an action in progress at a specific past time."
+      "answer": 0,
+      "explanation": "A receipt is evidence of a transaction."
     },
     {
-      "id": "q026",
-      "category": "Vocabulary",
-      "question": "What does 'borrow' mean?",
+      "id": "q10129",
+      "category": "Shopping and Services",
+      "question": "If a parcel arrives damaged, you should ___.",
       "options": [
-        "give something forever",
-        "take something temporarily and return it",
-        "break something",
-        "buy something"
+        "photograph the damage and contact the seller",
+        "discard all packaging immediately",
+        "confirm it is perfect",
+        "send your password"
       ],
-      "answer": 1,
-      "explanation": "Borrow means to take something for a period and return it."
+      "answer": 0,
+      "explanation": "Evidence and prompt contact help resolve delivery issues."
     },
     {
-      "id": "q039",
-      "category": "Prepositions",
-      "question": "She is interested ___ music.",
+      "id": "q10130",
+      "category": "Shopping and Services",
+      "question": "A 'cashless' payment is made ___.",
       "options": [
-        "on",
-        "at",
-        "in",
-        "for"
+        "without physical cash",
+        "only with coins",
+        "only by cheque",
+        "without a transaction"
       ],
-      "answer": 2,
-      "explanation": "The adjective interested is followed by in."
+      "answer": 0,
+      "explanation": "Cashless payments use digital or other non-cash methods."
     }
   ]
 }
