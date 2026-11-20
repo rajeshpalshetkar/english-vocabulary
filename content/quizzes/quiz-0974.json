@@ -3,139 +3,139 @@
   "slug": "quiz-0974",
   "title": "English Practice Quiz 0974",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q114",
-      "category": "Gerunds",
-      "question": "They finished ___ the room.",
+      "id": "q10231",
+      "category": "Time Management",
+      "question": "To 'prioritise' tasks means to ___.",
       "options": [
-        "clean",
-        "to clean",
-        "cleaning",
-        "cleaned"
-      ],
-      "answer": 2,
-      "explanation": "Finish is followed by a gerund."
-    },
-    {
-      "id": "q016",
-      "category": "Tenses",
-      "question": "Water ___ at 100°C at sea level.",
-      "options": [
-        "boil",
-        "boils",
-        "is boiling",
-        "boiled"
-      ],
-      "answer": 1,
-      "explanation": "Use the present simple for general facts."
-    },
-    {
-      "id": "q033",
-      "category": "Articles",
-      "question": "Please close ___ door.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 2,
-      "explanation": "The refers to a specific door known to the speaker and listener."
-    },
-    {
-      "id": "q050",
-      "category": "Sentence Building",
-      "question": "Choose the correct sentence.",
-      "options": [
-        "There is many books.",
-        "There are many books.",
-        "There be many books.",
-        "There am many books."
-      ],
-      "answer": 1,
-      "explanation": "Use there are with plural nouns."
-    },
-    {
-      "id": "q067",
-      "category": "Workplace English",
-      "question": "You have completed a task. You say:",
-      "options": [
-        "The task is complete.",
-        "The task complete yesterday tomorrow.",
-        "I task finish.",
-        "Task is completing me."
+        "arrange them by importance",
+        "complete them randomly",
+        "avoid all deadlines",
+        "give every task equal urgency"
       ],
       "answer": 0,
-      "explanation": "The task is complete is a clear status update."
+      "explanation": "Prioritising ranks tasks so important work receives attention first."
     },
     {
-      "id": "q084",
-      "category": "Confusing Words",
-      "question": "I have ___ my keys.",
+      "id": "q10232",
+      "category": "Time Management",
+      "question": "A realistic schedule should include ___.",
       "options": [
-        "loose",
-        "lose",
-        "lost",
-        "loss"
+        "time for tasks and short breaks",
+        "more work than the day allows",
+        "no start times",
+        "only optional activities"
       ],
-      "answer": 2,
-      "explanation": "Lost is the past participle of lose."
+      "answer": 0,
+      "explanation": "A realistic plan accounts for both work and recovery time."
     },
     {
-      "id": "q101",
-      "category": "Determiners",
-      "question": "There isn't ___ milk left.",
+      "id": "q10233",
+      "category": "Time Management",
+      "question": "If two urgent tasks conflict, you should ___.",
       "options": [
-        "many",
-        "much",
-        "few",
-        "several"
+        "confirm which task has higher priority with the supervisor",
+        "choose one at random",
+        "ignore both",
+        "ask an unrelated visitor"
       ],
-      "answer": 1,
-      "explanation": "Milk is uncountable, so use much in a negative sentence."
+      "answer": 0,
+      "explanation": "A supervisor can clarify competing priorities."
     },
     {
-      "id": "q003",
-      "category": "Grammar",
-      "question": "I ___ a new notebook yesterday.",
+      "id": "q10234",
+      "category": "Time Management",
+      "question": "The phrase 'ahead of schedule' means ___.",
       "options": [
-        "buy",
-        "buys",
-        "bought",
-        "buying"
+        "earlier than planned",
+        "later than expected",
+        "without a deadline",
+        "after cancellation"
       ],
-      "answer": 2,
-      "explanation": "Yesterday signals the past simple. The past form of buy is bought."
+      "answer": 0,
+      "explanation": "Ahead of schedule means progress is faster than planned."
     },
     {
-      "id": "q020",
-      "category": "Tenses",
-      "question": "By next June, he ___ the course.",
+      "id": "q10235",
+      "category": "Time Management",
+      "question": "A task that is 'overdue' ___.",
       "options": [
-        "completes",
-        "completed",
-        "will have completed",
-        "has complete"
+        "has passed its due date",
+        "is completed early",
+        "has no owner",
+        "was never assigned"
       ],
-      "answer": 2,
-      "explanation": "The future perfect describes an action completed before a future time."
+      "answer": 0,
+      "explanation": "Overdue describes something not completed by its due date."
     },
     {
-      "id": "q037",
-      "category": "Prepositions",
-      "question": "My birthday is ___ July.",
+      "id": "q10236",
+      "category": "Time Management",
+      "question": "Breaking a large project into smaller steps can make it ___.",
       "options": [
-        "at",
-        "in",
-        "on",
-        "from"
+        "easier to manage",
+        "impossible to measure",
+        "less organised",
+        "automatically finished"
       ],
-      "answer": 1,
-      "explanation": "Use in with months."
+      "answer": 0,
+      "explanation": "Smaller steps make progress clearer and more manageable."
+    },
+    {
+      "id": "q10237",
+      "category": "Time Management",
+      "question": "Which habit helps prevent missed appointments?",
+      "options": [
+        "using a calendar reminder",
+        "relying only on memory",
+        "ignoring notifications",
+        "booking overlapping meetings"
+      ],
+      "answer": 0,
+      "explanation": "Calendar reminders provide a prompt before an appointment."
+    },
+    {
+      "id": "q10238",
+      "category": "Time Management",
+      "question": "A 'buffer' in a schedule is extra time allowed for ___.",
+      "options": [
+        "unexpected delays",
+        "unnecessary arguments",
+        "removing all breaks",
+        "changing the past"
+      ],
+      "answer": 0,
+      "explanation": "A buffer helps absorb delays or unexpected work."
+    },
+    {
+      "id": "q10239",
+      "category": "Time Management",
+      "question": "When a deadline changes, you should ___.",
+      "options": [
+        "update the plan and inform affected people",
+        "keep using the old date",
+        "hide the change",
+        "delete the task"
+      ],
+      "answer": 0,
+      "explanation": "Updating the plan helps everyone work to the same deadline."
+    },
+    {
+      "id": "q10240",
+      "category": "Time Management",
+      "question": "The best way to track a recurring task is to ___.",
+      "options": [
+        "set a regular reminder or checklist",
+        "wait until someone complains",
+        "depend on chance",
+        "record it only after a year"
+      ],
+      "answer": 0,
+      "explanation": "A recurring reminder or checklist supports consistency."
     }
   ]
 }
