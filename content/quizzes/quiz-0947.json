@@ -3,139 +3,139 @@
   "slug": "quiz-0947",
   "title": "English Practice Quiz 0947",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q115",
-      "category": "Gerunds",
-      "question": "I want ___ English fluently.",
+      "id": "q10561",
+      "category": "Hospital Communication",
+      "question": "A patient asks for directions to the laboratory. You should ___.",
       "options": [
-        "speak",
-        "speaking",
-        "to speak",
-        "spoke"
-      ],
-      "answer": 2,
-      "explanation": "Want is followed by a to-infinitive."
-    },
-    {
-      "id": "q029",
-      "category": "Vocabulary",
-      "question": "What is the meaning of 'available'?",
-      "options": [
-        "not possible to use",
-        "ready or able to be used",
-        "very expensive",
-        "already broken"
-      ],
-      "answer": 1,
-      "explanation": "Available means ready for use or accessible."
-    },
-    {
-      "id": "q058",
-      "category": "Pronunciation",
-      "question": "Which word has the /ʃ/ sound as in 'ship'?",
-      "options": [
-        "sip",
-        "shop",
-        "zip",
-        "tip"
-      ],
-      "answer": 1,
-      "explanation": "Shop begins with the /ʃ/ sound."
-    },
-    {
-      "id": "q087",
-      "category": "Conditionals",
-      "question": "If I had more time, I ___ another language.",
-      "options": [
-        "learn",
-        "will learn",
-        "would learn",
-        "am learn"
-      ],
-      "answer": 2,
-      "explanation": "The second conditional uses would + base verb for an unreal or imagined situation."
-    },
-    {
-      "id": "q001",
-      "category": "Grammar",
-      "question": "She ___ to work every day.",
-      "options": [
-        "go",
-        "goes",
-        "going",
-        "gone"
-      ],
-      "answer": 1,
-      "explanation": "With he, she or it in the present simple, add -s or -es to most verbs."
-    },
-    {
-      "id": "q030",
-      "category": "Vocabulary",
-      "question": "Choose the best word: The road is very ___. There are many cars.",
-      "options": [
-        "crowded",
-        "empty",
-        "quietly",
-        "soft"
+        "give clear directions or guide them to the correct desk",
+        "guess a location",
+        "discuss another patient's condition",
+        "tell them to enter a restricted area"
       ],
       "answer": 0,
-      "explanation": "Crowded means filled with many people or things; it can describe busy roads."
+      "explanation": "Clear directions help patients reach the correct department safely."
     },
     {
-      "id": "q059",
-      "category": "Pronunciation",
-      "question": "Which word rhymes with 'light'?",
+      "id": "q10562",
+      "category": "Hospital Communication",
+      "question": "Patient information should be discussed ___.",
       "options": [
-        "late",
-        "lit",
-        "night",
-        "let"
+        "only with authorised people in an appropriate setting",
+        "in a public lift",
+        "with unrelated visitors",
+        "on an open social media page"
       ],
-      "answer": 2,
-      "explanation": "Light and night share the same ending sound."
+      "answer": 0,
+      "explanation": "Patient information must be protected and shared only when authorised."
     },
     {
-      "id": "q088",
-      "category": "Conditionals",
-      "question": "If you heat ice, it ___.",
+      "id": "q10563",
+      "category": "Hospital Communication",
+      "question": "If a patient or relative is distressed, staff should first ___.",
       "options": [
-        "melt",
-        "melts",
-        "will melted",
-        "melting"
+        "listen calmly and speak respectfully",
+        "argue loudly",
+        "make promises beyond their authority",
+        "ignore the concern"
       ],
-      "answer": 1,
-      "explanation": "The zero conditional uses present simple for general truths."
+      "answer": 0,
+      "explanation": "Calm listening can help reduce distress and clarify the concern."
     },
     {
-      "id": "q002",
-      "category": "Grammar",
-      "question": "They ___ ready for the meeting.",
+      "id": "q10564",
+      "category": "Hospital Communication",
+      "question": "A hospital wayfinding sign should be ___.",
       "options": [
-        "is",
-        "am",
-        "are",
-        "be"
+        "clear, readable and easy to follow",
+        "covered by posters",
+        "full of unexplained abbreviations",
+        "placed where nobody can see it"
       ],
-      "answer": 2,
-      "explanation": "Use are with the plural subject they."
+      "answer": 0,
+      "explanation": "Clear signs help people navigate the hospital."
     },
     {
-      "id": "q031",
-      "category": "Articles",
-      "question": "I saw ___ elephant at the zoo.",
+      "id": "q10565",
+      "category": "Hospital Communication",
+      "question": "When communicating an emergency alert, staff should use ___.",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
+        "the approved code and communication procedure",
+        "a personal nickname for the event",
+        "unverified messages",
+        "a joke to attract attention"
       ],
-      "answer": 1,
-      "explanation": "Use an before a vowel sound."
+      "answer": 0,
+      "explanation": "Approved terminology reduces confusion during emergencies."
+    },
+    {
+      "id": "q10566",
+      "category": "Hospital Communication",
+      "question": "A visitor who wants clinical advice should be directed to ___.",
+      "options": [
+        "an appropriate qualified healthcare professional",
+        "an unauthorised staff member",
+        "another visitor",
+        "an online rumour group"
+      ],
+      "answer": 0,
+      "explanation": "Clinical advice should come from an appropriately qualified professional."
+    },
+    {
+      "id": "q10567",
+      "category": "Hospital Communication",
+      "question": "A shift handover in a hospital should include relevant safety concerns and ___.",
+      "options": [
+        "pending actions",
+        "personal opinions about patients",
+        "unrelated family matters",
+        "unconfirmed gossip"
+      ],
+      "answer": 0,
+      "explanation": "Pending actions help the incoming team maintain continuity."
+    },
+    {
+      "id": "q10568",
+      "category": "Hospital Communication",
+      "question": "When giving a patient an instruction, use language that is ___.",
+      "options": [
+        "simple and respectful",
+        "technical without explanation",
+        "threatening",
+        "deliberately vague"
+      ],
+      "answer": 0,
+      "explanation": "Plain respectful language improves understanding."
+    },
+    {
+      "id": "q10569",
+      "category": "Hospital Communication",
+      "question": "If you cannot understand a patient's language, you should seek ___.",
+      "options": [
+        "approved interpretation support",
+        "a random online translation of private records",
+        "a guess from another visitor",
+        "permission to ignore the patient"
+      ],
+      "answer": 0,
+      "explanation": "Appropriate interpretation helps ensure accurate communication."
+    },
+    {
+      "id": "q10570",
+      "category": "Hospital Communication",
+      "question": "A complaint about hospital service should be recorded according to ___.",
+      "options": [
+        "the hospital's approved complaint process",
+        "an informal rumour chain",
+        "a personal social media account",
+        "an unrelated visitor register"
+      ],
+      "answer": 0,
+      "explanation": "The approved process ensures the complaint is documented and reviewed appropriately."
     }
   ]
 }
