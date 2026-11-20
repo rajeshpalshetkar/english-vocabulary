@@ -3,139 +3,139 @@
   "slug": "quiz-0860",
   "title": "English Practice Quiz 0860",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
+  "category": "Practical English",
   "level": "Advanced",
   "question_count": 10,
   "questions": [
     {
-      "id": "q016",
-      "category": "Tenses",
-      "question": "Water ___ at 100°C at sea level.",
+      "id": "q11491",
+      "category": "Customer Service",
+      "question": "Customer Service: A customer has waited for an hour. What is the best response?",
       "options": [
-        "boil",
-        "boils",
-        "is boiling",
-        "boiled"
-      ],
-      "answer": 1,
-      "explanation": "Use the present simple for general facts."
-    },
-    {
-      "id": "q023",
-      "category": "Vocabulary",
-      "question": "A synonym of 'begin' is ___.",
-      "options": [
-        "finish",
-        "start",
-        "stop",
-        "close"
-      ],
-      "answer": 1,
-      "explanation": "Start has the same basic meaning as begin."
-    },
-    {
-      "id": "q030",
-      "category": "Vocabulary",
-      "question": "Choose the best word: The road is very ___. There are many cars.",
-      "options": [
-        "crowded",
-        "empty",
-        "quietly",
-        "soft"
+        "I apologise for the wait. I will check the status for you.",
+        "Not my fault.",
+        "Come earlier.",
+        "Stop complaining."
       ],
       "answer": 0,
-      "explanation": "Crowded means filled with many people or things; it can describe busy roads."
+      "explanation": "Acknowledge the delay and offer a practical next step."
     },
     {
-      "id": "q037",
-      "category": "Prepositions",
-      "question": "My birthday is ___ July.",
+      "id": "q11492",
+      "category": "Customer Service",
+      "question": "Customer Service: What does professionalism include?",
       "options": [
-        "at",
-        "in",
-        "on",
-        "from"
-      ],
-      "answer": 1,
-      "explanation": "Use in with months."
-    },
-    {
-      "id": "q044",
-      "category": "Modals",
-      "question": "You look tired. You ___ get some rest.",
-      "options": [
-        "should",
-        "mustn't",
-        "can't",
-        "wouldn't"
+        "Courtesy, reliability and respect",
+        "Gossip and favouritism",
+        "Ignoring procedures",
+        "False promises"
       ],
       "answer": 0,
-      "explanation": "Should gives advice."
+      "explanation": "Professional conduct involves respectful and dependable behaviour."
     },
     {
-      "id": "q051",
-      "category": "Conversation",
-      "question": "Someone says, 'Thank you for your help.' You reply:",
+      "id": "q11493",
+      "category": "Customer Service",
+      "question": "Customer Service: What does a service standard describe?",
       "options": [
-        "Never mind you.",
-        "You're welcome.",
-        "I am welcome you.",
-        "No thank."
+        "The expected level of service",
+        "A private opinion",
+        "A leave plan",
+        "One preference"
       ],
-      "answer": 1,
-      "explanation": "You're welcome is a natural response to thank you."
+      "answer": 0,
+      "explanation": "Service standards define expected performance."
     },
     {
-      "id": "q058",
-      "category": "Pronunciation",
-      "question": "Which word has the /ʃ/ sound as in 'ship'?",
+      "id": "q11494",
+      "category": "Customer Service",
+      "question": "Customer Service: You do not know an answer. What should you say?",
       "options": [
-        "sip",
-        "shop",
-        "zip",
-        "tip"
+        "I will check the correct information for you.",
+        "I will make it up.",
+        "That is silly.",
+        "Ask anyone."
       ],
-      "answer": 1,
-      "explanation": "Shop begins with the /ʃ/ sound."
+      "answer": 0,
+      "explanation": "It is honest and offers to find accurate information."
     },
     {
-      "id": "q065",
-      "category": "Reading",
-      "question": "Read: 'Please keep the floor dry to prevent accidents.' What is the instruction?",
+      "id": "q11495",
+      "category": "Customer Service",
+      "question": "Customer Service: How can customer feedback help?",
       "options": [
-        "Wash the floor now",
-        "Keep the floor dry",
-        "Close the office",
-        "Move the furniture"
+        "Identify areas for improvement",
+        "Avoid communication",
+        "Remove every procedure",
+        "Ignore quality"
       ],
-      "answer": 1,
-      "explanation": "The notice instructs people to keep the floor dry."
+      "answer": 0,
+      "explanation": "Feedback reveals strengths and improvement opportunities."
     },
     {
-      "id": "q072",
-      "category": "Questions",
-      "question": "Which question asks about time?",
+      "id": "q11496",
+      "category": "Customer Service",
+      "question": "Customer Service: What does courtesy mean?",
       "options": [
-        "Who is calling?",
-        "When does the train leave?",
-        "Where is the station?",
-        "Why are you here?"
+        "Polite and considerate behaviour",
+        "A penalty",
+        "A technical failure",
+        "A delivery schedule"
       ],
-      "answer": 1,
-      "explanation": "When asks about time."
+      "answer": 0,
+      "explanation": "Courtesy is politeness and consideration."
     },
     {
-      "id": "q079",
-      "category": "Punctuation",
-      "question": "Which is a complete sentence?",
+      "id": "q11497",
+      "category": "Customer Service",
+      "question": "Customer Service: A customer asks for a supervisor. What should you do?",
       "options": [
-        "Because it was raining.",
-        "After the meeting.",
-        "The team finished the work.",
-        "When I arrived."
+        "Follow the escalation procedure respectfully",
+        "Refuse automatically",
+        "Argue",
+        "Hide the supervisor"
       ],
-      "answer": 2,
-      "explanation": "The team finished the work contains a subject and a complete predicate."
+      "answer": 0,
+      "explanation": "Follow the established escalation process."
+    },
+    {
+      "id": "q11498",
+      "category": "Customer Service",
+      "question": "Customer Service: Which behaviour builds trust?",
+      "options": [
+        "Accurate information and keeping commitments",
+        "Unsupported guarantees",
+        "Changing answers",
+        "Withholding updates"
+      ],
+      "answer": 0,
+      "explanation": "Trust grows through accuracy and reliability."
+    },
+    {
+      "id": "q11499",
+      "category": "Customer Service",
+      "question": "Customer Service: When should a service request be closed?",
+      "options": [
+        "When the action is completed and recorded",
+        "When merely received",
+        "When customer stops calling",
+        "When shift changes"
+      ],
+      "answer": 0,
+      "explanation": "Closure requires completion and documentation."
+    },
+    {
+      "id": "q11500",
+      "category": "Customer Service",
+      "question": "Customer Service: What makes an apology professional?",
+      "options": [
+        "Sincere, clear and relevant",
+        "Sarcastic",
+        "Blaming",
+        "Unrelated"
+      ],
+      "answer": 0,
+      "explanation": "A sincere apology acknowledges the issue directly."
     }
   ]
 }
