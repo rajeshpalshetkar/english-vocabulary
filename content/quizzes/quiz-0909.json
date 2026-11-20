@@ -3,139 +3,139 @@
   "slug": "quiz-0909",
   "title": "English Practice Quiz 0909",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
+  "category": "Practical English",
   "level": "Advanced",
   "question_count": 10,
   "questions": [
     {
-      "id": "q044",
-      "category": "Modals",
-      "question": "You look tired. You ___ get some rest.",
+      "id": "q10981",
+      "category": "Grammar Accuracy",
+      "question": "Choose the correct sentence about stored equipment.",
       "options": [
-        "should",
-        "mustn't",
-        "can't",
-        "wouldn't"
+        "The equipment is stored in the locked room.",
+        "The equipments are stored in the locked room.",
+        "The equipment are stored in locked room.",
+        "The equipment storing in the locked room."
       ],
       "answer": 0,
-      "explanation": "Should gives advice."
+      "explanation": "The equipment is stored in the locked room. is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q081",
-      "category": "Confusing Words",
-      "question": "Choose the correct word: ___ going to arrive soon.",
+      "id": "q10982",
+      "category": "Grammar Accuracy",
+      "question": "She has worked here ___ 2021.",
       "options": [
-        "Their",
-        "There",
-        "They're",
-        "Theirs"
+        "for",
+        "during",
+        "by",
+        "since"
+      ],
+      "answer": 3,
+      "explanation": "since is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q10983",
+      "category": "Grammar Accuracy",
+      "question": "The files ___ checked yesterday.",
+      "options": [
+        "was",
+        "is",
+        "were",
+        "has"
       ],
       "answer": 2,
-      "explanation": "They're is the contraction of they are."
+      "explanation": "were is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q003",
-      "category": "Grammar",
-      "question": "I ___ a new notebook yesterday.",
+      "id": "q10984",
+      "category": "Grammar Accuracy",
+      "question": "Neither the supervisor nor the guards ___ available.",
       "options": [
-        "buy",
-        "buys",
-        "bought",
-        "buying"
-      ],
-      "answer": 2,
-      "explanation": "Yesterday signals the past simple. The past form of buy is bought."
-    },
-    {
-      "id": "q040",
-      "category": "Prepositions",
-      "question": "The hospital is ___ the bank and the post office.",
-      "options": [
-        "among",
-        "between",
-        "inside",
-        "over"
+        "is",
+        "are",
+        "was being",
+        "has"
       ],
       "answer": 1,
-      "explanation": "Between is used for a position separating two things."
+      "explanation": "are is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q077",
-      "category": "Punctuation",
-      "question": "Which sentence uses the apostrophe correctly?",
+      "id": "q10985",
+      "category": "Grammar Accuracy",
+      "question": "Which sentence correctly describes an unreal past condition?",
       "options": [
-        "The guards uniform is blue.",
-        "The guard's uniform is blue.",
-        "The guards' uniform is blue. (one guard)",
-        "The guard uniform's is blue."
-      ],
-      "answer": 1,
-      "explanation": "Guard's shows possession by one guard."
-    },
-    {
-      "id": "q114",
-      "category": "Gerunds",
-      "question": "They finished ___ the room.",
-      "options": [
-        "clean",
-        "to clean",
-        "cleaning",
-        "cleaned"
-      ],
-      "answer": 2,
-      "explanation": "Finish is followed by a gerund."
-    },
-    {
-      "id": "q036",
-      "category": "Prepositions",
-      "question": "The meeting starts ___ 9 a.m.",
-      "options": [
-        "in",
-        "on",
-        "at",
-        "by"
-      ],
-      "answer": 2,
-      "explanation": "Use at for a specific clock time."
-    },
-    {
-      "id": "q073",
-      "category": "Questions",
-      "question": "Choose the correct question.",
-      "options": [
-        "Does she work here?",
-        "Do she work here?",
-        "Is she works here?",
-        "Does she works here?"
+        "If I had known, I would have called you.",
+        "If I would know, I called you.",
+        "If I knew yesterday, I will call.",
+        "If I had know, I call you."
       ],
       "answer": 0,
-      "explanation": "Use does + subject + base verb with he, she or it."
+      "explanation": "If I had known, I would have called you. is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q110",
-      "category": "Adverbs",
-      "question": "Please drive ___.",
+      "id": "q10986",
+      "category": "Grammar Accuracy",
+      "question": "The report, along with the photographs, ___ ready.",
       "options": [
-        "careful",
-        "carefully",
-        "care",
-        "caring"
+        "are",
+        "were",
+        "have",
+        "is"
+      ],
+      "answer": 3,
+      "explanation": "is is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q10987",
+      "category": "Grammar Accuracy",
+      "question": "There are ___ errors in this version than in the previous one.",
+      "options": [
+        "less",
+        "little",
+        "fewer",
+        "much"
+      ],
+      "answer": 2,
+      "explanation": "fewer is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q10988",
+      "category": "Grammar Accuracy",
+      "question": "The manager asked whether the forms ___.",
+      "options": [
+        "has submit",
+        "had been submitted",
+        "were submit",
+        "submitting"
       ],
       "answer": 1,
-      "explanation": "Carefully is the adverb modifying drive."
+      "explanation": "had been submitted is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q032",
-      "category": "Articles",
-      "question": "She is ___ university student.",
+      "id": "q10989",
+      "category": "Grammar Accuracy",
+      "question": "Which sentence uses an indirect question correctly?",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
+        "Please let me know when the delivery arrives.",
+        "Please let me know when does the delivery arrives.",
+        "Please let me know when delivery arrive.",
+        "Please let me know when arrives the delivery."
       ],
       "answer": 0,
-      "explanation": "University begins with the consonant sound /y/, so use a."
+      "explanation": "Please let me know when the delivery arrives. is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q10990",
+      "category": "Grammar Accuracy",
+      "question": "By this time tomorrow, we ___ the audit.",
+      "options": [
+        "complete yesterday",
+        "have completing",
+        "will completed",
+        "will have completed"
+      ],
+      "answer": 3,
+      "explanation": "will have completed is the correct answer based on the meaning and context of the question."
     }
   ]
 }
