@@ -3,139 +3,139 @@
   "slug": "quiz-0958",
   "title": "English Practice Quiz 0958",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q072",
-      "category": "Questions",
-      "question": "Which question asks about time?",
+      "id": "q10471",
+      "category": "Digital Communication",
+      "question": "A video conference allows people to ___.",
       "options": [
-        "Who is calling?",
-        "When does the train leave?",
-        "Where is the station?",
-        "Why are you here?"
+        "meet and communicate remotely by video",
+        "print documents without a printer",
+        "repair a mobile network",
+        "store food safely"
       ],
-      "answer": 1,
-      "explanation": "When asks about time."
+      "answer": 0,
+      "explanation": "Video conferencing connects participants in different locations."
     },
     {
-      "id": "q103",
-      "category": "Determiners",
-      "question": "I have ___ friends in this city.",
+      "id": "q10472",
+      "category": "Digital Communication",
+      "question": "In an email, the 'CC' field is commonly used to ___.",
       "options": [
-        "a little",
-        "a few",
-        "much",
-        "anyone"
+        "send a visible copy to additional recipients",
+        "hide every recipient",
+        "attach a large file",
+        "encrypt the subject line"
       ],
-      "answer": 1,
-      "explanation": "A few is used with countable plural nouns."
+      "answer": 0,
+      "explanation": "CC recipients are visible to other recipients."
     },
     {
-      "id": "q019",
-      "category": "Tenses",
-      "question": "She ___ in this hospital for five years.",
+      "id": "q10473",
+      "category": "Digital Communication",
+      "question": "The 'BCC' field is used when you want to ___.",
       "options": [
-        "works",
-        "worked",
-        "has worked",
-        "is work"
+        "send a copy without revealing that recipient to other recipients",
+        "make the email public",
+        "remove the subject line",
+        "block the sender"
       ],
-      "answer": 2,
-      "explanation": "The present perfect can describe a situation continuing to the present."
+      "answer": 0,
+      "explanation": "BCC hides those recipients' addresses from other recipients."
     },
     {
-      "id": "q050",
-      "category": "Sentence Building",
-      "question": "Choose the correct sentence.",
+      "id": "q10474",
+      "category": "Digital Communication",
+      "question": "A file attachment is ___.",
       "options": [
-        "There is many books.",
-        "There are many books.",
-        "There be many books.",
-        "There am many books."
+        "a file sent along with a message",
+        "a password typed in the subject",
+        "a broken internet connection",
+        "a calendar reminder only"
       ],
-      "answer": 1,
-      "explanation": "Use there are with plural nouns."
+      "answer": 0,
+      "explanation": "An attachment is a file included with an email or message."
     },
     {
-      "id": "q081",
-      "category": "Confusing Words",
-      "question": "Choose the correct word: ___ going to arrive soon.",
+      "id": "q10475",
+      "category": "Digital Communication",
+      "question": "A group chat should not be used to share ___.",
       "options": [
-        "Their",
-        "There",
-        "They're",
-        "Theirs"
+        "sensitive personal information without a valid reason",
+        "general meeting reminders",
+        "approved public notices",
+        "non-confidential work updates"
       ],
-      "answer": 2,
-      "explanation": "They're is the contraction of they are."
+      "answer": 0,
+      "explanation": "Sensitive information should be shared only through appropriate secure channels."
     },
     {
-      "id": "q112",
-      "category": "Gerunds",
-      "question": "He decided ___ early.",
+      "id": "q10476",
+      "category": "Digital Communication",
+      "question": "A 'mute' button in an online meeting usually ___.",
       "options": [
-        "leave",
-        "leaving",
-        "to leave",
-        "leaves"
+        "turns off your microphone audio",
+        "turns off every participant's camera",
+        "ends the meeting",
+        "deletes the meeting notes"
       ],
-      "answer": 2,
-      "explanation": "Decide is commonly followed by a to-infinitive."
+      "answer": 0,
+      "explanation": "Mute prevents your microphone audio from being transmitted."
     },
     {
-      "id": "q028",
-      "category": "Vocabulary",
-      "question": "A place where medicines are dispensed is a ___.",
+      "id": "q10477",
+      "category": "Digital Communication",
+      "question": "A reliable internet connection is important for a video call because it helps ___.",
       "options": [
-        "bakery",
-        "pharmacy",
-        "library",
-        "garage"
+        "maintain clear audio and video",
+        "increase screen size physically",
+        "charge the laptop",
+        "print meeting minutes"
       ],
-      "answer": 1,
-      "explanation": "A pharmacy is a place where medicines are prepared or supplied."
+      "answer": 0,
+      "explanation": "Stable connectivity improves call quality."
     },
     {
-      "id": "q059",
-      "category": "Pronunciation",
-      "question": "Which word rhymes with 'light'?",
+      "id": "q10478",
+      "category": "Digital Communication",
+      "question": "Before posting a work-related photo online, you should check ___.",
       "options": [
-        "late",
-        "lit",
-        "night",
-        "let"
+        "permission and privacy rules",
+        "the number of likes it might receive only",
+        "whether the image is colourful",
+        "the phone wallpaper"
       ],
-      "answer": 2,
-      "explanation": "Light and night share the same ending sound."
+      "answer": 0,
+      "explanation": "Workplace images may contain private or restricted information."
     },
     {
-      "id": "q090",
-      "category": "Conditionals",
-      "question": "If I were you, I ___ apologise.",
+      "id": "q10479",
+      "category": "Digital Communication",
+      "question": "A hyperlink is text or an image that ___.",
       "options": [
-        "will",
-        "would",
-        "am",
-        "did"
+        "opens another page or resource when selected",
+        "automatically repairs a computer",
+        "increases the battery capacity",
+        "deletes a web browser"
       ],
-      "answer": 1,
-      "explanation": "If I were you is followed by would for advice."
+      "answer": 0,
+      "explanation": "A hyperlink connects to another online location or resource."
     },
     {
-      "id": "q006",
-      "category": "Grammar",
-      "question": "He is ___ honest man.",
+      "id": "q10480",
+      "category": "Digital Communication",
+      "question": "If a message contains an urgent request for money, verify it through ___.",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
+        "a separate trusted communication channel",
+        "the reply button alone",
+        "an unknown shortened link",
+        "a forwarded screenshot"
       ],
-      "answer": 1,
-      "explanation": "Use an before a vowel sound. Honest begins with a silent h."
+      "answer": 0,
+      "explanation": "Independent verification helps detect impersonation and scams."
     }
   ]
 }
