@@ -3,139 +3,139 @@
   "slug": "quiz-0840",
   "title": "English Practice Quiz 0840",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
-  "level": "Intermediate",
+  "category": "Practical English",
+  "level": "Advanced",
   "question_count": 10,
   "questions": [
     {
-      "id": "q021",
-      "category": "Vocabulary",
-      "question": "A person who repairs water pipes is a ___.",
+      "id": "q11691",
+      "category": "Training and Professional Development",
+      "question": "Training and Professional Development 01: A training needs analysis identifies:",
       "options": [
-        "carpenter",
-        "plumber",
-        "tailor",
-        "baker"
-      ],
-      "answer": 1,
-      "explanation": "A plumber installs and repairs water pipes and fittings."
-    },
-    {
-      "id": "q028",
-      "category": "Vocabulary",
-      "question": "A place where medicines are dispensed is a ___.",
-      "options": [
-        "bakery",
-        "pharmacy",
-        "library",
-        "garage"
-      ],
-      "answer": 1,
-      "explanation": "A pharmacy is a place where medicines are prepared or supplied."
-    },
-    {
-      "id": "q035",
-      "category": "Articles",
-      "question": "Mount Everest is ___ highest mountain in the world.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 2,
-      "explanation": "Use the with superlative adjectives."
-    },
-    {
-      "id": "q042",
-      "category": "Modals",
-      "question": "You ___ smoke inside the hospital.",
-      "options": [
-        "must",
-        "mustn't",
-        "should",
-        "could"
-      ],
-      "answer": 1,
-      "explanation": "Mustn't expresses prohibition."
-    },
-    {
-      "id": "q049",
-      "category": "Sentence Building",
-      "question": "Choose the correct plural of 'child'.",
-      "options": [
-        "childs",
-        "childes",
-        "children",
-        "childrens"
-      ],
-      "answer": 2,
-      "explanation": "Children is the irregular plural of child."
-    },
-    {
-      "id": "q056",
-      "category": "Pronunciation",
-      "question": "Which word has a different beginning sound?",
-      "options": [
-        "think",
-        "three",
-        "this",
-        "thank"
-      ],
-      "answer": 2,
-      "explanation": "This begins with the voiced /ð/ sound; the others begin with the unvoiced /θ/ sound."
-    },
-    {
-      "id": "q063",
-      "category": "Reading",
-      "question": "Read: 'Ravi practises English for twenty minutes every evening.' How long does he practise?",
-      "options": [
-        "Ten minutes",
-        "Twenty minutes",
-        "Thirty minutes",
-        "One hour"
-      ],
-      "answer": 1,
-      "explanation": "The passage states twenty minutes."
-    },
-    {
-      "id": "q070",
-      "category": "Workplace English",
-      "question": "To confirm an instruction, you can say:",
-      "options": [
-        "Could you please confirm the details?",
-        "I not listen.",
-        "Confirm me now.",
-        "Details no."
+        "Skills employees need to develop",
+        "Annual leave balances",
+        "Office paint colours",
+        "Supplier addresses"
       ],
       "answer": 0,
-      "explanation": "Could you please confirm... is polite and precise."
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q077",
-      "category": "Punctuation",
-      "question": "Which sentence uses the apostrophe correctly?",
+      "id": "q11692",
+      "category": "Training and Professional Development",
+      "question": "Training and Professional Development 02: A learning objective should be:",
       "options": [
-        "The guards uniform is blue.",
-        "The guard's uniform is blue.",
-        "The guards' uniform is blue. (one guard)",
-        "The guard uniform's is blue."
+        "Specific and measurable",
+        "Vague and unlimited",
+        "Unrelated to the role",
+        "Impossible to assess"
       ],
-      "answer": 1,
-      "explanation": "Guard's shows possession by one guard."
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q084",
-      "category": "Confusing Words",
-      "question": "I have ___ my keys.",
+      "id": "q11693",
+      "category": "Training and Professional Development",
+      "question": "Training and Professional Development 03: A practical demonstration allows a learner to:",
       "options": [
-        "loose",
-        "lose",
-        "lost",
-        "loss"
+        "Show a skill by performing it",
+        "Only read a policy",
+        "Skip practice",
+        "Avoid feedback"
       ],
-      "answer": 2,
-      "explanation": "Lost is the past participle of lose."
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11694",
+      "category": "Training and Professional Development",
+      "question": "Training and Professional Development 04: Constructive feedback should be:",
+      "options": [
+        "Specific, timely and respectful",
+        "Insulting",
+        "Delayed indefinitely",
+        "Based on rumours"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11695",
+      "category": "Training and Professional Development",
+      "question": "Training and Professional Development 05: A refresher course is intended to:",
+      "options": [
+        "Reinforce and update existing knowledge",
+        "Replace all experience",
+        "Cancel procedures",
+        "Issue salary slips"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11696",
+      "category": "Training and Professional Development",
+      "question": "Training and Professional Development 06: Competency means:",
+      "options": [
+        "Ability to perform a task to the required standard",
+        "Job title only",
+        "Attendance alone",
+        "Years of service only"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11697",
+      "category": "Training and Professional Development",
+      "question": "Training and Professional Development 07: A training evaluation measures:",
+      "options": [
+        "Whether learning objectives were achieved",
+        "Classroom colour",
+        "Staff popularity",
+        "Trainer commute"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11698",
+      "category": "Training and Professional Development",
+      "question": "Training and Professional Development 08: On-the-job training takes place:",
+      "options": [
+        "While performing work under suitable guidance",
+        "Only at home",
+        "Without safety supervision",
+        "Through advertisements"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11699",
+      "category": "Training and Professional Development",
+      "question": "Training and Professional Development 09: A development plan should include:",
+      "options": [
+        "Learning goals, actions and review dates",
+        "Rumours",
+        "Passwords",
+        "No measurable steps"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11700",
+      "category": "Training and Professional Development",
+      "question": "Training and Professional Development 10: Training records document:",
+      "options": [
+        "Participation and competency evidence",
+        "Private gossip",
+        "Passwords",
+        "Nothing useful"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
     }
   ]
 }
