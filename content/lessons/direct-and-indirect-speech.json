@@ -1,0 +1,46 @@
+{
+  "kind": "post",
+  "title": "Direct and Indirect Speech: Rules and Examples",
+  "description": "Learn how to report statements, questions and requests in English, including tense changes, pronouns, time expressions and practical exercises.",
+  "slug": "direct-and-indirect-speech",
+  "labels": [
+    "Grammar"
+  ],
+  "primary_keyword": "direct and indirect speech in English",
+  "secondary_keywords": [
+    "reported speech rules",
+    "direct indirect speech examples",
+    "reported statements questions"
+  ],
+  "audience_level": "Beginner",
+  "estimated_reading_minutes": 8,
+  "learning_objectives": [
+    "Distinguish direct speech from reported speech.",
+    "Report statements, questions and requests using suitable structures.",
+    "Apply common tense, pronoun and time-expression changes."
+  ],
+  "image_brief": "A clean, original educational illustration for the lesson \"Direct and Indirect Speech: Rules and Examples\", with a simple visual concept, no embedded text, suitable for an English-learning website.",
+  "image_alt": "Educational illustration representing direct and indirect speech: rules and examples.",
+  "body_markdown": "# Introduction\n\nWe use direct speech when we repeat a person's exact words. We use indirect speech, also called reported speech, when we explain what someone said without quoting the exact sentence.\n\nDirect: Riya said, “I am tired.”\nIndirect: Riya said that she was tired.\n\nThe meaning remains similar, but the sentence structure changes.\n\n## 1. Reporting statements\n\nA common pattern is:\n\n**Subject + said (that) + reported clause**\n\nExamples:\n- Direct: Amit said, “I work here.”\n- Reported: Amit said that he worked there.\n- Direct: Sara said, “I like this book.”\n- Reported: Sara said that she liked that book.\n\nThe word *that* is often optional after *said*.\n\n## 2. Common tense changes\n\nWhen the reporting verb is in the past, the tense often moves one step back. This is called backshift.\n\n| Direct speech | Reported speech |\n|---|---|\n| am/is | was |\n| are | were |\n| present simple | past simple |\n| present continuous | past continuous |\n| present perfect | past perfect |\n| past simple | past perfect |\n| will | would |\n| can | could |\n| may | might |\n\nExamples:\n- “I am busy.” → He said that he was busy.\n- “We are waiting.” → They said that they were waiting.\n- “I have finished.” → She said that she had finished.\n- “I will call.” → He said that he would call.\n\nThese changes are common, but not automatic in every context. If a statement is still true or is a general fact, the tense may remain unchanged.\n\nExample: The teacher said, “Water boils at 100°C at standard atmospheric pressure.”  \nReported: The teacher said that water boils at 100°C at standard atmospheric pressure.\n\n## 3. Pronouns and time words\n\nPronouns change according to who is speaking and who is reporting.\n\n- Direct: Ravi said, “I need help.”\n- Reported: Ravi said that he needed help.\n\nTime and place expressions may also change when the reporting situation changes.\n\n| Direct | Reported |\n|---|---|\n| now | then |\n| today | that day |\n| yesterday | the previous day |\n| tomorrow | the next day |\n| here | there |\n| this | that |\n| these | those |\n\nChoose the expression that fits the actual reporting time and place.\n\n## 4. Reporting questions\n\nFor yes/no questions, use *if* or *whether*. Use statement word order, not question word order.\n\n- Direct: He asked, “Are you ready?”\n- Reported: He asked if I was ready.\n\nFor WH questions, keep the question word.\n\n- Direct: She asked, “Where do you live?”\n- Reported: She asked where I lived.\n\nDo not use a question mark for an ordinary reported question.\n\n## 5. Reporting requests and commands\n\nUse a reporting verb such as *asked*, *told*, *requested* or *ordered*, followed by the person and *to + base verb*.\n\n- Direct: The teacher said, “Open your books.”\n- Reported: The teacher told the students to open their books.\n- Direct: She said, “Please wait here.”\n- Reported: She asked me to wait there.\n\nFor a negative command, use *not to*:\n- “Do not touch it.” → He told me not to touch it.\n\n## Say or tell?\n\nUse *say* without a personal object in the common pattern: “He said that he was busy.” Use *tell* with a person: “He told me that he was busy.”\n\nIncorrect: She told that she was ill.\nCorrect: She said that she was ill. / She told me that she was ill.\n\n## Practice\n\nChange these sentences into reported speech.\n\n1. Neha said, “I am happy.”\n2. Rahul said, “I will come tomorrow.”\n3. He asked, “Do you know the answer?”\n4. She asked, “Where is the station?”\n5. The officer said, “Wait outside.”\n6. Mother said, “Do not waste food.”\n\n## Answer key\n\n1. Neha said that she was happy. *I* changes to *she*, and *am* changes to *was*.\n2. Rahul said that he would come the next day. *Will* changes to *would* and *tomorrow* may become *the next day*.\n3. He asked if I knew the answer. A yes/no question uses *if* and statement word order.\n4. She asked where the station was. Keep *where*, but use statement word order.\n5. The officer told me to wait outside. A command uses *to + verb*.\n6. Mother told me not to waste food. A negative command uses *not to*.\n\n## Speaking practice\n\nAsk a friend three questions and later report the answers to another person. For example: “My friend said that he enjoyed reading.” This helps you practise pronouns and verb changes naturally.",
+  "faq": [
+    {
+      "question": "Is indirect speech also called reported speech?",
+      "answer": "Yes. Indirect speech and reported speech are common names for reporting what someone said without repeating the exact words."
+    },
+    {
+      "question": "Does the tense always change in reported speech?",
+      "answer": "No. Tense backshift is common after a past reporting verb, but it may not be needed for facts that remain true or in suitable present-time contexts."
+    },
+    {
+      "question": "How do I report a yes/no question?",
+      "answer": "Use asked if or asked whether, followed by statement word order."
+    }
+  ],
+  "references": [],
+  "related_posts": [
+    "English Grammar Basics",
+    "Do, Does and Did: Rules and Everyday Examples",
+    "All 12 English Tenses: A Simple Overview"
+  ],
+  "author_reviewed": true
+}
