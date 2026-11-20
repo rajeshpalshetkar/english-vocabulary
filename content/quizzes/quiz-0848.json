@@ -3,139 +3,139 @@
   "slug": "quiz-0848",
   "title": "English Practice Quiz 0848",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q042",
-      "category": "Modals",
-      "question": "You ___ smoke inside the hospital.",
+      "id": "q11571",
+      "category": "Environmental and Safety Compliance",
+      "question": "Environmental and Safety Compliance 01: A safety data sheet provides:",
       "options": [
-        "must",
-        "mustn't",
-        "should",
-        "could"
-      ],
-      "answer": 1,
-      "explanation": "Mustn't expresses prohibition."
-    },
-    {
-      "id": "q073",
-      "category": "Questions",
-      "question": "Choose the correct question.",
-      "options": [
-        "Does she work here?",
-        "Do she work here?",
-        "Is she works here?",
-        "Does she works here?"
+        "Chemical hazard and safe-handling information",
+        "Salary details",
+        "Visitor schedule",
+        "Purchase approval"
       ],
       "answer": 0,
-      "explanation": "Use does + subject + base verb with he, she or it."
+      "explanation": "A safety data sheet provides: The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q104",
-      "category": "Determiners",
-      "question": "There is ___ water in the bottle.",
+      "id": "q11572",
+      "category": "Environmental and Safety Compliance",
+      "question": "Environmental and Safety Compliance 02: Waste segregation means:",
       "options": [
-        "a few",
-        "many",
-        "a little",
-        "several"
-      ],
-      "answer": 2,
-      "explanation": "A little is used with uncountable nouns."
-    },
-    {
-      "id": "q020",
-      "category": "Tenses",
-      "question": "By next June, he ___ the course.",
-      "options": [
-        "completes",
-        "completed",
-        "will have completed",
-        "has complete"
-      ],
-      "answer": 2,
-      "explanation": "The future perfect describes an action completed before a future time."
-    },
-    {
-      "id": "q051",
-      "category": "Conversation",
-      "question": "Someone says, 'Thank you for your help.' You reply:",
-      "options": [
-        "Never mind you.",
-        "You're welcome.",
-        "I am welcome you.",
-        "No thank."
-      ],
-      "answer": 1,
-      "explanation": "You're welcome is a natural response to thank you."
-    },
-    {
-      "id": "q082",
-      "category": "Confusing Words",
-      "question": "The weather can ___ your travel plans.",
-      "options": [
-        "affect",
-        "effect",
-        "infect",
-        "effort"
+        "Separating waste by type and disposal requirements",
+        "Mixing everything",
+        "Burning everything",
+        "Storing waste in corridors"
       ],
       "answer": 0,
-      "explanation": "Affect is usually a verb meaning to influence."
+      "explanation": "Waste segregation means: The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q113",
-      "category": "Gerunds",
-      "question": "She is good at ___.",
+      "id": "q11573",
+      "category": "Environmental and Safety Compliance",
+      "question": "Environmental and Safety Compliance 03: An unknown chemical spill should be:",
       "options": [
-        "swim",
-        "to swim",
-        "swimming",
-        "swam"
+        "Reported and handled by trained staff under procedure",
+        "Touched bare-handed",
+        "Washed into a drain",
+        "Ignored"
       ],
-      "answer": 2,
-      "explanation": "A preposition such as at is followed by a noun or gerund."
+      "answer": 0,
+      "explanation": "An unknown chemical spill should be: The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q029",
-      "category": "Vocabulary",
-      "question": "What is the meaning of 'available'?",
+      "id": "q11574",
+      "category": "Environmental and Safety Compliance",
+      "question": "Environmental and Safety Compliance 04: An environmental aspect is:",
       "options": [
-        "not possible to use",
-        "ready or able to be used",
-        "very expensive",
-        "already broken"
+        "An activity that can interact with the environment",
+        "An appraisal",
+        "An invoice",
+        "An invitation"
       ],
-      "answer": 1,
-      "explanation": "Available means ready for use or accessible."
+      "answer": 0,
+      "explanation": "An environmental aspect is: The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q060",
-      "category": "Pronunciation",
-      "question": "How many syllables are in 'computer'?",
+      "id": "q11575",
+      "category": "Environmental and Safety Compliance",
+      "question": "Environmental and Safety Compliance 05: Energy conservation includes:",
       "options": [
-        "one",
-        "two",
-        "three",
-        "four"
+        "Switching off unused equipment when safe and permitted",
+        "Leaving all lights on",
+        "Blocking ventilation",
+        "Disabling safety systems"
       ],
-      "answer": 2,
-      "explanation": "Computer is commonly pronounced with three syllables: com-pu-ter."
+      "answer": 0,
+      "explanation": "Energy conservation includes: The first option is correct because it reflects the relevant principle or standard."
     },
     {
-      "id": "q091",
-      "category": "Passive Voice",
-      "question": "Choose the passive form: 'They clean the room.'",
+      "id": "q11576",
+      "category": "Environmental and Safety Compliance",
+      "question": "Environmental and Safety Compliance 06: A permit-to-work system controls:",
       "options": [
-        "The room cleaned them.",
-        "The room is cleaned by them.",
-        "The room is cleaning.",
-        "The room has clean."
+        "Specified high-risk activities through authorisation",
+        "Lunch breaks",
+        "Stationery",
+        "Customer refunds"
       ],
-      "answer": 1,
-      "explanation": "Present simple passive: am/is/are + past participle."
+      "answer": 0,
+      "explanation": "A permit-to-work system controls: The first option is correct because it reflects the relevant principle or standard."
+    },
+    {
+      "id": "q11577",
+      "category": "Environmental and Safety Compliance",
+      "question": "Environmental and Safety Compliance 07: A hazard is:",
+      "options": [
+        "A source or situation with potential to cause harm",
+        "A training course",
+        "A decoration",
+        "A salary"
+      ],
+      "answer": 0,
+      "explanation": "A hazard is: The first option is correct because it reflects the relevant principle or standard."
+    },
+    {
+      "id": "q11578",
+      "category": "Environmental and Safety Compliance",
+      "question": "Environmental and Safety Compliance 08: Risk assessment considers:",
+      "options": [
+        "Likelihood and severity of possible harm",
+        "Stationery cost only",
+        "Popularity",
+        "Sign colour"
+      ],
+      "answer": 0,
+      "explanation": "Risk assessment considers: The first option is correct because it reflects the relevant principle or standard."
+    },
+    {
+      "id": "q11579",
+      "category": "Environmental and Safety Compliance",
+      "question": "Environmental and Safety Compliance 09: Emergency exits must be:",
+      "options": [
+        "Clearly marked and unobstructed",
+        "Used for storage",
+        "Locked during occupancy",
+        "Hidden behind furniture"
+      ],
+      "answer": 0,
+      "explanation": "Emergency exits must be: The first option is correct because it reflects the relevant principle or standard."
+    },
+    {
+      "id": "q11580",
+      "category": "Environmental and Safety Compliance",
+      "question": "Environmental and Safety Compliance 10: Incident investigation should focus on:",
+      "options": [
+        "Causes and prevention of recurrence",
+        "Public shaming",
+        "Changing evidence",
+        "Avoiding action"
+      ],
+      "answer": 0,
+      "explanation": "Incident investigation should focus on: The first option is correct because it reflects the relevant principle or standard."
     }
   ]
 }
