@@ -3,139 +3,139 @@
   "slug": "quiz-0773",
   "title": "English Practice Quiz 0773",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Conversation",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q032",
-      "category": "Articles",
-      "question": "She is ___ university student.",
+      "id": "q12221",
+      "category": "Shopping and Consumer Services",
+      "question": "Shopping and Consumer Services 01: A receipt is useful because it?",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 0,
-      "explanation": "University begins with the consonant sound /y/, so use a."
-    },
-    {
-      "id": "q045",
-      "category": "Modals",
-      "question": "It ___ rain later; take an umbrella.",
-      "options": [
-        "might",
-        "mustn't",
-        "shouldn't",
-        "has"
-      ],
-      "answer": 0,
-      "explanation": "Might expresses possibility."
-    },
-    {
-      "id": "q058",
-      "category": "Pronunciation",
-      "question": "Which word has the /ʃ/ sound as in 'ship'?",
-      "options": [
-        "sip",
-        "shop",
-        "zip",
-        "tip"
-      ],
-      "answer": 1,
-      "explanation": "Shop begins with the /ʃ/ sound."
-    },
-    {
-      "id": "q071",
-      "category": "Questions",
-      "question": "Choose the correct WH question for a place.",
-      "options": [
-        "When do you live?",
-        "Where do you live?",
-        "Who do you live?",
-        "Why do you live?"
-      ],
-      "answer": 1,
-      "explanation": "Where asks about a place or location."
-    },
-    {
-      "id": "q084",
-      "category": "Confusing Words",
-      "question": "I have ___ my keys.",
-      "options": [
-        "loose",
-        "lose",
-        "lost",
-        "loss"
+        "make an unsupported assumption",
+        "share the information publicly",
+        "provides evidence of a purchase",
+        "ignore the issue and continue"
       ],
       "answer": 2,
-      "explanation": "Lost is the past participle of lose."
+      "explanation": "Option C is correct: provides evidence of a purchase."
     },
     {
-      "id": "q097",
-      "category": "Reported Speech",
-      "question": "She said, 'I can swim.'",
+      "id": "q12222",
+      "category": "Shopping and Consumer Services",
+      "question": "Shopping and Consumer Services 02: A product warranty generally explains?",
       "options": [
-        "She said she can swam.",
-        "She said that she could swim.",
-        "She said she swims can.",
-        "She told that could swim."
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "the terms of repair or replacement cover"
       ],
-      "answer": 1,
-      "explanation": "Can commonly changes to could in reported speech after a past reporting verb."
+      "answer": 3,
+      "explanation": "Option D is correct: the terms of repair or replacement cover."
     },
     {
-      "id": "q110",
-      "category": "Adverbs",
-      "question": "Please drive ___.",
+      "id": "q12223",
+      "category": "Shopping and Consumer Services",
+      "question": "Shopping and Consumer Services 03: A refund policy should be?",
       "options": [
-        "careful",
-        "carefully",
-        "care",
-        "caring"
+        "clear and available before purchase",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
       ],
-      "answer": 1,
-      "explanation": "Carefully is the adverb modifying drive."
+      "answer": 0,
+      "explanation": "Option A is correct: clear and available before purchase."
     },
     {
-      "id": "q008",
-      "category": "Grammar",
-      "question": "This is the woman ___ helped me.",
+      "id": "q12224",
+      "category": "Shopping and Consumer Services",
+      "question": "Shopping and Consumer Services 04: A consumer complaint should include?",
       "options": [
-        "which",
-        "who",
-        "where",
-        "when"
+        "share the information publicly",
+        "relevant facts and proof of purchase where available",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
       ],
       "answer": 1,
-      "explanation": "Who is used for people."
+      "explanation": "Option B is correct: relevant facts and proof of purchase where available."
     },
     {
-      "id": "q021",
-      "category": "Vocabulary",
-      "question": "A person who repairs water pipes is a ___.",
+      "id": "q12225",
+      "category": "Shopping and Consumer Services",
+      "question": "Shopping and Consumer Services 05: A price comparison should consider?",
       "options": [
-        "carpenter",
-        "plumber",
-        "tailor",
-        "baker"
+        "make an unsupported assumption",
+        "share the information publicly",
+        "quality, features and total cost",
+        "ignore the issue and continue"
       ],
-      "answer": 1,
-      "explanation": "A plumber installs and repairs water pipes and fittings."
+      "answer": 2,
+      "explanation": "Option C is correct: quality, features and total cost."
     },
     {
-      "id": "q034",
-      "category": "Articles",
-      "question": "He wants to become ___ engineer.",
+      "id": "q12226",
+      "category": "Shopping and Consumer Services",
+      "question": "Shopping and Consumer Services 06: A product label helps customers understand?",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "contents, usage and safety information"
+      ],
+      "answer": 3,
+      "explanation": "Option D is correct: contents, usage and safety information."
+    },
+    {
+      "id": "q12227",
+      "category": "Shopping and Consumer Services",
+      "question": "Shopping and Consumer Services 07: A misleading advertisement is one that?",
+      "options": [
+        "creates a false or deceptive impression",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: creates a false or deceptive impression."
+    },
+    {
+      "id": "q12228",
+      "category": "Shopping and Consumer Services",
+      "question": "Shopping and Consumer Services 08: A service quotation should state?",
+      "options": [
+        "share the information publicly",
+        "the work, price and applicable terms",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
       ],
       "answer": 1,
-      "explanation": "Engineer begins with a vowel sound, so use an."
+      "explanation": "Option B is correct: the work, price and applicable terms."
+    },
+    {
+      "id": "q12229",
+      "category": "Shopping and Consumer Services",
+      "question": "Shopping and Consumer Services 09: Before signing a service agreement, a customer should?",
+      "options": [
+        "make an unsupported assumption",
+        "share the information publicly",
+        "read and understand its terms",
+        "ignore the issue and continue"
+      ],
+      "answer": 2,
+      "explanation": "Option C is correct: read and understand its terms."
+    },
+    {
+      "id": "q12230",
+      "category": "Shopping and Consumer Services",
+      "question": "Shopping and Consumer Services 10: A consumer helpline is intended to?",
+      "options": [
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "provide guidance on consumer issues"
+      ],
+      "answer": 3,
+      "explanation": "Option D is correct: provide guidance on consumer issues."
     }
   ]
 }
