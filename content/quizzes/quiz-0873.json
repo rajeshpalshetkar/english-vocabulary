@@ -3,139 +3,139 @@
   "slug": "quiz-0873",
   "title": "English Practice Quiz 0873",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q007",
-      "category": "Grammar",
-      "question": "The keys are ___ the table.",
+      "id": "q11221",
+      "category": "Workplace Communication",
+      "question": "A colleague says, 'I will handle the visitor register.' You reply to acknowledge:",
       "options": [
-        "in",
-        "at",
-        "on",
-        "by"
-      ],
-      "answer": 2,
-      "explanation": "On describes something resting on a surface."
-    },
-    {
-      "id": "q020",
-      "category": "Tenses",
-      "question": "By next June, he ___ the course.",
-      "options": [
-        "completes",
-        "completed",
-        "will have completed",
-        "has complete"
-      ],
-      "answer": 2,
-      "explanation": "The future perfect describes an action completed before a future time."
-    },
-    {
-      "id": "q033",
-      "category": "Articles",
-      "question": "Please close ___ door.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 2,
-      "explanation": "The refers to a specific door known to the speaker and listener."
-    },
-    {
-      "id": "q046",
-      "category": "Sentence Building",
-      "question": "Choose the correct word order.",
-      "options": [
-        "Always I am late.",
-        "I am always late.",
-        "I late am always.",
-        "Am always I late."
+        "Not my concern.",
+        "Understood. Thank you for taking care of it.",
+        "You always do that.",
+        "I cannot hear you."
       ],
       "answer": 1,
-      "explanation": "Frequency adverbs such as always usually come after the verb be."
+      "explanation": "This confirms understanding and acknowledges responsibility."
     },
     {
-      "id": "q059",
-      "category": "Pronunciation",
-      "question": "Which word rhymes with 'light'?",
+      "id": "q11222",
+      "category": "Workplace Communication",
+      "question": "Which phrase is best when you did not hear an instruction?",
       "options": [
-        "late",
-        "lit",
-        "night",
-        "let"
-      ],
-      "answer": 2,
-      "explanation": "Light and night share the same ending sound."
-    },
-    {
-      "id": "q072",
-      "category": "Questions",
-      "question": "Which question asks about time?",
-      "options": [
-        "Who is calling?",
-        "When does the train leave?",
-        "Where is the station?",
-        "Why are you here?"
+        "Repeat it, now.",
+        "Could you please repeat the last instruction?",
+        "You spoke badly.",
+        "I heard everything."
       ],
       "answer": 1,
-      "explanation": "When asks about time."
+      "explanation": "This is a polite request for clarification."
     },
     {
-      "id": "q085",
-      "category": "Confusing Words",
-      "question": "The bus is ___ than the car today.",
+      "id": "q11223",
+      "category": "Workplace Communication",
+      "question": "You need to interrupt a meeting briefly. Say:",
       "options": [
-        "fast",
-        "faster",
-        "fastest",
-        "more fast"
+        "Stop talking.",
+        "Excuse me, may I add one point?",
+        "Listen to me first.",
+        "This meeting is useless."
       ],
       "answer": 1,
-      "explanation": "Use the comparative form faster when comparing two things."
+      "explanation": "The phrase politely asks for a brief opportunity to speak."
     },
     {
-      "id": "q098",
-      "category": "Reported Speech",
-      "question": "He asked, 'Where do you live?'",
+      "id": "q11224",
+      "category": "Workplace Communication",
+      "question": "Which update communicates a delay clearly?",
       "options": [
-        "He asked where I lived.",
-        "He asked where do I live.",
-        "He asked where did I lived.",
-        "He asked where I live do."
+        "It is not happening.",
+        "The inspection is delayed by 30 minutes because the technician is late.",
+        "Maybe later, who knows.",
+        "I forgot the inspection."
+      ],
+      "answer": 1,
+      "explanation": "It states the delay, duration and reason."
+    },
+    {
+      "id": "q11225",
+      "category": "Workplace Communication",
+      "question": "A person says, 'I will get back to you.' They mean:",
+      "options": [
+        "They will respond later",
+        "They are leaving permanently",
+        "They disagree",
+        "They have forgotten"
       ],
       "answer": 0,
-      "explanation": "Reported questions use statement word order; do is removed."
+      "explanation": "Get back to someone means contact them again with a response."
     },
     {
-      "id": "q111",
-      "category": "Gerunds",
-      "question": "I enjoy ___ books.",
+      "id": "q11226",
+      "category": "Workplace Communication",
+      "question": "Which phrase checks understanding?",
       "options": [
-        "read",
-        "to read",
-        "reading",
-        "reads"
-      ],
-      "answer": 2,
-      "explanation": "Enjoy is followed by a gerund (-ing form)."
-    },
-    {
-      "id": "q009",
-      "category": "Grammar",
-      "question": "Choose the correct comparative form.",
-      "options": [
-        "more tall",
-        "taller",
-        "tallest than",
-        "most tall"
+        "Are you even listening?",
+        "Just to confirm, the meeting starts at ten, correct?",
+        "You should know this.",
+        "I will not explain."
       ],
       "answer": 1,
-      "explanation": "The comparative form of the short adjective tall is taller."
+      "explanation": "The phrase politely verifies shared information."
+    },
+    {
+      "id": "q11227",
+      "category": "Workplace Communication",
+      "question": "You are unable to complete a task on time. What should you do?",
+      "options": [
+        "Say nothing",
+        "Inform the responsible person early and explain the reason",
+        "Change the deadline secretly",
+        "Blame a colleague"
+      ],
+      "answer": 1,
+      "explanation": "Early communication gives the team time to adjust."
+    },
+    {
+      "id": "q11228",
+      "category": "Workplace Communication",
+      "question": "Which is a professional way to disagree?",
+      "options": [
+        "That idea is stupid.",
+        "I see your point, but I suggest another approach.",
+        "You are always wrong.",
+        "No, because I said so."
+      ],
+      "answer": 1,
+      "explanation": "It recognises the other view and offers an alternative respectfully."
+    },
+    {
+      "id": "q11229",
+      "category": "Workplace Communication",
+      "question": "A colleague asks for an update you do not yet have. Say:",
+      "options": [
+        "Invent a result.",
+        "I am waiting for confirmation and will update you shortly.",
+        "Stop asking.",
+        "It is definitely complete."
+      ],
+      "answer": 1,
+      "explanation": "This response is honest and sets an expectation."
+    },
+    {
+      "id": "q11230",
+      "category": "Workplace Communication",
+      "question": "'Please bear with me' means:",
+      "options": [
+        "Please wait patiently",
+        "Please leave immediately",
+        "Please carry this box",
+        "Please repeat the payment"
+      ],
+      "answer": 0,
+      "explanation": "Bear with me is a polite request for patience."
     }
   ]
 }
