@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0",
+  "site": "English Fluency Guide",
+  "catalogue": "https://raw.githubusercontent.com/rajeshpalshetkar/english-vocabulary/main/content/data/content-catalog.json",
+  "tracks": [
+    {"id":"core","title":"Learning Library","description":"Structured English lessons by topic.","labels":["Basic English","Grammar","Vocabulary","Daily Sentences","Conversation","Speaking Practice","Listening Practice","Pronunciation","Reading Practice","Writing Practice","English for Work","Interview English","Quizzes & Tests","English Stories"]},
+    {"id":"challenge30","title":"30-Day English Challenge","description":"A focused beginner-friendly daily learning challenge.","label":"30-Day Challenge","days":30},
+    {"id":"practice365","title":"365-Day English Practice","description":"A year-long weekly learning and practice programme.","label":"365-Day English Practice","weeks":52}
+  ],
+  "page_routes": {
+    "library": "/p/learning-library.html",
+    "challenge30": "/p/30-day-challenge.html",
+    "practice365": "/p/365-day-practice.html",
+    "grammar": "/p/grammar.html",
+    "vocabulary": "/p/vocabulary.html",
+    "speaking": "/p/speaking-practice.html"
+  }
+}
