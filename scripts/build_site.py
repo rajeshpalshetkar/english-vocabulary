@@ -53,6 +53,18 @@ def main():
         slug=slugify(a["slug"])
         if slug in lesson_map: raise ValueError(f"Duplicate lesson slug: {slug}")
         lesson_map[slug]=a
+    # Match planned catalogue entries by both slug and normalised lesson title.
+    # The lesson file slug may be intentionally more descriptive than the catalogue title.
+    def title_key(value):
+        return re.sub(r"[^a-z0-9]+", "", str(value or "").lower())
+    title_map={}
+    for lesson_slug, lesson in lesson_map.items():
+        title_map.setdefault(title_key(lesson.get("title")), (lesson_slug, lesson))
+    def find_lesson(planned_title, planned_slug):
+        found=lesson_map.get(planned_slug)
+        if found: return planned_slug, found
+        return title_map.get(title_key(planned_title), (None, None))
+
     urls=[]
     for slug,a in lesson_map.items():
         canonical=f"{BASE}/lessons/{slug}/"
@@ -75,8 +87,8 @@ def main():
         items=[]
         for title in titles:
             slug=slugify(title)
-            a=lesson_map.get(slug)
-            if a: items.append(card(title,a["description"],f"/lessons/{slug}/"))
+            actual_slug,a=find_lesson(title,slug)
+            if a: items.append(card(title,a["description"],f"/lessons/{actual_slug}/"))
             else: items.append(f'<div class="card planned"><span class="badge">Coming soon</span><h2>{esc(title)}</h2><p>This lesson is part of the learning plan.</p></div>')
         body=f'<p class="crumb"><a href="/library/">Learning Library</a></p><h1>{esc(label)}</h1><p class="intro">Explore practical {esc(label.lower())} lessons with examples and exercises.</p><div class="grid">{"".join(items)}</div>'
         u=f"{BASE}/topics/{slugify(label)}/"
@@ -88,8 +100,8 @@ def main():
         for i,item in enumerate(CAT.get(key,[]),1):
             name=item[0] if isinstance(item,list) else item
             slug=slugify(name)
-            a=lesson_map.get(slug)
-            if a: entries.append(card(f"{unit} {i:02d}: {name}",a["description"],f"/lessons/{slug}/",f"{unit} {i}"))
+            actual_slug,a=find_lesson(name,slug)
+            if a: entries.append(card(f"{unit} {i:02d}: {name}",a["description"],f"/lessons/{actual_slug}/",f"{unit} {i}"))
             else: entries.append(f'<div class="card planned"><span class="badge">{unit} {i:02d} · Planned</span><h2>{esc(name)}</h2><p>Lesson content is not yet in the JSON library.</p></div>')
         desc=f"Structured {title.lower()} with practical daily learning tasks."
         body=f'<h1>{title}</h1><p class="intro">{desc}</p><div class="grid">{"".join(entries)}</div>'
