@@ -3,139 +3,139 @@
   "slug": "quiz-0782",
   "title": "English Practice Quiz 0782",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Conversation",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q070",
-      "category": "Workplace English",
-      "question": "To confirm an instruction, you can say:",
+      "id": "q12111",
+      "category": "Environmental Awareness",
+      "question": "Environmental Awareness 01: Waste segregation means?",
       "options": [
-        "Could you please confirm the details?",
-        "I not listen.",
-        "Confirm me now.",
-        "Details no."
+        "share the information publicly",
+        "separating waste according to its type",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
       ],
-      "answer": 0,
-      "explanation": "Could you please confirm... is polite and precise."
+      "answer": 1,
+      "explanation": "Option B is correct: separating waste according to its type."
     },
     {
-      "id": "q081",
-      "category": "Confusing Words",
-      "question": "Choose the correct word: ___ going to arrive soon.",
+      "id": "q12112",
+      "category": "Environmental Awareness",
+      "question": "Environmental Awareness 02: The 3Rs stand for?",
       "options": [
-        "Their",
-        "There",
-        "They're",
-        "Theirs"
+        "Reduce, Reuse and Recycle",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: Reduce, Reuse and Recycle."
+    },
+    {
+      "id": "q12113",
+      "category": "Environmental Awareness",
+      "question": "Environmental Awareness 03: An energy-efficient practice is to?",
+      "options": [
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "switch off unused lights and equipment"
+      ],
+      "answer": 3,
+      "explanation": "Option D is correct: switch off unused lights and equipment."
+    },
+    {
+      "id": "q12114",
+      "category": "Environmental Awareness",
+      "question": "Environmental Awareness 04: A water leak should be?",
+      "options": [
+        "make an unsupported assumption",
+        "share the information publicly",
+        "reported promptly for repair",
+        "ignore the issue and continue"
       ],
       "answer": 2,
-      "explanation": "They're is the contraction of they are."
+      "explanation": "Option C is correct: reported promptly for repair."
     },
     {
-      "id": "q092",
-      "category": "Passive Voice",
-      "question": "Choose the passive form: 'The manager signed the letter.'",
+      "id": "q12115",
+      "category": "Environmental Awareness",
+      "question": "Environmental Awareness 05: Hazardous waste should be?",
       "options": [
-        "The letter is signed.",
-        "The letter was signed by the manager.",
-        "The letter signed the manager.",
-        "The letter has sign."
+        "share the information publicly",
+        "handled through approved procedures",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
       ],
       "answer": 1,
-      "explanation": "Past simple passive: was/were + past participle."
+      "explanation": "Option B is correct: handled through approved procedures."
     },
     {
-      "id": "q103",
-      "category": "Determiners",
-      "question": "I have ___ friends in this city.",
+      "id": "q12116",
+      "category": "Environmental Awareness",
+      "question": "Environmental Awareness 06: A sustainable purchase considers?",
       "options": [
-        "a little",
-        "a few",
-        "much",
-        "anyone"
+        "durability, resource use and environmental impact",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
       ],
-      "answer": 1,
-      "explanation": "A few is used with countable plural nouns."
+      "answer": 0,
+      "explanation": "Option A is correct: durability, resource use and environmental impact."
     },
     {
-      "id": "q114",
-      "category": "Gerunds",
-      "question": "They finished ___ the room.",
+      "id": "q12117",
+      "category": "Environmental Awareness",
+      "question": "Environmental Awareness 07: Composting is a process that?",
       "options": [
-        "clean",
-        "to clean",
-        "cleaning",
-        "cleaned"
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "turns suitable organic waste into useful material"
+      ],
+      "answer": 3,
+      "explanation": "Option D is correct: turns suitable organic waste into useful material."
+    },
+    {
+      "id": "q12118",
+      "category": "Environmental Awareness",
+      "question": "Environmental Awareness 08: Air pollution can be reduced by?",
+      "options": [
+        "make an unsupported assumption",
+        "share the information publicly",
+        "using cleaner transport and controlling emissions",
+        "ignore the issue and continue"
       ],
       "answer": 2,
-      "explanation": "Finish is followed by a gerund."
+      "explanation": "Option C is correct: using cleaner transport and controlling emissions."
     },
     {
-      "id": "q010",
-      "category": "Grammar",
-      "question": "You ___ wear your identity card at work.",
+      "id": "q12119",
+      "category": "Environmental Awareness",
+      "question": "Environmental Awareness 09: An environmental audit reviews?",
       "options": [
-        "should to",
-        "should",
-        "are should",
-        "shoulds"
+        "share the information publicly",
+        "an organisation's environmental practices and impacts",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
       ],
       "answer": 1,
-      "explanation": "Modal verbs such as should are followed by the base verb without to."
+      "explanation": "Option B is correct: an organisation's environmental practices and impacts."
     },
     {
-      "id": "q021",
-      "category": "Vocabulary",
-      "question": "A person who repairs water pipes is a ___.",
+      "id": "q12120",
+      "category": "Environmental Awareness",
+      "question": "Environmental Awareness 10: A spill of hazardous material requires?",
       "options": [
-        "carpenter",
-        "plumber",
-        "tailor",
-        "baker"
-      ],
-      "answer": 1,
-      "explanation": "A plumber installs and repairs water pipes and fittings."
-    },
-    {
-      "id": "q032",
-      "category": "Articles",
-      "question": "She is ___ university student.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
+        "isolation and the approved emergency response",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
       ],
       "answer": 0,
-      "explanation": "University begins with the consonant sound /y/, so use a."
-    },
-    {
-      "id": "q043",
-      "category": "Modals",
-      "question": "When I was five, I ___ swim.",
-      "options": [
-        "can",
-        "could",
-        "may",
-        "must"
-      ],
-      "answer": 1,
-      "explanation": "Could expresses past ability."
-    },
-    {
-      "id": "q054",
-      "category": "Conversation",
-      "question": "You need a moment to think. You say:",
-      "options": [
-        "Let me think for a moment.",
-        "I no idea ever.",
-        "Wait your mouth.",
-        "I am think."
-      ],
-      "answer": 0,
-      "explanation": "This phrase politely signals that you need a little time."
+      "explanation": "Option A is correct: isolation and the approved emergency response."
     }
   ]
 }
