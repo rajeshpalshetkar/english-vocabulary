@@ -3,139 +3,139 @@
   "slug": "quiz-0808",
   "title": "English Practice Quiz 0808",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q052",
-      "category": "Conversation",
-      "question": "You did not hear someone. You say:",
+      "id": "q11971",
+      "category": "Business Writing and Reporting",
+      "question": "Business Writing and Reporting 01: An executive summary should present:",
       "options": [
-        "Speak now!",
-        "Could you repeat that, please?",
-        "What your problem?",
-        "I don't hear you yesterday."
-      ],
-      "answer": 1,
-      "explanation": "Could you repeat that, please? is a polite request."
-    },
-    {
-      "id": "q083",
-      "category": "Confusing Words",
-      "question": "Please ___ the correct answer.",
-      "options": [
-        "choose",
-        "chose",
-        "choice",
-        "chosen"
+        "The main issue, findings and recommended action",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
       ],
       "answer": 0,
-      "explanation": "Choose is the base verb used after please."
+      "explanation": "Option A is correct: The main issue, findings and recommended action. This is the appropriate professional practice or standard English usage."
     },
     {
-      "id": "q114",
-      "category": "Gerunds",
-      "question": "They finished ___ the room.",
+      "id": "q11972",
+      "category": "Business Writing and Reporting",
+      "question": "Business Writing and Reporting 02: A report heading should be:",
       "options": [
-        "clean",
-        "to clean",
-        "cleaning",
-        "cleaned"
-      ],
-      "answer": 2,
-      "explanation": "Finish is followed by a gerund."
-    },
-    {
-      "id": "q030",
-      "category": "Vocabulary",
-      "question": "Choose the best word: The road is very ___. There are many cars.",
-      "options": [
-        "crowded",
-        "empty",
-        "quietly",
-        "soft"
+        "Specific and informative",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
       ],
       "answer": 0,
-      "explanation": "Crowded means filled with many people or things; it can describe busy roads."
+      "explanation": "Option A is correct: Specific and informative. This is the appropriate professional practice or standard English usage."
     },
     {
-      "id": "q061",
-      "category": "Reading",
-      "question": "Read: 'Mina takes the bus at 8 a.m. and reaches work at 8:45.' How does Mina travel?",
+      "id": "q11973",
+      "category": "Business Writing and Reporting",
+      "question": "Business Writing and Reporting 03: A recommendation should be supported by:",
       "options": [
-        "By train",
-        "By bus",
-        "By car",
-        "On foot"
-      ],
-      "answer": 1,
-      "explanation": "The passage clearly says Mina takes the bus."
-    },
-    {
-      "id": "q092",
-      "category": "Passive Voice",
-      "question": "Choose the passive form: 'The manager signed the letter.'",
-      "options": [
-        "The letter is signed.",
-        "The letter was signed by the manager.",
-        "The letter signed the manager.",
-        "The letter has sign."
-      ],
-      "answer": 1,
-      "explanation": "Past simple passive: was/were + past participle."
-    },
-    {
-      "id": "q008",
-      "category": "Grammar",
-      "question": "This is the woman ___ helped me.",
-      "options": [
-        "which",
-        "who",
-        "where",
-        "when"
-      ],
-      "answer": 1,
-      "explanation": "Who is used for people."
-    },
-    {
-      "id": "q039",
-      "category": "Prepositions",
-      "question": "She is interested ___ music.",
-      "options": [
-        "on",
-        "at",
-        "in",
-        "for"
-      ],
-      "answer": 2,
-      "explanation": "The adjective interested is followed by in."
-    },
-    {
-      "id": "q070",
-      "category": "Workplace English",
-      "question": "To confirm an instruction, you can say:",
-      "options": [
-        "Could you please confirm the details?",
-        "I not listen.",
-        "Confirm me now.",
-        "Details no."
+        "Relevant evidence and reasoning",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
       ],
       "answer": 0,
-      "explanation": "Could you please confirm... is polite and precise."
+      "explanation": "Option A is correct: Relevant evidence and reasoning. This is the appropriate professional practice or standard English usage."
     },
     {
-      "id": "q101",
-      "category": "Determiners",
-      "question": "There isn't ___ milk left.",
+      "id": "q11974",
+      "category": "Business Writing and Reporting",
+      "question": "Business Writing and Reporting 04: Which sentence is objective?",
       "options": [
-        "many",
-        "much",
-        "few",
-        "several"
+        "The inspection identified three blocked exits.",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
       ],
-      "answer": 1,
-      "explanation": "Milk is uncountable, so use much in a negative sentence."
+      "answer": 0,
+      "explanation": "Option A is correct: The inspection identified three blocked exits.. This is the appropriate professional practice or standard English usage."
+    },
+    {
+      "id": "q11975",
+      "category": "Business Writing and Reporting",
+      "question": "Business Writing and Reporting 05: Meeting minutes should record:",
+      "options": [
+        "Decisions, actions, owners and due dates",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: Decisions, actions, owners and due dates. This is the appropriate professional practice or standard English usage."
+    },
+    {
+      "id": "q11976",
+      "category": "Business Writing and Reporting",
+      "question": "Business Writing and Reporting 06: A formal notice should clearly state:",
+      "options": [
+        "What is changing, when it applies and who is affected",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: What is changing, when it applies and who is affected. This is the appropriate professional practice or standard English usage."
+    },
+    {
+      "id": "q11977",
+      "category": "Business Writing and Reporting",
+      "question": "Business Writing and Reporting 07: A data table should include:",
+      "options": [
+        "Clear headings and units where relevant",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: Clear headings and units where relevant. This is the appropriate professional practice or standard English usage."
+    },
+    {
+      "id": "q11978",
+      "category": "Business Writing and Reporting",
+      "question": "Business Writing and Reporting 08: Which phrase introduces a reason?",
+      "options": [
+        "Due to the equipment failure",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: Due to the equipment failure. This is the appropriate professional practice or standard English usage."
+    },
+    {
+      "id": "q11979",
+      "category": "Business Writing and Reporting",
+      "question": "Business Writing and Reporting 09: A corrective action report should identify:",
+      "options": [
+        "The issue, cause, action owner and follow-up",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: The issue, cause, action owner and follow-up. This is the appropriate professional practice or standard English usage."
+    },
+    {
+      "id": "q11980",
+      "category": "Business Writing and Reporting",
+      "question": "Business Writing and Reporting 10: Before submitting a report, check:",
+      "options": [
+        "Facts, calculations and references",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: Facts, calculations and references. This is the appropriate professional practice or standard English usage."
     }
   ]
 }
