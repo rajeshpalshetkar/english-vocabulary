@@ -3,139 +3,139 @@
   "slug": "quiz-0969",
   "title": "English Practice Quiz 0969",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
+  "category": "Practical English",
   "level": "Advanced",
   "question_count": 10,
   "questions": [
     {
-      "id": "q029",
-      "category": "Vocabulary",
-      "question": "What is the meaning of 'available'?",
+      "id": "q10381",
+      "category": "Professional Development",
+      "question": "A career objective describes ___.",
       "options": [
-        "not possible to use",
-        "ready or able to be used",
-        "very expensive",
-        "already broken"
-      ],
-      "answer": 1,
-      "explanation": "Available means ready for use or accessible."
-    },
-    {
-      "id": "q066",
-      "category": "Workplace English",
-      "question": "A professional way to ask for a file is:",
-      "options": [
-        "Give file now.",
-        "Could you please share the file?",
-        "File give me.",
-        "You must file."
-      ],
-      "answer": 1,
-      "explanation": "Could you please is a polite and professional request."
-    },
-    {
-      "id": "q103",
-      "category": "Determiners",
-      "question": "I have ___ friends in this city.",
-      "options": [
-        "a little",
-        "a few",
-        "much",
-        "anyone"
-      ],
-      "answer": 1,
-      "explanation": "A few is used with countable plural nouns."
-    },
-    {
-      "id": "q025",
-      "category": "Vocabulary",
-      "question": "A person you can trust is ___.",
-      "options": [
-        "reliable",
-        "careless",
-        "silent",
-        "narrow"
+        "a person's professional goal",
+        "the office's electricity bill",
+        "a list of daily meals",
+        "a holiday destination"
       ],
       "answer": 0,
-      "explanation": "Reliable means dependable or trustworthy."
+      "explanation": "A career objective states a professional aim."
     },
     {
-      "id": "q062",
-      "category": "Reading",
-      "question": "Read: 'The shop closes at 9 p.m., but it opens at 10 a.m.' When does it open?",
+      "id": "q10382",
+      "category": "Professional Development",
+      "question": "A transferable skill is one that ___.",
       "options": [
-        "9 a.m.",
-        "10 a.m.",
-        "9 p.m.",
-        "10 p.m."
-      ],
-      "answer": 1,
-      "explanation": "The opening time given is 10 a.m."
-    },
-    {
-      "id": "q099",
-      "category": "Reported Speech",
-      "question": "She said, 'Please sit down.'",
-      "options": [
-        "She told me sit down.",
-        "She asked me to sit down.",
-        "She said me to sit.",
-        "She asked that I sat."
-      ],
-      "answer": 1,
-      "explanation": "A request can be reported with asked + object + to-infinitive."
-    },
-    {
-      "id": "q021",
-      "category": "Vocabulary",
-      "question": "A person who repairs water pipes is a ___.",
-      "options": [
-        "carpenter",
-        "plumber",
-        "tailor",
-        "baker"
-      ],
-      "answer": 1,
-      "explanation": "A plumber installs and repairs water pipes and fittings."
-    },
-    {
-      "id": "q058",
-      "category": "Pronunciation",
-      "question": "Which word has the /ʃ/ sound as in 'ship'?",
-      "options": [
-        "sip",
-        "shop",
-        "zip",
-        "tip"
-      ],
-      "answer": 1,
-      "explanation": "Shop begins with the /ʃ/ sound."
-    },
-    {
-      "id": "q095",
-      "category": "Passive Voice",
-      "question": "The windows ___ every week.",
-      "options": [
-        "are cleaned",
-        "clean",
-        "is cleaned",
-        "cleaning"
+        "can be used in different roles or industries",
+        "works only on one specific machine",
+        "cannot be improved",
+        "is useful only outside work"
       ],
       "answer": 0,
-      "explanation": "Plural subject windows takes are + past participle."
+      "explanation": "Transferable skills apply across different jobs and settings."
     },
     {
-      "id": "q017",
-      "category": "Tenses",
-      "question": "They ___ football every Sunday.",
+      "id": "q10383",
+      "category": "Professional Development",
+      "question": "Constructive criticism is intended to ___.",
       "options": [
-        "plays",
-        "are play",
-        "play",
-        "playing"
+        "help improve performance",
+        "embarrass someone publicly",
+        "end every discussion",
+        "replace all training"
       ],
-      "answer": 2,
-      "explanation": "Use the base verb with the plural subject they in the present simple."
+      "answer": 0,
+      "explanation": "Constructive criticism offers feedback aimed at improvement."
+    },
+    {
+      "id": "q10384",
+      "category": "Professional Development",
+      "question": "A professional portfolio is a collection of ___.",
+      "options": [
+        "examples of work and achievements",
+        "personal passwords",
+        "unrelated shopping receipts",
+        "other people's private records"
+      ],
+      "answer": 0,
+      "explanation": "A portfolio demonstrates experience, skills and completed work."
+    },
+    {
+      "id": "q10385",
+      "category": "Professional Development",
+      "question": "A probation period is generally used to ___.",
+      "options": [
+        "assess suitability for a role",
+        "guarantee a promotion",
+        "cancel all workplace rules",
+        "replace a salary agreement"
+      ],
+      "answer": 0,
+      "explanation": "Probation allows an employer and employee to assess the working arrangement."
+    },
+    {
+      "id": "q10386",
+      "category": "Professional Development",
+      "question": "To 'upskill' means to ___.",
+      "options": [
+        "learn additional or improved skills",
+        "reduce one's knowledge",
+        "leave a profession immediately",
+        "avoid all training"
+      ],
+      "answer": 0,
+      "explanation": "Upskilling develops skills for current or future work."
+    },
+    {
+      "id": "q10387",
+      "category": "Professional Development",
+      "question": "A realistic performance goal should be ___.",
+      "options": [
+        "clear and measurable",
+        "impossible to assess",
+        "unrelated to the role",
+        "changed every hour"
+      ],
+      "answer": 0,
+      "explanation": "Clear, measurable goals make progress easier to evaluate."
+    },
+    {
+      "id": "q10388",
+      "category": "Professional Development",
+      "question": "A reference from a former employer may describe your ___.",
+      "options": [
+        "work performance and professional conduct",
+        "private banking password",
+        "unrelated family matters",
+        "personal social media login"
+      ],
+      "answer": 0,
+      "explanation": "Employment references commonly comment on work history and conduct."
+    },
+    {
+      "id": "q10389",
+      "category": "Professional Development",
+      "question": "Networking in a professional context means ___.",
+      "options": [
+        "building useful work-related relationships",
+        "connecting only electrical wires",
+        "collecting strangers' passwords",
+        "avoiding all communication"
+      ],
+      "answer": 0,
+      "explanation": "Professional networking builds relationships that can support learning and work."
+    },
+    {
+      "id": "q10390",
+      "category": "Professional Development",
+      "question": "After completing a training course, applying the new skills helps ___.",
+      "options": [
+        "reinforce learning through practice",
+        "erase the course material",
+        "avoid future improvement",
+        "replace every work procedure"
+      ],
+      "answer": 0,
+      "explanation": "Practice helps turn new knowledge into usable skills."
     }
   ]
 }
