@@ -3,139 +3,139 @@
   "slug": "quiz-0775",
   "title": "English Practice Quiz 0775",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Conversation",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q066",
-      "category": "Workplace English",
-      "question": "A professional way to ask for a file is:",
+      "id": "q12241",
+      "category": "Education and Learning Skills",
+      "question": "Education and Learning Skills 01: Active learning involves?",
       "options": [
-        "Give file now.",
-        "Could you please share the file?",
-        "File give me.",
-        "You must file."
-      ],
-      "answer": 1,
-      "explanation": "Could you please is a polite and professional request."
-    },
-    {
-      "id": "q085",
-      "category": "Confusing Words",
-      "question": "The bus is ___ than the car today.",
-      "options": [
-        "fast",
-        "faster",
-        "fastest",
-        "more fast"
-      ],
-      "answer": 1,
-      "explanation": "Use the comparative form faster when comparing two things."
-    },
-    {
-      "id": "q104",
-      "category": "Determiners",
-      "question": "There is ___ water in the bottle.",
-      "options": [
-        "a few",
-        "many",
-        "a little",
-        "several"
-      ],
-      "answer": 2,
-      "explanation": "A little is used with uncountable nouns."
-    },
-    {
-      "id": "q008",
-      "category": "Grammar",
-      "question": "This is the woman ___ helped me.",
-      "options": [
-        "which",
-        "who",
-        "where",
-        "when"
-      ],
-      "answer": 1,
-      "explanation": "Who is used for people."
-    },
-    {
-      "id": "q027",
-      "category": "Vocabulary",
-      "question": "Choose the correct word: Please ___ the details.",
-      "options": [
-        "confirm",
-        "crowded",
-        "repairing",
-        "hungry"
+        "participating and applying new information",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
       ],
       "answer": 0,
-      "explanation": "Confirm means to check or establish that something is correct."
+      "explanation": "Option A is correct: participating and applying new information."
     },
     {
-      "id": "q046",
-      "category": "Sentence Building",
-      "question": "Choose the correct word order.",
+      "id": "q12242",
+      "category": "Education and Learning Skills",
+      "question": "Education and Learning Skills 02: A study timetable helps learners?",
       "options": [
-        "Always I am late.",
-        "I am always late.",
-        "I late am always.",
-        "Am always I late."
+        "share the information publicly",
+        "organise time and learning tasks",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
       ],
       "answer": 1,
-      "explanation": "Frequency adverbs such as always usually come after the verb be."
+      "explanation": "Option B is correct: organise time and learning tasks."
     },
     {
-      "id": "q065",
-      "category": "Reading",
-      "question": "Read: 'Please keep the floor dry to prevent accidents.' What is the instruction?",
+      "id": "q12243",
+      "category": "Education and Learning Skills",
+      "question": "Education and Learning Skills 03: A reliable reference source should be?",
       "options": [
-        "Wash the floor now",
-        "Keep the floor dry",
-        "Close the office",
-        "Move the furniture"
-      ],
-      "answer": 1,
-      "explanation": "The notice instructs people to keep the floor dry."
-    },
-    {
-      "id": "q084",
-      "category": "Confusing Words",
-      "question": "I have ___ my keys.",
-      "options": [
-        "loose",
-        "lose",
-        "lost",
-        "loss"
+        "make an unsupported assumption",
+        "share the information publicly",
+        "accurate, relevant and verifiable",
+        "ignore the issue and continue"
       ],
       "answer": 2,
-      "explanation": "Lost is the past participle of lose."
+      "explanation": "Option C is correct: accurate, relevant and verifiable."
     },
     {
-      "id": "q103",
-      "category": "Determiners",
-      "question": "I have ___ friends in this city.",
+      "id": "q12244",
+      "category": "Education and Learning Skills",
+      "question": "Education and Learning Skills 04: Taking notes during a lesson can help?",
       "options": [
-        "a little",
-        "a few",
-        "much",
-        "anyone"
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "retain and organise important information"
+      ],
+      "answer": 3,
+      "explanation": "Option D is correct: retain and organise important information."
+    },
+    {
+      "id": "q12245",
+      "category": "Education and Learning Skills",
+      "question": "Education and Learning Skills 05: A learning objective describes?",
+      "options": [
+        "what a learner should be able to do",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: what a learner should be able to do."
+    },
+    {
+      "id": "q12246",
+      "category": "Education and Learning Skills",
+      "question": "Education and Learning Skills 06: Constructive feedback helps learners?",
+      "options": [
+        "share the information publicly",
+        "identify strengths and areas to improve",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
       ],
       "answer": 1,
-      "explanation": "A few is used with countable plural nouns."
+      "explanation": "Option B is correct: identify strengths and areas to improve."
     },
     {
-      "id": "q007",
-      "category": "Grammar",
-      "question": "The keys are ___ the table.",
+      "id": "q12247",
+      "category": "Education and Learning Skills",
+      "question": "Education and Learning Skills 07: A revision session is most effective when it?",
       "options": [
-        "in",
-        "at",
-        "on",
-        "by"
+        "make an unsupported assumption",
+        "share the information publicly",
+        "uses active recall and practice",
+        "ignore the issue and continue"
       ],
       "answer": 2,
-      "explanation": "On describes something resting on a surface."
+      "explanation": "Option C is correct: uses active recall and practice."
+    },
+    {
+      "id": "q12248",
+      "category": "Education and Learning Skills",
+      "question": "Education and Learning Skills 08: Plagiarism means?",
+      "options": [
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "presenting another person's work as your own"
+      ],
+      "answer": 3,
+      "explanation": "Option D is correct: presenting another person's work as your own."
+    },
+    {
+      "id": "q12249",
+      "category": "Education and Learning Skills",
+      "question": "Education and Learning Skills 09: A group assignment requires?",
+      "options": [
+        "clear roles and shared responsibility",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: clear roles and shared responsibility."
+    },
+    {
+      "id": "q12250",
+      "category": "Education and Learning Skills",
+      "question": "Education and Learning Skills 10: A learner who does not understand a topic should?",
+      "options": [
+        "share the information publicly",
+        "ask questions and seek clarification",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
+      ],
+      "answer": 1,
+      "explanation": "Option B is correct: ask questions and seek clarification."
     }
   ]
 }
