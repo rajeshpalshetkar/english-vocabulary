@@ -3,139 +3,139 @@
   "slug": "quiz-0805",
   "title": "English Practice Quiz 0805",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q001",
-      "category": "Grammar",
-      "question": "She ___ to work every day.",
+      "id": "q11941",
+      "category": "Inventory and Procurement",
+      "question": "Inventory and Procurement 01: A purchase requisition is used to:",
       "options": [
-        "go",
-        "goes",
-        "going",
-        "gone"
-      ],
-      "answer": 1,
-      "explanation": "With he, she or it in the present simple, add -s or -es to most verbs."
-    },
-    {
-      "id": "q020",
-      "category": "Tenses",
-      "question": "By next June, he ___ the course.",
-      "options": [
-        "completes",
-        "completed",
-        "will have completed",
-        "has complete"
-      ],
-      "answer": 2,
-      "explanation": "The future perfect describes an action completed before a future time."
-    },
-    {
-      "id": "q039",
-      "category": "Prepositions",
-      "question": "She is interested ___ music.",
-      "options": [
-        "on",
-        "at",
-        "in",
-        "for"
-      ],
-      "answer": 2,
-      "explanation": "The adjective interested is followed by in."
-    },
-    {
-      "id": "q058",
-      "category": "Pronunciation",
-      "question": "Which word has the /ʃ/ sound as in 'ship'?",
-      "options": [
-        "sip",
-        "shop",
-        "zip",
-        "tip"
-      ],
-      "answer": 1,
-      "explanation": "Shop begins with the /ʃ/ sound."
-    },
-    {
-      "id": "q077",
-      "category": "Punctuation",
-      "question": "Which sentence uses the apostrophe correctly?",
-      "options": [
-        "The guards uniform is blue.",
-        "The guard's uniform is blue.",
-        "The guards' uniform is blue. (one guard)",
-        "The guard uniform's is blue."
-      ],
-      "answer": 1,
-      "explanation": "Guard's shows possession by one guard."
-    },
-    {
-      "id": "q096",
-      "category": "Reported Speech",
-      "question": "He said, 'I am tired.' Reported speech:",
-      "options": [
-        "He said that he was tired.",
-        "He said I am tired.",
-        "He says that I tired.",
-        "He said he is tire."
+        "Request approval to obtain goods or services",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
       ],
       "answer": 0,
-      "explanation": "In standard backshift, am changes to was after a past reporting verb."
+      "explanation": "Option A is correct: Request approval to obtain goods or services. This is the appropriate professional practice or standard English usage."
     },
     {
-      "id": "q115",
-      "category": "Gerunds",
-      "question": "I want ___ English fluently.",
+      "id": "q11942",
+      "category": "Inventory and Procurement",
+      "question": "Inventory and Procurement 02: A goods received note confirms:",
       "options": [
-        "speak",
-        "speaking",
-        "to speak",
-        "spoke"
+        "Items delivered and checked against the order",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
       ],
-      "answer": 2,
-      "explanation": "Want is followed by a to-infinitive."
+      "answer": 0,
+      "explanation": "Option A is correct: Items delivered and checked against the order. This is the appropriate professional practice or standard English usage."
     },
     {
-      "id": "q019",
-      "category": "Tenses",
-      "question": "She ___ in this hospital for five years.",
+      "id": "q11943",
+      "category": "Inventory and Procurement",
+      "question": "Inventory and Procurement 03: FIFO stock rotation means:",
       "options": [
-        "works",
-        "worked",
-        "has worked",
-        "is work"
+        "First In, First Out",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
       ],
-      "answer": 2,
-      "explanation": "The present perfect can describe a situation continuing to the present."
+      "answer": 0,
+      "explanation": "Option A is correct: First In, First Out. This is the appropriate professional practice or standard English usage."
     },
     {
-      "id": "q038",
-      "category": "Prepositions",
-      "question": "We have a meeting ___ Monday.",
+      "id": "q11944",
+      "category": "Inventory and Procurement",
+      "question": "Inventory and Procurement 04: A stock discrepancy should be:",
       "options": [
-        "in",
-        "at",
-        "on",
-        "by"
+        "Checked, documented and reported",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
       ],
-      "answer": 2,
-      "explanation": "Use on with days and dates."
+      "answer": 0,
+      "explanation": "Option A is correct: Checked, documented and reported. This is the appropriate professional practice or standard English usage."
     },
     {
-      "id": "q057",
-      "category": "Pronunciation",
-      "question": "Which word has a silent 'k'?",
+      "id": "q11945",
+      "category": "Inventory and Procurement",
+      "question": "Inventory and Procurement 05: A purchase order normally states:",
       "options": [
-        "kite",
-        "know",
-        "keep",
-        "kind"
+        "Items, quantities, prices and agreed terms",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
       ],
-      "answer": 1,
-      "explanation": "The k in know is silent."
+      "answer": 0,
+      "explanation": "Option A is correct: Items, quantities, prices and agreed terms. This is the appropriate professional practice or standard English usage."
+    },
+    {
+      "id": "q11946",
+      "category": "Inventory and Procurement",
+      "question": "Inventory and Procurement 06: Competitive quotations help an organisation:",
+      "options": [
+        "Compare price, quality and service terms",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: Compare price, quality and service terms. This is the appropriate professional practice or standard English usage."
+    },
+    {
+      "id": "q11947",
+      "category": "Inventory and Procurement",
+      "question": "Inventory and Procurement 07: A reorder level indicates:",
+      "options": [
+        "When stock should be replenished",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: When stock should be replenished. This is the appropriate professional practice or standard English usage."
+    },
+    {
+      "id": "q11948",
+      "category": "Inventory and Procurement",
+      "question": "Inventory and Procurement 08: An invoice should be checked against:",
+      "options": [
+        "The purchase order and receipt records",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: The purchase order and receipt records. This is the appropriate professional practice or standard English usage."
+    },
+    {
+      "id": "q11949",
+      "category": "Inventory and Procurement",
+      "question": "Inventory and Procurement 09: Damaged goods should be:",
+      "options": [
+        "Recorded and handled through the returns or claims process",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: Recorded and handled through the returns or claims process. This is the appropriate professional practice or standard English usage."
+    },
+    {
+      "id": "q11950",
+      "category": "Inventory and Procurement",
+      "question": "Inventory and Procurement 10: Segregation of duties in purchasing helps:",
+      "options": [
+        "Reduce errors and opportunities for fraud",
+        "Ignore the issue and continue",
+        "Make an unsupported assumption",
+        "Share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: Reduce errors and opportunities for fraud. This is the appropriate professional practice or standard English usage."
     }
   ]
 }
