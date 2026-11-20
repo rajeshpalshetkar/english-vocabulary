@@ -3,139 +3,139 @@
   "slug": "quiz-0918",
   "title": "English Practice Quiz 0918",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q082",
-      "category": "Confusing Words",
-      "question": "The weather can ___ your travel plans.",
+      "id": "q10871",
+      "category": "Time Management",
+      "question": "A task that is both important and urgent should generally be ___.",
       "options": [
-        "affect",
-        "effect",
-        "infect",
-        "effort"
+        "ignored",
+        "delegated without review",
+        "postponed indefinitely",
+        "handled promptly"
       ],
-      "answer": 0,
-      "explanation": "Affect is usually a verb meaning to influence."
+      "answer": 3,
+      "explanation": "handled promptly is the correct choice based on the meaning and context of the question."
     },
     {
-      "id": "q113",
-      "category": "Gerunds",
-      "question": "She is good at ___.",
+      "id": "q10872",
+      "category": "Time Management",
+      "question": "A realistic schedule should include ___.",
       "options": [
-        "swim",
-        "to swim",
-        "swimming",
-        "swam"
-      ],
-      "answer": 2,
-      "explanation": "A preposition such as at is followed by a noun or gerund."
-    },
-    {
-      "id": "q029",
-      "category": "Vocabulary",
-      "question": "What is the meaning of 'available'?",
-      "options": [
-        "not possible to use",
-        "ready or able to be used",
-        "very expensive",
-        "already broken"
+        "more tasks than hours",
+        "time for tasks and reasonable breaks",
+        "no allowance for delays",
+        "only leisure"
       ],
       "answer": 1,
-      "explanation": "Available means ready for use or accessible."
+      "explanation": "time for tasks and reasonable breaks is the correct choice based on the meaning and context of the question."
     },
     {
-      "id": "q060",
-      "category": "Pronunciation",
-      "question": "How many syllables are in 'computer'?",
+      "id": "q10873",
+      "category": "Time Management",
+      "question": "A deadline is ___.",
       "options": [
-        "one",
-        "two",
-        "three",
-        "four"
+        "the date a task was invented",
+        "an optional topic",
+        "a lunch break",
+        "the latest time by which work is due"
       ],
-      "answer": 2,
-      "explanation": "Computer is commonly pronounced with three syllables: com-pu-ter."
+      "answer": 3,
+      "explanation": "the latest time by which work is due is the correct choice based on the meaning and context of the question."
     },
     {
-      "id": "q091",
-      "category": "Passive Voice",
-      "question": "Choose the passive form: 'They clean the room.'",
+      "id": "q10874",
+      "category": "Time Management",
+      "question": "Batching similar tasks can reduce ___.",
       "options": [
-        "The room cleaned them.",
-        "The room is cleaned by them.",
-        "The room is cleaning.",
-        "The room has clean."
-      ],
-      "answer": 1,
-      "explanation": "Present simple passive: am/is/are + past participle."
-    },
-    {
-      "id": "q007",
-      "category": "Grammar",
-      "question": "The keys are ___ the table.",
-      "options": [
-        "in",
-        "at",
-        "on",
-        "by"
-      ],
-      "answer": 2,
-      "explanation": "On describes something resting on a surface."
-    },
-    {
-      "id": "q038",
-      "category": "Prepositions",
-      "question": "We have a meeting ___ Monday.",
-      "options": [
-        "in",
-        "at",
-        "on",
-        "by"
-      ],
-      "answer": 2,
-      "explanation": "Use on with days and dates."
-    },
-    {
-      "id": "q069",
-      "category": "Workplace English",
-      "question": "A polite way to disagree is:",
-      "options": [
-        "You are totally wrong.",
-        "I see your point, but I have a different view.",
-        "No, stop.",
-        "That is stupid."
+        "the need for accuracy",
+        "time lost switching between activities",
+        "all communication",
+        "every responsibility"
       ],
       "answer": 1,
-      "explanation": "This phrase acknowledges the other person before presenting a different view."
+      "explanation": "time lost switching between activities is the correct choice based on the meaning and context of the question."
     },
     {
-      "id": "q100",
-      "category": "Reported Speech",
-      "question": "They said, 'We have finished.'",
+      "id": "q10875",
+      "category": "Time Management",
+      "question": "When priorities conflict, first clarify ___.",
       "options": [
-        "They said they had finished.",
-        "They said they have finish.",
-        "They told finished.",
-        "They said we finished have."
+        "random choice",
+        "the easiest task only",
+        "neither task",
+        "urgency, impact and dependencies"
       ],
-      "answer": 0,
-      "explanation": "Present perfect commonly shifts to past perfect in reported speech."
+      "answer": 3,
+      "explanation": "urgency, impact and dependencies is the correct choice based on the meaning and context of the question."
     },
     {
-      "id": "q016",
-      "category": "Tenses",
-      "question": "Water ___ at 100°C at sea level.",
+      "id": "q10876",
+      "category": "Time Management",
+      "question": "A project milestone marks ___.",
       "options": [
-        "boil",
-        "boils",
-        "is boiling",
-        "boiled"
+        "a coffee break",
+        "an important stage or checkpoint",
+        "an employee password",
+        "an unplanned expense"
       ],
       "answer": 1,
-      "explanation": "Use the present simple for general facts."
+      "explanation": "an important stage or checkpoint is the correct choice based on the meaning and context of the question."
+    },
+    {
+      "id": "q10877",
+      "category": "Time Management",
+      "question": "Delegation means ___.",
+      "options": [
+        "avoiding accountability",
+        "deleting the task",
+        "doing every task yourself",
+        "assigning a task or responsibility to another person"
+      ],
+      "answer": 3,
+      "explanation": "assigning a task or responsibility to another person is the correct choice based on the meaning and context of the question."
+    },
+    {
+      "id": "q10878",
+      "category": "Time Management",
+      "question": "A schedule buffer provides ___.",
+      "options": [
+        "a guarantee of no problems",
+        "extra time for unexpected delays",
+        "a replacement for planning",
+        "a reason to miss deadlines"
+      ],
+      "answer": 1,
+      "explanation": "extra time for unexpected delays is the correct choice based on the meaning and context of the question."
+    },
+    {
+      "id": "q10879",
+      "category": "Time Management",
+      "question": "Reviewing a task list regularly helps ___.",
+      "options": [
+        "increase confusion",
+        "hide unfinished work",
+        "remove all deadlines",
+        "update priorities and track progress"
+      ],
+      "answer": 3,
+      "explanation": "update priorities and track progress is the correct choice based on the meaning and context of the question."
+    },
+    {
+      "id": "q10880",
+      "category": "Time Management",
+      "question": "If a deadline may be missed, you should ___.",
+      "options": [
+        "stay silent",
+        "inform the relevant person early and propose a plan",
+        "change it secretly",
+        "submit incomplete work as final"
+      ],
+      "answer": 1,
+      "explanation": "inform the relevant person early and propose a plan is the correct choice based on the meaning and context of the question."
     }
   ]
 }
