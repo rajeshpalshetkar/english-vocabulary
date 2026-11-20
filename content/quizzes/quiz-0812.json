@@ -3,139 +3,139 @@
   "slug": "quiz-0812",
   "title": "English Practice Quiz 0812",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q005",
-      "category": "Grammar",
-      "question": "Choose the correct sentence.",
+      "id": "q11811",
+      "category": "Security Operations",
+      "question": "Security Operations 01: A visitor arrives without identification. A guard should:",
       "options": [
-        "She don't like tea.",
-        "She doesn't likes tea.",
-        "She doesn't like tea.",
-        "She not like tea."
-      ],
-      "answer": 2,
-      "explanation": "After doesn't, use the base form of the verb: like."
-    },
-    {
-      "id": "q016",
-      "category": "Tenses",
-      "question": "Water ___ at 100°C at sea level.",
-      "options": [
-        "boil",
-        "boils",
-        "is boiling",
-        "boiled"
-      ],
-      "answer": 1,
-      "explanation": "Use the present simple for general facts."
-    },
-    {
-      "id": "q027",
-      "category": "Vocabulary",
-      "question": "Choose the correct word: Please ___ the details.",
-      "options": [
-        "confirm",
-        "crowded",
-        "repairing",
-        "hungry"
+        "Follow the site's identity verification procedure",
+        "Allow entry automatically",
+        "Borrow another visitor's ID",
+        "Ignore the visitor"
       ],
       "answer": 0,
-      "explanation": "Confirm means to check or establish that something is correct."
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q038",
-      "category": "Prepositions",
-      "question": "We have a meeting ___ Monday.",
+      "id": "q11812",
+      "category": "Security Operations",
+      "question": "Security Operations 02: A patrol log should record:",
       "options": [
-        "in",
-        "at",
-        "on",
-        "by"
-      ],
-      "answer": 2,
-      "explanation": "Use on with days and dates."
-    },
-    {
-      "id": "q049",
-      "category": "Sentence Building",
-      "question": "Choose the correct plural of 'child'.",
-      "options": [
-        "childs",
-        "childes",
-        "children",
-        "childrens"
-      ],
-      "answer": 2,
-      "explanation": "Children is the irregular plural of child."
-    },
-    {
-      "id": "q060",
-      "category": "Pronunciation",
-      "question": "How many syllables are in 'computer'?",
-      "options": [
-        "one",
-        "two",
-        "three",
-        "four"
-      ],
-      "answer": 2,
-      "explanation": "Computer is commonly pronounced with three syllables: com-pu-ter."
-    },
-    {
-      "id": "q071",
-      "category": "Questions",
-      "question": "Choose the correct WH question for a place.",
-      "options": [
-        "When do you live?",
-        "Where do you live?",
-        "Who do you live?",
-        "Why do you live?"
-      ],
-      "answer": 1,
-      "explanation": "Where asks about a place or location."
-    },
-    {
-      "id": "q082",
-      "category": "Confusing Words",
-      "question": "The weather can ___ your travel plans.",
-      "options": [
-        "affect",
-        "effect",
-        "infect",
-        "effort"
+        "Time, location and observations",
+        "Personal rumours",
+        "Unverified conclusions",
+        "Private passwords"
       ],
       "answer": 0,
-      "explanation": "Affect is usually a verb meaning to influence."
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q093",
-      "category": "Passive Voice",
-      "question": "The work ___ tomorrow.",
+      "id": "q11813",
+      "category": "Security Operations",
+      "question": "Security Operations 03: A suspicious unattended package should be:",
       "options": [
-        "will complete",
-        "will be completed",
-        "completed",
-        "is completing"
+        "Reported and handled under the site's security procedure",
+        "Opened immediately",
+        "Moved without assessment",
+        "Taken home"
       ],
-      "answer": 1,
-      "explanation": "Future passive uses will be + past participle."
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q104",
-      "category": "Determiners",
-      "question": "There is ___ water in the bottle.",
+      "id": "q11814",
+      "category": "Security Operations",
+      "question": "Security Operations 04: A post order describes:",
       "options": [
-        "a few",
-        "many",
-        "a little",
-        "several"
+        "Duties and instructions for a security post",
+        "Staff salary history",
+        "Visitor shopping choices",
+        "A vehicle invoice"
       ],
-      "answer": 2,
-      "explanation": "A little is used with uncountable nouns."
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11815",
+      "category": "Security Operations",
+      "question": "Security Operations 05: During shift handover, the outgoing guard should:",
+      "options": [
+        "Brief the incoming guard on incidents and pending tasks",
+        "Leave without explanation",
+        "Remove all records",
+        "Share access codes publicly"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11816",
+      "category": "Security Operations",
+      "question": "Security Operations 06: Access control is intended to:",
+      "options": [
+        "Allow entry only to authorised people",
+        "Increase waiting time without reason",
+        "Replace emergency exits",
+        "Record staff opinions"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11817",
+      "category": "Security Operations",
+      "question": "Security Operations 07: If a fire alarm activates, security staff should:",
+      "options": [
+        "Follow the emergency response plan and assist safely",
+        "Silence it without checking",
+        "Use lifts to evacuate",
+        "Ignore it"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11818",
+      "category": "Security Operations",
+      "question": "Security Operations 08: A lost access card should be:",
+      "options": [
+        "Reported promptly so it can be disabled if required",
+        "Used by anyone",
+        "Posted online",
+        "Ignored"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11819",
+      "category": "Security Operations",
+      "question": "Security Operations 09: A guard should use force:",
+      "options": [
+        "Only as legally permitted, necessary and proportionate",
+        "To punish a rude visitor",
+        "Whenever convenient",
+        "To avoid a report"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11820",
+      "category": "Security Operations",
+      "question": "Security Operations 10: An incident report should avoid:",
+      "options": [
+        "Unsupported assumptions and personal accusations",
+        "Factual times",
+        "Actions taken",
+        "Relevant witness details"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     }
   ]
 }
