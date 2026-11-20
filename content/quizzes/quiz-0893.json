@@ -3,139 +3,139 @@
   "slug": "quiz-0893",
   "title": "English Practice Quiz 0893",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q002",
-      "category": "Grammar",
-      "question": "They ___ ready for the meeting.",
+      "id": "q11021",
+      "category": "Quality Assurance",
+      "question": "Quality assurance focuses on ___.",
       "options": [
-        "is",
-        "am",
-        "are",
-        "be"
+        "hiding complaints",
+        "paperwork without purpose",
+        "preventing defects through reliable processes",
+        "removing inspections"
       ],
       "answer": 2,
-      "explanation": "Use are with the plural subject they."
+      "explanation": "preventing defects through reliable processes is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q015",
-      "category": "Tenses",
-      "question": "She ___ the report before the manager arrived.",
+      "id": "q11022",
+      "category": "Quality Assurance",
+      "question": "A quality check compares output against ___.",
       "options": [
-        "finished",
-        "has finished",
-        "had finished",
-        "finishes"
+        "personal guesses",
+        "defined requirements or standards",
+        "unrelated products",
+        "worker preferences"
+      ],
+      "answer": 1,
+      "explanation": "defined requirements or standards is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q11023",
+      "category": "Quality Assurance",
+      "question": "A non-conformance is ___.",
+      "options": [
+        "a failure to meet a specified requirement",
+        "a successful inspection",
+        "a team meeting",
+        "an approved holiday"
+      ],
+      "answer": 0,
+      "explanation": "a failure to meet a specified requirement is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q11024",
+      "category": "Quality Assurance",
+      "question": "Corrective action is intended to ___.",
+      "options": [
+        "conceal the problem",
+        "repeat the error",
+        "remove the standard",
+        "address the cause of an identified problem"
+      ],
+      "answer": 3,
+      "explanation": "address the cause of an identified problem is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q11025",
+      "category": "Quality Assurance",
+      "question": "A sample inspection examines ___.",
+      "options": [
+        "every item without exception",
+        "packaging colour only",
+        "a selected portion of a larger batch",
+        "supplier personal records"
       ],
       "answer": 2,
-      "explanation": "Use the past perfect for an action completed before another past action."
+      "explanation": "a selected portion of a larger batch is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q028",
-      "category": "Vocabulary",
-      "question": "A place where medicines are dispensed is a ___.",
+      "id": "q11026",
+      "category": "Quality Assurance",
+      "question": "Why calibrate measuring equipment?",
       "options": [
-        "bakery",
-        "pharmacy",
-        "library",
-        "garage"
+        "change its appearance",
+        "To maintain reliable measurement accuracy",
+        "increase its weight",
+        "remove record keeping"
       ],
       "answer": 1,
-      "explanation": "A pharmacy is a place where medicines are prepared or supplied."
+      "explanation": "To maintain reliable measurement accuracy is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q041",
-      "category": "Modals",
-      "question": "___ I borrow your pen, please?",
+      "id": "q11027",
+      "category": "Quality Assurance",
+      "question": "A quality trend report can identify ___.",
       "options": [
-        "May",
-        "Must",
-        "Should",
-        "Would have"
+        "repeated patterns or changes in defects",
+        "staff hobbies",
+        "public holidays",
+        "shelf colours"
       ],
       "answer": 0,
-      "explanation": "May is a polite way to ask permission."
+      "explanation": "repeated patterns or changes in defects is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q054",
-      "category": "Conversation",
-      "question": "You need a moment to think. You say:",
+      "id": "q11028",
+      "category": "Quality Assurance",
+      "question": "Corrective action should be checked to confirm ___.",
       "options": [
-        "Let me think for a moment.",
-        "I no idea ever.",
-        "Wait your mouth.",
-        "I am think."
+        "the report is longer",
+        "the complaint is hidden",
+        "no one can review it",
+        "it has addressed the issue effectively"
       ],
-      "answer": 0,
-      "explanation": "This phrase politely signals that you need a little time."
+      "answer": 3,
+      "explanation": "it has addressed the issue effectively is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q067",
-      "category": "Workplace English",
-      "question": "You have completed a task. You say:",
+      "id": "q11029",
+      "category": "Quality Assurance",
+      "question": "A quality checklist helps inspectors ___.",
       "options": [
-        "The task is complete.",
-        "The task complete yesterday tomorrow.",
-        "I task finish.",
-        "Task is completing me."
+        "skip criteria",
+        "decide randomly",
+        "apply consistent checks",
+        "avoid recording results"
       ],
-      "answer": 0,
-      "explanation": "The task is complete is a clear status update."
+      "answer": 2,
+      "explanation": "apply consistent checks is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q080",
-      "category": "Punctuation",
-      "question": "Choose the correctly written date phrase.",
+      "id": "q11030",
+      "category": "Quality Assurance",
+      "question": "Continuous improvement means ___.",
       "options": [
-        "on monday",
-        "on Monday",
-        "On monday",
-        "on Monday."
-      ],
-      "answer": 1,
-      "explanation": "Days of the week begin with a capital letter."
-    },
-    {
-      "id": "q093",
-      "category": "Passive Voice",
-      "question": "The work ___ tomorrow.",
-      "options": [
-        "will complete",
-        "will be completed",
-        "completed",
-        "is completing"
+        "never changing procedures",
+        "regularly reviewing and improving processes",
+        "ignoring feedback",
+        "removing measures"
       ],
       "answer": 1,
-      "explanation": "Future passive uses will be + past participle."
-    },
-    {
-      "id": "q106",
-      "category": "Adjectives",
-      "question": "The test was ___ than I expected.",
-      "options": [
-        "easy",
-        "easier",
-        "easiest",
-        "more easy"
-      ],
-      "answer": 1,
-      "explanation": "Use the comparative form easier."
-    },
-    {
-      "id": "q004",
-      "category": "Grammar",
-      "question": "There ___ two chairs in the room.",
-      "options": [
-        "is",
-        "are",
-        "am",
-        "was"
-      ],
-      "answer": 1,
-      "explanation": "Use are with the plural noun chairs."
+      "explanation": "regularly reviewing and improving processes is the correct answer based on the meaning and context of the question."
     }
   ]
 }
