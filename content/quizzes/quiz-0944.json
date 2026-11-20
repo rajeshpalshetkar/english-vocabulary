@@ -3,139 +3,139 @@
   "slug": "quiz-0944",
   "title": "English Practice Quiz 0944",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q064",
-      "category": "Reading",
-      "question": "Read: 'The meeting was cancelled because the manager was ill.' Why was it cancelled?",
+      "id": "q10531",
+      "category": "Workplace Problem Solving",
+      "question": "The first step in solving a workplace problem is to ___.",
       "options": [
-        "The room was full",
-        "The manager was ill",
-        "It was Sunday",
-        "The staff were late"
-      ],
-      "answer": 1,
-      "explanation": "The reason is explicitly stated: the manager was ill."
-    },
-    {
-      "id": "q081",
-      "category": "Confusing Words",
-      "question": "Choose the correct word: ___ going to arrive soon.",
-      "options": [
-        "Their",
-        "There",
-        "They're",
-        "Theirs"
-      ],
-      "answer": 2,
-      "explanation": "They're is the contraction of they are."
-    },
-    {
-      "id": "q098",
-      "category": "Reported Speech",
-      "question": "He asked, 'Where do you live?'",
-      "options": [
-        "He asked where I lived.",
-        "He asked where do I live.",
-        "He asked where did I lived.",
-        "He asked where I live do."
+        "identify and understand the problem",
+        "choose a solution without facts",
+        "blame the newest employee",
+        "hide the issue"
       ],
       "answer": 0,
-      "explanation": "Reported questions use statement word order; do is removed."
+      "explanation": "A clear understanding of the problem is necessary before selecting a solution."
     },
     {
-      "id": "q115",
-      "category": "Gerunds",
-      "question": "I want ___ English fluently.",
+      "id": "q10532",
+      "category": "Workplace Problem Solving",
+      "question": "Root cause analysis aims to identify ___.",
       "options": [
-        "speak",
-        "speaking",
-        "to speak",
-        "spoke"
-      ],
-      "answer": 2,
-      "explanation": "Want is followed by a to-infinitive."
-    },
-    {
-      "id": "q017",
-      "category": "Tenses",
-      "question": "They ___ football every Sunday.",
-      "options": [
-        "plays",
-        "are play",
-        "play",
-        "playing"
-      ],
-      "answer": 2,
-      "explanation": "Use the base verb with the plural subject they in the present simple."
-    },
-    {
-      "id": "q034",
-      "category": "Articles",
-      "question": "He wants to become ___ engineer.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "Engineer begins with a vowel sound, so use an."
-    },
-    {
-      "id": "q051",
-      "category": "Conversation",
-      "question": "Someone says, 'Thank you for your help.' You reply:",
-      "options": [
-        "Never mind you.",
-        "You're welcome.",
-        "I am welcome you.",
-        "No thank."
-      ],
-      "answer": 1,
-      "explanation": "You're welcome is a natural response to thank you."
-    },
-    {
-      "id": "q068",
-      "category": "Workplace English",
-      "question": "You need to report a problem. You say:",
-      "options": [
-        "There is an issue with the printer.",
-        "Printer bad you.",
-        "I issue printer.",
-        "No printer yesterday."
+        "the underlying reason a problem occurred",
+        "the person with the loudest voice",
+        "the cheapest stationery",
+        "the last person to enter the room"
       ],
       "answer": 0,
-      "explanation": "There is an issue with... clearly introduces a problem."
+      "explanation": "Root cause analysis looks beyond symptoms to underlying causes."
     },
     {
-      "id": "q085",
-      "category": "Confusing Words",
-      "question": "The bus is ___ than the car today.",
+      "id": "q10533",
+      "category": "Workplace Problem Solving",
+      "question": "When comparing possible solutions, consider their cost, risks and ___.",
       "options": [
-        "fast",
-        "faster",
-        "fastest",
-        "more fast"
+        "likely effectiveness",
+        "colour",
+        "popularity on social media",
+        "length of their names"
       ],
-      "answer": 1,
-      "explanation": "Use the comparative form faster when comparing two things."
+      "answer": 0,
+      "explanation": "Effectiveness helps determine whether a solution will address the problem."
     },
     {
-      "id": "q102",
-      "category": "Determiners",
-      "question": "How ___ apples do you need?",
+      "id": "q10534",
+      "category": "Workplace Problem Solving",
+      "question": "A temporary measure used while a permanent fix is prepared is called a ___.",
       "options": [
-        "much",
-        "many",
-        "little",
-        "any"
+        "interim solution",
+        "final invoice",
+        "job title",
+        "meeting invitation"
       ],
-      "answer": 1,
-      "explanation": "Apples are countable plural nouns, so use many."
+      "answer": 0,
+      "explanation": "An interim solution addresses the issue temporarily."
+    },
+    {
+      "id": "q10535",
+      "category": "Workplace Problem Solving",
+      "question": "A process map helps a team understand ___.",
+      "options": [
+        "the steps and sequence of a process",
+        "the weather outside",
+        "the personal interests of staff",
+        "the colour of office walls"
+      ],
+      "answer": 0,
+      "explanation": "A process map visualises how work moves through different steps."
+    },
+    {
+      "id": "q10536",
+      "category": "Workplace Problem Solving",
+      "question": "If a proposed solution does not work, the team should ___.",
+      "options": [
+        "review the outcome and adjust the approach",
+        "hide the result",
+        "repeat the same action indefinitely",
+        "discard all records"
+      ],
+      "answer": 0,
+      "explanation": "Reviewing results supports learning and improvement."
+    },
+    {
+      "id": "q10537",
+      "category": "Workplace Problem Solving",
+      "question": "A measurable improvement target should include ___.",
+      "options": [
+        "a clear indicator of success",
+        "only a vague hope",
+        "an unrelated slogan",
+        "no way to check progress"
+      ],
+      "answer": 0,
+      "explanation": "A measurable indicator shows whether improvement has occurred."
+    },
+    {
+      "id": "q10538",
+      "category": "Workplace Problem Solving",
+      "question": "A contingency plan describes what to do ___.",
+      "options": [
+        "if an expected plan cannot proceed",
+        "when everything goes exactly as planned only",
+        "instead of recording any risk",
+        "to avoid assigning responsibilities"
+      ],
+      "answer": 0,
+      "explanation": "Contingency plans prepare for possible disruptions."
+    },
+    {
+      "id": "q10539",
+      "category": "Workplace Problem Solving",
+      "question": "When reporting a recurring problem, include how often it occurs and ___.",
+      "options": [
+        "the conditions in which it happens",
+        "personal guesses about someone's motives",
+        "unrelated office gossip",
+        "a fictional explanation"
+      ],
+      "answer": 0,
+      "explanation": "Frequency and circumstances help identify patterns."
+    },
+    {
+      "id": "q10540",
+      "category": "Workplace Problem Solving",
+      "question": "A lessons-learned review is held to ___.",
+      "options": [
+        "identify what worked and what should improve next time",
+        "assign blame without evidence",
+        "remove all project records",
+        "avoid discussing outcomes"
+      ],
+      "answer": 0,
+      "explanation": "Lessons learned support better future performance."
     }
   ]
 }
