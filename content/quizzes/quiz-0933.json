@@ -3,139 +3,139 @@
   "slug": "quiz-0933",
   "title": "English Practice Quiz 0933",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q107",
-      "category": "Adjectives",
-      "question": "She is the ___ student in the class.",
+      "id": "q10621",
+      "category": "Negotiation Skills",
+      "question": "A successful negotiation aims to reach ___.",
       "options": [
-        "tall",
-        "taller",
-        "tallest",
-        "more tall"
-      ],
-      "answer": 2,
-      "explanation": "Use the superlative tallest when comparing one with the whole class."
-    },
-    {
-      "id": "q005",
-      "category": "Grammar",
-      "question": "Choose the correct sentence.",
-      "options": [
-        "She don't like tea.",
-        "She doesn't likes tea.",
-        "She doesn't like tea.",
-        "She not like tea."
-      ],
-      "answer": 2,
-      "explanation": "After doesn't, use the base form of the verb: like."
-    },
-    {
-      "id": "q018",
-      "category": "Tenses",
-      "question": "I ___ him last week.",
-      "options": [
-        "see",
-        "have seen",
-        "saw",
-        "seeing"
-      ],
-      "answer": 2,
-      "explanation": "Use the past simple with a finished past time such as last week."
-    },
-    {
-      "id": "q031",
-      "category": "Articles",
-      "question": "I saw ___ elephant at the zoo.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "Use an before a vowel sound."
-    },
-    {
-      "id": "q044",
-      "category": "Modals",
-      "question": "You look tired. You ___ get some rest.",
-      "options": [
-        "should",
-        "mustn't",
-        "can't",
-        "wouldn't"
+        "an acceptable agreement between the parties",
+        "a result that ignores every concern",
+        "a personal argument",
+        "a decision made without discussion"
       ],
       "answer": 0,
-      "explanation": "Should gives advice."
+      "explanation": "Negotiation involves discussion to reach an agreement."
     },
     {
-      "id": "q057",
-      "category": "Pronunciation",
-      "question": "Which word has a silent 'k'?",
+      "id": "q10622",
+      "category": "Negotiation Skills",
+      "question": "Before negotiating, it is useful to identify your ___.",
       "options": [
-        "kite",
-        "know",
-        "keep",
-        "kind"
-      ],
-      "answer": 1,
-      "explanation": "The k in know is silent."
-    },
-    {
-      "id": "q070",
-      "category": "Workplace English",
-      "question": "To confirm an instruction, you can say:",
-      "options": [
-        "Could you please confirm the details?",
-        "I not listen.",
-        "Confirm me now.",
-        "Details no."
+        "needs and priorities",
+        "opponent's private passwords",
+        "unrelated personal history",
+        "favourite advertisements"
       ],
       "answer": 0,
-      "explanation": "Could you please confirm... is polite and precise."
+      "explanation": "Knowing priorities helps you evaluate possible agreements."
     },
     {
-      "id": "q083",
-      "category": "Confusing Words",
-      "question": "Please ___ the correct answer.",
+      "id": "q10623",
+      "category": "Negotiation Skills",
+      "question": "A 'win-win' outcome is one in which ___.",
       "options": [
-        "choose",
-        "chose",
-        "choice",
-        "chosen"
+        "both parties gain something valuable",
+        "one party is always humiliated",
+        "neither party understands the result",
+        "all discussion is avoided"
       ],
       "answer": 0,
-      "explanation": "Choose is the base verb used after please."
+      "explanation": "A win-win outcome provides benefits to both sides."
     },
     {
-      "id": "q096",
-      "category": "Reported Speech",
-      "question": "He said, 'I am tired.' Reported speech:",
+      "id": "q10624",
+      "category": "Negotiation Skills",
+      "question": "During a negotiation, asking open questions can help you ___.",
       "options": [
-        "He said that he was tired.",
-        "He said I am tired.",
-        "He says that I tired.",
-        "He said he is tire."
+        "understand the other party's needs",
+        "end the discussion immediately",
+        "avoid hearing explanations",
+        "force an answer"
       ],
       "answer": 0,
-      "explanation": "In standard backshift, am changes to was after a past reporting verb."
+      "explanation": "Open questions encourage detailed responses."
     },
     {
-      "id": "q109",
-      "category": "Adverbs",
-      "question": "She arrived ___.",
+      "id": "q10625",
+      "category": "Negotiation Skills",
+      "question": "A concession in negotiation is ___.",
       "options": [
-        "late",
-        "lately",
-        "latest",
-        "laterly"
+        "something a party agrees to give up or adjust",
+        "a final legal judgement in every case",
+        "an unrelated complaint",
+        "a refusal to communicate"
       ],
       "answer": 0,
-      "explanation": "Late is the correct adverb meaning not on time."
+      "explanation": "A concession is an adjustment made to help reach agreement."
+    },
+    {
+      "id": "q10626",
+      "category": "Negotiation Skills",
+      "question": "If an offer is unclear, you should ___.",
+      "options": [
+        "ask for the terms to be explained",
+        "accept it without reading",
+        "assume the most favourable meaning",
+        "sign a blank document"
+      ],
+      "answer": 0,
+      "explanation": "Clarifying terms prevents misunderstandings."
+    },
+    {
+      "id": "q10627",
+      "category": "Negotiation Skills",
+      "question": "A negotiation deadline is ___.",
+      "options": [
+        "the time by which an agreement or decision is expected",
+        "the start of a lunch break",
+        "the date a person was hired",
+        "an optional job title"
+      ],
+      "answer": 0,
+      "explanation": "A deadline sets a time limit for the negotiation."
+    },
+    {
+      "id": "q10628",
+      "category": "Negotiation Skills",
+      "question": "Remaining calm during a difficult negotiation helps you ___.",
+      "options": [
+        "think clearly and respond professionally",
+        "guarantee that the other side agrees",
+        "avoid considering facts",
+        "make personal attacks"
+      ],
+      "answer": 0,
+      "explanation": "Calm behaviour supports reasoned communication."
+    },
+    {
+      "id": "q10629",
+      "category": "Negotiation Skills",
+      "question": "A written agreement should record ___.",
+      "options": [
+        "the terms accepted by the parties",
+        "only informal guesses",
+        "private details unrelated to the deal",
+        "unapproved promises"
+      ],
+      "answer": 0,
+      "explanation": "Written terms provide a clear record of what was agreed."
+    },
+    {
+      "id": "q10630",
+      "category": "Negotiation Skills",
+      "question": "If no agreement is possible, the parties may ___.",
+      "options": [
+        "consider another option or pause the discussion",
+        "pretend an agreement exists",
+        "alter the other party's words",
+        "publish confidential information"
+      ],
+      "answer": 0,
+      "explanation": "A pause or alternative process may be appropriate when positions remain far apart."
     }
   ]
 }
