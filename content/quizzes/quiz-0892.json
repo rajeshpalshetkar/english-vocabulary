@@ -3,139 +3,139 @@
   "slug": "quiz-0892",
   "title": "English Practice Quiz 0892",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q100",
-      "category": "Reported Speech",
-      "question": "They said, 'We have finished.'",
+      "id": "q11011",
+      "category": "Workplace Coordination",
+      "question": "A shift handover is intended to ___.",
       "options": [
-        "They said they had finished.",
-        "They said they have finish.",
-        "They told finished.",
-        "They said we finished have."
+        "replace all written records",
+        "pass essential information to the incoming team",
+        "announce personal plans",
+        "cancel pending work"
+      ],
+      "answer": 1,
+      "explanation": "pass essential information to the incoming team is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q11012",
+      "category": "Workplace Coordination",
+      "question": "A duty roster shows ___.",
+      "options": [
+        "who is assigned to work at particular times",
+        "organisation profit",
+        "supplier address",
+        "building floor area"
       ],
       "answer": 0,
-      "explanation": "Present perfect commonly shifts to past perfect in reported speech."
+      "explanation": "who is assigned to work at particular times is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q111",
-      "category": "Gerunds",
-      "question": "I enjoy ___ books.",
+      "id": "q11013",
+      "category": "Workplace Coordination",
+      "question": "Teams with interdependent work should agree on ___.",
       "options": [
-        "read",
-        "to read",
-        "reading",
-        "reads"
+        "not sharing updates",
+        "assuming everything",
+        "conflicting instructions",
+        "responsibilities, timings and communication points"
+      ],
+      "answer": 3,
+      "explanation": "responsibilities, timings and communication points is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q11014",
+      "category": "Workplace Coordination",
+      "question": "A task owner is the person who ___.",
+      "options": [
+        "can ignore the deadline",
+        "created the building",
+        "is responsible for ensuring the task is completed",
+        "approves every expense"
       ],
       "answer": 2,
-      "explanation": "Enjoy is followed by a gerund (-ing form)."
+      "explanation": "is responsible for ensuring the task is completed is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q007",
-      "category": "Grammar",
-      "question": "The keys are ___ the table.",
+      "id": "q11015",
+      "category": "Workplace Coordination",
+      "question": "If a colleague is unexpectedly absent, the supervisor should ___.",
       "options": [
-        "in",
-        "at",
-        "on",
-        "by"
-      ],
-      "answer": 2,
-      "explanation": "On describes something resting on a surface."
-    },
-    {
-      "id": "q018",
-      "category": "Tenses",
-      "question": "I ___ him last week.",
-      "options": [
-        "see",
-        "have seen",
-        "saw",
-        "seeing"
-      ],
-      "answer": 2,
-      "explanation": "Use the past simple with a finished past time such as last week."
-    },
-    {
-      "id": "q029",
-      "category": "Vocabulary",
-      "question": "What is the meaning of 'available'?",
-      "options": [
-        "not possible to use",
-        "ready or able to be used",
-        "very expensive",
-        "already broken"
+        "leave critical duties unattended",
+        "review coverage and arrange authorised reassignment",
+        "share private details",
+        "cancel safety checks"
       ],
       "answer": 1,
-      "explanation": "Available means ready for use or accessible."
+      "explanation": "review coverage and arrange authorised reassignment is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q040",
-      "category": "Prepositions",
-      "question": "The hospital is ___ the bank and the post office.",
+      "id": "q11016",
+      "category": "Workplace Coordination",
+      "question": "A coordination meeting is useful when it ___.",
       "options": [
-        "among",
-        "between",
-        "inside",
-        "over"
-      ],
-      "answer": 1,
-      "explanation": "Between is used for a position separating two things."
-    },
-    {
-      "id": "q051",
-      "category": "Conversation",
-      "question": "Someone says, 'Thank you for your help.' You reply:",
-      "options": [
-        "Never mind you.",
-        "You're welcome.",
-        "I am welcome you.",
-        "No thank."
-      ],
-      "answer": 1,
-      "explanation": "You're welcome is a natural response to thank you."
-    },
-    {
-      "id": "q062",
-      "category": "Reading",
-      "question": "Read: 'The shop closes at 9 p.m., but it opens at 10 a.m.' When does it open?",
-      "options": [
-        "9 a.m.",
-        "10 a.m.",
-        "9 p.m.",
-        "10 p.m."
-      ],
-      "answer": 1,
-      "explanation": "The opening time given is 10 a.m."
-    },
-    {
-      "id": "q073",
-      "category": "Questions",
-      "question": "Choose the correct question.",
-      "options": [
-        "Does she work here?",
-        "Do she work here?",
-        "Is she works here?",
-        "Does she works here?"
+        "resolves dependencies and clarifies next actions",
+        "repeats every email",
+        "has no purpose",
+        "avoids assigning duties"
       ],
       "answer": 0,
-      "explanation": "Use does + subject + base verb with he, she or it."
+      "explanation": "resolves dependencies and clarifies next actions is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q084",
-      "category": "Confusing Words",
-      "question": "I have ___ my keys.",
+      "id": "q11017",
+      "category": "Workplace Coordination",
+      "question": "A shared calendar helps teams ___.",
       "options": [
-        "loose",
-        "lose",
-        "lost",
-        "loss"
+        "change payroll",
+        "remove communication",
+        "store passwords",
+        "see scheduled activities and availability"
+      ],
+      "answer": 3,
+      "explanation": "see scheduled activities and availability is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q11018",
+      "category": "Workplace Coordination",
+      "question": "A dependency in a work plan is ___.",
+      "options": [
+        "a personal preference",
+        "an expense claim",
+        "a task or event another task relies on",
+        "office furniture"
       ],
       "answer": 2,
-      "explanation": "Lost is the past participle of lose."
+      "explanation": "a task or event another task relies on is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q11019",
+      "category": "Workplace Coordination",
+      "question": "A task transfer should clarify ___.",
+      "options": [
+        "lunch time",
+        "current status, remaining work and deadlines",
+        "private conversations",
+        "folder colour"
+      ],
+      "answer": 1,
+      "explanation": "current status, remaining work and deadlines is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q11020",
+      "category": "Workplace Coordination",
+      "question": "A coordination issue should be escalated when ___.",
+      "options": [
+        "it exceeds the team's authority or resources",
+        "someone asks a routine question",
+        "a task finishes early",
+        "the calendar has a free slot"
+      ],
+      "answer": 0,
+      "explanation": "it exceeds the team's authority or resources is the correct answer based on the meaning and context of the question."
     }
   ]
 }
