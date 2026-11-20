@@ -3,139 +3,139 @@
   "slug": "quiz-0911",
   "title": "English Practice Quiz 0911",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q078",
-      "category": "Punctuation",
-      "question": "Choose the correct sentence.",
+      "id": "q10801",
+      "category": "Customer Feedback",
+      "question": "What is the best first response to a customer complaint?",
       "options": [
-        "I like tea, coffee and milk.",
-        "I like tea coffee and milk",
-        "I like, tea coffee, and milk.",
-        "i like tea, coffee and milk"
+        "Listen carefully and acknowledge the concern",
+        "Interrupt and defend the company",
+        "Ignore the customer",
+        "Promise an outcome you cannot control"
       ],
       "answer": 0,
-      "explanation": "Use commas to separate items in a list and capitalise the first word."
+      "explanation": "Listen carefully and acknowledge the concern is the correct choice based on the meaning and context of the question."
     },
     {
-      "id": "q087",
-      "category": "Conditionals",
-      "question": "If I had more time, I ___ another language.",
+      "id": "q10802",
+      "category": "Customer Feedback",
+      "question": "A customer reports a damaged item. What should you request?",
       "options": [
-        "learn",
-        "will learn",
-        "would learn",
-        "am learn"
+        "Their social media password",
+        "Unrelated family details",
+        "The order details and a description of the damage",
+        "Their email password"
       ],
       "answer": 2,
-      "explanation": "The second conditional uses would + base verb for an unreal or imagined situation."
+      "explanation": "The order details and a description of the damage is the correct choice based on the meaning and context of the question."
     },
     {
-      "id": "q096",
-      "category": "Reported Speech",
-      "question": "He said, 'I am tired.' Reported speech:",
+      "id": "q10803",
+      "category": "Customer Feedback",
+      "question": "A feedback form is mainly used to ___.",
       "options": [
-        "He said that he was tired.",
-        "He said I am tired.",
-        "He says that I tired.",
-        "He said he is tire."
+        "collect customers' opinions about a service",
+        "record staff salaries",
+        "replace invoices",
+        "schedule vehicle repairs"
       ],
       "answer": 0,
-      "explanation": "In standard backshift, am changes to was after a past reporting verb."
+      "explanation": "collect customers' opinions about a service is the correct choice based on the meaning and context of the question."
     },
     {
-      "id": "q105",
-      "category": "Determiners",
-      "question": "___ student must bring an ID card.",
+      "id": "q10804",
+      "category": "Customer Feedback",
+      "question": "What does 'resolve a complaint' mean?",
       "options": [
-        "Each",
-        "Many",
-        "Few",
-        "Several"
+        "Make the complaint disappear",
+        "Transfer blame",
+        "Find an appropriate solution to the problem",
+        "Avoid speaking to the customer"
+      ],
+      "answer": 2,
+      "explanation": "Find an appropriate solution to the problem is the correct choice based on the meaning and context of the question."
+    },
+    {
+      "id": "q10805",
+      "category": "Customer Feedback",
+      "question": "If you cannot solve an issue immediately, you should ___.",
+      "options": [
+        "explain the next step and expected follow-up",
+        "give a false guarantee",
+        "end the conversation",
+        "hide the delay"
       ],
       "answer": 0,
-      "explanation": "Each refers to every individual in a group."
+      "explanation": "explain the next step and expected follow-up is the correct choice based on the meaning and context of the question."
     },
     {
-      "id": "q114",
-      "category": "Gerunds",
-      "question": "They finished ___ the room.",
+      "id": "q10806",
+      "category": "Customer Feedback",
+      "question": "A recurring complaint may indicate ___.",
       "options": [
-        "clean",
-        "to clean",
-        "cleaning",
-        "cleaned"
+        "feedback should be deleted",
+        "every customer is wrong",
+        "a process that needs improvement",
+        "records are unnecessary"
       ],
       "answer": 2,
-      "explanation": "Finish is followed by a gerund."
+      "explanation": "a process that needs improvement is the correct choice based on the meaning and context of the question."
     },
     {
-      "id": "q008",
-      "category": "Grammar",
-      "question": "This is the woman ___ helped me.",
+      "id": "q10807",
+      "category": "Customer Feedback",
+      "question": "Which response shows empathy?",
       "options": [
-        "which",
-        "who",
-        "where",
-        "when"
-      ],
-      "answer": 1,
-      "explanation": "Who is used for people."
-    },
-    {
-      "id": "q017",
-      "category": "Tenses",
-      "question": "They ___ football every Sunday.",
-      "options": [
-        "plays",
-        "are play",
-        "play",
-        "playing"
-      ],
-      "answer": 2,
-      "explanation": "Use the base verb with the plural subject they in the present simple."
-    },
-    {
-      "id": "q026",
-      "category": "Vocabulary",
-      "question": "What does 'borrow' mean?",
-      "options": [
-        "give something forever",
-        "take something temporarily and return it",
-        "break something",
-        "buy something"
-      ],
-      "answer": 1,
-      "explanation": "Borrow means to take something for a period and return it."
-    },
-    {
-      "id": "q035",
-      "category": "Articles",
-      "question": "Mount Everest is ___ highest mountain in the world.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 2,
-      "explanation": "Use the with superlative adjectives."
-    },
-    {
-      "id": "q044",
-      "category": "Modals",
-      "question": "You look tired. You ___ get some rest.",
-      "options": [
-        "should",
-        "mustn't",
-        "can't",
-        "wouldn't"
+        "I understand why this has caused inconvenience.",
+        "That is not my problem.",
+        "You should not complain.",
+        "Stop asking questions."
       ],
       "answer": 0,
-      "explanation": "Should gives advice."
+      "explanation": "I understand why this has caused inconvenience. is the correct choice based on the meaning and context of the question."
+    },
+    {
+      "id": "q10808",
+      "category": "Customer Feedback",
+      "question": "A service recovery action is intended to ___.",
+      "options": [
+        "increase waiting time",
+        "avoid responsibility",
+        "restore customer confidence after a service failure",
+        "remove all records"
+      ],
+      "answer": 2,
+      "explanation": "restore customer confidence after a service failure is the correct choice based on the meaning and context of the question."
+    },
+    {
+      "id": "q10809",
+      "category": "Customer Feedback",
+      "question": "When recording feedback, use ___.",
+      "options": [
+        "clear, factual and neutral language",
+        "insults",
+        "unsupported assumptions",
+        "personal rumours"
+      ],
+      "answer": 0,
+      "explanation": "clear, factual and neutral language is the correct choice based on the meaning and context of the question."
+    },
+    {
+      "id": "q10810",
+      "category": "Customer Feedback",
+      "question": "After resolving a complaint, it is useful to ___.",
+      "options": [
+        "reopen it without reason",
+        "delete the case history",
+        "confirm that the customer is satisfied with the outcome",
+        "avoid follow-up"
+      ],
+      "answer": 2,
+      "explanation": "confirm that the customer is satisfied with the outcome is the correct choice based on the meaning and context of the question."
     }
   ]
 }
