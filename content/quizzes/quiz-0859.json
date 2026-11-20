@@ -3,139 +3,139 @@
   "slug": "quiz-0859",
   "title": "English Practice Quiz 0859",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q114",
-      "category": "Gerunds",
-      "question": "They finished ___ the room.",
+      "id": "q11481",
+      "category": "Grammar Accuracy",
+      "question": "Grammar Accuracy: Choose the correct form with 'neither of the answers'.",
       "options": [
-        "clean",
-        "to clean",
-        "cleaning",
-        "cleaned"
+        "Neither of the answers is correct.",
+        "Neither of the answers are correct.",
+        "Neither answers is correct.",
+        "Neither of answer are correct."
       ],
-      "answer": 2,
-      "explanation": "Finish is followed by a gerund."
+      "answer": 0,
+      "explanation": "Neither is treated as singular in standard formal usage."
     },
     {
-      "id": "q036",
-      "category": "Prepositions",
-      "question": "The meeting starts ___ 9 a.m.",
+      "id": "q11482",
+      "category": "Grammar Accuracy",
+      "question": "Grammar Accuracy: By the time we arrived, the meeting ___.",
       "options": [
-        "in",
-        "on",
+        "had started",
+        "has start",
+        "will start",
+        "starts"
+      ],
+      "answer": 0,
+      "explanation": "Past perfect marks the earlier of two past events."
+    },
+    {
+      "id": "q11483",
+      "category": "Grammar Accuracy",
+      "question": "Grammar Accuracy: She is responsible ___ maintaining the records.",
+      "options": [
+        "for",
+        "to",
         "at",
-        "by"
-      ],
-      "answer": 2,
-      "explanation": "Use at for a specific clock time."
-    },
-    {
-      "id": "q073",
-      "category": "Questions",
-      "question": "Choose the correct question.",
-      "options": [
-        "Does she work here?",
-        "Do she work here?",
-        "Is she works here?",
-        "Does she works here?"
+        "with"
       ],
       "answer": 0,
-      "explanation": "Use does + subject + base verb with he, she or it."
+      "explanation": "Responsible is followed by for."
     },
     {
-      "id": "q110",
-      "category": "Adverbs",
-      "question": "Please drive ___.",
+      "id": "q11484",
+      "category": "Grammar Accuracy",
+      "question": "Grammar Accuracy: Choose the correct reported question.",
       "options": [
-        "careful",
-        "carefully",
-        "care",
-        "caring"
-      ],
-      "answer": 1,
-      "explanation": "Carefully is the adverb modifying drive."
-    },
-    {
-      "id": "q032",
-      "category": "Articles",
-      "question": "She is ___ university student.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
+        "He asked where the station was.",
+        "He asked where was the station.",
+        "He asked where is the station.",
+        "He asked where the station is yesterday."
       ],
       "answer": 0,
-      "explanation": "University begins with the consonant sound /y/, so use a."
+      "explanation": "Reported questions use statement word order."
     },
     {
-      "id": "q069",
-      "category": "Workplace English",
-      "question": "A polite way to disagree is:",
+      "id": "q11485",
+      "category": "Grammar Accuracy",
+      "question": "Grammar Accuracy: The equipment, along with the tools, ___ inspected daily.",
       "options": [
-        "You are totally wrong.",
-        "I see your point, but I have a different view.",
-        "No, stop.",
-        "That is stupid."
+        "is",
+        "are",
+        "were",
+        "have"
       ],
-      "answer": 1,
-      "explanation": "This phrase acknowledges the other person before presenting a different view."
+      "answer": 0,
+      "explanation": "The main subject equipment is uncountable and takes is."
     },
     {
-      "id": "q106",
-      "category": "Adjectives",
-      "question": "The test was ___ than I expected.",
+      "id": "q11486",
+      "category": "Grammar Accuracy",
+      "question": "Grammar Accuracy: If the alarm had sounded, the staff ___ evacuated.",
       "options": [
-        "easy",
-        "easier",
-        "easiest",
-        "more easy"
+        "would have",
+        "will have",
+        "would",
+        "have"
       ],
-      "answer": 1,
-      "explanation": "Use the comparative form easier."
+      "answer": 0,
+      "explanation": "The third conditional uses would have with a past participle."
     },
     {
-      "id": "q028",
-      "category": "Vocabulary",
-      "question": "A place where medicines are dispensed is a ___.",
+      "id": "q11487",
+      "category": "Grammar Accuracy",
+      "question": "Grammar Accuracy: Choose the correct form after 'suggested that'.",
       "options": [
-        "bakery",
-        "pharmacy",
-        "library",
-        "garage"
+        "She suggested that he apply for the role.",
+        "She suggested him to applies for the role.",
+        "She suggested that he applies yesterday.",
+        "She suggested he applying."
       ],
-      "answer": 1,
-      "explanation": "A pharmacy is a place where medicines are prepared or supplied."
+      "answer": 0,
+      "explanation": "Suggest can be followed by that plus the base verb."
     },
     {
-      "id": "q065",
-      "category": "Reading",
-      "question": "Read: 'Please keep the floor dry to prevent accidents.' What is the instruction?",
+      "id": "q11488",
+      "category": "Grammar Accuracy",
+      "question": "Grammar Accuracy: The report is worth ___.",
       "options": [
-        "Wash the floor now",
-        "Keep the floor dry",
-        "Close the office",
-        "Move the furniture"
+        "reading",
+        "to read",
+        "read",
+        "to reading"
       ],
-      "answer": 1,
-      "explanation": "The notice instructs people to keep the floor dry."
+      "answer": 0,
+      "explanation": "Worth is followed by a gerund."
     },
     {
-      "id": "q102",
-      "category": "Determiners",
-      "question": "How ___ apples do you need?",
+      "id": "q11489",
+      "category": "Grammar Accuracy",
+      "question": "Grammar Accuracy: No employee should leave until the supervisor ___.",
       "options": [
-        "much",
-        "many",
-        "little",
-        "any"
+        "arrives",
+        "will arrive",
+        "arrive",
+        "arrived tomorrow"
       ],
-      "answer": 1,
-      "explanation": "Apples are countable plural nouns, so use many."
+      "answer": 0,
+      "explanation": "A present simple verb is used in a future time clause."
+    },
+    {
+      "id": "q11490",
+      "category": "Grammar Accuracy",
+      "question": "Grammar Accuracy: Choose the correctly formed participial sentence.",
+      "options": [
+        "Having checked the figures, she submitted the report.",
+        "Having check the figures, she submitted the report.",
+        "Have checked the figures, she submit the report.",
+        "Having checked the figures, the report submitted her."
+      ],
+      "answer": 0,
+      "explanation": "The participial clause correctly refers to the person who checked the figures."
     }
   ]
 }
