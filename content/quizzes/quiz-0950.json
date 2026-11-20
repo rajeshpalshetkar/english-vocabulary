@@ -4,6 +4,138 @@
   "title": "English Practice Quiz 0950",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
   "category": "Practical English",
-  "level": "Advanced",
-  "question_count": 10
+  "level": "Intermediate",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q10591",
+      "category": "Project Management",
+      "question": "A project milestone marks ___.",
+      "options": [
+        "an important stage or achievement",
+        "the colour of a project folder",
+        "an employee's lunch break",
+        "an unrelated customer request"
+      ],
+      "answer": 0,
+      "explanation": "A milestone is a significant point in a project's progress."
+    },
+    {
+      "id": "q10592",
+      "category": "Project Management",
+      "question": "A project scope defines ___.",
+      "options": [
+        "the work and boundaries of the project",
+        "the office's geographical address only",
+        "the personal goals of every visitor",
+        "the weather during the project"
+      ],
+      "answer": 0,
+      "explanation": "Scope describes what is included and excluded from the project."
+    },
+    {
+      "id": "q10593",
+      "category": "Project Management",
+      "question": "A project timeline shows ___.",
+      "options": [
+        "planned tasks and their dates",
+        "the cost of every office chair",
+        "staff passwords",
+        "only the final project's title"
+      ],
+      "answer": 0,
+      "explanation": "A timeline organises activities over time."
+    },
+    {
+      "id": "q10594",
+      "category": "Project Management",
+      "question": "A project risk is an uncertain event that may affect ___.",
+      "options": [
+        "project objectives",
+        "the colour of the company logo",
+        "the names of nearby shops",
+        "a person's favourite hobby"
+      ],
+      "answer": 0,
+      "explanation": "Risks can influence objectives such as time, cost or quality."
+    },
+    {
+      "id": "q10595",
+      "category": "Project Management",
+      "question": "A project owner is generally responsible for ___.",
+      "options": [
+        "overall direction and accountability",
+        "printing every document personally",
+        "choosing staff holidays only",
+        "approving unrelated purchases"
+      ],
+      "answer": 0,
+      "explanation": "The project owner provides direction and accountability for outcomes."
+    },
+    {
+      "id": "q10596",
+      "category": "Project Management",
+      "question": "A dependency means one task ___.",
+      "options": [
+        "relies on another task or condition",
+        "has no connection to any work",
+        "must always be cancelled",
+        "is completed before it is assigned"
+      ],
+      "answer": 0,
+      "explanation": "Dependencies describe relationships between tasks."
+    },
+    {
+      "id": "q10597",
+      "category": "Project Management",
+      "question": "A project status report should communicate progress, issues and ___.",
+      "options": [
+        "next steps",
+        "private passwords",
+        "unrelated rumours",
+        "personal shopping lists"
+      ],
+      "answer": 0,
+      "explanation": "Status reports help stakeholders understand progress and what happens next."
+    },
+    {
+      "id": "q10598",
+      "category": "Project Management",
+      "question": "A change request is used to formally propose ___.",
+      "options": [
+        "a change to an agreed project element",
+        "an employee's personal leave",
+        "a new office lunch menu",
+        "the deletion of all project records"
+      ],
+      "answer": 0,
+      "explanation": "A change request documents a proposed adjustment for review."
+    },
+    {
+      "id": "q10599",
+      "category": "Project Management",
+      "question": "A project deliverable is ___.",
+      "options": [
+        "a specific output produced by the project",
+        "a casual conversation",
+        "a staff attendance warning",
+        "an unplanned expense only"
+      ],
+      "answer": 0,
+      "explanation": "A deliverable is a tangible or defined output of project work."
+    },
+    {
+      "id": "q10600",
+      "category": "Project Management",
+      "question": "A project retrospective is held to ___.",
+      "options": [
+        "review what went well and what can improve",
+        "avoid discussing the project",
+        "assign blame without evidence",
+        "remove all future planning"
+      ],
+      "answer": 0,
+      "explanation": "A retrospective helps the team learn from the work completed."
+    }
+  ]
 }
