@@ -3,139 +3,139 @@
   "slug": "quiz-0891",
   "title": "English Practice Quiz 0891",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q083",
-      "category": "Confusing Words",
-      "question": "Please ___ the correct answer.",
+      "id": "q11001",
+      "category": "Workplace Documentation",
+      "question": "An SOP explains ___.",
       "options": [
-        "choose",
-        "chose",
-        "choice",
-        "chosen"
+        "how a task should be performed consistently",
+        "how salaries are calculated",
+        "how to advertise products",
+        "how to arrange a social event"
       ],
       "answer": 0,
-      "explanation": "Choose is the base verb used after please."
+      "explanation": "how a task should be performed consistently is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q092",
-      "category": "Passive Voice",
-      "question": "Choose the passive form: 'The manager signed the letter.'",
+      "id": "q11002",
+      "category": "Workplace Documentation",
+      "question": "A document marked confidential should be ___.",
       "options": [
-        "The letter is signed.",
-        "The letter was signed by the manager.",
-        "The letter signed the manager.",
-        "The letter has sign."
+        "left at public reception",
+        "posted online",
+        "given to every visitor",
+        "stored and shared only through authorised channels"
       ],
-      "answer": 1,
-      "explanation": "Past simple passive: was/were + past participle."
+      "answer": 3,
+      "explanation": "stored and shared only through authorised channels is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q101",
-      "category": "Determiners",
-      "question": "There isn't ___ milk left.",
+      "id": "q11003",
+      "category": "Workplace Documentation",
+      "question": "A document version number helps identify ___.",
       "options": [
-        "many",
-        "much",
-        "few",
-        "several"
-      ],
-      "answer": 1,
-      "explanation": "Milk is uncountable, so use much in a negative sentence."
-    },
-    {
-      "id": "q110",
-      "category": "Adverbs",
-      "question": "Please drive ___.",
-      "options": [
-        "careful",
-        "carefully",
-        "care",
-        "caring"
-      ],
-      "answer": 1,
-      "explanation": "Carefully is the adverb modifying drive."
-    },
-    {
-      "id": "q004",
-      "category": "Grammar",
-      "question": "There ___ two chairs in the room.",
-      "options": [
-        "is",
-        "are",
-        "am",
-        "was"
-      ],
-      "answer": 1,
-      "explanation": "Use are with the plural noun chairs."
-    },
-    {
-      "id": "q013",
-      "category": "Tenses",
-      "question": "At 8 p.m. yesterday, I ___ dinner.",
-      "options": [
-        "cook",
-        "cooked",
-        "was cooking",
-        "am cooking"
+        "its printing cost",
+        "the author's address",
+        "which revision is being used",
+        "the file colour"
       ],
       "answer": 2,
-      "explanation": "Use the past continuous for an action in progress at a specific past time."
+      "explanation": "which revision is being used is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q022",
-      "category": "Vocabulary",
-      "question": "Choose the opposite of 'polite'.",
+      "id": "q11004",
+      "category": "Workplace Documentation",
+      "question": "If a mandatory field is blank, staff should ___.",
       "options": [
-        "kind",
-        "rude",
-        "helpful",
-        "calm"
+        "invent an answer",
+        "request the missing information before processing",
+        "delete the application",
+        "approve it unchecked"
       ],
       "answer": 1,
-      "explanation": "Rude is the opposite of polite."
+      "explanation": "request the missing information before processing is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q031",
-      "category": "Articles",
-      "question": "I saw ___ elephant at the zoo.",
+      "id": "q11005",
+      "category": "Workplace Documentation",
+      "question": "A retention schedule specifies ___.",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
+        "how long records are kept and what happens afterwards",
+        "office opening hours",
+        "staff shift order",
+        "stationery prices"
       ],
-      "answer": 1,
-      "explanation": "Use an before a vowel sound."
+      "answer": 0,
+      "explanation": "how long records are kept and what happens afterwards is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q040",
-      "category": "Prepositions",
-      "question": "The hospital is ___ the bank and the post office.",
+      "id": "q11006",
+      "category": "Workplace Documentation",
+      "question": "A signed acknowledgement usually confirms ___.",
       "options": [
-        "among",
-        "between",
-        "inside",
-        "over"
+        "every statement is correct",
+        "payment is complete",
+        "approval is guaranteed",
+        "receipt of a document or item"
       ],
-      "answer": 1,
-      "explanation": "Between is used for a position separating two things."
+      "answer": 3,
+      "explanation": "receipt of a document or item is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q049",
-      "category": "Sentence Building",
-      "question": "Choose the correct plural of 'child'.",
+      "id": "q11007",
+      "category": "Workplace Documentation",
+      "question": "An audit trail helps show ___.",
       "options": [
-        "childs",
-        "childes",
-        "children",
-        "childrens"
+        "the weather",
+        "file colour",
+        "who made changes and when",
+        "staff hobbies"
       ],
       "answer": 2,
-      "explanation": "Children is the irregular plural of child."
+      "explanation": "who made changes and when is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q11008",
+      "category": "Workplace Documentation",
+      "question": "A document template provides ___.",
+      "options": [
+        "automatic fact checking",
+        "a consistent structure for similar documents",
+        "automatic approval",
+        "a guarantee against errors"
+      ],
+      "answer": 1,
+      "explanation": "a consistent structure for similar documents is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q11009",
+      "category": "Workplace Documentation",
+      "question": "A scanned document should be checked for ___.",
+      "options": [
+        "readability and completeness",
+        "scanner brand only",
+        "favourite font",
+        "desk colour"
+      ],
+      "answer": 0,
+      "explanation": "readability and completeness is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q11010",
+      "category": "Workplace Documentation",
+      "question": "A correction to an original record should be ___.",
+      "options": [
+        "hidden from reviewers",
+        "made without any record",
+        "written over until unreadable",
+        "traceable under the record-control procedure"
+      ],
+      "answer": 3,
+      "explanation": "traceable under the record-control procedure is the correct answer based on the meaning and context of the question."
     }
   ]
 }
