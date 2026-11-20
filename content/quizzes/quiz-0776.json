@@ -3,139 +3,139 @@
   "slug": "quiz-0776",
   "title": "English Practice Quiz 0776",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Conversation",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q083",
-      "category": "Confusing Words",
-      "question": "Please ___ the correct answer.",
+      "id": "q12251",
+      "category": "Home and Facilities Maintenance",
+      "question": "Home and Facilities Maintenance 01: A dripping tap should be?",
       "options": [
-        "choose",
-        "chose",
-        "choice",
-        "chosen"
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "reported or repaired to prevent water waste"
+      ],
+      "answer": 3,
+      "explanation": "Option D is correct: reported or repaired to prevent water waste."
+    },
+    {
+      "id": "q12252",
+      "category": "Home and Facilities Maintenance",
+      "question": "Home and Facilities Maintenance 02: A smoke detector should be?",
+      "options": [
+        "tested and maintained according to instructions",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
       ],
       "answer": 0,
-      "explanation": "Choose is the base verb used after please."
+      "explanation": "Option A is correct: tested and maintained according to instructions."
     },
     {
-      "id": "q106",
-      "category": "Adjectives",
-      "question": "The test was ___ than I expected.",
+      "id": "q12253",
+      "category": "Home and Facilities Maintenance",
+      "question": "Home and Facilities Maintenance 03: A blocked fire exit should be?",
       "options": [
-        "easy",
-        "easier",
-        "easiest",
-        "more easy"
+        "share the information publicly",
+        "cleared and reported immediately",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
       ],
       "answer": 1,
-      "explanation": "Use the comparative form easier."
+      "explanation": "Option B is correct: cleared and reported immediately."
     },
     {
-      "id": "q014",
-      "category": "Tenses",
-      "question": "I think it ___ tomorrow.",
+      "id": "q12254",
+      "category": "Home and Facilities Maintenance",
+      "question": "Home and Facilities Maintenance 04: A cleaning schedule helps?",
       "options": [
-        "rains",
-        "rained",
-        "will rain",
-        "raining"
+        "make an unsupported assumption",
+        "share the information publicly",
+        "ensure areas are cleaned consistently",
+        "ignore the issue and continue"
       ],
       "answer": 2,
-      "explanation": "Will plus the base verb can express a future prediction."
+      "explanation": "Option C is correct: ensure areas are cleaned consistently."
     },
     {
-      "id": "q037",
-      "category": "Prepositions",
-      "question": "My birthday is ___ July.",
+      "id": "q12255",
+      "category": "Home and Facilities Maintenance",
+      "question": "Home and Facilities Maintenance 05: A wet floor sign is used to?",
       "options": [
-        "at",
-        "in",
-        "on",
-        "from"
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "warn people about a slip hazard"
       ],
-      "answer": 1,
-      "explanation": "Use in with months."
+      "answer": 3,
+      "explanation": "Option D is correct: warn people about a slip hazard."
     },
     {
-      "id": "q060",
-      "category": "Pronunciation",
-      "question": "How many syllables are in 'computer'?",
+      "id": "q12256",
+      "category": "Home and Facilities Maintenance",
+      "question": "Home and Facilities Maintenance 06: A damaged electrical cable should be?",
       "options": [
-        "one",
-        "two",
-        "three",
-        "four"
-      ],
-      "answer": 2,
-      "explanation": "Computer is commonly pronounced with three syllables: com-pu-ter."
-    },
-    {
-      "id": "q083",
-      "category": "Confusing Words",
-      "question": "Please ___ the correct answer.",
-      "options": [
-        "choose",
-        "chose",
-        "choice",
-        "chosen"
+        "taken out of use and reported to a qualified person",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
       ],
       "answer": 0,
-      "explanation": "Choose is the base verb used after please."
+      "explanation": "Option A is correct: taken out of use and reported to a qualified person."
     },
     {
-      "id": "q106",
-      "category": "Adjectives",
-      "question": "The test was ___ than I expected.",
+      "id": "q12257",
+      "category": "Home and Facilities Maintenance",
+      "question": "Home and Facilities Maintenance 07: Routine building inspections can?",
       "options": [
-        "easy",
-        "easier",
-        "easiest",
-        "more easy"
+        "share the information publicly",
+        "identify maintenance issues early",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
       ],
       "answer": 1,
-      "explanation": "Use the comparative form easier."
+      "explanation": "Option B is correct: identify maintenance issues early."
     },
     {
-      "id": "q014",
-      "category": "Tenses",
-      "question": "I think it ___ tomorrow.",
+      "id": "q12258",
+      "category": "Home and Facilities Maintenance",
+      "question": "Home and Facilities Maintenance 08: A maintenance contractor should receive?",
       "options": [
-        "rains",
-        "rained",
-        "will rain",
-        "raining"
+        "make an unsupported assumption",
+        "share the information publicly",
+        "clear work instructions and access authorisation",
+        "ignore the issue and continue"
       ],
       "answer": 2,
-      "explanation": "Will plus the base verb can express a future prediction."
+      "explanation": "Option C is correct: clear work instructions and access authorisation."
     },
     {
-      "id": "q037",
-      "category": "Prepositions",
-      "question": "My birthday is ___ July.",
+      "id": "q12259",
+      "category": "Home and Facilities Maintenance",
+      "question": "Home and Facilities Maintenance 09: A waste storage area should be?",
       "options": [
-        "at",
-        "in",
-        "on",
-        "from"
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "kept clean and managed safely"
       ],
-      "answer": 1,
-      "explanation": "Use in with months."
+      "answer": 3,
+      "explanation": "Option D is correct: kept clean and managed safely."
     },
     {
-      "id": "q060",
-      "category": "Pronunciation",
-      "question": "How many syllables are in 'computer'?",
+      "id": "q12260",
+      "category": "Home and Facilities Maintenance",
+      "question": "Home and Facilities Maintenance 10: A lift malfunction should be?",
       "options": [
-        "one",
-        "two",
-        "three",
-        "four"
+        "reported and the lift kept out of service as required",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
       ],
-      "answer": 2,
-      "explanation": "Computer is commonly pronounced with three syllables: com-pu-ter."
+      "answer": 0,
+      "explanation": "Option A is correct: reported and the lift kept out of service as required."
     }
   ]
 }
