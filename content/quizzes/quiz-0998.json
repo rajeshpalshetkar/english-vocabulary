@@ -8,134 +8,134 @@
   "question_count": 10,
   "questions": [
     {
-      "id": "q062",
-      "category": "Reading",
-      "question": "Read: 'The shop closes at 9 p.m., but it opens at 10 a.m.' When does it open?",
+      "id": "q10071",
+      "category": "Job Interviews",
+      "question": "Which answer best describes a strength in an interview?",
       "options": [
-        "9 a.m.",
-        "10 a.m.",
-        "9 p.m.",
-        "10 p.m."
+        "I am perfect.",
+        "I organise tasks carefully and meet deadlines.",
+        "I do not make mistakes.",
+        "I have no weaknesses."
       ],
       "answer": 1,
-      "explanation": "The opening time given is 10 a.m."
+      "explanation": "A strong answer gives a relevant skill and a practical example or result."
     },
     {
-      "id": "q093",
-      "category": "Passive Voice",
-      "question": "The work ___ tomorrow.",
-      "options": [
-        "will complete",
-        "will be completed",
-        "completed",
-        "is completing"
-      ],
-      "answer": 1,
-      "explanation": "Future passive uses will be + past participle."
-    },
-    {
-      "id": "q009",
+      "id": "q10072",
       "category": "Grammar",
-      "question": "Choose the correct comparative form.",
+      "question": "She is used to ___ early for her shift.",
       "options": [
-        "more tall",
-        "taller",
-        "tallest than",
-        "most tall"
+        "wake",
+        "waking",
+        "woke",
+        "be wake"
       ],
       "answer": 1,
-      "explanation": "The comparative form of the short adjective tall is taller."
+      "explanation": "Be used to is followed by a noun or gerund."
     },
     {
-      "id": "q040",
-      "category": "Prepositions",
-      "question": "The hospital is ___ the bank and the post office.",
+      "id": "q10073",
+      "category": "Vocabulary",
+      "question": "A 'qualification' is ___.",
       "options": [
-        "among",
-        "between",
-        "inside",
-        "over"
+        "a recognised skill, certificate or achievement",
+        "a daily timetable",
+        "a salary deduction",
+        "a work complaint"
+      ],
+      "answer": 0,
+      "explanation": "A qualification is evidence of education, training or ability."
+    },
+    {
+      "id": "q10074",
+      "category": "Interview Etiquette",
+      "question": "If you do not know an interview answer, you should ___.",
+      "options": [
+        "invent facts",
+        "admit what you know and explain how you would learn",
+        "remain silent throughout",
+        "criticise the question"
       ],
       "answer": 1,
-      "explanation": "Between is used for a position separating two things."
+      "explanation": "Honesty and a willingness to learn are better than inventing information."
     },
     {
-      "id": "q071",
-      "category": "Questions",
-      "question": "Choose the correct WH question for a place.",
+      "id": "q10075",
+      "category": "Grammar",
+      "question": "The candidate, as well as the referees, ___ been contacted.",
       "options": [
-        "When do you live?",
-        "Where do you live?",
-        "Who do you live?",
-        "Why do you live?"
+        "have",
+        "has",
+        "are",
+        "were"
       ],
       "answer": 1,
-      "explanation": "Where asks about a place or location."
+      "explanation": "The main subject candidate is singular; as well as does not make it plural."
     },
     {
-      "id": "q102",
-      "category": "Determiners",
-      "question": "How ___ apples do you need?",
+      "id": "q10076",
+      "category": "Vocabulary",
+      "question": "To 'supervise' a team means to ___.",
       "options": [
-        "much",
-        "many",
-        "little",
-        "any"
+        "guide and monitor its work",
+        "avoid all decisions",
+        "work without communication",
+        "cancel its duties"
+      ],
+      "answer": 0,
+      "explanation": "Supervise means oversee work and provide guidance."
+    },
+    {
+      "id": "q10077",
+      "category": "Workplace Conversation",
+      "question": "A supervisor asks whether you can cover an extra shift. Which reply is best if you are unavailable?",
+      "options": [
+        "No chance.",
+        "I am sorry, I am unavailable then. I can help on Saturday.",
+        "Do not ask me.",
+        "Maybe, but I will not tell you."
       ],
       "answer": 1,
-      "explanation": "Apples are countable plural nouns, so use many."
+      "explanation": "A clear and respectful reply states availability and offers an alternative if possible."
     },
     {
-      "id": "q018",
-      "category": "Tenses",
-      "question": "I ___ him last week.",
+      "id": "q10078",
+      "category": "Grammar",
+      "question": "I look forward to ___ from you.",
       "options": [
-        "see",
-        "have seen",
-        "saw",
-        "seeing"
+        "hear",
+        "heard",
+        "hearing",
+        "to hear"
       ],
       "answer": 2,
-      "explanation": "Use the past simple with a finished past time such as last week."
+      "explanation": "Look forward to is followed by a gerund."
     },
     {
-      "id": "q049",
-      "category": "Sentence Building",
-      "question": "Choose the correct plural of 'child'.",
+      "id": "q10079",
+      "category": "Vocabulary",
+      "question": "A 'deadline' is the ___.",
       "options": [
-        "childs",
-        "childes",
-        "children",
-        "childrens"
-      ],
-      "answer": 2,
-      "explanation": "Children is the irregular plural of child."
-    },
-    {
-      "id": "q080",
-      "category": "Punctuation",
-      "question": "Choose the correctly written date phrase.",
-      "options": [
-        "on monday",
-        "on Monday",
-        "On monday",
-        "on Monday."
+        "start of a project",
+        "latest time by which work must be completed",
+        "person who checks attendance",
+        "length of a lunch break"
       ],
       "answer": 1,
-      "explanation": "Days of the week begin with a capital letter."
+      "explanation": "A deadline is the final time or date for completing something."
     },
     {
-      "id": "q111",
-      "category": "Gerunds",
-      "question": "I enjoy ___ books.",
+      "id": "q10080",
+      "category": "CV Writing",
+      "question": "Which information should usually be left out of a professional CV unless specifically required?",
       "options": [
-        "read",
-        "to read",
-        "reading",
-        "reads"
+        "Relevant work experience",
+        "Skills related to the role",
+        "Unrelated personal details",
+        "Education and training"
       ],
       "answer": 2,
-      "explanation": "Enjoy is followed by a gerund (-ing form)."
+      "explanation": "A CV should focus on relevant professional information and avoid unnecessary personal details."
     }
   ]
 }
