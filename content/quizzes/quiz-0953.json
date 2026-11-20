@@ -3,139 +3,139 @@
   "slug": "quiz-0953",
   "title": "English Practice Quiz 0953",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q102",
-      "category": "Determiners",
-      "question": "How ___ apples do you need?",
+      "id": "q10421",
+      "category": "Workplace Documentation",
+      "question": "A form should be completed using information that is ___.",
       "options": [
-        "much",
-        "many",
-        "little",
-        "any"
-      ],
-      "answer": 1,
-      "explanation": "Apples are countable plural nouns, so use many."
-    },
-    {
-      "id": "q115",
-      "category": "Gerunds",
-      "question": "I want ___ English fluently.",
-      "options": [
-        "speak",
-        "speaking",
-        "to speak",
-        "spoke"
-      ],
-      "answer": 2,
-      "explanation": "Want is followed by a to-infinitive."
-    },
-    {
-      "id": "q013",
-      "category": "Tenses",
-      "question": "At 8 p.m. yesterday, I ___ dinner.",
-      "options": [
-        "cook",
-        "cooked",
-        "was cooking",
-        "am cooking"
-      ],
-      "answer": 2,
-      "explanation": "Use the past continuous for an action in progress at a specific past time."
-    },
-    {
-      "id": "q026",
-      "category": "Vocabulary",
-      "question": "What does 'borrow' mean?",
-      "options": [
-        "give something forever",
-        "take something temporarily and return it",
-        "break something",
-        "buy something"
-      ],
-      "answer": 1,
-      "explanation": "Borrow means to take something for a period and return it."
-    },
-    {
-      "id": "q039",
-      "category": "Prepositions",
-      "question": "She is interested ___ music.",
-      "options": [
-        "on",
-        "at",
-        "in",
-        "for"
-      ],
-      "answer": 2,
-      "explanation": "The adjective interested is followed by in."
-    },
-    {
-      "id": "q052",
-      "category": "Conversation",
-      "question": "You did not hear someone. You say:",
-      "options": [
-        "Speak now!",
-        "Could you repeat that, please?",
-        "What your problem?",
-        "I don't hear you yesterday."
-      ],
-      "answer": 1,
-      "explanation": "Could you repeat that, please? is a polite request."
-    },
-    {
-      "id": "q065",
-      "category": "Reading",
-      "question": "Read: 'Please keep the floor dry to prevent accidents.' What is the instruction?",
-      "options": [
-        "Wash the floor now",
-        "Keep the floor dry",
-        "Close the office",
-        "Move the furniture"
-      ],
-      "answer": 1,
-      "explanation": "The notice instructs people to keep the floor dry."
-    },
-    {
-      "id": "q078",
-      "category": "Punctuation",
-      "question": "Choose the correct sentence.",
-      "options": [
-        "I like tea, coffee and milk.",
-        "I like tea coffee and milk",
-        "I like, tea coffee, and milk.",
-        "i like tea, coffee and milk"
+        "accurate and verifiable",
+        "invented to save time",
+        "copied from an unrelated person",
+        "left unclear"
       ],
       "answer": 0,
-      "explanation": "Use commas to separate items in a list and capitalise the first word."
+      "explanation": "Accurate information supports reliable records."
     },
     {
-      "id": "q091",
-      "category": "Passive Voice",
-      "question": "Choose the passive form: 'They clean the room.'",
+      "id": "q10422",
+      "category": "Workplace Documentation",
+      "question": "The abbreviation 'N/A' commonly means ___.",
       "options": [
-        "The room cleaned them.",
-        "The room is cleaned by them.",
-        "The room is cleaning.",
-        "The room has clean."
+        "not applicable",
+        "new address",
+        "no approval",
+        "next appointment"
       ],
-      "answer": 1,
-      "explanation": "Present simple passive: am/is/are + past participle."
+      "answer": 0,
+      "explanation": "N/A indicates that a field does not apply."
     },
     {
-      "id": "q104",
-      "category": "Determiners",
-      "question": "There is ___ water in the bottle.",
+      "id": "q10423",
+      "category": "Workplace Documentation",
+      "question": "A document's reference number helps staff ___.",
       "options": [
-        "a few",
-        "many",
-        "a little",
-        "several"
+        "identify and retrieve the record",
+        "change its legal meaning",
+        "remove its date",
+        "avoid filing it"
       ],
-      "answer": 2,
-      "explanation": "A little is used with uncountable nouns."
+      "answer": 0,
+      "explanation": "Reference numbers make records easier to track."
+    },
+    {
+      "id": "q10424",
+      "category": "Workplace Documentation",
+      "question": "A signed attendance sheet is used to record ___.",
+      "options": [
+        "who was present",
+        "the weather forecast",
+        "the cost of office furniture",
+        "the building's paint colour"
+      ],
+      "answer": 0,
+      "explanation": "An attendance sheet records participants or staff who were present."
+    },
+    {
+      "id": "q10425",
+      "category": "Workplace Documentation",
+      "question": "When correcting a paper record, staff should follow ___.",
+      "options": [
+        "the authorised correction procedure",
+        "an unofficial shortcut",
+        "a colleague's guess",
+        "a method that hides the original entry"
+      ],
+      "answer": 0,
+      "explanation": "An authorised method preserves record integrity and traceability."
+    },
+    {
+      "id": "q10426",
+      "category": "Workplace Documentation",
+      "question": "A document's issue date tells the reader when it was ___.",
+      "options": [
+        "created or formally released",
+        "last discussed at lunch",
+        "printed by any person",
+        "deleted from a computer"
+      ],
+      "answer": 0,
+      "explanation": "The issue date identifies when the document was released."
+    },
+    {
+      "id": "q10427",
+      "category": "Workplace Documentation",
+      "question": "A 'certified copy' is a copy whose accuracy has been ___.",
+      "options": [
+        "formally confirmed by an authorised person",
+        "assumed by a stranger",
+        "changed without a record",
+        "guaranteed by its colour"
+      ],
+      "answer": 0,
+      "explanation": "Certification confirms that the copy matches the original, according to the applicable process."
+    },
+    {
+      "id": "q10428",
+      "category": "Workplace Documentation",
+      "question": "A register is commonly used to ___.",
+      "options": [
+        "maintain an organised record of entries",
+        "replace every policy",
+        "store loose food",
+        "send private messages"
+      ],
+      "answer": 0,
+      "explanation": "A register is a structured record of information or events."
+    },
+    {
+      "id": "q10429",
+      "category": "Workplace Documentation",
+      "question": "Before archiving a file, check its ___.",
+      "options": [
+        "retention requirements and completeness",
+        "cover's decoration only",
+        "paper smell",
+        "font colour alone"
+      ],
+      "answer": 0,
+      "explanation": "Retention rules and completeness matter when storing records."
+    },
+    {
+      "id": "q10430",
+      "category": "Workplace Documentation",
+      "question": "A document marked 'confidential' should be handled ___.",
+      "options": [
+        "according to access and security rules",
+        "as public advertising",
+        "by forwarding it to everyone",
+        "without checking its recipient"
+      ],
+      "answer": 0,
+      "explanation": "Confidential material requires controlled handling and access."
     }
   ]
 }
