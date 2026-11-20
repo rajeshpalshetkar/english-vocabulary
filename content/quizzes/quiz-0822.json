@@ -3,139 +3,139 @@
   "slug": "quiz-0822",
   "title": "English Practice Quiz 0822",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q060",
-      "category": "Pronunciation",
-      "question": "How many syllables are in 'computer'?",
+      "id": "q11711",
+      "category": "Human Resources",
+      "question": "Human Resources 01: An employee induction introduces:",
       "options": [
-        "one",
-        "two",
-        "three",
-        "four"
-      ],
-      "answer": 2,
-      "explanation": "Computer is commonly pronounced with three syllables: com-pu-ter."
-    },
-    {
-      "id": "q071",
-      "category": "Questions",
-      "question": "Choose the correct WH question for a place.",
-      "options": [
-        "When do you live?",
-        "Where do you live?",
-        "Who do you live?",
-        "Why do you live?"
-      ],
-      "answer": 1,
-      "explanation": "Where asks about a place or location."
-    },
-    {
-      "id": "q082",
-      "category": "Confusing Words",
-      "question": "The weather can ___ your travel plans.",
-      "options": [
-        "affect",
-        "effect",
-        "infect",
-        "effort"
+        "Workplace rules, role expectations and key procedures",
+        "Only the annual party",
+        "Private details of colleagues",
+        "Unapproved shortcuts"
       ],
       "answer": 0,
-      "explanation": "Affect is usually a verb meaning to influence."
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
     },
     {
-      "id": "q093",
-      "category": "Passive Voice",
-      "question": "The work ___ tomorrow.",
+      "id": "q11712",
+      "category": "Human Resources",
+      "question": "Human Resources 02: An attendance register records:",
       "options": [
-        "will complete",
-        "will be completed",
-        "completed",
-        "is completing"
-      ],
-      "answer": 1,
-      "explanation": "Future passive uses will be + past participle."
-    },
-    {
-      "id": "q104",
-      "category": "Determiners",
-      "question": "There is ___ water in the bottle.",
-      "options": [
-        "a few",
-        "many",
-        "a little",
-        "several"
-      ],
-      "answer": 2,
-      "explanation": "A little is used with uncountable nouns."
-    },
-    {
-      "id": "q115",
-      "category": "Gerunds",
-      "question": "I want ___ English fluently.",
-      "options": [
-        "speak",
-        "speaking",
-        "to speak",
-        "spoke"
-      ],
-      "answer": 2,
-      "explanation": "Want is followed by a to-infinitive."
-    },
-    {
-      "id": "q011",
-      "category": "Tenses",
-      "question": "Listen! The baby ___.",
-      "options": [
-        "cries",
-        "is crying",
-        "cry",
-        "cried"
-      ],
-      "answer": 1,
-      "explanation": "Listen! suggests an action happening now, so use the present continuous."
-    },
-    {
-      "id": "q022",
-      "category": "Vocabulary",
-      "question": "Choose the opposite of 'polite'.",
-      "options": [
-        "kind",
-        "rude",
-        "helpful",
-        "calm"
-      ],
-      "answer": 1,
-      "explanation": "Rude is the opposite of polite."
-    },
-    {
-      "id": "q033",
-      "category": "Articles",
-      "question": "Please close ___ door.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 2,
-      "explanation": "The refers to a specific door known to the speaker and listener."
-    },
-    {
-      "id": "q044",
-      "category": "Modals",
-      "question": "You look tired. You ___ get some rest.",
-      "options": [
-        "should",
-        "mustn't",
-        "can't",
-        "wouldn't"
+        "Employee presence and attendance details",
+        "Supplier prices",
+        "Patient diagnoses",
+        "Website traffic"
       ],
       "answer": 0,
-      "explanation": "Should gives advice."
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
+    },
+    {
+      "id": "q11713",
+      "category": "Human Resources",
+      "question": "Human Resources 03: A job description outlines:",
+      "options": [
+        "Main duties, responsibilities and reporting relationships",
+        "Private hobbies",
+        "Daily sales only",
+        "Visitor parking rules"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
+    },
+    {
+      "id": "q11714",
+      "category": "Human Resources",
+      "question": "Human Resources 04: A leave request should be:",
+      "options": [
+        "Submitted through the approved process",
+        "Assumed approved",
+        "Entered by a visitor",
+        "Hidden from the supervisor"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
+    },
+    {
+      "id": "q11715",
+      "category": "Human Resources",
+      "question": "Human Resources 05: A probation review assesses:",
+      "options": [
+        "Performance and suitability during probation",
+        "Social media popularity",
+        "Personal friendships",
+        "Office decoration"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
+    },
+    {
+      "id": "q11716",
+      "category": "Human Resources",
+      "question": "Human Resources 06: Equal opportunity in recruitment means:",
+      "options": [
+        "Assessing candidates fairly against role-related criteria",
+        "Selecting friends first",
+        "Ignoring qualifications",
+        "Using unrelated traits"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
+    },
+    {
+      "id": "q11717",
+      "category": "Human Resources",
+      "question": "Human Resources 07: An employee grievance is:",
+      "options": [
+        "A formal concern about a workplace matter",
+        "A purchase order",
+        "A customer receipt",
+        "A training certificate"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
+    },
+    {
+      "id": "q11718",
+      "category": "Human Resources",
+      "question": "Human Resources 08: A roster is used to:",
+      "options": [
+        "Plan work shifts and duty coverage",
+        "Record chemical hazards only",
+        "Approve invoices",
+        "Store passwords"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
+    },
+    {
+      "id": "q11719",
+      "category": "Human Resources",
+      "question": "Human Resources 09: An exit interview may help:",
+      "options": [
+        "Understand reasons for an employee's departure",
+        "Replace salary processing",
+        "Publish private comments",
+        "Avoid returning property"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
+    },
+    {
+      "id": "q11720",
+      "category": "Human Resources",
+      "question": "Human Resources 10: Personnel records should be:",
+      "options": [
+        "Accurate and access-controlled",
+        "Shared with visitors",
+        "Unprotected",
+        "Edited by unauthorised users"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
     }
   ]
 }
