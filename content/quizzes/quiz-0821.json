@@ -3,139 +3,139 @@
   "slug": "quiz-0821",
   "title": "English Practice Quiz 0821",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q043",
-      "category": "Modals",
-      "question": "When I was five, I ___ swim.",
+      "id": "q11701",
+      "category": "Public Safety",
+      "question": "Public Safety 01: What should a person do after discovering a fire?",
       "options": [
-        "can",
-        "could",
-        "may",
-        "must"
-      ],
-      "answer": 1,
-      "explanation": "Could expresses past ability."
-    },
-    {
-      "id": "q052",
-      "category": "Conversation",
-      "question": "You did not hear someone. You say:",
-      "options": [
-        "Speak now!",
-        "Could you repeat that, please?",
-        "What your problem?",
-        "I don't hear you yesterday."
-      ],
-      "answer": 1,
-      "explanation": "Could you repeat that, please? is a polite request."
-    },
-    {
-      "id": "q061",
-      "category": "Reading",
-      "question": "Read: 'Mina takes the bus at 8 a.m. and reaches work at 8:45.' How does Mina travel?",
-      "options": [
-        "By train",
-        "By bus",
-        "By car",
-        "On foot"
-      ],
-      "answer": 1,
-      "explanation": "The passage clearly says Mina takes the bus."
-    },
-    {
-      "id": "q070",
-      "category": "Workplace English",
-      "question": "To confirm an instruction, you can say:",
-      "options": [
-        "Could you please confirm the details?",
-        "I not listen.",
-        "Confirm me now.",
-        "Details no."
+        "Raise the alarm and follow emergency procedure",
+        "Hide the information",
+        "Use an elevator",
+        "Wait without alerting anyone"
       ],
       "answer": 0,
-      "explanation": "Could you please confirm... is polite and precise."
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
     },
     {
-      "id": "q079",
-      "category": "Punctuation",
-      "question": "Which is a complete sentence?",
+      "id": "q11702",
+      "category": "Public Safety",
+      "question": "Public Safety 02: An assembly point is where people:",
       "options": [
-        "Because it was raining.",
-        "After the meeting.",
-        "The team finished the work.",
-        "When I arrived."
+        "Gather after evacuation for a headcount",
+        "Store office supplies",
+        "Park delivery vehicles",
+        "Receive routine mail"
       ],
-      "answer": 2,
-      "explanation": "The team finished the work contains a subject and a complete predicate."
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
     },
     {
-      "id": "q088",
-      "category": "Conditionals",
-      "question": "If you heat ice, it ___.",
+      "id": "q11703",
+      "category": "Public Safety",
+      "question": "Public Safety 03: A fire door should be:",
       "options": [
-        "melt",
-        "melts",
-        "will melted",
-        "melting"
+        "Kept closed and unobstructed",
+        "Wedged open permanently",
+        "Used for storage",
+        "Locked to prevent evacuation"
       ],
-      "answer": 1,
-      "explanation": "The zero conditional uses present simple for general truths."
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
     },
     {
-      "id": "q097",
-      "category": "Reported Speech",
-      "question": "She said, 'I can swim.'",
+      "id": "q11704",
+      "category": "Public Safety",
+      "question": "Public Safety 04: An emergency contact list provides:",
       "options": [
-        "She said she can swam.",
-        "She said that she could swim.",
-        "She said she swims can.",
-        "She told that could swim."
+        "Details for contacting designated responders",
+        "Entertainment choices",
+        "Supplier discounts",
+        "Office passwords"
       ],
-      "answer": 1,
-      "explanation": "Can commonly changes to could in reported speech after a past reporting verb."
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
     },
     {
-      "id": "q106",
-      "category": "Adjectives",
-      "question": "The test was ___ than I expected.",
+      "id": "q11705",
+      "category": "Public Safety",
+      "question": "Public Safety 05: If smoke blocks an exit, people should:",
       "options": [
-        "easy",
-        "easier",
-        "easiest",
-        "more easy"
+        "Use another safe designated route",
+        "Walk into smoke",
+        "Open every locked door",
+        "Return for belongings"
       ],
-      "answer": 1,
-      "explanation": "Use the comparative form easier."
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
     },
     {
-      "id": "q115",
-      "category": "Gerunds",
-      "question": "I want ___ English fluently.",
+      "id": "q11706",
+      "category": "Public Safety",
+      "question": "Public Safety 06: A first responder should first assess:",
       "options": [
-        "speak",
-        "speaking",
-        "to speak",
-        "spoke"
+        "Scene safety and immediate hazards",
+        "Property cost",
+        "Who is to blame",
+        "Social media comments"
       ],
-      "answer": 2,
-      "explanation": "Want is followed by a to-infinitive."
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
     },
     {
-      "id": "q009",
-      "category": "Grammar",
-      "question": "Choose the correct comparative form.",
+      "id": "q11707",
+      "category": "Public Safety",
+      "question": "Public Safety 07: A headcount after evacuation confirms:",
       "options": [
-        "more tall",
-        "taller",
-        "tallest than",
-        "most tall"
+        "Whether everyone is accounted for",
+        "Whether lights are off",
+        "Whether invoices are paid",
+        "Whether deliveries arrived"
       ],
-      "answer": 1,
-      "explanation": "The comparative form of the short adjective tall is taller."
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
+    },
+    {
+      "id": "q11708",
+      "category": "Public Safety",
+      "question": "Public Safety 08: An emergency drill should be followed by:",
+      "options": [
+        "A review of performance and lessons learned",
+        "Deletion of records",
+        "No discussion",
+        "A blame session"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
+    },
+    {
+      "id": "q11709",
+      "category": "Public Safety",
+      "question": "Public Safety 09: An emergency alarm should be:",
+      "options": [
+        "Recognisable and maintained according to policy",
+        "Used as a greeting",
+        "Muted without approval",
+        "Changed without notice"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
+    },
+    {
+      "id": "q11710",
+      "category": "Public Safety",
+      "question": "Public Safety 10: A person with limited mobility may need:",
+      "options": [
+        "An individual evacuation assistance plan",
+        "No support",
+        "A lift during a fire",
+        "No evacuation information"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
     }
   ]
 }
