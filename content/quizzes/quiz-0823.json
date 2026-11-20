@@ -3,139 +3,139 @@
   "slug": "quiz-0823",
   "title": "English Practice Quiz 0823",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q077",
-      "category": "Punctuation",
-      "question": "Which sentence uses the apostrophe correctly?",
+      "id": "q11721",
+      "category": "Communication Skills",
+      "question": "Communication Skills 01: A presentation opening should:",
       "options": [
-        "The guards uniform is blue.",
-        "The guard's uniform is blue.",
-        "The guards' uniform is blue. (one guard)",
-        "The guard uniform's is blue."
-      ],
-      "answer": 1,
-      "explanation": "Guard's shows possession by one guard."
-    },
-    {
-      "id": "q090",
-      "category": "Conditionals",
-      "question": "If I were you, I ___ apologise.",
-      "options": [
-        "will",
-        "would",
-        "am",
-        "did"
-      ],
-      "answer": 1,
-      "explanation": "If I were you is followed by would for advice."
-    },
-    {
-      "id": "q103",
-      "category": "Determiners",
-      "question": "I have ___ friends in this city.",
-      "options": [
-        "a little",
-        "a few",
-        "much",
-        "anyone"
-      ],
-      "answer": 1,
-      "explanation": "A few is used with countable plural nouns."
-    },
-    {
-      "id": "q001",
-      "category": "Grammar",
-      "question": "She ___ to work every day.",
-      "options": [
-        "go",
-        "goes",
-        "going",
-        "gone"
-      ],
-      "answer": 1,
-      "explanation": "With he, she or it in the present simple, add -s or -es to most verbs."
-    },
-    {
-      "id": "q014",
-      "category": "Tenses",
-      "question": "I think it ___ tomorrow.",
-      "options": [
-        "rains",
-        "rained",
-        "will rain",
-        "raining"
-      ],
-      "answer": 2,
-      "explanation": "Will plus the base verb can express a future prediction."
-    },
-    {
-      "id": "q027",
-      "category": "Vocabulary",
-      "question": "Choose the correct word: Please ___ the details.",
-      "options": [
-        "confirm",
-        "crowded",
-        "repairing",
-        "hungry"
+        "Introduce the topic and purpose",
+        "Begin with unrelated details",
+        "Read every slide word for word",
+        "Hide the subject"
       ],
       "answer": 0,
-      "explanation": "Confirm means to check or establish that something is correct."
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
     },
     {
-      "id": "q040",
-      "category": "Prepositions",
-      "question": "The hospital is ___ the bank and the post office.",
+      "id": "q11722",
+      "category": "Communication Skills",
+      "question": "Communication Skills 02: A visual aid is effective when it:",
       "options": [
-        "among",
-        "between",
-        "inside",
-        "over"
-      ],
-      "answer": 1,
-      "explanation": "Between is used for a position separating two things."
-    },
-    {
-      "id": "q053",
-      "category": "Conversation",
-      "question": "A visitor asks, 'Where is reception?' You say:",
-      "options": [
-        "It is near the main entrance.",
-        "I am reception.",
-        "Yesterday at home.",
-        "No, it isn't."
+        "Supports and clarifies the spoken message",
+        "Contains every spoken sentence",
+        "Uses tiny text",
+        "Distracts from the topic"
       ],
       "answer": 0,
-      "explanation": "Give a clear location using a complete sentence."
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
     },
     {
-      "id": "q066",
-      "category": "Workplace English",
-      "question": "A professional way to ask for a file is:",
+      "id": "q11723",
+      "category": "Communication Skills",
+      "question": "Communication Skills 03: When unable to answer a question, you should:",
       "options": [
-        "Give file now.",
-        "Could you please share the file?",
-        "File give me.",
-        "You must file."
+        "Acknowledge it and explain how you will verify the answer",
+        "Invent a response",
+        "Dismiss it",
+        "Change the subject"
       ],
-      "answer": 1,
-      "explanation": "Could you please is a polite and professional request."
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
     },
     {
-      "id": "q079",
-      "category": "Punctuation",
-      "question": "Which is a complete sentence?",
+      "id": "q11724",
+      "category": "Communication Skills",
+      "question": "Communication Skills 04: A meeting agenda helps participants:",
       "options": [
-        "Because it was raining.",
-        "After the meeting.",
-        "The team finished the work.",
-        "When I arrived."
+        "Understand topics and prepare in advance",
+        "Replace all minutes",
+        "Avoid decisions",
+        "Record passwords"
       ],
-      "answer": 2,
-      "explanation": "The team finished the work contains a subject and a complete predicate."
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
+    },
+    {
+      "id": "q11725",
+      "category": "Communication Skills",
+      "question": "Communication Skills 05: Which phrase is a polite interruption?",
+      "options": [
+        "May I add one point here?",
+        "Be quiet now.",
+        "You are wrong again.",
+        "Stop speaking."
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
+    },
+    {
+      "id": "q11726",
+      "category": "Communication Skills",
+      "question": "Communication Skills 06: Audience analysis helps a presenter:",
+      "options": [
+        "Adapt content to listeners' needs and knowledge",
+        "Choose a random topic",
+        "Avoid preparation",
+        "Remove examples"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
+    },
+    {
+      "id": "q11727",
+      "category": "Communication Skills",
+      "question": "Communication Skills 07: A strong presentation conclusion should:",
+      "options": [
+        "Summarise key points and state the next step",
+        "Introduce unrelated facts",
+        "Repeat only the opening",
+        "End without signalling completion"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
+    },
+    {
+      "id": "q11728",
+      "category": "Communication Skills",
+      "question": "Communication Skills 08: Professional communication tone should be:",
+      "options": [
+        "Appropriate to the audience and purpose",
+        "Identical in every situation",
+        "Hostile when busy",
+        "Unclear"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
+    },
+    {
+      "id": "q11729",
+      "category": "Communication Skills",
+      "question": "Communication Skills 09: A communication channel is:",
+      "options": [
+        "The medium used to send a message",
+        "Spelling only",
+        "A job title",
+        "A room number"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
+    },
+    {
+      "id": "q11730",
+      "category": "Communication Skills",
+      "question": "Communication Skills 10: To confirm an important verbal instruction, it is useful to:",
+      "options": [
+        "Repeat key details and seek confirmation",
+        "Rely on memory alone",
+        "Change the instruction",
+        "Avoid questions"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it matches the relevant professional concept or standard English usage."
     }
   ]
 }
