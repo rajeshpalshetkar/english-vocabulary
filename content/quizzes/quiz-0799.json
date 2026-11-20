@@ -3,139 +3,139 @@
   "slug": "quiz-0799",
   "title": "English Practice Quiz 0799",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Conversation",
-  "level": "Intermediate",
+  "category": "Practical English",
+  "level": "Advanced",
   "question_count": 10,
   "questions": [
     {
-      "id": "q014",
-      "category": "Tenses",
-      "question": "I think it ___ tomorrow.",
+      "id": "q12081",
+      "category": "Advanced English",
+      "question": "Advanced English 01: Choose the correct phrase: Neither the supervisor nor the guards?",
       "options": [
-        "rains",
-        "rained",
-        "will rain",
-        "raining"
+        "were available",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: were available."
+    },
+    {
+      "id": "q12082",
+      "category": "Advanced English",
+      "question": "Advanced English 02: The new procedure will ___ existing controls.?",
+      "options": [
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "complement"
+      ],
+      "answer": 3,
+      "explanation": "Option D is correct: complement."
+    },
+    {
+      "id": "q12083",
+      "category": "Advanced English",
+      "question": "Advanced English 03: Choose the correct passive sentence.?",
+      "options": [
+        "make an unsupported assumption",
+        "share the information publicly",
+        "The forms were reviewed by the manager.",
+        "ignore the issue and continue"
       ],
       "answer": 2,
-      "explanation": "Will plus the base verb can express a future prediction."
+      "explanation": "Option C is correct: The forms were reviewed by the manager.."
     },
     {
-      "id": "q051",
-      "category": "Conversation",
-      "question": "Someone says, 'Thank you for your help.' You reply:",
+      "id": "q12084",
+      "category": "Advanced English",
+      "question": "Advanced English 04: The correct phrase is?",
       "options": [
-        "Never mind you.",
-        "You're welcome.",
-        "I am welcome you.",
-        "No thank."
+        "share the information publicly",
+        "in accordance with the policy",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
       ],
       "answer": 1,
-      "explanation": "You're welcome is a natural response to thank you."
+      "explanation": "Option B is correct: in accordance with the policy."
     },
     {
-      "id": "q088",
-      "category": "Conditionals",
-      "question": "If you heat ice, it ___.",
+      "id": "q12085",
+      "category": "Advanced English",
+      "question": "Advanced English 05: The word feasible means?",
       "options": [
-        "melt",
-        "melts",
-        "will melted",
-        "melting"
+        "practical and possible to achieve",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
       ],
-      "answer": 1,
-      "explanation": "The zero conditional uses present simple for general truths."
+      "answer": 0,
+      "explanation": "Option A is correct: practical and possible to achieve."
     },
     {
-      "id": "q010",
-      "category": "Grammar",
-      "question": "You ___ wear your identity card at work.",
+      "id": "q12086",
+      "category": "Advanced English",
+      "question": "Advanced English 06: Choose the correct conditional sentence.?",
       "options": [
-        "should to",
-        "should",
-        "are should",
-        "shoulds"
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "If I were responsible, I would investigate the matter."
       ],
-      "answer": 1,
-      "explanation": "Modal verbs such as should are followed by the base verb without to."
+      "answer": 3,
+      "explanation": "Option D is correct: If I were responsible, I would investigate the matter.."
     },
     {
-      "id": "q047",
-      "category": "Sentence Building",
-      "question": "Choose the correct question.",
+      "id": "q12087",
+      "category": "Advanced English",
+      "question": "Advanced English 07: The data ___ been verified.?",
       "options": [
-        "Where you live?",
-        "Where do you live?",
-        "Where does you live?",
-        "Where are live you?"
-      ],
-      "answer": 1,
-      "explanation": "Use do + subject + base verb for present simple questions with you."
-    },
-    {
-      "id": "q084",
-      "category": "Confusing Words",
-      "question": "I have ___ my keys.",
-      "options": [
-        "loose",
-        "lose",
-        "lost",
-        "loss"
+        "make an unsupported assumption",
+        "share the information publicly",
+        "have",
+        "ignore the issue and continue"
       ],
       "answer": 2,
-      "explanation": "Lost is the past participle of lose."
+      "explanation": "Option C is correct: have."
     },
     {
-      "id": "q006",
-      "category": "Grammar",
-      "question": "He is ___ honest man.",
+      "id": "q12088",
+      "category": "Advanced English",
+      "question": "Advanced English 08: A word meaning explain clearly with details is?",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
+        "share the information publicly",
+        "elucidate",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
       ],
       "answer": 1,
-      "explanation": "Use an before a vowel sound. Honest begins with a silent h."
+      "explanation": "Option B is correct: elucidate."
     },
     {
-      "id": "q043",
-      "category": "Modals",
-      "question": "When I was five, I ___ swim.",
+      "id": "q12089",
+      "category": "Advanced English",
+      "question": "Advanced English 09: Choose the correct punctuation.?",
       "options": [
-        "can",
-        "could",
-        "may",
-        "must"
+        "The review covered safety, staffing, and maintenance.",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
       ],
-      "answer": 1,
-      "explanation": "Could expresses past ability."
+      "answer": 0,
+      "explanation": "Option A is correct: The review covered safety, staffing, and maintenance.."
     },
     {
-      "id": "q080",
-      "category": "Punctuation",
-      "question": "Choose the correctly written date phrase.",
+      "id": "q12090",
+      "category": "Advanced English",
+      "question": "Advanced English 10: Choose the correct sentence.?",
       "options": [
-        "on monday",
-        "on Monday",
-        "On monday",
-        "on Monday."
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "Despite the delay, the team completed the inspection."
       ],
-      "answer": 1,
-      "explanation": "Days of the week begin with a capital letter."
-    },
-    {
-      "id": "q002",
-      "category": "Grammar",
-      "question": "They ___ ready for the meeting.",
-      "options": [
-        "is",
-        "am",
-        "are",
-        "be"
-      ],
-      "answer": 2,
-      "explanation": "Use are with the plural subject they."
+      "answer": 3,
+      "explanation": "Option D is correct: Despite the delay, the team completed the inspection.."
     }
   ]
 }
