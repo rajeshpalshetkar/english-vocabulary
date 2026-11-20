@@ -3,139 +3,139 @@
   "slug": "quiz-0920",
   "title": "English Practice Quiz 0920",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
+  "category": "Practical English",
   "level": "Advanced",
   "question_count": 10,
   "questions": [
     {
-      "id": "q001",
-      "category": "Grammar",
-      "question": "She ___ to work every day.",
+      "id": "q10891",
+      "category": "Grammar in Context",
+      "question": "Choose the correct sentence about the two options.",
       "options": [
-        "go",
-        "goes",
-        "going",
-        "gone"
+        "Neither of the answers are correct.",
+        "Neither of the answers is correct.",
+        "Neither answers is correct.",
+        "Neither of answer are correct."
       ],
       "answer": 1,
-      "explanation": "With he, she or it in the present simple, add -s or -es to most verbs."
+      "explanation": "Neither of the answers is correct. is the correct choice based on the meaning and context of the question."
     },
     {
-      "id": "q008",
-      "category": "Grammar",
-      "question": "This is the woman ___ helped me.",
+      "id": "q10892",
+      "category": "Grammar in Context",
+      "question": "By the time we arrived, the film ___.",
       "options": [
-        "which",
-        "who",
-        "where",
-        "when"
+        "has start",
+        "will starting",
+        "starts",
+        "had started"
       ],
-      "answer": 1,
-      "explanation": "Who is used for people."
+      "answer": 3,
+      "explanation": "had started is the correct choice based on the meaning and context of the question."
     },
     {
-      "id": "q015",
-      "category": "Tenses",
-      "question": "She ___ the report before the manager arrived.",
+      "id": "q10893",
+      "category": "Grammar in Context",
+      "question": "She is responsible ___ the records.",
       "options": [
-        "finished",
-        "has finished",
-        "had finished",
-        "finishes"
-      ],
-      "answer": 2,
-      "explanation": "Use the past perfect for an action completed before another past action."
-    },
-    {
-      "id": "q022",
-      "category": "Vocabulary",
-      "question": "Choose the opposite of 'polite'.",
-      "options": [
-        "kind",
-        "rude",
-        "helpful",
-        "calm"
-      ],
-      "answer": 1,
-      "explanation": "Rude is the opposite of polite."
-    },
-    {
-      "id": "q029",
-      "category": "Vocabulary",
-      "question": "What is the meaning of 'available'?",
-      "options": [
-        "not possible to use",
-        "ready or able to be used",
-        "very expensive",
-        "already broken"
-      ],
-      "answer": 1,
-      "explanation": "Available means ready for use or accessible."
-    },
-    {
-      "id": "q036",
-      "category": "Prepositions",
-      "question": "The meeting starts ___ 9 a.m.",
-      "options": [
-        "in",
-        "on",
         "at",
-        "by"
-      ],
-      "answer": 2,
-      "explanation": "Use at for a specific clock time."
-    },
-    {
-      "id": "q043",
-      "category": "Modals",
-      "question": "When I was five, I ___ swim.",
-      "options": [
-        "can",
-        "could",
-        "may",
-        "must"
+        "for",
+        "on",
+        "with"
       ],
       "answer": 1,
-      "explanation": "Could expresses past ability."
+      "explanation": "for is the correct choice based on the meaning and context of the question."
     },
     {
-      "id": "q050",
-      "category": "Sentence Building",
-      "question": "Choose the correct sentence.",
+      "id": "q10894",
+      "category": "Grammar in Context",
+      "question": "If he had called, I ___ him.",
       "options": [
-        "There is many books.",
-        "There are many books.",
-        "There be many books.",
-        "There am many books."
+        "will help",
+        "would help yesterday",
+        "helped have",
+        "would have helped"
       ],
-      "answer": 1,
-      "explanation": "Use there are with plural nouns."
+      "answer": 3,
+      "explanation": "would have helped is the correct choice based on the meaning and context of the question."
     },
     {
-      "id": "q057",
-      "category": "Pronunciation",
-      "question": "Which word has a silent 'k'?",
+      "id": "q10895",
+      "category": "Grammar in Context",
+      "question": "Choose the correct reported speech for 'I can swim.'",
       "options": [
-        "kite",
-        "know",
-        "keep",
-        "kind"
+        "He said that I can swim.",
+        "He said that he could swim.",
+        "He says he could swam.",
+        "He said he can swimming."
       ],
       "answer": 1,
-      "explanation": "The k in know is silent."
+      "explanation": "He said that he could swim. is the correct choice based on the meaning and context of the question."
     },
     {
-      "id": "q064",
-      "category": "Reading",
-      "question": "Read: 'The meeting was cancelled because the manager was ill.' Why was it cancelled?",
+      "id": "q10896",
+      "category": "Grammar in Context",
+      "question": "The information ___ accurate.",
       "options": [
-        "The room was full",
-        "The manager was ill",
-        "It was Sunday",
-        "The staff were late"
+        "are",
+        "were always",
+        "have",
+        "is"
+      ],
+      "answer": 3,
+      "explanation": "is is the correct choice based on the meaning and context of the question."
+    },
+    {
+      "id": "q10897",
+      "category": "Grammar in Context",
+      "question": "This is the most useful guide I ___.",
+      "options": [
+        "ever reading",
+        "have ever read",
+        "has ever read",
+        "was ever read"
       ],
       "answer": 1,
-      "explanation": "The reason is explicitly stated: the manager was ill."
+      "explanation": "have ever read is the correct choice based on the meaning and context of the question."
+    },
+    {
+      "id": "q10898",
+      "category": "Grammar in Context",
+      "question": "We stayed inside ___ it was raining.",
+      "options": [
+        "although of",
+        "despite",
+        "unless of",
+        "because"
+      ],
+      "answer": 3,
+      "explanation": "because is the correct choice based on the meaning and context of the question."
+    },
+    {
+      "id": "q10899",
+      "category": "Grammar in Context",
+      "question": "Which sentence correctly uses 'each'?",
+      "options": [
+        "Each employees have a separate locker.",
+        "Each employee has a separate locker.",
+        "Each employee have separate lockers.",
+        "Each of employee has locker."
+      ],
+      "answer": 1,
+      "explanation": "Each employee has a separate locker. is the correct choice based on the meaning and context of the question."
+    },
+    {
+      "id": "q10900",
+      "category": "Grammar in Context",
+      "question": "The documents need ___ before filing.",
+      "options": [
+        "checking to be",
+        "be check",
+        "checked to",
+        "to be checked"
+      ],
+      "answer": 3,
+      "explanation": "to be checked is the correct choice based on the meaning and context of the question."
     }
   ]
 }
