@@ -3,139 +3,139 @@
   "slug": "quiz-0975",
   "title": "English Practice Quiz 0975",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q016",
-      "category": "Tenses",
-      "question": "Water ___ at 100°C at sea level.",
+      "id": "q10241",
+      "category": "Workplace Safety",
+      "question": "A hazard is something that can ___.",
       "options": [
-        "boil",
-        "boils",
-        "is boiling",
-        "boiled"
-      ],
-      "answer": 1,
-      "explanation": "Use the present simple for general facts."
-    },
-    {
-      "id": "q035",
-      "category": "Articles",
-      "question": "Mount Everest is ___ highest mountain in the world.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 2,
-      "explanation": "Use the with superlative adjectives."
-    },
-    {
-      "id": "q054",
-      "category": "Conversation",
-      "question": "You need a moment to think. You say:",
-      "options": [
-        "Let me think for a moment.",
-        "I no idea ever.",
-        "Wait your mouth.",
-        "I am think."
+        "cause harm",
+        "guarantee comfort",
+        "remove all risk",
+        "replace a safety rule"
       ],
       "answer": 0,
-      "explanation": "This phrase politely signals that you need a little time."
+      "explanation": "A hazard is a source or situation with potential to cause harm."
     },
     {
-      "id": "q073",
-      "category": "Questions",
-      "question": "Choose the correct question.",
+      "id": "q10242",
+      "category": "Workplace Safety",
+      "question": "Before using unfamiliar equipment, you should ___.",
       "options": [
-        "Does she work here?",
-        "Do she work here?",
-        "Is she works here?",
-        "Does she works here?"
+        "read the instructions and receive proper guidance",
+        "guess how it works",
+        "remove its safety cover",
+        "lend it to a visitor"
       ],
       "answer": 0,
-      "explanation": "Use does + subject + base verb with he, she or it."
+      "explanation": "Instructions and training help prevent misuse and injury."
     },
     {
-      "id": "q092",
-      "category": "Passive Voice",
-      "question": "Choose the passive form: 'The manager signed the letter.'",
+      "id": "q10243",
+      "category": "Workplace Safety",
+      "question": "An emergency exit should be ___.",
       "options": [
-        "The letter is signed.",
-        "The letter was signed by the manager.",
-        "The letter signed the manager.",
-        "The letter has sign."
-      ],
-      "answer": 1,
-      "explanation": "Past simple passive: was/were + past participle."
-    },
-    {
-      "id": "q111",
-      "category": "Gerunds",
-      "question": "I enjoy ___ books.",
-      "options": [
-        "read",
-        "to read",
-        "reading",
-        "reads"
-      ],
-      "answer": 2,
-      "explanation": "Enjoy is followed by a gerund (-ing form)."
-    },
-    {
-      "id": "q015",
-      "category": "Tenses",
-      "question": "She ___ the report before the manager arrived.",
-      "options": [
-        "finished",
-        "has finished",
-        "had finished",
-        "finishes"
-      ],
-      "answer": 2,
-      "explanation": "Use the past perfect for an action completed before another past action."
-    },
-    {
-      "id": "q034",
-      "category": "Articles",
-      "question": "He wants to become ___ engineer.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "Engineer begins with a vowel sound, so use an."
-    },
-    {
-      "id": "q053",
-      "category": "Conversation",
-      "question": "A visitor asks, 'Where is reception?' You say:",
-      "options": [
-        "It is near the main entrance.",
-        "I am reception.",
-        "Yesterday at home.",
-        "No, it isn't."
+        "kept clear and accessible",
+        "used for storage",
+        "locked during working hours",
+        "blocked by deliveries"
       ],
       "answer": 0,
-      "explanation": "Give a clear location using a complete sentence."
+      "explanation": "Clear exits allow people to leave safely in an emergency."
     },
     {
-      "id": "q072",
-      "category": "Questions",
-      "question": "Which question asks about time?",
+      "id": "q10244",
+      "category": "Workplace Safety",
+      "question": "A near miss is an event that ___.",
       "options": [
-        "Who is calling?",
-        "When does the train leave?",
-        "Where is the station?",
-        "Why are you here?"
+        "could have caused harm but did not",
+        "always causes a serious injury",
+        "is a planned drill only",
+        "cannot be reported"
       ],
-      "answer": 1,
-      "explanation": "When asks about time."
+      "answer": 0,
+      "explanation": "Near misses reveal risks before an injury occurs."
+    },
+    {
+      "id": "q10245",
+      "category": "Workplace Safety",
+      "question": "If you notice a damaged electrical cable, you should ___.",
+      "options": [
+        "keep people away and report it promptly",
+        "touch the exposed wire",
+        "cover it with paper",
+        "continue using the equipment"
+      ],
+      "answer": 0,
+      "explanation": "A damaged cable can cause electric shock or fire."
+    },
+    {
+      "id": "q10246",
+      "category": "Workplace Safety",
+      "question": "A safety briefing is intended to ___.",
+      "options": [
+        "explain risks and safe procedures",
+        "replace all training records",
+        "announce personal gossip",
+        "delay every shift"
+      ],
+      "answer": 0,
+      "explanation": "Briefings communicate hazards and required precautions."
+    },
+    {
+      "id": "q10247",
+      "category": "Workplace Safety",
+      "question": "Personal protective equipment is commonly abbreviated as ___.",
+      "options": [
+        "PPE",
+        "GDP",
+        "PIN",
+        "PDF"
+      ],
+      "answer": 0,
+      "explanation": "PPE stands for personal protective equipment."
+    },
+    {
+      "id": "q10248",
+      "category": "Workplace Safety",
+      "question": "A spill on a walkway should be ___.",
+      "options": [
+        "reported and dealt with using the correct procedure",
+        "ignored until the end of the week",
+        "covered with loose paper",
+        "left as a warning"
+      ],
+      "answer": 0,
+      "explanation": "Prompt action helps prevent slips and falls."
+    },
+    {
+      "id": "q10249",
+      "category": "Workplace Safety",
+      "question": "An incident report should use language that is ___.",
+      "options": [
+        "factual and objective",
+        "emotional and insulting",
+        "based on rumours",
+        "deliberately vague"
+      ],
+      "answer": 0,
+      "explanation": "Objective wording records what happened without speculation."
+    },
+    {
+      "id": "q10250",
+      "category": "Workplace Safety",
+      "question": "During an evacuation, people should follow ___.",
+      "options": [
+        "the established emergency procedure",
+        "the nearest unofficial shortcut",
+        "unverified social media advice",
+        "the crowd into a restricted area"
+      ],
+      "answer": 0,
+      "explanation": "Established procedures guide people to safer evacuation routes."
     }
   ]
 }
