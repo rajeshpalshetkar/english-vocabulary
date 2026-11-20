@@ -3,139 +3,139 @@
   "slug": "quiz-0780",
   "title": "English Practice Quiz 0780",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Conversation",
-  "level": "Intermediate",
+  "category": "Practical English",
+  "level": "Advanced",
   "question_count": 10,
   "questions": [
     {
-      "id": "q036",
-      "category": "Prepositions",
-      "question": "The meeting starts ___ 9 a.m.",
+      "id": "q12291",
+      "category": "Advanced English and Idioms",
+      "question": "Advanced English and Idioms 01: The idiom 'once in a blue moon' means?",
       "options": [
-        "in",
-        "on",
-        "at",
-        "by"
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "very rarely"
       ],
-      "answer": 2,
-      "explanation": "Use at for a specific clock time."
+      "answer": 3,
+      "explanation": "Option D is correct: very rarely."
     },
     {
-      "id": "q043",
-      "category": "Modals",
-      "question": "When I was five, I ___ swim.",
+      "id": "q12292",
+      "category": "Advanced English and Idioms",
+      "question": "Advanced English and Idioms 02: The phrase 'get the ball rolling' means?",
       "options": [
-        "can",
-        "could",
-        "may",
-        "must"
-      ],
-      "answer": 1,
-      "explanation": "Could expresses past ability."
-    },
-    {
-      "id": "q050",
-      "category": "Sentence Building",
-      "question": "Choose the correct sentence.",
-      "options": [
-        "There is many books.",
-        "There are many books.",
-        "There be many books.",
-        "There am many books."
-      ],
-      "answer": 1,
-      "explanation": "Use there are with plural nouns."
-    },
-    {
-      "id": "q057",
-      "category": "Pronunciation",
-      "question": "Which word has a silent 'k'?",
-      "options": [
-        "kite",
-        "know",
-        "keep",
-        "kind"
-      ],
-      "answer": 1,
-      "explanation": "The k in know is silent."
-    },
-    {
-      "id": "q064",
-      "category": "Reading",
-      "question": "Read: 'The meeting was cancelled because the manager was ill.' Why was it cancelled?",
-      "options": [
-        "The room was full",
-        "The manager was ill",
-        "It was Sunday",
-        "The staff were late"
-      ],
-      "answer": 1,
-      "explanation": "The reason is explicitly stated: the manager was ill."
-    },
-    {
-      "id": "q071",
-      "category": "Questions",
-      "question": "Choose the correct WH question for a place.",
-      "options": [
-        "When do you live?",
-        "Where do you live?",
-        "Who do you live?",
-        "Why do you live?"
-      ],
-      "answer": 1,
-      "explanation": "Where asks about a place or location."
-    },
-    {
-      "id": "q078",
-      "category": "Punctuation",
-      "question": "Choose the correct sentence.",
-      "options": [
-        "I like tea, coffee and milk.",
-        "I like tea coffee and milk",
-        "I like, tea coffee, and milk.",
-        "i like tea, coffee and milk"
+        "start an activity or process",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
       ],
       "answer": 0,
-      "explanation": "Use commas to separate items in a list and capitalise the first word."
+      "explanation": "Option A is correct: start an activity or process."
     },
     {
-      "id": "q085",
-      "category": "Confusing Words",
-      "question": "The bus is ___ than the car today.",
+      "id": "q12293",
+      "category": "Advanced English and Idioms",
+      "question": "Advanced English and Idioms 03: The word 'meticulous' describes someone who is?",
       "options": [
-        "fast",
-        "faster",
-        "fastest",
-        "more fast"
+        "share the information publicly",
+        "very careful about details",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
       ],
       "answer": 1,
-      "explanation": "Use the comparative form faster when comparing two things."
+      "explanation": "Option B is correct: very careful about details."
     },
     {
-      "id": "q092",
-      "category": "Passive Voice",
-      "question": "Choose the passive form: 'The manager signed the letter.'",
+      "id": "q12294",
+      "category": "Advanced English and Idioms",
+      "question": "Advanced English and Idioms 04: To 'back up' a claim means to?",
       "options": [
-        "The letter is signed.",
-        "The letter was signed by the manager.",
-        "The letter signed the manager.",
-        "The letter has sign."
+        "make an unsupported assumption",
+        "share the information publicly",
+        "support it with evidence",
+        "ignore the issue and continue"
       ],
-      "answer": 1,
-      "explanation": "Past simple passive: was/were + past participle."
+      "answer": 2,
+      "explanation": "Option C is correct: support it with evidence."
     },
     {
-      "id": "q099",
-      "category": "Reported Speech",
-      "question": "She said, 'Please sit down.'",
+      "id": "q12295",
+      "category": "Advanced English and Idioms",
+      "question": "Advanced English and Idioms 05: The phrase 'on the same page' means?",
       "options": [
-        "She told me sit down.",
-        "She asked me to sit down.",
-        "She said me to sit.",
-        "She asked that I sat."
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "sharing the same understanding"
+      ],
+      "answer": 3,
+      "explanation": "Option D is correct: sharing the same understanding."
+    },
+    {
+      "id": "q12296",
+      "category": "Advanced English and Idioms",
+      "question": "Advanced English and Idioms 06: The word 'ambiguous' means?",
+      "options": [
+        "open to more than one interpretation",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: open to more than one interpretation."
+    },
+    {
+      "id": "q12297",
+      "category": "Advanced English and Idioms",
+      "question": "Advanced English and Idioms 07: To 'look into' an issue means to?",
+      "options": [
+        "share the information publicly",
+        "investigate it",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
       ],
       "answer": 1,
-      "explanation": "A request can be reported with asked + object + to-infinitive."
+      "explanation": "Option B is correct: investigate it."
+    },
+    {
+      "id": "q12298",
+      "category": "Advanced English and Idioms",
+      "question": "Advanced English and Idioms 08: The idiom 'under the weather' means?",
+      "options": [
+        "make an unsupported assumption",
+        "share the information publicly",
+        "feeling unwell",
+        "ignore the issue and continue"
+      ],
+      "answer": 2,
+      "explanation": "Option C is correct: feeling unwell."
+    },
+    {
+      "id": "q12299",
+      "category": "Advanced English and Idioms",
+      "question": "Advanced English and Idioms 09: The word 'resilient' describes someone who?",
+      "options": [
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "recovers well from difficulties"
+      ],
+      "answer": 3,
+      "explanation": "Option D is correct: recovers well from difficulties."
+    },
+    {
+      "id": "q12300",
+      "category": "Advanced English and Idioms",
+      "question": "Advanced English and Idioms 10: To 'bring about' a change means to?",
+      "options": [
+        "cause it to happen",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: cause it to happen."
     }
   ]
 }
