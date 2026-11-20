@@ -3,139 +3,139 @@
   "slug": "quiz-0774",
   "title": "English Practice Quiz 0774",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Conversation",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q049",
-      "category": "Sentence Building",
-      "question": "Choose the correct plural of 'child'.",
+      "id": "q12231",
+      "category": "Road Safety and Driving Awareness",
+      "question": "Road Safety and Driving Awareness 01: A seat belt is intended to?",
       "options": [
-        "childs",
-        "childes",
-        "children",
-        "childrens"
-      ],
-      "answer": 2,
-      "explanation": "Children is the irregular plural of child."
-    },
-    {
-      "id": "q066",
-      "category": "Workplace English",
-      "question": "A professional way to ask for a file is:",
-      "options": [
-        "Give file now.",
-        "Could you please share the file?",
-        "File give me.",
-        "You must file."
+        "share the information publicly",
+        "reduce the risk of injury in a collision",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
       ],
       "answer": 1,
-      "explanation": "Could you please is a polite and professional request."
+      "explanation": "Option B is correct: reduce the risk of injury in a collision."
     },
     {
-      "id": "q083",
-      "category": "Confusing Words",
-      "question": "Please ___ the correct answer.",
+      "id": "q12232",
+      "category": "Road Safety and Driving Awareness",
+      "question": "Road Safety and Driving Awareness 02: A driver approaching a pedestrian crossing should?",
       "options": [
-        "choose",
-        "chose",
-        "choice",
-        "chosen"
-      ],
-      "answer": 0,
-      "explanation": "Choose is the base verb used after please."
-    },
-    {
-      "id": "q100",
-      "category": "Reported Speech",
-      "question": "They said, 'We have finished.'",
-      "options": [
-        "They said they had finished.",
-        "They said they have finish.",
-        "They told finished.",
-        "They said we finished have."
-      ],
-      "answer": 0,
-      "explanation": "Present perfect commonly shifts to past perfect in reported speech."
-    },
-    {
-      "id": "q002",
-      "category": "Grammar",
-      "question": "They ___ ready for the meeting.",
-      "options": [
-        "is",
-        "am",
-        "are",
-        "be"
+        "make an unsupported assumption",
+        "share the information publicly",
+        "slow down and give way as required",
+        "ignore the issue and continue"
       ],
       "answer": 2,
-      "explanation": "Use are with the plural subject they."
+      "explanation": "Option C is correct: slow down and give way as required."
     },
     {
-      "id": "q019",
-      "category": "Tenses",
-      "question": "She ___ in this hospital for five years.",
+      "id": "q12233",
+      "category": "Road Safety and Driving Awareness",
+      "question": "Road Safety and Driving Awareness 03: Using a mobile phone while driving can?",
       "options": [
-        "works",
-        "worked",
-        "has worked",
-        "is work"
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "distract the driver and increase crash risk"
       ],
-      "answer": 2,
-      "explanation": "The present perfect can describe a situation continuing to the present."
+      "answer": 3,
+      "explanation": "Option D is correct: distract the driver and increase crash risk."
     },
     {
-      "id": "q036",
-      "category": "Prepositions",
-      "question": "The meeting starts ___ 9 a.m.",
+      "id": "q12234",
+      "category": "Road Safety and Driving Awareness",
+      "question": "Road Safety and Driving Awareness 04: A vehicle's tyre pressure should be?",
       "options": [
-        "in",
-        "on",
-        "at",
-        "by"
-      ],
-      "answer": 2,
-      "explanation": "Use at for a specific clock time."
-    },
-    {
-      "id": "q053",
-      "category": "Conversation",
-      "question": "A visitor asks, 'Where is reception?' You say:",
-      "options": [
-        "It is near the main entrance.",
-        "I am reception.",
-        "Yesterday at home.",
-        "No, it isn't."
+        "checked according to manufacturer guidance",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
       ],
       "answer": 0,
-      "explanation": "Give a clear location using a complete sentence."
+      "explanation": "Option A is correct: checked according to manufacturer guidance."
     },
     {
-      "id": "q070",
-      "category": "Workplace English",
-      "question": "To confirm an instruction, you can say:",
+      "id": "q12235",
+      "category": "Road Safety and Driving Awareness",
+      "question": "Road Safety and Driving Awareness 05: At a red traffic signal, a driver must?",
       "options": [
-        "Could you please confirm the details?",
-        "I not listen.",
-        "Confirm me now.",
-        "Details no."
+        "share the information publicly",
+        "stop before the stop line",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
       ],
-      "answer": 0,
-      "explanation": "Could you please confirm... is polite and precise."
+      "answer": 1,
+      "explanation": "Option B is correct: stop before the stop line."
     },
     {
-      "id": "q087",
-      "category": "Conditionals",
-      "question": "If I had more time, I ___ another language.",
+      "id": "q12236",
+      "category": "Road Safety and Driving Awareness",
+      "question": "Road Safety and Driving Awareness 06: A safe following distance allows?",
       "options": [
-        "learn",
-        "will learn",
-        "would learn",
-        "am learn"
+        "make an unsupported assumption",
+        "share the information publicly",
+        "time to react if the vehicle ahead slows",
+        "ignore the issue and continue"
       ],
       "answer": 2,
-      "explanation": "The second conditional uses would + base verb for an unreal or imagined situation."
+      "explanation": "Option C is correct: time to react if the vehicle ahead slows."
+    },
+    {
+      "id": "q12237",
+      "category": "Road Safety and Driving Awareness",
+      "question": "Road Safety and Driving Awareness 07: A driver who feels drowsy should?",
+      "options": [
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "stop safely and rest"
+      ],
+      "answer": 3,
+      "explanation": "Option D is correct: stop safely and rest."
+    },
+    {
+      "id": "q12238",
+      "category": "Road Safety and Driving Awareness",
+      "question": "Road Safety and Driving Awareness 08: A helmet should be?",
+      "options": [
+        "properly fitted and securely fastened",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: properly fitted and securely fastened."
+    },
+    {
+      "id": "q12239",
+      "category": "Road Safety and Driving Awareness",
+      "question": "Road Safety and Driving Awareness 09: A vehicle's indicators are used to?",
+      "options": [
+        "share the information publicly",
+        "signal an intended change of direction",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
+      ],
+      "answer": 1,
+      "explanation": "Option B is correct: signal an intended change of direction."
+    },
+    {
+      "id": "q12240",
+      "category": "Road Safety and Driving Awareness",
+      "question": "Road Safety and Driving Awareness 10: Before reversing, a driver should?",
+      "options": [
+        "make an unsupported assumption",
+        "share the information publicly",
+        "check the surroundings and use appropriate precautions",
+        "ignore the issue and continue"
+      ],
+      "answer": 2,
+      "explanation": "Option C is correct: check the surroundings and use appropriate precautions."
     }
   ]
 }
