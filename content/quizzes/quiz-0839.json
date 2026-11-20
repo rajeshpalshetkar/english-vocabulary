@@ -3,139 +3,139 @@
   "slug": "quiz-0839",
   "title": "English Practice Quiz 0839",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q004",
-      "category": "Grammar",
-      "question": "There ___ two chairs in the room.",
+      "id": "q11681",
+      "category": "Advanced English Usage",
+      "question": "Advanced English Usage 01: Choose the correct sentence:",
       "options": [
-        "is",
-        "are",
-        "am",
-        "was"
-      ],
-      "answer": 1,
-      "explanation": "Use are with the plural noun chairs."
-    },
-    {
-      "id": "q041",
-      "category": "Modals",
-      "question": "___ I borrow your pen, please?",
-      "options": [
-        "May",
-        "Must",
-        "Should",
-        "Would have"
+        "Not only did she finish early, but she also checked the report.",
+        "Not only she finished early, but checked report.",
+        "Not only did she finished early, but she checked.",
+        "Not only she did finish early but also checked."
       ],
       "answer": 0,
-      "explanation": "May is a polite way to ask permission."
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q078",
-      "category": "Punctuation",
-      "question": "Choose the correct sentence.",
+      "id": "q11682",
+      "category": "Advanced English Usage",
+      "question": "Advanced English Usage 02: The committee reached a decision after ___ the evidence.",
       "options": [
-        "I like tea, coffee and milk.",
-        "I like tea coffee and milk",
-        "I like, tea coffee, and milk.",
-        "i like tea, coffee and milk"
+        "reviewing",
+        "review",
+        "to reviewing",
+        "reviewed"
       ],
       "answer": 0,
-      "explanation": "Use commas to separate items in a list and capitalise the first word."
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q115",
-      "category": "Gerunds",
-      "question": "I want ___ English fluently.",
+      "id": "q11683",
+      "category": "Advanced English Usage",
+      "question": "Advanced English Usage 03: The new rule will ___ all departments.",
       "options": [
-        "speak",
-        "speaking",
-        "to speak",
-        "spoke"
-      ],
-      "answer": 2,
-      "explanation": "Want is followed by a to-infinitive."
-    },
-    {
-      "id": "q037",
-      "category": "Prepositions",
-      "question": "My birthday is ___ July.",
-      "options": [
-        "at",
-        "in",
-        "on",
-        "from"
-      ],
-      "answer": 1,
-      "explanation": "Use in with months."
-    },
-    {
-      "id": "q074",
-      "category": "Questions",
-      "question": "Which question asks for a reason?",
-      "options": [
-        "What happened?",
-        "Where are you?",
-        "Why are you late?",
-        "When is lunch?"
-      ],
-      "answer": 2,
-      "explanation": "Why asks for a reason."
-    },
-    {
-      "id": "q111",
-      "category": "Gerunds",
-      "question": "I enjoy ___ books.",
-      "options": [
-        "read",
-        "to read",
-        "reading",
-        "reads"
-      ],
-      "answer": 2,
-      "explanation": "Enjoy is followed by a gerund (-ing form)."
-    },
-    {
-      "id": "q033",
-      "category": "Articles",
-      "question": "Please close ___ door.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 2,
-      "explanation": "The refers to a specific door known to the speaker and listener."
-    },
-    {
-      "id": "q070",
-      "category": "Workplace English",
-      "question": "To confirm an instruction, you can say:",
-      "options": [
-        "Could you please confirm the details?",
-        "I not listen.",
-        "Confirm me now.",
-        "Details no."
+        "affect",
+        "effected",
+        "affects to",
+        "effecting"
       ],
       "answer": 0,
-      "explanation": "Could you please confirm... is polite and precise."
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q107",
-      "category": "Adjectives",
-      "question": "She is the ___ student in the class.",
+      "id": "q11684",
+      "category": "Advanced English Usage",
+      "question": "Advanced English Usage 04: Choose the correct sentence:",
       "options": [
-        "tall",
-        "taller",
-        "tallest",
-        "more tall"
+        "The criteria have been clearly defined.",
+        "The criteria has been clearly defined.",
+        "The criterias have defined.",
+        "The criteria is clearly define."
       ],
-      "answer": 2,
-      "explanation": "Use the superlative tallest when comparing one with the whole class."
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11685",
+      "category": "Advanced English Usage",
+      "question": "Advanced English Usage 05: The manager spoke as though he ___ the outcome already.",
+      "options": [
+        "knew",
+        "knows",
+        "knowing",
+        "has know"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11686",
+      "category": "Advanced English Usage",
+      "question": "Advanced English Usage 06: Choose the correct phrase:",
+      "options": [
+        "In accordance with the policy",
+        "In accordance to the policy",
+        "According with the policy",
+        "In accord to policy"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11687",
+      "category": "Advanced English Usage",
+      "question": "Advanced English Usage 07: A tangible benefit is:",
+      "options": [
+        "One that is real and measurable",
+        "One that is imaginary",
+        "One delayed forever",
+        "One unrelated"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11688",
+      "category": "Advanced English Usage",
+      "question": "Advanced English Usage 08: Choose the correct sentence:",
+      "options": [
+        "Little progress has been made so far.",
+        "Little progresses have been made so far.",
+        "A little progress have been made.",
+        "Little progress were made so far."
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11689",
+      "category": "Advanced English Usage",
+      "question": "Advanced English Usage 09: The proposal was rejected, ___ it had several advantages.",
+      "options": [
+        "although",
+        "because of",
+        "despite of",
+        "unless"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11690",
+      "category": "Advanced English Usage",
+      "question": "Advanced English Usage 10: To substantiate a claim means to:",
+      "options": [
+        "Support it with evidence",
+        "Withdraw it secretly",
+        "Repeat it loudly",
+        "Make it shorter"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
     }
   ]
 }
