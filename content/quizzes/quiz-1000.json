@@ -8,134 +8,134 @@
   "question_count": 10,
   "questions": [
     {
-      "id": "q096",
-      "category": "Reported Speech",
-      "question": "He said, 'I am tired.' Reported speech:",
+      "id": "q10091",
+      "category": "Advanced Grammar",
+      "question": "Not only ___ the deadline, but she also improved the report.",
       "options": [
-        "He said that he was tired.",
-        "He said I am tired.",
-        "He says that I tired.",
-        "He said he is tire."
-      ],
-      "answer": 0,
-      "explanation": "In standard backshift, am changes to was after a past reporting verb."
-    },
-    {
-      "id": "q103",
-      "category": "Determiners",
-      "question": "I have ___ friends in this city.",
-      "options": [
-        "a little",
-        "a few",
-        "much",
-        "anyone"
+        "she met",
+        "did she meet",
+        "she did met",
+        "met she"
       ],
       "answer": 1,
-      "explanation": "A few is used with countable plural nouns."
+      "explanation": "When not only begins a clause, subject-auxiliary inversion is used."
     },
     {
-      "id": "q110",
-      "category": "Adverbs",
-      "question": "Please drive ___.",
+      "id": "q10092",
+      "category": "Vocabulary",
+      "question": "A 'substantial' improvement is ___.",
       "options": [
-        "careful",
-        "carefully",
-        "care",
-        "caring"
+        "very small",
+        "considerable",
+        "imaginary",
+        "temporary only"
       ],
       "answer": 1,
-      "explanation": "Carefully is the adverb modifying drive."
+      "explanation": "Substantial means large or important in amount or degree."
     },
     {
-      "id": "q002",
+      "id": "q10093",
       "category": "Grammar",
-      "question": "They ___ ready for the meeting.",
+      "question": "The manager demanded that the issue ___ immediately.",
       "options": [
-        "is",
-        "am",
-        "are",
-        "be"
+        "is resolved",
+        "was resolved",
+        "be resolved",
+        "will resolve"
       ],
       "answer": 2,
-      "explanation": "Use are with the plural subject they."
+      "explanation": "After demanded that, formal English can use the base-form subjunctive be resolved."
     },
     {
-      "id": "q009",
+      "id": "q10094",
+      "category": "Negotiation",
+      "question": "Which phrase helps you disagree diplomatically?",
+      "options": [
+        "That is completely stupid.",
+        "I see your point, but I have a different concern.",
+        "You are always wrong.",
+        "I refuse to listen."
+      ],
+      "answer": 1,
+      "explanation": "This phrase acknowledges the other view before presenting a disagreement."
+    },
+    {
+      "id": "q10095",
+      "category": "Vocabulary",
+      "question": "A 'feasible' proposal is one that is ___.",
+      "options": [
+        "possible and practical",
+        "impossible to explain",
+        "already rejected",
+        "unrelated to the goal"
+      ],
+      "answer": 0,
+      "explanation": "Feasible means capable of being done successfully."
+    },
+    {
+      "id": "q10096",
       "category": "Grammar",
-      "question": "Choose the correct comparative form.",
+      "question": "Had I known about the change, I ___ earlier.",
       "options": [
-        "more tall",
-        "taller",
-        "tallest than",
-        "most tall"
+        "will call",
+        "would have called",
+        "would call",
+        "called"
       ],
       "answer": 1,
-      "explanation": "The comparative form of the short adjective tall is taller."
+      "explanation": "Had I known is an inverted third conditional; the result uses would have + past participle."
     },
     {
-      "id": "q016",
-      "category": "Tenses",
-      "question": "Water ___ at 100°C at sea level.",
+      "id": "q10097",
+      "category": "Critical Reading",
+      "question": "An article presents a claim but gives no evidence. What is the best response?",
       "options": [
-        "boil",
-        "boils",
-        "is boiling",
-        "boiled"
+        "Accept it immediately",
+        "Look for reliable supporting evidence",
+        "Share it as confirmed",
+        "Ignore the source details"
       ],
       "answer": 1,
-      "explanation": "Use the present simple for general facts."
+      "explanation": "Claims should be evaluated against credible evidence before being accepted."
     },
     {
-      "id": "q023",
+      "id": "q10098",
       "category": "Vocabulary",
-      "question": "A synonym of 'begin' is ___.",
+      "question": "To 'allocate' resources means to ___.",
       "options": [
-        "finish",
-        "start",
-        "stop",
-        "close"
-      ],
-      "answer": 1,
-      "explanation": "Start has the same basic meaning as begin."
-    },
-    {
-      "id": "q030",
-      "category": "Vocabulary",
-      "question": "Choose the best word: The road is very ___. There are many cars.",
-      "options": [
-        "crowded",
-        "empty",
-        "quietly",
-        "soft"
+        "distribute them for particular purposes",
+        "hide them permanently",
+        "use them without a plan",
+        "return them to a supplier"
       ],
       "answer": 0,
-      "explanation": "Crowded means filled with many people or things; it can describe busy roads."
+      "explanation": "Allocate means assign or distribute resources for specific uses."
     },
     {
-      "id": "q037",
-      "category": "Prepositions",
-      "question": "My birthday is ___ July.",
+      "id": "q10099",
+      "category": "Grammar",
+      "question": "Despite ___ unwell, he attended the meeting.",
       "options": [
-        "at",
-        "in",
-        "on",
-        "from"
+        "feel",
+        "felt",
+        "feeling",
+        "to feel"
+      ],
+      "answer": 2,
+      "explanation": "Despite is followed by a noun or gerund, so feeling is correct."
+    },
+    {
+      "id": "q10100",
+      "category": "Professional Writing",
+      "question": "Which sentence is the most concise and professional?",
+      "options": [
+        "Due to the fact that the system was down, we were unable to proceed.",
+        "Because the system was down, we could not proceed.",
+        "The system, it was down, and so on.",
+        "We could not, in actual fact, proceed because of the system situation."
       ],
       "answer": 1,
-      "explanation": "Use in with months."
-    },
-    {
-      "id": "q044",
-      "category": "Modals",
-      "question": "You look tired. You ___ get some rest.",
-      "options": [
-        "should",
-        "mustn't",
-        "can't",
-        "wouldn't"
-      ],
-      "answer": 0,
-      "explanation": "Should gives advice."
+      "explanation": "The sentence communicates the reason and result without unnecessary words."
     }
   ]
 }
