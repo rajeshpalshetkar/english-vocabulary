@@ -3,139 +3,139 @@
   "slug": "quiz-0797",
   "title": "English Practice Quiz 0797",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Conversation",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q095",
-      "category": "Passive Voice",
-      "question": "The windows ___ every week.",
+      "id": "q12061",
+      "category": "Workplace Ethics",
+      "question": "Workplace Ethics 01: A conflict of interest occurs when?",
       "options": [
-        "are cleaned",
-        "clean",
-        "is cleaned",
-        "cleaning"
-      ],
-      "answer": 0,
-      "explanation": "Plural subject windows takes are + past participle."
-    },
-    {
-      "id": "q009",
-      "category": "Grammar",
-      "question": "Choose the correct comparative form.",
-      "options": [
-        "more tall",
-        "taller",
-        "tallest than",
-        "most tall"
-      ],
-      "answer": 1,
-      "explanation": "The comparative form of the short adjective tall is taller."
-    },
-    {
-      "id": "q038",
-      "category": "Prepositions",
-      "question": "We have a meeting ___ Monday.",
-      "options": [
-        "in",
-        "at",
-        "on",
-        "by"
+        "make an unsupported assumption",
+        "share the information publicly",
+        "personal interests may influence work decisions",
+        "ignore the issue and continue"
       ],
       "answer": 2,
-      "explanation": "Use on with days and dates."
+      "explanation": "Option C is correct: personal interests may influence work decisions."
     },
     {
-      "id": "q067",
-      "category": "Workplace English",
-      "question": "You have completed a task. You say:",
+      "id": "q12062",
+      "category": "Workplace Ethics",
+      "question": "Workplace Ethics 02: An inappropriate supplier gift should be handled by?",
       "options": [
-        "The task is complete.",
-        "The task complete yesterday tomorrow.",
-        "I task finish.",
-        "Task is completing me."
-      ],
-      "answer": 0,
-      "explanation": "The task is complete is a clear status update."
-    },
-    {
-      "id": "q096",
-      "category": "Reported Speech",
-      "question": "He said, 'I am tired.' Reported speech:",
-      "options": [
-        "He said that he was tired.",
-        "He said I am tired.",
-        "He says that I tired.",
-        "He said he is tire."
-      ],
-      "answer": 0,
-      "explanation": "In standard backshift, am changes to was after a past reporting verb."
-    },
-    {
-      "id": "q010",
-      "category": "Grammar",
-      "question": "You ___ wear your identity card at work.",
-      "options": [
-        "should to",
-        "should",
-        "are should",
-        "shoulds"
+        "share the information publicly",
+        "following the organisation's gift policy",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
       ],
       "answer": 1,
-      "explanation": "Modal verbs such as should are followed by the base verb without to."
+      "explanation": "Option B is correct: following the organisation's gift policy."
     },
     {
-      "id": "q039",
-      "category": "Prepositions",
-      "question": "She is interested ___ music.",
+      "id": "q12063",
+      "category": "Workplace Ethics",
+      "question": "Workplace Ethics 03: Whistleblowing means?",
       "options": [
-        "on",
-        "at",
-        "in",
-        "for"
+        "reporting suspected wrongdoing through appropriate channels",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: reporting suspected wrongdoing through appropriate channels."
+    },
+    {
+      "id": "q12064",
+      "category": "Workplace Ethics",
+      "question": "Workplace Ethics 04: Professional boundaries require staff to?",
+      "options": [
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "keep decisions appropriate to their role"
+      ],
+      "answer": 3,
+      "explanation": "Option D is correct: keep decisions appropriate to their role."
+    },
+    {
+      "id": "q12065",
+      "category": "Workplace Ethics",
+      "question": "Workplace Ethics 05: Equal treatment at work means?",
+      "options": [
+        "make an unsupported assumption",
+        "share the information publicly",
+        "applying fair and consistent standards",
+        "ignore the issue and continue"
       ],
       "answer": 2,
-      "explanation": "The adjective interested is followed by in."
+      "explanation": "Option C is correct: applying fair and consistent standards."
     },
     {
-      "id": "q068",
-      "category": "Workplace English",
-      "question": "You need to report a problem. You say:",
+      "id": "q12066",
+      "category": "Workplace Ethics",
+      "question": "Workplace Ethics 06: If you witness harassment, you should?",
       "options": [
-        "There is an issue with the printer.",
-        "Printer bad you.",
-        "I issue printer.",
-        "No printer yesterday."
+        "share the information publicly",
+        "use the appropriate reporting and support process",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
+      ],
+      "answer": 1,
+      "explanation": "Option B is correct: use the appropriate reporting and support process."
+    },
+    {
+      "id": "q12067",
+      "category": "Workplace Ethics",
+      "question": "Workplace Ethics 07: Confidentiality may be limited when?",
+      "options": [
+        "disclosure is legally required or authorised",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
       ],
       "answer": 0,
-      "explanation": "There is an issue with... clearly introduces a problem."
+      "explanation": "Option A is correct: disclosure is legally required or authorised."
     },
     {
-      "id": "q097",
-      "category": "Reported Speech",
-      "question": "She said, 'I can swim.'",
+      "id": "q12068",
+      "category": "Workplace Ethics",
+      "question": "Workplace Ethics 08: An ethical decision should consider?",
       "options": [
-        "She said she can swam.",
-        "She said that she could swim.",
-        "She said she swims can.",
-        "She told that could swim."
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "rules, evidence, fairness and potential harm"
       ],
-      "answer": 1,
-      "explanation": "Can commonly changes to could in reported speech after a past reporting verb."
+      "answer": 3,
+      "explanation": "Option D is correct: rules, evidence, fairness and potential harm."
     },
     {
-      "id": "q011",
-      "category": "Tenses",
-      "question": "Listen! The baby ___.",
+      "id": "q12069",
+      "category": "Workplace Ethics",
+      "question": "Workplace Ethics 09: A professional who makes an error should?",
       "options": [
-        "cries",
-        "is crying",
-        "cry",
-        "cried"
+        "make an unsupported assumption",
+        "share the information publicly",
+        "report it honestly and help correct it",
+        "ignore the issue and continue"
+      ],
+      "answer": 2,
+      "explanation": "Option C is correct: report it honestly and help correct it."
+    },
+    {
+      "id": "q12070",
+      "category": "Workplace Ethics",
+      "question": "Workplace Ethics 10: A code of conduct explains?",
+      "options": [
+        "share the information publicly",
+        "expected standards of behaviour and responsibilities",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
       ],
       "answer": 1,
-      "explanation": "Listen! suggests an action happening now, so use the present continuous."
+      "explanation": "Option B is correct: expected standards of behaviour and responsibilities."
     }
   ]
 }
