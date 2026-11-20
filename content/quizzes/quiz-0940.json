@@ -4,6 +4,138 @@
   "title": "English Practice Quiz 0940",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
   "category": "Practical English",
-  "level": "Advanced",
-  "question_count": 10
+  "level": "Intermediate",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": "q10691",
+      "category": "Workplace Reporting",
+      "question": "An incident report should describe what happened using ___.",
+      "options": [
+        "clear factual details",
+        "personal insults",
+        "unverified rumours",
+        "invented explanations"
+      ],
+      "answer": 0,
+      "explanation": "Incident reports should be factual, clear and objective."
+    },
+    {
+      "id": "q10692",
+      "category": "Workplace Reporting",
+      "question": "The date and time in an incident report help establish ___.",
+      "options": [
+        "when the event occurred",
+        "the writer's favourite shift",
+        "the cost of equipment",
+        "the weather next month"
+      ],
+      "answer": 0,
+      "explanation": "Date and time details help place the event in context."
+    },
+    {
+      "id": "q10693",
+      "category": "Workplace Reporting",
+      "question": "A witness statement should contain ___.",
+      "options": [
+        "what the witness personally observed",
+        "what someone guessed happened",
+        "unrelated opinions about staff",
+        "details copied from social media"
+      ],
+      "answer": 0,
+      "explanation": "A witness should distinguish personal observations from assumptions."
+    },
+    {
+      "id": "q10694",
+      "category": "Workplace Reporting",
+      "question": "If a detail in a report is uncertain, it should be ___.",
+      "options": [
+        "identified as unconfirmed rather than stated as fact",
+        "presented as definitely true",
+        "removed from every record automatically",
+        "replaced with a guess"
+      ],
+      "answer": 0,
+      "explanation": "Uncertainty should be made clear to avoid misleading readers."
+    },
+    {
+      "id": "q10695",
+      "category": "Workplace Reporting",
+      "question": "A corrective action in an incident report records ___.",
+      "options": [
+        "steps taken or planned to address the issue",
+        "the writer's unrelated preferences",
+        "a list of rumours",
+        "a personal shopping request"
+      ],
+      "answer": 0,
+      "explanation": "Corrective actions describe how the issue is being addressed."
+    },
+    {
+      "id": "q10696",
+      "category": "Workplace Reporting",
+      "question": "A report should avoid emotional language because it can ___.",
+      "options": [
+        "make the account less objective",
+        "improve the accuracy of times",
+        "replace evidence",
+        "confirm every assumption"
+      ],
+      "answer": 0,
+      "explanation": "Neutral wording helps keep reports factual and professional."
+    },
+    {
+      "id": "q10697",
+      "category": "Workplace Reporting",
+      "question": "An incident reference number helps staff ___.",
+      "options": [
+        "track and retrieve the report",
+        "change the facts",
+        "avoid follow-up",
+        "share confidential details publicly"
+      ],
+      "answer": 0,
+      "explanation": "A reference number supports record tracking."
+    },
+    {
+      "id": "q10698",
+      "category": "Workplace Reporting",
+      "question": "Photographs included as evidence should be ___.",
+      "options": [
+        "relevant and handled according to privacy rules",
+        "edited to change what happened",
+        "shared publicly without permission",
+        "unrelated to the incident"
+      ],
+      "answer": 0,
+      "explanation": "Relevant evidence must also be handled appropriately."
+    },
+    {
+      "id": "q10699",
+      "category": "Workplace Reporting",
+      "question": "A follow-up entry should record ___.",
+      "options": [
+        "subsequent actions and outcomes",
+        "unrelated personal conversations",
+        "unverified accusations",
+        "the writer's private passwords"
+      ],
+      "answer": 0,
+      "explanation": "Follow-up records show what happened after the initial report."
+    },
+    {
+      "id": "q10700",
+      "category": "Workplace Reporting",
+      "question": "Before submitting a report, check that it is complete and ___.",
+      "options": [
+        "accurate",
+        "dramatic",
+        "anonymous in every case",
+        "filled with abbreviations"
+      ],
+      "answer": 0,
+      "explanation": "Reviewing accuracy and completeness improves the reliability of a report."
+    }
+  ]
 }
