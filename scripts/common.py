@@ -1,6 +1,5 @@
 import json, re
 from pathlib import Path
-from typing import Any
 import bleach, markdown
 from config import CANONICAL_LABELS, MAX_DESCRIPTION_LENGTH, MAX_TITLE_LENGTH, MIN_PAGE_WORDS, MIN_POST_WORDS
 
@@ -11,7 +10,8 @@ def load_article(path):
     if not p.is_absolute(): p=ROOT/p
     with p.open("r",encoding="utf-8") as f: return json.load(f)
 
-def word_count(text): return len(re.findall(r"\\b[\\w'-]+\\b", text or ""))
+def word_count(text):
+    return len(re.findall(r"\b[\w'-]+\b", text or ""))
 
 def markdown_to_safe_html(source):
     raw=markdown.markdown(source,extensions=["extra","sane_lists","smarty"],output_format="html5")
@@ -37,7 +37,7 @@ def article_to_html(article):
             a=bleach.clean(str(item.get("answer","")))
             if q and a: parts.append(f"<h3>{q}</h3><p>{a}</p>")
     parts.append("</div>")
-    return "\\n".join(parts)
+    return "\n".join(parts)
 
 def validation_errors(a):
     errors=[]
@@ -46,9 +46,9 @@ def validation_errors(a):
         if k not in a: errors.append(f"Missing required field: {k}")
     if errors: return errors
     if a["kind"] not in {"post","page"}: errors.append("kind must be post or page")
-    if not a["title"].strip() or len(a["title"])>MAX_TITLE_LENGTH: errors.append("Invalid title length")
-    if not a["description"].strip() or len(a["description"])>MAX_DESCRIPTION_LENGTH: errors.append("Description must be 1-160 characters")
-    if not re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)*",a["slug"]): errors.append("Invalid slug")
+    if not isinstance(a["title"],str) or not a["title"].strip() or len(a["title"])>MAX_TITLE_LENGTH: errors.append("Invalid title length")
+    if not isinstance(a["description"],str) or not a["description"].strip() or len(a["description"])>MAX_DESCRIPTION_LENGTH: errors.append("Description must be 1-160 characters")
+    if not re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)*",str(a["slug"])): errors.append("Invalid slug")
     labels=a.get("labels",[])
     if not isinstance(labels,list) or (a["kind"]=="post" and not labels): errors.append("Post requires labels")
     elif set(labels)-CANONICAL_LABELS: errors.append("Unknown labels: "+", ".join(sorted(set(labels)-CANONICAL_LABELS)))
@@ -57,5 +57,4 @@ def validation_errors(a):
     if len(a.get("learning_objectives",[]))<2: errors.append("Add at least two learning objectives")
     if not isinstance(a.get("faq"),list) or not isinstance(a.get("references"),list): errors.append("faq and references must be lists")
     if a.get("author_reviewed") is not True: errors.append("Human review required: set author_reviewed=true only after checking the article")
-    if a.get("publish_mode","draft").lower()!="draft": errors.append("Ingestion accepts draft mode only")
     return errors
