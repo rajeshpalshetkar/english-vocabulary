@@ -8,134 +8,134 @@
   "question_count": 10,
   "questions": [
     {
-      "id": "q058",
-      "category": "Pronunciation",
-      "question": "Which word has the /ʃ/ sound as in 'ship'?",
+      "id": "q10001",
+      "category": "Workplace Communication",
+      "question": "A colleague asks for an update. Which reply is most useful?",
       "options": [
-        "sip",
-        "shop",
-        "zip",
-        "tip"
-      ],
-      "answer": 1,
-      "explanation": "Shop begins with the /ʃ/ sound."
-    },
-    {
-      "id": "q067",
-      "category": "Workplace English",
-      "question": "You have completed a task. You say:",
-      "options": [
-        "The task is complete.",
-        "The task complete yesterday tomorrow.",
-        "I task finish.",
-        "Task is completing me."
+        "The task is underway, and I expect to finish it by 3 p.m.",
+        "Maybe later, I think.",
+        "I do not know anything.",
+        "Why are you asking?"
       ],
       "answer": 0,
-      "explanation": "The task is complete is a clear status update."
+      "explanation": "A useful update states progress and gives a clear expected completion time."
     },
     {
-      "id": "q076",
-      "category": "Punctuation",
-      "question": "Choose the correctly punctuated sentence.",
+      "id": "q10002",
+      "category": "Email Writing",
+      "question": "Which subject line is clearest for an email about a changed meeting time?",
       "options": [
-        "where are you.",
-        "Where are you?",
-        "Where are you,",
-        "where are you!"
+        "Hello",
+        "Meeting time changed to 2:30 p.m.",
+        "Important!!!",
+        "Please read this"
       ],
       "answer": 1,
-      "explanation": "Start with a capital letter and use a question mark."
+      "explanation": "A specific subject line tells the reader exactly what the email concerns."
     },
     {
-      "id": "q085",
-      "category": "Confusing Words",
-      "question": "The bus is ___ than the car today.",
-      "options": [
-        "fast",
-        "faster",
-        "fastest",
-        "more fast"
-      ],
-      "answer": 1,
-      "explanation": "Use the comparative form faster when comparing two things."
-    },
-    {
-      "id": "q094",
-      "category": "Passive Voice",
-      "question": "English ___ in many countries.",
-      "options": [
-        "speaks",
-        "is spoken",
-        "spoken",
-        "is speaking"
-      ],
-      "answer": 1,
-      "explanation": "Present simple passive: is spoken."
-    },
-    {
-      "id": "q103",
-      "category": "Determiners",
-      "question": "I have ___ friends in this city.",
-      "options": [
-        "a little",
-        "a few",
-        "much",
-        "anyone"
-      ],
-      "answer": 1,
-      "explanation": "A few is used with countable plural nouns."
-    },
-    {
-      "id": "q112",
-      "category": "Gerunds",
-      "question": "He decided ___ early.",
-      "options": [
-        "leave",
-        "leaving",
-        "to leave",
-        "leaves"
-      ],
-      "answer": 2,
-      "explanation": "Decide is commonly followed by a to-infinitive."
-    },
-    {
-      "id": "q006",
-      "category": "Grammar",
-      "question": "He is ___ honest man.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "Use an before a vowel sound. Honest begins with a silent h."
-    },
-    {
-      "id": "q015",
-      "category": "Tenses",
-      "question": "She ___ the report before the manager arrived.",
-      "options": [
-        "finished",
-        "has finished",
-        "had finished",
-        "finishes"
-      ],
-      "answer": 2,
-      "explanation": "Use the past perfect for an action completed before another past action."
-    },
-    {
-      "id": "q024",
+      "id": "q10003",
       "category": "Vocabulary",
-      "question": "If a task is 'urgent', it needs ___.",
+      "question": "If a document is 'confidential', it should be ___.",
       "options": [
-        "no attention",
-        "quick attention",
-        "a holiday",
-        "a receipt"
+        "shared publicly",
+        "kept private",
+        "thrown away",
+        "translated immediately"
       ],
       "answer": 1,
-      "explanation": "Urgent means requiring immediate or prompt attention."
+      "explanation": "Confidential information must be kept private and shared only with authorised people."
+    },
+    {
+      "id": "q10004",
+      "category": "Grammar",
+      "question": "Neither the manager nor the assistants ___ available today.",
+      "options": [
+        "is",
+        "was",
+        "are",
+        "be"
+      ],
+      "answer": 2,
+      "explanation": "With neither...nor, the verb commonly agrees with the nearer subject; assistants is plural."
+    },
+    {
+      "id": "q10005",
+      "category": "Polite Requests",
+      "question": "Which is the most polite way to ask someone to repeat information?",
+      "options": [
+        "Say it again.",
+        "What?",
+        "Could you please repeat the last point?",
+        "You spoke badly."
+      ],
+      "answer": 2,
+      "explanation": "Could you please is a courteous way to request repetition."
+    },
+    {
+      "id": "q10006",
+      "category": "Phrasal Verbs",
+      "question": "The phrase 'carry out a plan' means to ___.",
+      "options": [
+        "cancel it",
+        "put it into action",
+        "forget it",
+        "talk against it"
+      ],
+      "answer": 1,
+      "explanation": "Carry out means to perform or put something into action."
+    },
+    {
+      "id": "q10007",
+      "category": "Grammar",
+      "question": "By the time we reached the station, the train ___.",
+      "options": [
+        "leaves",
+        "has left",
+        "had left",
+        "is leaving"
+      ],
+      "answer": 2,
+      "explanation": "Past perfect describes the train's departure before another past event."
+    },
+    {
+      "id": "q10008",
+      "category": "Vocabulary",
+      "question": "A 'reliable' employee is someone who ___.",
+      "options": [
+        "can be trusted",
+        "often arrives late",
+        "avoids responsibility",
+        "changes every decision"
+      ],
+      "answer": 0,
+      "explanation": "Reliable means dependable and worthy of trust."
+    },
+    {
+      "id": "q10009",
+      "category": "Workplace Safety",
+      "question": "A wet floor sign is placed mainly to ___.",
+      "options": [
+        "decorate the corridor",
+        "warn people of a slipping hazard",
+        "reserve a parking space",
+        "identify a staff member"
+      ],
+      "answer": 1,
+      "explanation": "The sign alerts people to a slip risk so they can take care."
+    },
+    {
+      "id": "q10010",
+      "category": "Sentence Structure",
+      "question": "Choose the sentence with correct word order.",
+      "options": [
+        "Always she arrives early.",
+        "She arrives always early.",
+        "She always arrives early.",
+        "She early always arrives."
+      ],
+      "answer": 2,
+      "explanation": "Frequency adverbs usually come before the main verb."
     }
   ]
 }
