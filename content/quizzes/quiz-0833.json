@@ -3,139 +3,139 @@
   "slug": "quiz-0833",
   "title": "English Practice Quiz 0833",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q017",
-      "category": "Tenses",
-      "question": "They ___ football every Sunday.",
+      "id": "q11621",
+      "category": "Legal and Compliance Awareness",
+      "question": "Legal and Compliance Awareness 01: A compliance requirement is:",
       "options": [
-        "plays",
-        "are play",
-        "play",
-        "playing"
-      ],
-      "answer": 2,
-      "explanation": "Use the base verb with the plural subject they in the present simple."
-    },
-    {
-      "id": "q030",
-      "category": "Vocabulary",
-      "question": "Choose the best word: The road is very ___. There are many cars.",
-      "options": [
-        "crowded",
-        "empty",
-        "quietly",
-        "soft"
+        "An obligation arising from law, regulation or policy",
+        "A personal preference",
+        "A rumour",
+        "An optional slogan"
       ],
       "answer": 0,
-      "explanation": "Crowded means filled with many people or things; it can describe busy roads."
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q043",
-      "category": "Modals",
-      "question": "When I was five, I ___ swim.",
+      "id": "q11622",
+      "category": "Legal and Compliance Awareness",
+      "question": "Legal and Compliance Awareness 02: An employee who receives a legal notice should:",
       "options": [
-        "can",
-        "could",
-        "may",
-        "must"
-      ],
-      "answer": 1,
-      "explanation": "Could expresses past ability."
-    },
-    {
-      "id": "q056",
-      "category": "Pronunciation",
-      "question": "Which word has a different beginning sound?",
-      "options": [
-        "think",
-        "three",
-        "this",
-        "thank"
-      ],
-      "answer": 2,
-      "explanation": "This begins with the voiced /ð/ sound; the others begin with the unvoiced /θ/ sound."
-    },
-    {
-      "id": "q069",
-      "category": "Workplace English",
-      "question": "A polite way to disagree is:",
-      "options": [
-        "You are totally wrong.",
-        "I see your point, but I have a different view.",
-        "No, stop.",
-        "That is stupid."
-      ],
-      "answer": 1,
-      "explanation": "This phrase acknowledges the other person before presenting a different view."
-    },
-    {
-      "id": "q082",
-      "category": "Confusing Words",
-      "question": "The weather can ___ your travel plans.",
-      "options": [
-        "affect",
-        "effect",
-        "infect",
-        "effort"
+        "Refer it promptly to the authorised department",
+        "Ignore it",
+        "Alter it",
+        "Publish it online"
       ],
       "answer": 0,
-      "explanation": "Affect is usually a verb meaning to influence."
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q095",
-      "category": "Passive Voice",
-      "question": "The windows ___ every week.",
+      "id": "q11623",
+      "category": "Legal and Compliance Awareness",
+      "question": "Legal and Compliance Awareness 03: An official register should be maintained:",
       "options": [
-        "are cleaned",
-        "clean",
-        "is cleaned",
-        "cleaning"
+        "Accurately and according to procedure",
+        "From memory only",
+        "With invented entries",
+        "Without dates"
       ],
       "answer": 0,
-      "explanation": "Plural subject windows takes are + past participle."
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q108",
-      "category": "Adverbs",
-      "question": "He speaks English ___.",
+      "id": "q11624",
+      "category": "Legal and Compliance Awareness",
+      "question": "Legal and Compliance Awareness 04: A statutory deadline is:",
       "options": [
-        "clear",
-        "clearly",
-        "clarity",
-        "clearest"
+        "A time limit established by law",
+        "A lunch break",
+        "An informal target",
+        "A personal reminder"
       ],
-      "answer": 1,
-      "explanation": "Clearly is the adverb describing how he speaks."
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q006",
-      "category": "Grammar",
-      "question": "He is ___ honest man.",
+      "id": "q11625",
+      "category": "Legal and Compliance Awareness",
+      "question": "Legal and Compliance Awareness 05: If a procedure conflicts with law, staff should:",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
+        "Escalate the issue to the authorised compliance team",
+        "Ignore the law",
+        "Choose the easier option",
+        "Delete the procedure"
       ],
-      "answer": 1,
-      "explanation": "Use an before a vowel sound. Honest begins with a silent h."
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q019",
-      "category": "Tenses",
-      "question": "She ___ in this hospital for five years.",
+      "id": "q11626",
+      "category": "Legal and Compliance Awareness",
+      "question": "Legal and Compliance Awareness 06: An inspection record should be:",
       "options": [
-        "works",
-        "worked",
-        "has worked",
-        "is work"
+        "Dated, factual and attributable",
+        "Anonymous and vague",
+        "Based on guesses",
+        "Changed without trace"
       ],
-      "answer": 2,
-      "explanation": "The present perfect can describe a situation continuing to the present."
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11627",
+      "category": "Legal and Compliance Awareness",
+      "question": "Legal and Compliance Awareness 07: A valid authorisation should be:",
+      "options": [
+        "Given by a person with appropriate authority",
+        "Assumed from silence",
+        "Invented by a colleague",
+        "Copied from an old case"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11628",
+      "category": "Legal and Compliance Awareness",
+      "question": "Legal and Compliance Awareness 08: A retention schedule determines:",
+      "options": [
+        "How long records are kept and when disposal is permitted",
+        "Meeting duration",
+        "Break frequency",
+        "Storage cost"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11629",
+      "category": "Legal and Compliance Awareness",
+      "question": "Legal and Compliance Awareness 09: A compliance audit checks:",
+      "options": [
+        "Whether requirements and controls are followed",
+        "Employee popularity",
+        "Office decoration",
+        "Personal hobbies"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11630",
+      "category": "Legal and Compliance Awareness",
+      "question": "Legal and Compliance Awareness 10: If uncertain about a legal obligation, staff should:",
+      "options": [
+        "Seek guidance from an authorised source",
+        "Guess and proceed",
+        "Ask an unrelated visitor",
+        "Ignore it"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct. It follows the relevant professional practice or standard English usage."
     }
   ]
 }
