@@ -1,0 +1,58 @@
+name: Validate and publish Blogger content
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "content/inbox/*.json"
+      - "scripts/**"
+      - "engine/**"
+      - "requirements.txt"
+  workflow_dispatch:
+    inputs:
+      article_path:
+        description: "Article JSON path under content/inbox/"
+        required: true
+        type: string
+
+permissions:
+  contents: read
+
+concurrency:
+  group: blogger-content-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Validate curriculum plan
+        run: python scripts/check_plan.py
+      - name: Select article
+        id: article
+        shell: bash
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "path=${{ inputs.article_path }}" >> "$GITHUB_OUTPUT"
+          else
+            FILE="$(git diff --name-only "${{ github.event.before }}" "${{ github.sha }}" -- 'content/inbox/*.json' | head -n 1)"
+            if [ -z "$FILE" ]; then echo "No inbox JSON changed"; exit 1; fi
+            echo "path=$FILE" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Validate article
+        run: python scripts/validate_article.py "${{ steps.article.outputs.path }}"
+      - name: Publish to Blogger
+        env:
+          BLOGGER_CLIENT_ID: ${{ secrets.BLOGGER_CLIENT_ID }}
+          BLOGGER_CLIENT_SECRET: ${{ secrets.BLOGGER_CLIENT_SECRET }}
+          BLOGGER_REFRESH_TOKEN: ${{ secrets.BLOGGER_REFRESH_TOKEN }}
+          BLOGGER_BLOG_ID: ${{ secrets.BLOGGER_BLOG_ID }}
+          PUBLISH_MODE: ${{ vars.PUBLISH_MODE }}
+        run: python scripts/publish_to_blogger.py "${{ steps.article.outputs.path }}"
