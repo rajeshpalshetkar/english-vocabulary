@@ -3,139 +3,139 @@
   "slug": "quiz-0885",
   "title": "English Practice Quiz 0885",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q096",
-      "category": "Reported Speech",
-      "question": "He said, 'I am tired.' Reported speech:",
+      "id": "q11141",
+      "category": "Workplace Safety",
+      "question": "A hazard is best described as:",
       "options": [
-        "He said that he was tired.",
-        "He said I am tired.",
-        "He says that I tired.",
-        "He said he is tire."
+        "anything with the potential to cause harm",
+        "a completed safety inspection",
+        "a staff meeting",
+        "a payment receipt"
       ],
       "answer": 0,
-      "explanation": "In standard backshift, am changes to was after a past reporting verb."
+      "explanation": "A hazard is a source or situation that could cause harm."
     },
     {
-      "id": "q115",
-      "category": "Gerunds",
-      "question": "I want ___ English fluently.",
+      "id": "q11142",
+      "category": "Workplace Safety",
+      "question": "A wet floor without a warning sign creates a risk of:",
       "options": [
-        "speak",
-        "speaking",
-        "to speak",
-        "spoke"
-      ],
-      "answer": 2,
-      "explanation": "Want is followed by a to-infinitive."
-    },
-    {
-      "id": "q019",
-      "category": "Tenses",
-      "question": "She ___ in this hospital for five years.",
-      "options": [
-        "works",
-        "worked",
-        "has worked",
-        "is work"
-      ],
-      "answer": 2,
-      "explanation": "The present perfect can describe a situation continuing to the present."
-    },
-    {
-      "id": "q038",
-      "category": "Prepositions",
-      "question": "We have a meeting ___ Monday.",
-      "options": [
-        "in",
-        "at",
-        "on",
-        "by"
-      ],
-      "answer": 2,
-      "explanation": "Use on with days and dates."
-    },
-    {
-      "id": "q057",
-      "category": "Pronunciation",
-      "question": "Which word has a silent 'k'?",
-      "options": [
-        "kite",
-        "know",
-        "keep",
-        "kind"
-      ],
-      "answer": 1,
-      "explanation": "The k in know is silent."
-    },
-    {
-      "id": "q076",
-      "category": "Punctuation",
-      "question": "Choose the correctly punctuated sentence.",
-      "options": [
-        "where are you.",
-        "Where are you?",
-        "Where are you,",
-        "where are you!"
-      ],
-      "answer": 1,
-      "explanation": "Start with a capital letter and use a question mark."
-    },
-    {
-      "id": "q095",
-      "category": "Passive Voice",
-      "question": "The windows ___ every week.",
-      "options": [
-        "are cleaned",
-        "clean",
-        "is cleaned",
-        "cleaning"
+        "slipping",
+        "overheating",
+        "hearing loss",
+        "poor lighting"
       ],
       "answer": 0,
-      "explanation": "Plural subject windows takes are + past participle."
+      "explanation": "Wet surfaces can cause slips and falls."
     },
     {
-      "id": "q114",
-      "category": "Gerunds",
-      "question": "They finished ___ the room.",
+      "id": "q11143",
+      "category": "Workplace Safety",
+      "question": "Before using unfamiliar equipment, you should:",
       "options": [
-        "clean",
-        "to clean",
-        "cleaning",
-        "cleaned"
-      ],
-      "answer": 2,
-      "explanation": "Finish is followed by a gerund."
-    },
-    {
-      "id": "q018",
-      "category": "Tenses",
-      "question": "I ___ him last week.",
-      "options": [
-        "see",
-        "have seen",
-        "saw",
-        "seeing"
-      ],
-      "answer": 2,
-      "explanation": "Use the past simple with a finished past time such as last week."
-    },
-    {
-      "id": "q037",
-      "category": "Prepositions",
-      "question": "My birthday is ___ July.",
-      "options": [
-        "at",
-        "in",
-        "on",
-        "from"
+        "guess how it works",
+        "read instructions and obtain suitable training",
+        "remove its safety guard",
+        "ask an untrained visitor"
       ],
       "answer": 1,
-      "explanation": "Use in with months."
+      "explanation": "Training and instructions help ensure safe operation."
+    },
+    {
+      "id": "q11144",
+      "category": "Workplace Safety",
+      "question": "Which action is appropriate when you discover a blocked emergency exit?",
+      "options": [
+        "ignore it",
+        "report it and arrange safe clearance promptly",
+        "store more items there",
+        "lock the exit"
+      ],
+      "answer": 1,
+      "explanation": "Emergency routes must remain clear and the obstruction must be addressed."
+    },
+    {
+      "id": "q11145",
+      "category": "Workplace Safety",
+      "question": "PPE stands for:",
+      "options": [
+        "Personal Protective Equipment",
+        "Public Property Entry",
+        "Professional Planning Exercise",
+        "Private Payment Estimate"
+      ],
+      "answer": 0,
+      "explanation": "PPE means Personal Protective Equipment."
+    },
+    {
+      "id": "q11146",
+      "category": "Workplace Safety",
+      "question": "A near miss is an event that:",
+      "options": [
+        "caused a serious injury",
+        "could have caused harm but did not",
+        "was planned as a drill",
+        "is unrelated to safety"
+      ],
+      "answer": 1,
+      "explanation": "A near miss had the potential for harm but resulted in no injury or damage."
+    },
+    {
+      "id": "q11147",
+      "category": "Workplace Safety",
+      "question": "When an alarm sounds, staff should:",
+      "options": [
+        "follow the emergency procedure",
+        "use the lift automatically",
+        "ignore it until confirmed by a visitor",
+        "block the corridor"
+      ],
+      "answer": 0,
+      "explanation": "Follow the site's established emergency response procedure."
+    },
+    {
+      "id": "q11148",
+      "category": "Workplace Safety",
+      "question": "A fire door should normally be:",
+      "options": [
+        "propped open",
+        "kept closed and unobstructed",
+        "used for storage",
+        "locked against evacuation"
+      ],
+      "answer": 1,
+      "explanation": "Fire doors help limit the spread of smoke and fire."
+    },
+    {
+      "id": "q11149",
+      "category": "Workplace Safety",
+      "question": "Which is the safest way to lift a heavy box?",
+      "options": [
+        "twist while lifting",
+        "assess the load and use safe lifting technique or assistance",
+        "lift quickly with straight legs",
+        "hold it far from the body"
+      ],
+      "answer": 1,
+      "explanation": "Assessing the load and using assistance reduces strain and injury risk."
+    },
+    {
+      "id": "q11150",
+      "category": "Workplace Safety",
+      "question": "A safety inspection is conducted to:",
+      "options": [
+        "identify hazards and check controls",
+        "increase paperwork only",
+        "replace all training",
+        "assign blame"
+      ],
+      "answer": 0,
+      "explanation": "Inspections help identify hazards and verify that controls are effective."
     }
   ]
 }
