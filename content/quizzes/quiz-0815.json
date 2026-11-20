@@ -3,139 +3,139 @@
   "slug": "quiz-0815",
   "title": "English Practice Quiz 0815",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q056",
-      "category": "Pronunciation",
-      "question": "Which word has a different beginning sound?",
+      "id": "q11841",
+      "category": "Customer Service",
+      "question": "Customer Service 01: A customer complains about a delay. First:",
       "options": [
-        "think",
-        "three",
-        "this",
-        "thank"
-      ],
-      "answer": 2,
-      "explanation": "This begins with the voiced /ð/ sound; the others begin with the unvoiced /θ/ sound."
-    },
-    {
-      "id": "q075",
-      "category": "Questions",
-      "question": "Choose the correct question tag: 'You are ready, ___?'",
-      "options": [
-        "are you",
-        "aren't you",
-        "do you",
-        "don't you"
-      ],
-      "answer": 1,
-      "explanation": "A positive statement with are usually takes the negative tag aren't you."
-    },
-    {
-      "id": "q094",
-      "category": "Passive Voice",
-      "question": "English ___ in many countries.",
-      "options": [
-        "speaks",
-        "is spoken",
-        "spoken",
-        "is speaking"
-      ],
-      "answer": 1,
-      "explanation": "Present simple passive: is spoken."
-    },
-    {
-      "id": "q113",
-      "category": "Gerunds",
-      "question": "She is good at ___.",
-      "options": [
-        "swim",
-        "to swim",
-        "swimming",
-        "swam"
-      ],
-      "answer": 2,
-      "explanation": "A preposition such as at is followed by a noun or gerund."
-    },
-    {
-      "id": "q017",
-      "category": "Tenses",
-      "question": "They ___ football every Sunday.",
-      "options": [
-        "plays",
-        "are play",
-        "play",
-        "playing"
-      ],
-      "answer": 2,
-      "explanation": "Use the base verb with the plural subject they in the present simple."
-    },
-    {
-      "id": "q036",
-      "category": "Prepositions",
-      "question": "The meeting starts ___ 9 a.m.",
-      "options": [
-        "in",
-        "on",
-        "at",
-        "by"
-      ],
-      "answer": 2,
-      "explanation": "Use at for a specific clock time."
-    },
-    {
-      "id": "q055",
-      "category": "Conversation",
-      "question": "A colleague asks for help. A polite reply is:",
-      "options": [
-        "Certainly. What do you need?",
-        "Never ask me.",
-        "You do yourself.",
-        "No speaking."
+        "Listen and acknowledge the concern",
+        "Interrupt and argue",
+        "Blame another customer",
+        "End the conversation"
       ],
       "answer": 0,
-      "explanation": "Certainly. What do you need? is helpful and polite."
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q074",
-      "category": "Questions",
-      "question": "Which question asks for a reason?",
+      "id": "q11842",
+      "category": "Customer Service",
+      "question": "Customer Service 02: A complaint reference number helps:",
       "options": [
-        "What happened?",
-        "Where are you?",
-        "Why are you late?",
-        "When is lunch?"
+        "Track the complaint and its progress",
+        "Calculate wages",
+        "Replace identity",
+        "Delete the record"
       ],
-      "answer": 2,
-      "explanation": "Why asks for a reason."
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q093",
-      "category": "Passive Voice",
-      "question": "The work ___ tomorrow.",
+      "id": "q11843",
+      "category": "Customer Service",
+      "question": "Customer Service 03: A customer asks for something outside your authority. You should:",
       "options": [
-        "will complete",
-        "will be completed",
-        "completed",
-        "is completing"
+        "Refer the request to the appropriate person",
+        "Promise approval",
+        "Invent a policy",
+        "Ignore the customer"
       ],
-      "answer": 1,
-      "explanation": "Future passive uses will be + past participle."
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q112",
-      "category": "Gerunds",
-      "question": "He decided ___ early.",
+      "id": "q11844",
+      "category": "Customer Service",
+      "question": "Customer Service 04: An effective apology should be:",
       "options": [
-        "leave",
-        "leaving",
-        "to leave",
-        "leaves"
+        "Sincere and specific to the issue",
+        "Sarcastic",
+        "Blaming",
+        "Unrelated"
       ],
-      "answer": 2,
-      "explanation": "Decide is commonly followed by a to-infinitive."
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11845",
+      "category": "Customer Service",
+      "question": "Customer Service 05: A service recovery action should be:",
+      "options": [
+        "Appropriate, timely and recorded",
+        "Secret and undocumented",
+        "Based on favouritism",
+        "Delayed without reason"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11846",
+      "category": "Customer Service",
+      "question": "Customer Service 06: Which question helps understand a complaint?",
+      "options": [
+        "Could you explain what happened?",
+        "Why are you always upset?",
+        "Who told you to complain?",
+        "Can you stop talking?"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11847",
+      "category": "Customer Service",
+      "question": "Customer Service 07: A customer waiting for an update should receive:",
+      "options": [
+        "An honest progress update",
+        "An invented completion time",
+        "No information",
+        "A personal argument"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11848",
+      "category": "Customer Service",
+      "question": "Customer Service 08: Customer feedback can help:",
+      "options": [
+        "Identify service improvements",
+        "Replace every procedure",
+        "Guarantee every request",
+        "Remove accountability"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11849",
+      "category": "Customer Service",
+      "question": "Customer Service 09: A professional service tone should be:",
+      "options": [
+        "Respectful and calm",
+        "Dismissive",
+        "Aggressive",
+        "Sarcastic"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
+    },
+    {
+      "id": "q11850",
+      "category": "Customer Service",
+      "question": "Customer Service 10: A complaint should be closed after:",
+      "options": [
+        "Resolution or handover is completed and recorded",
+        "It is first received",
+        "Customer leaves",
+        "Shift changes"
+      ],
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     }
   ]
 }
