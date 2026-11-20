@@ -3,139 +3,139 @@
   "slug": "quiz-0976",
   "title": "English Practice Quiz 0976",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q033",
-      "category": "Articles",
-      "question": "Please close ___ door.",
+      "id": "q10251",
+      "category": "Travel and Accommodation",
+      "question": "At a hotel, the person who welcomes arriving guests is usually at the ___.",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
+        "reception desk",
+        "engine room",
+        "roof terrace",
+        "laundry store"
       ],
-      "answer": 2,
-      "explanation": "The refers to a specific door known to the speaker and listener."
+      "answer": 0,
+      "explanation": "Guests normally check in at the reception desk."
     },
     {
-      "id": "q056",
-      "category": "Pronunciation",
-      "question": "Which word has a different beginning sound?",
+      "id": "q10252",
+      "category": "Travel and Accommodation",
+      "question": "A 'check-in time' is when a guest may ___.",
       "options": [
-        "think",
-        "three",
-        "this",
-        "thank"
+        "register and enter the accommodation",
+        "return the room key only",
+        "leave the country",
+        "order a taxi"
       ],
-      "answer": 2,
-      "explanation": "This begins with the voiced /ð/ sound; the others begin with the unvoiced /θ/ sound."
+      "answer": 0,
+      "explanation": "Check-in is the process of registering on arrival."
     },
     {
-      "id": "q079",
-      "category": "Punctuation",
-      "question": "Which is a complete sentence?",
+      "id": "q10253",
+      "category": "Travel and Accommodation",
+      "question": "A 'single room' is generally intended for ___.",
       "options": [
-        "Because it was raining.",
-        "After the meeting.",
-        "The team finished the work.",
-        "When I arrived."
+        "one guest",
+        "four families",
+        "a whole tour group",
+        "two separate hotels"
       ],
-      "answer": 2,
-      "explanation": "The team finished the work contains a subject and a complete predicate."
+      "answer": 0,
+      "explanation": "A single room is designed for one occupant."
     },
     {
-      "id": "q102",
-      "category": "Determiners",
-      "question": "How ___ apples do you need?",
+      "id": "q10254",
+      "category": "Travel and Accommodation",
+      "question": "If your flight is cancelled, you should contact ___.",
       "options": [
-        "much",
-        "many",
-        "little",
-        "any"
+        "the airline or its authorised service desk",
+        "an unrelated shop",
+        "a random passenger",
+        "the airport cleaning team"
       ],
-      "answer": 1,
-      "explanation": "Apples are countable plural nouns, so use many."
+      "answer": 0,
+      "explanation": "The airline can provide official rebooking or refund information."
     },
     {
-      "id": "q010",
-      "category": "Grammar",
-      "question": "You ___ wear your identity card at work.",
+      "id": "q10255",
+      "category": "Travel and Accommodation",
+      "question": "A 'boarding pass' is used to ___.",
       "options": [
-        "should to",
-        "should",
-        "are should",
-        "shoulds"
+        "board an aircraft",
+        "collect checked baggage at home",
+        "book a hotel meal",
+        "hire a bicycle"
       ],
-      "answer": 1,
-      "explanation": "Modal verbs such as should are followed by the base verb without to."
+      "answer": 0,
+      "explanation": "A boarding pass confirms permission to board a flight."
     },
     {
-      "id": "q033",
-      "category": "Articles",
-      "question": "Please close ___ door.",
+      "id": "q10256",
+      "category": "Travel and Accommodation",
+      "question": "Which phrase asks whether breakfast is included?",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
+        "Is breakfast included in the room rate?",
+        "Where is the railway track?",
+        "Can I change the weather?",
+        "How many buses are there?"
       ],
-      "answer": 2,
-      "explanation": "The refers to a specific door known to the speaker and listener."
+      "answer": 0,
+      "explanation": "This asks whether breakfast is part of the accommodation price."
     },
     {
-      "id": "q056",
-      "category": "Pronunciation",
-      "question": "Which word has a different beginning sound?",
+      "id": "q10257",
+      "category": "Travel and Accommodation",
+      "question": "A 'round-trip ticket' usually covers ___.",
       "options": [
-        "think",
-        "three",
-        "this",
-        "thank"
+        "the journey to a place and back",
+        "one journey with no return",
+        "a hotel stay only",
+        "a local walking tour"
       ],
-      "answer": 2,
-      "explanation": "This begins with the voiced /ð/ sound; the others begin with the unvoiced /θ/ sound."
+      "answer": 0,
+      "explanation": "A round trip includes outbound and return travel."
     },
     {
-      "id": "q079",
-      "category": "Punctuation",
-      "question": "Which is a complete sentence?",
+      "id": "q10258",
+      "category": "Travel and Accommodation",
+      "question": "If you lose your hotel key card, you should ___.",
       "options": [
-        "Because it was raining.",
-        "After the meeting.",
-        "The team finished the work.",
-        "When I arrived."
+        "inform reception immediately",
+        "leave the building unlocked",
+        "borrow a stranger's card",
+        "post the room number online"
       ],
-      "answer": 2,
-      "explanation": "The team finished the work contains a subject and a complete predicate."
+      "answer": 0,
+      "explanation": "Reception can deactivate the lost card and issue a replacement."
     },
     {
-      "id": "q102",
-      "category": "Determiners",
-      "question": "How ___ apples do you need?",
+      "id": "q10259",
+      "category": "Travel and Accommodation",
+      "question": "A 'layover' is a period spent ___.",
       "options": [
-        "much",
-        "many",
-        "little",
-        "any"
+        "waiting between connecting journeys",
+        "checking out of a hotel",
+        "walking to a local shop",
+        "collecting a driving licence"
       ],
-      "answer": 1,
-      "explanation": "Apples are countable plural nouns, so use many."
+      "answer": 0,
+      "explanation": "A layover is a stop between parts of a journey."
     },
     {
-      "id": "q010",
-      "category": "Grammar",
-      "question": "You ___ wear your identity card at work.",
+      "id": "q10260",
+      "category": "Travel and Accommodation",
+      "question": "A travel itinerary provides ___.",
       "options": [
-        "should to",
-        "should",
-        "are should",
-        "shoulds"
+        "the planned route and schedule",
+        "a list of restaurant recipes",
+        "a medical diagnosis",
+        "a vehicle repair guarantee"
       ],
-      "answer": 1,
-      "explanation": "Modal verbs such as should are followed by the base verb without to."
+      "answer": 0,
+      "explanation": "An itinerary outlines the arrangements for a trip."
     }
   ]
 }
