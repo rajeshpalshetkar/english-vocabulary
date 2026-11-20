@@ -8,134 +8,134 @@
   "question_count": 10,
   "questions": [
     {
-      "id": "q079",
-      "category": "Punctuation",
-      "question": "Which is a complete sentence?",
+      "id": "q10081",
+      "category": "Digital Communication",
+      "question": "Before forwarding a message to a work group, you should ___.",
       "options": [
-        "Because it was raining.",
-        "After the meeting.",
-        "The team finished the work.",
-        "When I arrived."
+        "check that it is accurate and relevant",
+        "forward every message immediately",
+        "remove its date",
+        "add an unverified claim"
       ],
-      "answer": 2,
-      "explanation": "The team finished the work contains a subject and a complete predicate."
+      "answer": 0,
+      "explanation": "Checking accuracy and relevance helps prevent misinformation."
     },
     {
-      "id": "q001",
+      "id": "q10082",
       "category": "Grammar",
-      "question": "She ___ to work every day.",
+      "question": "The files ___ uploaded before the deadline.",
       "options": [
-        "go",
-        "goes",
-        "going",
-        "gone"
+        "was",
+        "were",
+        "has",
+        "is"
       ],
       "answer": 1,
-      "explanation": "With he, she or it in the present simple, add -s or -es to most verbs."
+      "explanation": "Files is plural, so the passive past form is were uploaded."
     },
     {
-      "id": "q038",
-      "category": "Prepositions",
-      "question": "We have a meeting ___ Monday.",
-      "options": [
-        "in",
-        "at",
-        "on",
-        "by"
-      ],
-      "answer": 2,
-      "explanation": "Use on with days and dates."
-    },
-    {
-      "id": "q075",
-      "category": "Questions",
-      "question": "Choose the correct question tag: 'You are ready, ___?'",
-      "options": [
-        "are you",
-        "aren't you",
-        "do you",
-        "don't you"
-      ],
-      "answer": 1,
-      "explanation": "A positive statement with are usually takes the negative tag aren't you."
-    },
-    {
-      "id": "q112",
-      "category": "Gerunds",
-      "question": "He decided ___ early.",
-      "options": [
-        "leave",
-        "leaving",
-        "to leave",
-        "leaves"
-      ],
-      "answer": 2,
-      "explanation": "Decide is commonly followed by a to-infinitive."
-    },
-    {
-      "id": "q034",
-      "category": "Articles",
-      "question": "He wants to become ___ engineer.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "Engineer begins with a vowel sound, so use an."
-    },
-    {
-      "id": "q071",
-      "category": "Questions",
-      "question": "Choose the correct WH question for a place.",
-      "options": [
-        "When do you live?",
-        "Where do you live?",
-        "Who do you live?",
-        "Why do you live?"
-      ],
-      "answer": 1,
-      "explanation": "Where asks about a place or location."
-    },
-    {
-      "id": "q108",
-      "category": "Adverbs",
-      "question": "He speaks English ___.",
-      "options": [
-        "clear",
-        "clearly",
-        "clarity",
-        "clearest"
-      ],
-      "answer": 1,
-      "explanation": "Clearly is the adverb describing how he speaks."
-    },
-    {
-      "id": "q030",
+      "id": "q10083",
       "category": "Vocabulary",
-      "question": "Choose the best word: The road is very ___. There are many cars.",
+      "question": "A 'backup' copy is kept to ___.",
       "options": [
-        "crowded",
-        "empty",
-        "quietly",
-        "soft"
+        "replace the original if it is lost",
+        "make a screen brighter",
+        "increase internet speed",
+        "delete old messages"
       ],
       "answer": 0,
-      "explanation": "Crowded means filled with many people or things; it can describe busy roads."
+      "explanation": "A backup helps restore information if the original is lost or damaged."
     },
     {
-      "id": "q067",
-      "category": "Workplace English",
-      "question": "You have completed a task. You say:",
+      "id": "q10084",
+      "category": "Cyber Safety",
+      "question": "A message asks you to share your password to avoid account closure. What should you do?",
       "options": [
-        "The task is complete.",
-        "The task complete yesterday tomorrow.",
-        "I task finish.",
-        "Task is completing me."
+        "Reply with the password",
+        "Do not share it; verify the message through an official channel",
+        "Forward it to everyone",
+        "Click every link in it"
+      ],
+      "answer": 1,
+      "explanation": "Legitimate support should not ask you to disclose your password in a message."
+    },
+    {
+      "id": "q10085",
+      "category": "Grammar",
+      "question": "Please let me know if you ___ any difficulty.",
+      "options": [
+        "face",
+        "faces",
+        "facing",
+        "faced"
       ],
       "answer": 0,
-      "explanation": "The task is complete is a clear status update."
+      "explanation": "The subject you takes the base verb face in this conditional clause."
+    },
+    {
+      "id": "q10086",
+      "category": "Vocabulary",
+      "question": "To 'verify' information means to ___.",
+      "options": [
+        "check that it is true",
+        "make it shorter",
+        "hide its source",
+        "translate it"
+      ],
+      "answer": 0,
+      "explanation": "Verify means confirm accuracy or truth."
+    },
+    {
+      "id": "q10087",
+      "category": "Online Meetings",
+      "question": "If your microphone is causing noise, you should ___.",
+      "options": [
+        "mute yourself when not speaking",
+        "speak louder continuously",
+        "leave the camera on and shout",
+        "disconnect everyone"
+      ],
+      "answer": 0,
+      "explanation": "Muting when not speaking reduces background noise."
+    },
+    {
+      "id": "q10088",
+      "category": "Grammar",
+      "question": "The message was sent ___ mistake.",
+      "options": [
+        "by",
+        "with",
+        "on",
+        "at"
+      ],
+      "answer": 0,
+      "explanation": "The fixed expression is by mistake."
+    },
+    {
+      "id": "q10089",
+      "category": "Digital Vocabulary",
+      "question": "A 'link' on a webpage is used to ___.",
+      "options": [
+        "connect to another page or resource",
+        "print a document automatically",
+        "charge a phone",
+        "block every website"
+      ],
+      "answer": 0,
+      "explanation": "A link takes the user to another page, file or online resource."
+    },
+    {
+      "id": "q10090",
+      "category": "Privacy",
+      "question": "Which information should never be posted publicly without a valid reason and permission?",
+      "options": [
+        "A public event date",
+        "Your account password",
+        "A published office address",
+        "A public holiday notice"
+      ],
+      "answer": 1,
+      "explanation": "Passwords are private security credentials and must not be shared publicly."
     }
   ]
 }
