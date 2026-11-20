@@ -3,139 +3,139 @@
   "slug": "quiz-0784",
   "title": "English Practice Quiz 0784",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Conversation",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q104",
-      "category": "Determiners",
-      "question": "There is ___ water in the bottle.",
+      "id": "q12131",
+      "category": "Legal and Compliance Awareness",
+      "question": "Legal and Compliance Awareness 01: A compliance policy explains?",
       "options": [
-        "a few",
-        "many",
-        "a little",
-        "several"
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "the rules and standards an organisation must follow"
+      ],
+      "answer": 3,
+      "explanation": "Option D is correct: the rules and standards an organisation must follow."
+    },
+    {
+      "id": "q12132",
+      "category": "Legal and Compliance Awareness",
+      "question": "Legal and Compliance Awareness 02: A valid consent process should be?",
+      "options": [
+        "make an unsupported assumption",
+        "share the information publicly",
+        "informed and obtained where required",
+        "ignore the issue and continue"
       ],
       "answer": 2,
-      "explanation": "A little is used with uncountable nouns."
+      "explanation": "Option C is correct: informed and obtained where required."
     },
     {
-      "id": "q006",
-      "category": "Grammar",
-      "question": "He is ___ honest man.",
+      "id": "q12133",
+      "category": "Legal and Compliance Awareness",
+      "question": "Legal and Compliance Awareness 03: A contract generally records?",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
+        "share the information publicly",
+        "agreed obligations between parties",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
       ],
       "answer": 1,
-      "explanation": "Use an before a vowel sound. Honest begins with a silent h."
+      "explanation": "Option B is correct: agreed obligations between parties."
     },
     {
-      "id": "q023",
-      "category": "Vocabulary",
-      "question": "A synonym of 'begin' is ___.",
+      "id": "q12134",
+      "category": "Legal and Compliance Awareness",
+      "question": "Legal and Compliance Awareness 04: A statutory requirement is one that is?",
       "options": [
-        "finish",
-        "start",
-        "stop",
-        "close"
-      ],
-      "answer": 1,
-      "explanation": "Start has the same basic meaning as begin."
-    },
-    {
-      "id": "q040",
-      "category": "Prepositions",
-      "question": "The hospital is ___ the bank and the post office.",
-      "options": [
-        "among",
-        "between",
-        "inside",
-        "over"
-      ],
-      "answer": 1,
-      "explanation": "Between is used for a position separating two things."
-    },
-    {
-      "id": "q057",
-      "category": "Pronunciation",
-      "question": "Which word has a silent 'k'?",
-      "options": [
-        "kite",
-        "know",
-        "keep",
-        "kind"
-      ],
-      "answer": 1,
-      "explanation": "The k in know is silent."
-    },
-    {
-      "id": "q074",
-      "category": "Questions",
-      "question": "Which question asks for a reason?",
-      "options": [
-        "What happened?",
-        "Where are you?",
-        "Why are you late?",
-        "When is lunch?"
-      ],
-      "answer": 2,
-      "explanation": "Why asks for a reason."
-    },
-    {
-      "id": "q091",
-      "category": "Passive Voice",
-      "question": "Choose the passive form: 'They clean the room.'",
-      "options": [
-        "The room cleaned them.",
-        "The room is cleaned by them.",
-        "The room is cleaning.",
-        "The room has clean."
-      ],
-      "answer": 1,
-      "explanation": "Present simple passive: am/is/are + past participle."
-    },
-    {
-      "id": "q108",
-      "category": "Adverbs",
-      "question": "He speaks English ___.",
-      "options": [
-        "clear",
-        "clearly",
-        "clarity",
-        "clearest"
-      ],
-      "answer": 1,
-      "explanation": "Clearly is the adverb describing how he speaks."
-    },
-    {
-      "id": "q010",
-      "category": "Grammar",
-      "question": "You ___ wear your identity card at work.",
-      "options": [
-        "should to",
-        "should",
-        "are should",
-        "shoulds"
-      ],
-      "answer": 1,
-      "explanation": "Modal verbs such as should are followed by the base verb without to."
-    },
-    {
-      "id": "q027",
-      "category": "Vocabulary",
-      "question": "Choose the correct word: Please ___ the details.",
-      "options": [
-        "confirm",
-        "crowded",
-        "repairing",
-        "hungry"
+        "established by law",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
       ],
       "answer": 0,
-      "explanation": "Confirm means to check or establish that something is correct."
+      "explanation": "Option A is correct: established by law."
+    },
+    {
+      "id": "q12135",
+      "category": "Legal and Compliance Awareness",
+      "question": "Legal and Compliance Awareness 05: A compliance breach should be?",
+      "options": [
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "reported through the appropriate channel"
+      ],
+      "answer": 3,
+      "explanation": "Option D is correct: reported through the appropriate channel."
+    },
+    {
+      "id": "q12136",
+      "category": "Legal and Compliance Awareness",
+      "question": "Legal and Compliance Awareness 06: A licence or permit should be checked for?",
+      "options": [
+        "make an unsupported assumption",
+        "share the information publicly",
+        "validity, scope and expiry date",
+        "ignore the issue and continue"
+      ],
+      "answer": 2,
+      "explanation": "Option C is correct: validity, scope and expiry date."
+    },
+    {
+      "id": "q12137",
+      "category": "Legal and Compliance Awareness",
+      "question": "Legal and Compliance Awareness 07: An official record should be altered?",
+      "options": [
+        "share the information publicly",
+        "only through an authorised traceable process",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
+      ],
+      "answer": 1,
+      "explanation": "Option B is correct: only through an authorised traceable process."
+    },
+    {
+      "id": "q12138",
+      "category": "Legal and Compliance Awareness",
+      "question": "Legal and Compliance Awareness 08: A regulatory inspection may examine?",
+      "options": [
+        "whether required standards are being followed",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: whether required standards are being followed."
+    },
+    {
+      "id": "q12139",
+      "category": "Legal and Compliance Awareness",
+      "question": "Legal and Compliance Awareness 09: A conflict of interest should be?",
+      "options": [
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "declared according to organisational policy"
+      ],
+      "answer": 3,
+      "explanation": "Option D is correct: declared according to organisational policy."
+    },
+    {
+      "id": "q12140",
+      "category": "Legal and Compliance Awareness",
+      "question": "Legal and Compliance Awareness 10: When unsure about a legal obligation, staff should?",
+      "options": [
+        "make an unsupported assumption",
+        "share the information publicly",
+        "seek guidance from an authorised compliance professional",
+        "ignore the issue and continue"
+      ],
+      "answer": 2,
+      "explanation": "Option C is correct: seek guidance from an authorised compliance professional."
     }
   ]
 }
