@@ -60,7 +60,16 @@ def main():
     title_map={}
     for lesson_slug, lesson in lesson_map.items():
         title_map.setdefault(title_key(lesson.get("title")), (lesson_slug, lesson))
+    # Explicit catalogue aliases for concise titles whose lesson titles are editorially expanded.
+    catalogue_aliases = {
+        title_key("Articles: A, An and The"): "articles-a-an-the",
+        title_key("Prepositions: In, On and At"): "prepositions-in-on-at",
+        title_key("Modal Verbs: Can, Could, Should and Would"): "modal-verbs",
+    }
     def find_lesson(planned_title, planned_slug):
+        alias_slug = catalogue_aliases.get(title_key(planned_title))
+        if alias_slug and alias_slug in lesson_map:
+            return alias_slug, lesson_map[alias_slug]
         found=lesson_map.get(planned_slug)
         if found: return planned_slug, found
         found=title_map.get(title_key(planned_title))
