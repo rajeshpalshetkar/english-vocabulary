@@ -3,139 +3,139 @@
   "slug": "quiz-0941",
   "title": "English Practice Quiz 0941",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q013",
-      "category": "Tenses",
-      "question": "At 8 p.m. yesterday, I ___ dinner.",
+      "id": "q10501",
+      "category": "Interview Skills",
+      "question": "When an interviewer asks about your strengths, you should mention ___.",
       "options": [
-        "cook",
-        "cooked",
-        "was cooking",
-        "am cooking"
-      ],
-      "answer": 2,
-      "explanation": "Use the past continuous for an action in progress at a specific past time."
-    },
-    {
-      "id": "q022",
-      "category": "Vocabulary",
-      "question": "Choose the opposite of 'polite'.",
-      "options": [
-        "kind",
-        "rude",
-        "helpful",
-        "calm"
-      ],
-      "answer": 1,
-      "explanation": "Rude is the opposite of polite."
-    },
-    {
-      "id": "q031",
-      "category": "Articles",
-      "question": "I saw ___ elephant at the zoo.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "Use an before a vowel sound."
-    },
-    {
-      "id": "q040",
-      "category": "Prepositions",
-      "question": "The hospital is ___ the bank and the post office.",
-      "options": [
-        "among",
-        "between",
-        "inside",
-        "over"
-      ],
-      "answer": 1,
-      "explanation": "Between is used for a position separating two things."
-    },
-    {
-      "id": "q049",
-      "category": "Sentence Building",
-      "question": "Choose the correct plural of 'child'.",
-      "options": [
-        "childs",
-        "childes",
-        "children",
-        "childrens"
-      ],
-      "answer": 2,
-      "explanation": "Children is the irregular plural of child."
-    },
-    {
-      "id": "q058",
-      "category": "Pronunciation",
-      "question": "Which word has the /ʃ/ sound as in 'ship'?",
-      "options": [
-        "sip",
-        "shop",
-        "zip",
-        "tip"
-      ],
-      "answer": 1,
-      "explanation": "Shop begins with the /ʃ/ sound."
-    },
-    {
-      "id": "q067",
-      "category": "Workplace English",
-      "question": "You have completed a task. You say:",
-      "options": [
-        "The task is complete.",
-        "The task complete yesterday tomorrow.",
-        "I task finish.",
-        "Task is completing me."
+        "relevant skills supported by examples",
+        "private passwords",
+        "unrelated rumours",
+        "only your salary demands"
       ],
       "answer": 0,
-      "explanation": "The task is complete is a clear status update."
+      "explanation": "Relevant examples make your strengths credible."
     },
     {
-      "id": "q076",
-      "category": "Punctuation",
-      "question": "Choose the correctly punctuated sentence.",
+      "id": "q10502",
+      "category": "Interview Skills",
+      "question": "The STAR method in an interview helps you explain a situation, task, action and ___.",
       "options": [
-        "where are you.",
-        "Where are you?",
-        "Where are you,",
-        "where are you!"
+        "result",
+        "receipt",
+        "routine",
+        "reference"
       ],
-      "answer": 1,
-      "explanation": "Start with a capital letter and use a question mark."
+      "answer": 0,
+      "explanation": "STAR stands for Situation, Task, Action and Result."
     },
     {
-      "id": "q085",
-      "category": "Confusing Words",
-      "question": "The bus is ___ than the car today.",
+      "id": "q10503",
+      "category": "Interview Skills",
+      "question": "If you do not understand an interview question, you should ___.",
       "options": [
-        "fast",
-        "faster",
-        "fastest",
-        "more fast"
+        "politely ask the interviewer to repeat or clarify it",
+        "pretend to understand",
+        "give an unrelated answer",
+        "criticise the question"
       ],
-      "answer": 1,
-      "explanation": "Use the comparative form faster when comparing two things."
+      "answer": 0,
+      "explanation": "Asking for clarification helps you answer accurately."
     },
     {
-      "id": "q094",
-      "category": "Passive Voice",
-      "question": "English ___ in many countries.",
+      "id": "q10504",
+      "category": "Interview Skills",
+      "question": "A suitable answer to 'Why do you want this job?' should connect your skills with ___.",
       "options": [
-        "speaks",
-        "is spoken",
-        "spoken",
-        "is speaking"
+        "the role and organisation",
+        "your favourite film",
+        "an unrelated personal dispute",
+        "a rumour about the company"
       ],
-      "answer": 1,
-      "explanation": "Present simple passive: is spoken."
+      "answer": 0,
+      "explanation": "A focused answer explains why your abilities and goals fit the position."
+    },
+    {
+      "id": "q10505",
+      "category": "Interview Skills",
+      "question": "Arriving early for an interview gives you time to ___.",
+      "options": [
+        "settle in and prepare",
+        "interrupt another interview",
+        "change the job description",
+        "avoid checking the location"
+      ],
+      "answer": 0,
+      "explanation": "Arriving early reduces stress and allows time for practical arrangements."
+    },
+    {
+      "id": "q10506",
+      "category": "Interview Skills",
+      "question": "A professional interview introduction should include your name and ___.",
+      "options": [
+        "a brief summary of relevant experience",
+        "your bank PIN",
+        "private details about colleagues",
+        "an unverified claim"
+      ],
+      "answer": 0,
+      "explanation": "A concise introduction gives the interviewer relevant background."
+    },
+    {
+      "id": "q10507",
+      "category": "Interview Skills",
+      "question": "After an interview, a brief thank-you message can ___.",
+      "options": [
+        "express appreciation for the opportunity",
+        "demand an immediate offer",
+        "replace all qualifications",
+        "criticise the interview panel"
+      ],
+      "answer": 0,
+      "explanation": "A polite thank-you note is a professional courtesy."
+    },
+    {
+      "id": "q10508",
+      "category": "Interview Skills",
+      "question": "If asked about a weakness, it is useful to describe ___.",
+      "options": [
+        "an area you are improving and steps you take",
+        "a personal attack on a former manager",
+        "a skill you claim to have mastered perfectly",
+        "an unrelated complaint"
+      ],
+      "answer": 0,
+      "explanation": "A thoughtful answer shows self-awareness and willingness to improve."
+    },
+    {
+      "id": "q10509",
+      "category": "Interview Skills",
+      "question": "A candidate should research an employer before an interview to understand its ___.",
+      "options": [
+        "work and requirements",
+        "employees' private accounts",
+        "unpublished passwords",
+        "unrelated family histories"
+      ],
+      "answer": 0,
+      "explanation": "Research helps candidates give relevant answers and ask informed questions."
+    },
+    {
+      "id": "q10510",
+      "category": "Interview Skills",
+      "question": "When discussing a previous job, you should avoid ___.",
+      "options": [
+        "sharing confidential information from that employer",
+        "explaining your responsibilities",
+        "describing relevant achievements",
+        "mentioning skills you developed"
+      ],
+      "answer": 0,
+      "explanation": "Confidential information should remain protected even after leaving a job."
     }
   ]
 }
