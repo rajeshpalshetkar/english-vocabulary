@@ -8,134 +8,134 @@
   "question_count": 10,
   "questions": [
     {
-      "id": "q045",
-      "category": "Modals",
-      "question": "It ___ rain later; take an umbrella.",
+      "id": "q10061",
+      "category": "Finance Vocabulary",
+      "question": "A 'receipt' is a document that ___.",
       "options": [
-        "might",
-        "mustn't",
-        "shouldn't",
-        "has"
+        "proves a payment was made",
+        "requests a job interview",
+        "lists travel destinations",
+        "confirms a medical diagnosis"
       ],
       "answer": 0,
-      "explanation": "Might expresses possibility."
+      "explanation": "A receipt is written proof that money or goods were received."
     },
     {
-      "id": "q074",
-      "category": "Questions",
-      "question": "Which question asks for a reason?",
+      "id": "q10062",
+      "category": "Grammar",
+      "question": "If the payment arrives today, we ___ the order immediately.",
       "options": [
-        "What happened?",
-        "Where are you?",
-        "Why are you late?",
-        "When is lunch?"
+        "process",
+        "processed",
+        "would process",
+        "had processed"
+      ],
+      "answer": 0,
+      "explanation": "The first conditional uses present simple in the if-clause and will or a present-tense main clause."
+    },
+    {
+      "id": "q10063",
+      "category": "Vocabulary",
+      "question": "A 'budget' is a plan for ___.",
+      "options": [
+        "using and managing money",
+        "organising a sports team",
+        "repairing a vehicle",
+        "writing a story"
+      ],
+      "answer": 0,
+      "explanation": "A budget estimates income and planned spending."
+    },
+    {
+      "id": "q10064",
+      "category": "Banking English",
+      "question": "Which question asks politely about a bank charge?",
+      "options": [
+        "Why you took money?",
+        "Could you explain this service charge, please?",
+        "Give my money back.",
+        "What is this?"
+      ],
+      "answer": 1,
+      "explanation": "This question is polite and identifies the charge that needs explanation."
+    },
+    {
+      "id": "q10065",
+      "category": "Grammar",
+      "question": "The total cost, including taxes, ___ shown on the invoice.",
+      "options": [
+        "are",
+        "were",
+        "is",
+        "have"
       ],
       "answer": 2,
-      "explanation": "Why asks for a reason."
+      "explanation": "The subject total cost is singular, so it takes is."
     },
     {
-      "id": "q103",
-      "category": "Determiners",
-      "question": "I have ___ friends in this city.",
+      "id": "q10066",
+      "category": "Vocabulary",
+      "question": "To 'withdraw' money means to ___.",
       "options": [
-        "a little",
-        "a few",
-        "much",
-        "anyone"
+        "put money into an account",
+        "take money out of an account",
+        "borrow a document",
+        "check a balance sheet"
       ],
       "answer": 1,
-      "explanation": "A few is used with countable plural nouns."
+      "explanation": "Withdraw means remove money from an account."
     },
     {
-      "id": "q017",
-      "category": "Tenses",
-      "question": "They ___ football every Sunday.",
+      "id": "q10067",
+      "category": "Workplace Maths",
+      "question": "A product costs 800 rupees. A 10% discount is ___.",
       "options": [
-        "plays",
-        "are play",
-        "play",
-        "playing"
+        "8 rupees",
+        "40 rupees",
+        "80 rupees",
+        "100 rupees"
       ],
       "answer": 2,
-      "explanation": "Use the base verb with the plural subject they in the present simple."
+      "explanation": "Ten per cent of 800 is 80."
     },
     {
-      "id": "q046",
-      "category": "Sentence Building",
-      "question": "Choose the correct word order.",
+      "id": "q10068",
+      "category": "Grammar",
+      "question": "She has been working here ___ six months.",
       "options": [
-        "Always I am late.",
-        "I am always late.",
-        "I late am always.",
-        "Am always I late."
+        "since",
+        "for",
+        "from",
+        "by"
       ],
       "answer": 1,
-      "explanation": "Frequency adverbs such as always usually come after the verb be."
+      "explanation": "For is used with a duration such as six months."
     },
     {
-      "id": "q075",
-      "category": "Questions",
-      "question": "Choose the correct question tag: 'You are ready, ___?'",
+      "id": "q10069",
+      "category": "Vocabulary",
+      "question": "An ' instalment' is ___.",
       "options": [
-        "are you",
-        "aren't you",
-        "do you",
-        "don't you"
+        "one of several scheduled payments",
+        "a final warning",
+        "a bank holiday",
+        "a cash receipt"
+      ],
+      "answer": 0,
+      "explanation": "An instalment is one part of a payment made over time."
+    },
+    {
+      "id": "q10070",
+      "category": "Email Etiquette",
+      "question": "Which closing is suitable for a formal business email?",
+      "options": [
+        "See ya",
+        "Yours sincerely",
+        "Bye-bye friend",
+        "Later"
       ],
       "answer": 1,
-      "explanation": "A positive statement with are usually takes the negative tag aren't you."
-    },
-    {
-      "id": "q104",
-      "category": "Determiners",
-      "question": "There is ___ water in the bottle.",
-      "options": [
-        "a few",
-        "many",
-        "a little",
-        "several"
-      ],
-      "answer": 2,
-      "explanation": "A little is used with uncountable nouns."
-    },
-    {
-      "id": "q018",
-      "category": "Tenses",
-      "question": "I ___ him last week.",
-      "options": [
-        "see",
-        "have seen",
-        "saw",
-        "seeing"
-      ],
-      "answer": 2,
-      "explanation": "Use the past simple with a finished past time such as last week."
-    },
-    {
-      "id": "q047",
-      "category": "Sentence Building",
-      "question": "Choose the correct question.",
-      "options": [
-        "Where you live?",
-        "Where do you live?",
-        "Where does you live?",
-        "Where are live you?"
-      ],
-      "answer": 1,
-      "explanation": "Use do + subject + base verb for present simple questions with you."
-    },
-    {
-      "id": "q076",
-      "category": "Punctuation",
-      "question": "Choose the correctly punctuated sentence.",
-      "options": [
-        "where are you.",
-        "Where are you?",
-        "Where are you,",
-        "where are you!"
-      ],
-      "answer": 1,
-      "explanation": "Start with a capital letter and use a question mark."
+      "explanation": "Yours sincerely is a conventional formal email or letter closing."
     }
   ]
 }
