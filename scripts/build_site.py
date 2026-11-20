@@ -67,6 +67,7 @@ def main():
         title_key("Modal Verbs: Can, Could, Should and Would"): "modal-verbs",
         title_key("This, That, These and Those"): "this-that-these-those",
         title_key("WH Questions: What, Where, When, Why and How"): "wh-questions-what-where-when-why-how",
+        title_key("Word Stress and Sentence Stress"): "word-stress-and-sentence-stress",
     }
     def find_lesson(planned_title, planned_slug):
         alias_slug = catalogue_aliases.get(title_key(planned_title))
