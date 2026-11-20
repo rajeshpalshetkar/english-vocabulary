@@ -3,139 +3,139 @@
   "slug": "quiz-0880",
   "title": "English Practice Quiz 0880",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
+  "category": "Practical English",
   "level": "Advanced",
   "question_count": 10,
   "questions": [
     {
-      "id": "q011",
-      "category": "Tenses",
-      "question": "Listen! The baby ___.",
+      "id": "q11291",
+      "category": "Finance and Administration",
+      "question": "A 'reimbursement' is:",
       "options": [
-        "cries",
-        "is crying",
-        "cry",
-        "cried"
-      ],
-      "answer": 1,
-      "explanation": "Listen! suggests an action happening now, so use the present continuous."
-    },
-    {
-      "id": "q018",
-      "category": "Tenses",
-      "question": "I ___ him last week.",
-      "options": [
-        "see",
-        "have seen",
-        "saw",
-        "seeing"
-      ],
-      "answer": 2,
-      "explanation": "Use the past simple with a finished past time such as last week."
-    },
-    {
-      "id": "q025",
-      "category": "Vocabulary",
-      "question": "A person you can trust is ___.",
-      "options": [
-        "reliable",
-        "careless",
-        "silent",
-        "narrow"
+        "repayment of money spent on an approved expense",
+        "a request for annual leave",
+        "a stock inspection",
+        "a warning letter"
       ],
       "answer": 0,
-      "explanation": "Reliable means dependable or trustworthy."
+      "explanation": "Reimbursement repays an expense someone has paid."
     },
     {
-      "id": "q032",
-      "category": "Articles",
-      "question": "She is ___ university student.",
+      "id": "q11292",
+      "category": "Finance and Administration",
+      "question": "A 'balance' on an account is:",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
+        "the amount remaining after credits and debits",
+        "the date of a meeting",
+        "a list of employees",
+        "the cost of a single item"
       ],
       "answer": 0,
-      "explanation": "University begins with the consonant sound /y/, so use a."
+      "explanation": "An account balance is the remaining amount after transactions."
     },
     {
-      "id": "q039",
-      "category": "Prepositions",
-      "question": "She is interested ___ music.",
+      "id": "q11293",
+      "category": "Finance and Administration",
+      "question": "A 'receipt' is proof that:",
       "options": [
-        "on",
-        "at",
-        "in",
-        "for"
-      ],
-      "answer": 2,
-      "explanation": "The adjective interested is followed by in."
-    },
-    {
-      "id": "q046",
-      "category": "Sentence Building",
-      "question": "Choose the correct word order.",
-      "options": [
-        "Always I am late.",
-        "I am always late.",
-        "I late am always.",
-        "Am always I late."
-      ],
-      "answer": 1,
-      "explanation": "Frequency adverbs such as always usually come after the verb be."
-    },
-    {
-      "id": "q053",
-      "category": "Conversation",
-      "question": "A visitor asks, 'Where is reception?' You say:",
-      "options": [
-        "It is near the main entrance.",
-        "I am reception.",
-        "Yesterday at home.",
-        "No, it isn't."
+        "payment has been made",
+        "a job interview is scheduled",
+        "a visitor has arrived",
+        "a shift has ended"
       ],
       "answer": 0,
-      "explanation": "Give a clear location using a complete sentence."
+      "explanation": "A receipt confirms that money or goods have been received."
     },
     {
-      "id": "q060",
-      "category": "Pronunciation",
-      "question": "How many syllables are in 'computer'?",
+      "id": "q11294",
+      "category": "Finance and Administration",
+      "question": "If an amount is 'deducted' from a payment, it is:",
       "options": [
-        "one",
-        "two",
-        "three",
-        "four"
-      ],
-      "answer": 2,
-      "explanation": "Computer is commonly pronounced with three syllables: com-pu-ter."
-    },
-    {
-      "id": "q067",
-      "category": "Workplace English",
-      "question": "You have completed a task. You say:",
-      "options": [
-        "The task is complete.",
-        "The task complete yesterday tomorrow.",
-        "I task finish.",
-        "Task is completing me."
+        "subtracted",
+        "doubled",
+        "ignored",
+        "transferred twice"
       ],
       "answer": 0,
-      "explanation": "The task is complete is a clear status update."
+      "explanation": "Deduct means subtract or take away."
     },
     {
-      "id": "q074",
-      "category": "Questions",
-      "question": "Which question asks for a reason?",
+      "id": "q11295",
+      "category": "Finance and Administration",
+      "question": "A 'budget' is a plan for:",
       "options": [
-        "What happened?",
-        "Where are you?",
-        "Why are you late?",
-        "When is lunch?"
+        "income and expenditure",
+        "staff uniforms only",
+        "visitor directions",
+        "computer passwords"
       ],
-      "answer": 2,
-      "explanation": "Why asks for a reason."
+      "answer": 0,
+      "explanation": "A budget estimates income and planned spending."
+    },
+    {
+      "id": "q11296",
+      "category": "Finance and Administration",
+      "question": "An expense is 'recurrent' if it:",
+      "options": [
+        "occurs repeatedly",
+        "happens only once",
+        "has been cancelled",
+        "cannot be recorded"
+      ],
+      "answer": 0,
+      "explanation": "Recurrent expenses happen again at regular or repeated intervals."
+    },
+    {
+      "id": "q11297",
+      "category": "Finance and Administration",
+      "question": "A 'due date' on an invoice is:",
+      "options": [
+        "the date payment is expected",
+        "the date the supplier was hired",
+        "the date a meeting ended",
+        "the date stock was counted"
+      ],
+      "answer": 0,
+      "explanation": "The due date is the payment deadline."
+    },
+    {
+      "id": "q11298",
+      "category": "Finance and Administration",
+      "question": "A 'ledger' is commonly used to:",
+      "options": [
+        "record financial transactions",
+        "display emergency routes",
+        "schedule interviews",
+        "store visitor photographs"
+      ],
+      "answer": 0,
+      "explanation": "A ledger is a book or system for recording accounts."
+    },
+    {
+      "id": "q11299",
+      "category": "Finance and Administration",
+      "question": "A payment marked 'pending' is:",
+      "options": [
+        "not yet fully processed or completed",
+        "confirmed as refunded",
+        "paid in cash twice",
+        "permanently rejected"
+      ],
+      "answer": 0,
+      "explanation": "Pending means awaiting completion or decision."
+    },
+    {
+      "id": "q11300",
+      "category": "Finance and Administration",
+      "question": "To 'reconcile' two account records means to:",
+      "options": [
+        "compare them and resolve differences",
+        "delete both records",
+        "increase every amount",
+        "change the account owner"
+      ],
+      "answer": 0,
+      "explanation": "Reconciliation checks records and explains or corrects differences."
     }
   ]
 }
