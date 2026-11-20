@@ -3,139 +3,139 @@
   "slug": "quiz-0906",
   "title": "English Practice Quiz 0906",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q108",
-      "category": "Adverbs",
-      "question": "He speaks English ___.",
+      "id": "q10951",
+      "category": "Business Writing",
+      "question": "Which sentence is appropriate for a formal inspection report?",
       "options": [
-        "clear",
-        "clearly",
-        "clarity",
-        "clearest"
+        "We found some weird stuff.",
+        "The inspection identified three maintenance issues.",
+        "Things were kind of bad.",
+        "You won't believe what happened."
       ],
       "answer": 1,
-      "explanation": "Clearly is the adverb describing how he speaks."
+      "explanation": "The inspection identified three maintenance issues. is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q016",
-      "category": "Tenses",
-      "question": "Water ___ at 100°C at sea level.",
+      "id": "q10952",
+      "category": "Business Writing",
+      "question": "A business proposal should explain ___.",
       "options": [
-        "boil",
-        "boils",
-        "is boiling",
-        "boiled"
+        "the need, suggested solution and expected benefits",
+        "unrelated personal stories",
+        "unverified rumours",
+        "only the writer's job title"
       ],
-      "answer": 1,
-      "explanation": "Use the present simple for general facts."
+      "answer": 0,
+      "explanation": "the need, suggested solution and expected benefits is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q039",
-      "category": "Prepositions",
-      "question": "She is interested ___ music.",
+      "id": "q10953",
+      "category": "Business Writing",
+      "question": "A memo is commonly used for ___.",
       "options": [
-        "on",
-        "at",
-        "in",
-        "for"
+        "a personal bank statement",
+        "a public identity card",
+        "a delivery label",
+        "internal communication within an organisation"
+      ],
+      "answer": 3,
+      "explanation": "internal communication within an organisation is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q10954",
+      "category": "Business Writing",
+      "question": "Complete the formal phrase: 'Please ___ receipt of this document.'",
+      "options": [
+        "argue",
+        "avoid",
+        "acknowledge",
+        "decorate"
       ],
       "answer": 2,
-      "explanation": "The adjective interested is followed by in."
+      "explanation": "acknowledge is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q062",
-      "category": "Reading",
-      "question": "Read: 'The shop closes at 9 p.m., but it opens at 10 a.m.' When does it open?",
+      "id": "q10955",
+      "category": "Business Writing",
+      "question": "A formal report heading should be ___.",
       "options": [
-        "9 a.m.",
-        "10 a.m.",
-        "9 p.m.",
-        "10 p.m."
+        "vague and unrelated",
+        "specific and relevant to the subject",
+        "a private joke",
+        "left blank"
       ],
       "answer": 1,
-      "explanation": "The opening time given is 10 a.m."
+      "explanation": "specific and relevant to the subject is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q085",
-      "category": "Confusing Words",
-      "question": "The bus is ___ than the car today.",
+      "id": "q10956",
+      "category": "Business Writing",
+      "question": "Consistency in editing means ___.",
       "options": [
-        "fast",
-        "faster",
-        "fastest",
-        "more fast"
+        "using the same style for similar elements",
+        "changing spelling randomly",
+        "removing all headings",
+        "mixing unrelated formats"
       ],
-      "answer": 1,
-      "explanation": "Use the comparative form faster when comparing two things."
+      "answer": 0,
+      "explanation": "using the same style for similar elements is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q108",
-      "category": "Adverbs",
-      "question": "He speaks English ___.",
+      "id": "q10957",
+      "category": "Business Writing",
+      "question": "Which sentence correctly describes a committee decision?",
       "options": [
-        "clear",
-        "clearly",
-        "clarity",
-        "clearest"
+        "The committee have approve the proposal.",
+        "The committee approving proposal yesterday.",
+        "The committee are approves the proposal.",
+        "The committee has approved the proposal."
       ],
-      "answer": 1,
-      "explanation": "Clearly is the adverb describing how he speaks."
+      "answer": 3,
+      "explanation": "The committee has approved the proposal. is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q016",
-      "category": "Tenses",
-      "question": "Water ___ at 100°C at sea level.",
+      "id": "q10958",
+      "category": "Business Writing",
+      "question": "A supporting appendix usually contains ___.",
       "options": [
-        "boil",
-        "boils",
-        "is boiling",
-        "boiled"
-      ],
-      "answer": 1,
-      "explanation": "Use the present simple for general facts."
-    },
-    {
-      "id": "q039",
-      "category": "Prepositions",
-      "question": "She is interested ___ music.",
-      "options": [
-        "on",
-        "at",
-        "in",
-        "for"
+        "unrelated advertisements",
+        "private passwords",
+        "additional material relevant to the main document",
+        "unverified gossip"
       ],
       "answer": 2,
-      "explanation": "The adjective interested is followed by in."
+      "explanation": "additional material relevant to the main document is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q062",
-      "category": "Reading",
-      "question": "Read: 'The shop closes at 9 p.m., but it opens at 10 a.m.' When does it open?",
+      "id": "q10959",
+      "category": "Business Writing",
+      "question": "A formal request should state ___.",
       "options": [
-        "9 a.m.",
-        "10 a.m.",
-        "9 p.m.",
-        "10 p.m."
+        "only an emotional reaction",
+        "what is needed and any relevant deadline",
+        "unrelated background",
+        "a vague hint"
       ],
       "answer": 1,
-      "explanation": "The opening time given is 10 a.m."
+      "explanation": "what is needed and any relevant deadline is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q085",
-      "category": "Confusing Words",
-      "question": "The bus is ___ than the car today.",
+      "id": "q10960",
+      "category": "Business Writing",
+      "question": "Proofreading should include checking spelling, grammar and ___.",
       "options": [
-        "fast",
-        "faster",
-        "fastest",
-        "more fast"
+        "accuracy of names, dates and figures",
+        "favourite colour",
+        "unrelated web links",
+        "office temperature"
       ],
-      "answer": 1,
-      "explanation": "Use the comparative form faster when comparing two things."
+      "answer": 0,
+      "explanation": "accuracy of names, dates and figures is the correct answer based on the meaning and context of the question."
     }
   ]
 }
