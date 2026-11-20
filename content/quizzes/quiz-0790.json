@@ -3,139 +3,139 @@
   "slug": "quiz-0790",
   "title": "English Practice Quiz 0790",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Conversation",
-  "level": "Intermediate",
+  "category": "Practical English",
+  "level": "Advanced",
   "question_count": 10,
   "questions": [
     {
-      "id": "q091",
-      "category": "Passive Voice",
-      "question": "Choose the passive form: 'They clean the room.'",
+      "id": "q12191",
+      "category": "Advanced Vocabulary and Usage",
+      "question": "Advanced Vocabulary and Usage 01: The word 'prudent' means?",
       "options": [
-        "The room cleaned them.",
-        "The room is cleaned by them.",
-        "The room is cleaning.",
-        "The room has clean."
+        "share the information publicly",
+        "wise and careful in practical matters",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
       ],
       "answer": 1,
-      "explanation": "Present simple passive: am/is/are + past participle."
+      "explanation": "Option B is correct: wise and careful in practical matters."
     },
     {
-      "id": "q098",
-      "category": "Reported Speech",
-      "question": "He asked, 'Where do you live?'",
+      "id": "q12192",
+      "category": "Advanced Vocabulary and Usage",
+      "question": "Advanced Vocabulary and Usage 02: To 'scrutinise' a document is to?",
       "options": [
-        "He asked where I lived.",
-        "He asked where do I live.",
-        "He asked where did I lived.",
-        "He asked where I live do."
+        "examine it closely",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
       ],
       "answer": 0,
-      "explanation": "Reported questions use statement word order; do is removed."
+      "explanation": "Option A is correct: examine it closely."
     },
     {
-      "id": "q105",
-      "category": "Determiners",
-      "question": "___ student must bring an ID card.",
+      "id": "q12193",
+      "category": "Advanced Vocabulary and Usage",
+      "question": "Advanced Vocabulary and Usage 03: A 'concise' report is?",
       "options": [
-        "Each",
-        "Many",
-        "Few",
-        "Several"
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "brief but clear"
       ],
-      "answer": 0,
-      "explanation": "Each refers to every individual in a group."
+      "answer": 3,
+      "explanation": "Option D is correct: brief but clear."
     },
     {
-      "id": "q112",
-      "category": "Gerunds",
-      "question": "He decided ___ early.",
+      "id": "q12194",
+      "category": "Advanced Vocabulary and Usage",
+      "question": "Advanced Vocabulary and Usage 04: The word 'inevitable' describes something?",
       "options": [
-        "leave",
-        "leaving",
-        "to leave",
-        "leaves"
+        "make an unsupported assumption",
+        "share the information publicly",
+        "certain to happen",
+        "ignore the issue and continue"
       ],
       "answer": 2,
-      "explanation": "Decide is commonly followed by a to-infinitive."
+      "explanation": "Option C is correct: certain to happen."
     },
     {
-      "id": "q004",
-      "category": "Grammar",
-      "question": "There ___ two chairs in the room.",
+      "id": "q12195",
+      "category": "Advanced Vocabulary and Usage",
+      "question": "Advanced Vocabulary and Usage 05: To 'facilitate' a process means to?",
       "options": [
-        "is",
-        "are",
-        "am",
-        "was"
+        "share the information publicly",
+        "make it easier",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
       ],
       "answer": 1,
-      "explanation": "Use are with the plural noun chairs."
+      "explanation": "Option B is correct: make it easier."
     },
     {
-      "id": "q011",
-      "category": "Tenses",
-      "question": "Listen! The baby ___.",
+      "id": "q12196",
+      "category": "Advanced Vocabulary and Usage",
+      "question": "Advanced Vocabulary and Usage 06: A 'credible' source is one that is?",
       "options": [
-        "cries",
-        "is crying",
-        "cry",
-        "cried"
+        "believable and trustworthy",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: believable and trustworthy."
+    },
+    {
+      "id": "q12197",
+      "category": "Advanced Vocabulary and Usage",
+      "question": "Advanced Vocabulary and Usage 07: To 'allocate' resources means to?",
+      "options": [
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "assign them for a particular purpose"
+      ],
+      "answer": 3,
+      "explanation": "Option D is correct: assign them for a particular purpose."
+    },
+    {
+      "id": "q12198",
+      "category": "Advanced Vocabulary and Usage",
+      "question": "Advanced Vocabulary and Usage 08: A 'substantial' change is?",
+      "options": [
+        "make an unsupported assumption",
+        "share the information publicly",
+        "large or significant",
+        "ignore the issue and continue"
+      ],
+      "answer": 2,
+      "explanation": "Option C is correct: large or significant."
+    },
+    {
+      "id": "q12199",
+      "category": "Advanced Vocabulary and Usage",
+      "question": "Advanced Vocabulary and Usage 09: To 'mitigate' a risk means to?",
+      "options": [
+        "share the information publicly",
+        "reduce its severity or likelihood",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
       ],
       "answer": 1,
-      "explanation": "Listen! suggests an action happening now, so use the present continuous."
+      "explanation": "Option B is correct: reduce its severity or likelihood."
     },
     {
-      "id": "q018",
-      "category": "Tenses",
-      "question": "I ___ him last week.",
+      "id": "q12200",
+      "category": "Advanced Vocabulary and Usage",
+      "question": "Advanced Vocabulary and Usage 10: An 'obsolete' procedure is?",
       "options": [
-        "see",
-        "have seen",
-        "saw",
-        "seeing"
-      ],
-      "answer": 2,
-      "explanation": "Use the past simple with a finished past time such as last week."
-    },
-    {
-      "id": "q025",
-      "category": "Vocabulary",
-      "question": "A person you can trust is ___.",
-      "options": [
-        "reliable",
-        "careless",
-        "silent",
-        "narrow"
+        "no longer current or useful",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
       ],
       "answer": 0,
-      "explanation": "Reliable means dependable or trustworthy."
-    },
-    {
-      "id": "q032",
-      "category": "Articles",
-      "question": "She is ___ university student.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 0,
-      "explanation": "University begins with the consonant sound /y/, so use a."
-    },
-    {
-      "id": "q039",
-      "category": "Prepositions",
-      "question": "She is interested ___ music.",
-      "options": [
-        "on",
-        "at",
-        "in",
-        "for"
-      ],
-      "answer": 2,
-      "explanation": "The adjective interested is followed by in."
+      "explanation": "Option A is correct: no longer current or useful."
     }
   ]
 }
