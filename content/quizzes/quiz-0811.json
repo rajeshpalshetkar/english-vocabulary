@@ -3,139 +3,139 @@
   "slug": "quiz-0811",
   "title": "English Practice Quiz 0811",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q103",
-      "category": "Determiners",
-      "question": "I have ___ friends in this city.",
+      "id": "q11801",
+      "category": "Professional Email",
+      "question": "Professional Email 01: Which subject line is most useful for a leave request?",
       "options": [
-        "a little",
-        "a few",
-        "much",
-        "anyone"
+        "Leave Request for 24 November 2026",
+        "Hello",
+        "Urgent!!!",
+        "Please read"
       ],
-      "answer": 1,
-      "explanation": "A few is used with countable plural nouns."
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q112",
-      "category": "Gerunds",
-      "question": "He decided ___ early.",
+      "id": "q11802",
+      "category": "Professional Email",
+      "question": "Professional Email 02: A formal email should begin with:",
       "options": [
-        "leave",
-        "leaving",
-        "to leave",
-        "leaves"
+        "A suitable greeting",
+        "An unexplained abbreviation",
+        "A personal complaint",
+        "An emoji only"
       ],
-      "answer": 2,
-      "explanation": "Decide is commonly followed by a to-infinitive."
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q006",
-      "category": "Grammar",
-      "question": "He is ___ honest man.",
+      "id": "q11803",
+      "category": "Professional Email",
+      "question": "Professional Email 03: Which closing is appropriate in a formal email?",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
+        "Kind regards",
+        "See ya",
+        "Whatever",
+        "Bye dude"
       ],
-      "answer": 1,
-      "explanation": "Use an before a vowel sound. Honest begins with a silent h."
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q015",
-      "category": "Tenses",
-      "question": "She ___ the report before the manager arrived.",
+      "id": "q11804",
+      "category": "Professional Email",
+      "question": "Professional Email 04: Before forwarding an email, you should:",
       "options": [
-        "finished",
-        "has finished",
-        "had finished",
-        "finishes"
+        "Check its content and recipient permissions",
+        "Forward every attachment automatically",
+        "Remove the subject",
+        "Add unrelated recipients"
       ],
-      "answer": 2,
-      "explanation": "Use the past perfect for an action completed before another past action."
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q024",
-      "category": "Vocabulary",
-      "question": "If a task is 'urgent', it needs ___.",
+      "id": "q11805",
+      "category": "Professional Email",
+      "question": "Professional Email 05: A clear email request should specify:",
       "options": [
-        "no attention",
-        "quick attention",
-        "a holiday",
-        "a receipt"
+        "The action required and relevant deadline",
+        "Only the sender's opinion",
+        "Several unrelated topics",
+        "No context"
       ],
-      "answer": 1,
-      "explanation": "Urgent means requiring immediate or prompt attention."
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q033",
-      "category": "Articles",
-      "question": "Please close ___ door.",
+      "id": "q11806",
+      "category": "Professional Email",
+      "question": "Professional Email 06: Which phrase politely requests a reply?",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
+        "I would appreciate your response by Friday.",
+        "Reply now or else.",
+        "You must answer immediately.",
+        "Why are you silent?"
       ],
-      "answer": 2,
-      "explanation": "The refers to a specific door known to the speaker and listener."
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q042",
-      "category": "Modals",
-      "question": "You ___ smoke inside the hospital.",
+      "id": "q11807",
+      "category": "Professional Email",
+      "question": "Professional Email 07: An attachment should be mentioned when:",
       "options": [
-        "must",
-        "mustn't",
-        "should",
-        "could"
+        "A file is included for the recipient",
+        "No file exists",
+        "The email has no subject",
+        "The message is a phone call"
       ],
-      "answer": 1,
-      "explanation": "Mustn't expresses prohibition."
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q051",
-      "category": "Conversation",
-      "question": "Someone says, 'Thank you for your help.' You reply:",
+      "id": "q11808",
+      "category": "Professional Email",
+      "question": "Professional Email 08: A professional follow-up email should:",
       "options": [
-        "Never mind you.",
-        "You're welcome.",
-        "I am welcome you.",
-        "No thank."
+        "Refer to the earlier message and state the request",
+        "Accuse the recipient",
+        "Repeat the entire conversation",
+        "Use threatening language"
       ],
-      "answer": 1,
-      "explanation": "You're welcome is a natural response to thank you."
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q060",
-      "category": "Pronunciation",
-      "question": "How many syllables are in 'computer'?",
+      "id": "q11809",
+      "category": "Professional Email",
+      "question": "Professional Email 09: When emailing many unrelated recipients, consider:",
       "options": [
-        "one",
-        "two",
-        "three",
-        "four"
+        "Using BCC where appropriate to protect addresses",
+        "Posting addresses publicly",
+        "Leaving the recipient field blank",
+        "Sharing a password"
       ],
-      "answer": 2,
-      "explanation": "Computer is commonly pronounced with three syllables: com-pu-ter."
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     },
     {
-      "id": "q069",
-      "category": "Workplace English",
-      "question": "A polite way to disagree is:",
+      "id": "q11810",
+      "category": "Professional Email",
+      "question": "Professional Email 10: Proofreading should include checking:",
       "options": [
-        "You are totally wrong.",
-        "I see your point, but I have a different view.",
-        "No, stop.",
-        "That is stupid."
+        "Names, dates, tone and attachments",
+        "Only font colour",
+        "The sender's hobbies",
+        "Unrelated news"
       ],
-      "answer": 1,
-      "explanation": "This phrase acknowledges the other person before presenting a different view."
+      "answer": 0,
+      "explanation": "The first option is correct because it follows the relevant professional practice or standard English usage."
     }
   ]
 }
