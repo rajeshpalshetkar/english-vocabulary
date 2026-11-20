@@ -3,139 +3,139 @@
   "slug": "quiz-0900",
   "title": "English Practice Quiz 0900",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Reading",
+  "category": "Practical English",
   "level": "Advanced",
   "question_count": 10,
   "questions": [
     {
-      "id": "q006",
-      "category": "Grammar",
-      "question": "He is ___ honest man.",
+      "id": "q11091",
+      "category": "Grammar in Context",
+      "question": "Choose the correct sentence: The equipment ___ in the locked room.",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
+        "are stored",
+        "is stored",
+        "store",
+        "storing"
       ],
       "answer": 1,
-      "explanation": "Use an before a vowel sound. Honest begins with a silent h."
+      "explanation": "is stored is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q013",
-      "category": "Tenses",
-      "question": "At 8 p.m. yesterday, I ___ dinner.",
+      "id": "q11092",
+      "category": "Grammar in Context",
+      "question": "She has worked here ___ 2021.",
       "options": [
-        "cook",
-        "cooked",
-        "was cooking",
-        "am cooking"
+        "since",
+        "for",
+        "during",
+        "by"
+      ],
+      "answer": 0,
+      "explanation": "since is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q11093",
+      "category": "Grammar in Context",
+      "question": "The files ___ checked yesterday.",
+      "options": [
+        "was",
+        "is",
+        "has",
+        "were"
+      ],
+      "answer": 3,
+      "explanation": "were is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q11094",
+      "category": "Grammar in Context",
+      "question": "Neither the supervisor nor the guards ___ available.",
+      "options": [
+        "is",
+        "was being",
+        "are",
+        "has"
       ],
       "answer": 2,
-      "explanation": "Use the past continuous for an action in progress at a specific past time."
+      "explanation": "are is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q020",
-      "category": "Tenses",
-      "question": "By next June, he ___ the course.",
+      "id": "q11095",
+      "category": "Grammar in Context",
+      "question": "Choose the correct unreal past conditional.",
       "options": [
-        "completes",
-        "completed",
+        "If I would know, I called you.",
+        "If I had known, I would have called you.",
+        "If I knew yesterday, I will call.",
+        "If I had know, I call you."
+      ],
+      "answer": 1,
+      "explanation": "If I had known, I would have called you. is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q11096",
+      "category": "Grammar in Context",
+      "question": "The report, along with the photographs, ___ ready.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "have"
+      ],
+      "answer": 0,
+      "explanation": "is is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q11097",
+      "category": "Grammar in Context",
+      "question": "There are ___ errors in this version than in the previous one.",
+      "options": [
+        "less",
+        "little",
+        "much",
+        "fewer"
+      ],
+      "answer": 3,
+      "explanation": "fewer is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q11098",
+      "category": "Grammar in Context",
+      "question": "The manager asked whether the forms ___.",
+      "options": [
+        "has submit",
+        "were submit",
+        "had been submitted",
+        "submitting"
+      ],
+      "answer": 2,
+      "explanation": "had been submitted is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q11099",
+      "category": "Grammar in Context",
+      "question": "Choose the correct indirect question.",
+      "options": [
+        "Please let me know when does the delivery arrive.",
+        "Please let me know when the delivery arrives.",
+        "Please let me know when delivery arrive.",
+        "Please let me know when arrives the delivery."
+      ],
+      "answer": 1,
+      "explanation": "Please let me know when the delivery arrives. is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q11100",
+      "category": "Grammar in Context",
+      "question": "By this time tomorrow, we ___ the audit.",
+      "options": [
         "will have completed",
-        "has complete"
-      ],
-      "answer": 2,
-      "explanation": "The future perfect describes an action completed before a future time."
-    },
-    {
-      "id": "q027",
-      "category": "Vocabulary",
-      "question": "Choose the correct word: Please ___ the details.",
-      "options": [
-        "confirm",
-        "crowded",
-        "repairing",
-        "hungry"
+        "complete yesterday",
+        "have completing",
+        "will completed"
       ],
       "answer": 0,
-      "explanation": "Confirm means to check or establish that something is correct."
-    },
-    {
-      "id": "q034",
-      "category": "Articles",
-      "question": "He wants to become ___ engineer.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "Engineer begins with a vowel sound, so use an."
-    },
-    {
-      "id": "q041",
-      "category": "Modals",
-      "question": "___ I borrow your pen, please?",
-      "options": [
-        "May",
-        "Must",
-        "Should",
-        "Would have"
-      ],
-      "answer": 0,
-      "explanation": "May is a polite way to ask permission."
-    },
-    {
-      "id": "q048",
-      "category": "Sentence Building",
-      "question": "Choose the correct sentence.",
-      "options": [
-        "Because I was tired, I went to bed early.",
-        "Because I tired, went bed early.",
-        "I because was tired bed early.",
-        "Because tired I went early bed."
-      ],
-      "answer": 0,
-      "explanation": "The subordinate clause beginning with because explains the reason."
-    },
-    {
-      "id": "q055",
-      "category": "Conversation",
-      "question": "A colleague asks for help. A polite reply is:",
-      "options": [
-        "Certainly. What do you need?",
-        "Never ask me.",
-        "You do yourself.",
-        "No speaking."
-      ],
-      "answer": 0,
-      "explanation": "Certainly. What do you need? is helpful and polite."
-    },
-    {
-      "id": "q062",
-      "category": "Reading",
-      "question": "Read: 'The shop closes at 9 p.m., but it opens at 10 a.m.' When does it open?",
-      "options": [
-        "9 a.m.",
-        "10 a.m.",
-        "9 p.m.",
-        "10 p.m."
-      ],
-      "answer": 1,
-      "explanation": "The opening time given is 10 a.m."
-    },
-    {
-      "id": "q069",
-      "category": "Workplace English",
-      "question": "A polite way to disagree is:",
-      "options": [
-        "You are totally wrong.",
-        "I see your point, but I have a different view.",
-        "No, stop.",
-        "That is stupid."
-      ],
-      "answer": 1,
-      "explanation": "This phrase acknowledges the other person before presenting a different view."
+      "explanation": "will have completed is the correct answer based on the meaning and context of the question."
     }
   ]
 }
