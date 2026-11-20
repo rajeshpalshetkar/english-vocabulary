@@ -8,134 +8,134 @@
   "question_count": 10,
   "questions": [
     {
-      "id": "q011",
-      "category": "Tenses",
-      "question": "Listen! The baby ___.",
+      "id": "q10041",
+      "category": "Travel English",
+      "question": "At an airport, where do you collect your checked suitcase?",
       "options": [
-        "cries",
-        "is crying",
-        "cry",
-        "cried"
+        "Departure gate",
+        "Baggage claim",
+        "Check-in counter",
+        "Security office"
       ],
       "answer": 1,
-      "explanation": "Listen! suggests an action happening now, so use the present continuous."
+      "explanation": "Checked luggage is collected at the baggage claim area."
     },
     {
-      "id": "q030",
-      "category": "Vocabulary",
-      "question": "Choose the best word: The road is very ___. There are many cars.",
-      "options": [
-        "crowded",
-        "empty",
-        "quietly",
-        "soft"
-      ],
-      "answer": 0,
-      "explanation": "Crowded means filled with many people or things; it can describe busy roads."
-    },
-    {
-      "id": "q049",
-      "category": "Sentence Building",
-      "question": "Choose the correct plural of 'child'.",
-      "options": [
-        "childs",
-        "childes",
-        "children",
-        "childrens"
-      ],
-      "answer": 2,
-      "explanation": "Children is the irregular plural of child."
-    },
-    {
-      "id": "q068",
-      "category": "Workplace English",
-      "question": "You need to report a problem. You say:",
-      "options": [
-        "There is an issue with the printer.",
-        "Printer bad you.",
-        "I issue printer.",
-        "No printer yesterday."
-      ],
-      "answer": 0,
-      "explanation": "There is an issue with... clearly introduces a problem."
-    },
-    {
-      "id": "q087",
-      "category": "Conditionals",
-      "question": "If I had more time, I ___ another language.",
-      "options": [
-        "learn",
-        "will learn",
-        "would learn",
-        "am learn"
-      ],
-      "answer": 2,
-      "explanation": "The second conditional uses would + base verb for an unreal or imagined situation."
-    },
-    {
-      "id": "q106",
-      "category": "Adjectives",
-      "question": "The test was ___ than I expected.",
-      "options": [
-        "easy",
-        "easier",
-        "easiest",
-        "more easy"
-      ],
-      "answer": 1,
-      "explanation": "Use the comparative form easier."
-    },
-    {
-      "id": "q010",
+      "id": "q10042",
       "category": "Grammar",
-      "question": "You ___ wear your identity card at work.",
+      "question": "The staff ___ discussing the new schedule.",
       "options": [
-        "should to",
-        "should",
-        "are should",
-        "shoulds"
+        "is",
+        "are",
+        "has",
+        "was"
       ],
       "answer": 1,
-      "explanation": "Modal verbs such as should are followed by the base verb without to."
+      "explanation": "Staff can take a plural verb when referring to the individual members of a group."
     },
     {
-      "id": "q029",
+      "id": "q10043",
       "category": "Vocabulary",
-      "question": "What is the meaning of 'available'?",
+      "question": "A 'destination' is the place where you ___.",
       "options": [
-        "not possible to use",
-        "ready or able to be used",
-        "very expensive",
-        "already broken"
+        "begin a journey",
+        "intend to arrive",
+        "buy a ticket",
+        "change your vehicle"
       ],
       "answer": 1,
-      "explanation": "Available means ready for use or accessible."
+      "explanation": "Destination means the place someone is travelling to."
     },
     {
-      "id": "q048",
-      "category": "Sentence Building",
-      "question": "Choose the correct sentence.",
+      "id": "q10044",
+      "category": "Directions",
+      "question": "Which instruction means turn to the left at the next road?",
       "options": [
-        "Because I was tired, I went to bed early.",
-        "Because I tired, went bed early.",
-        "I because was tired bed early.",
-        "Because tired I went early bed."
+        "Take the next left.",
+        "Go straight forever.",
+        "Turn back now.",
+        "Keep to the right."
       ],
       "answer": 0,
-      "explanation": "The subordinate clause beginning with because explains the reason."
+      "explanation": "Take the next left is a clear direction to turn left at the next road."
     },
     {
-      "id": "q067",
-      "category": "Workplace English",
-      "question": "You have completed a task. You say:",
+      "id": "q10045",
+      "category": "Grammar",
+      "question": "She asked me where I ___ the previous evening.",
       "options": [
-        "The task is complete.",
-        "The task complete yesterday tomorrow.",
-        "I task finish.",
-        "Task is completing me."
+        "am",
+        "have been",
+        "had been",
+        "will be"
+      ],
+      "answer": 2,
+      "explanation": "In reported questions with a past reporting verb, the past perfect can express an earlier past visit."
+    },
+    {
+      "id": "q10046",
+      "category": "Vocabulary",
+      "question": "A 'reservation' at a hotel is ___.",
+      "options": [
+        "a confirmed arrangement to stay",
+        "a complaint about food",
+        "a travel warning",
+        "a luggage tag"
       ],
       "answer": 0,
-      "explanation": "The task is complete is a clear status update."
+      "explanation": "A reservation is an arrangement made in advance."
+    },
+    {
+      "id": "q10047",
+      "category": "Polite Questions",
+      "question": "How can you ask for the price politely?",
+      "options": [
+        "Tell price.",
+        "How much does this cost, please?",
+        "You price now.",
+        "What money?"
+      ],
+      "answer": 1,
+      "explanation": "This is a complete and courteous question about cost."
+    },
+    {
+      "id": "q10048",
+      "category": "Grammar",
+      "question": "The children enjoyed ___ in the garden.",
+      "options": [
+        "play",
+        "to play",
+        "playing",
+        "played"
+      ],
+      "answer": 2,
+      "explanation": "Enjoy is followed by a gerund ending in -ing."
+    },
+    {
+      "id": "q10049",
+      "category": "Travel Problems",
+      "question": "Your train ticket shows the wrong date. What should you do?",
+      "options": [
+        "Change the printed date yourself",
+        "Contact the ticket office for help",
+        "Travel without checking",
+        "Give it to another passenger"
+      ],
+      "answer": 1,
+      "explanation": "The ticket office can verify the booking and advise on a correction."
+    },
+    {
+      "id": "q10050",
+      "category": "Vocabulary",
+      "question": "If a train is 'delayed', it is ___.",
+      "options": [
+        "running earlier than planned",
+        "not leaving or arriving on time",
+        "cancelled permanently",
+        "travelling without passengers"
+      ],
+      "answer": 1,
+      "explanation": "Delayed means later than the scheduled time."
     }
   ]
 }
