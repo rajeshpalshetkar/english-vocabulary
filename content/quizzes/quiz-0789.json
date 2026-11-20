@@ -3,139 +3,139 @@
   "slug": "quiz-0789",
   "title": "English Practice Quiz 0789",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Conversation",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q074",
-      "category": "Questions",
-      "question": "Which question asks for a reason?",
+      "id": "q12181",
+      "category": "Customer Experience",
+      "question": "Customer Experience 01: A customer journey describes?",
       "options": [
-        "What happened?",
-        "Where are you?",
-        "Why are you late?",
-        "When is lunch?"
-      ],
-      "answer": 2,
-      "explanation": "Why asks for a reason."
-    },
-    {
-      "id": "q111",
-      "category": "Gerunds",
-      "question": "I enjoy ___ books.",
-      "options": [
-        "read",
-        "to read",
-        "reading",
-        "reads"
-      ],
-      "answer": 2,
-      "explanation": "Enjoy is followed by a gerund (-ing form)."
-    },
-    {
-      "id": "q033",
-      "category": "Articles",
-      "question": "Please close ___ door.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 2,
-      "explanation": "The refers to a specific door known to the speaker and listener."
-    },
-    {
-      "id": "q070",
-      "category": "Workplace English",
-      "question": "To confirm an instruction, you can say:",
-      "options": [
-        "Could you please confirm the details?",
-        "I not listen.",
-        "Confirm me now.",
-        "Details no."
+        "the stages of a customer's interaction with a service",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
       ],
       "answer": 0,
-      "explanation": "Could you please confirm... is polite and precise."
+      "explanation": "Option A is correct: the stages of a customer's interaction with a service."
     },
     {
-      "id": "q107",
-      "category": "Adjectives",
-      "question": "She is the ___ student in the class.",
+      "id": "q12182",
+      "category": "Customer Experience",
+      "question": "Customer Experience 02: An accessible service aims to?",
       "options": [
-        "tall",
-        "taller",
-        "tallest",
-        "more tall"
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "be usable by people with different needs"
+      ],
+      "answer": 3,
+      "explanation": "Option D is correct: be usable by people with different needs."
+    },
+    {
+      "id": "q12183",
+      "category": "Customer Experience",
+      "question": "Customer Experience 03: A service standard tells customers?",
+      "options": [
+        "make an unsupported assumption",
+        "share the information publicly",
+        "what level of service they can expect",
+        "ignore the issue and continue"
       ],
       "answer": 2,
-      "explanation": "Use the superlative tallest when comparing one with the whole class."
+      "explanation": "Option C is correct: what level of service they can expect."
     },
     {
-      "id": "q029",
-      "category": "Vocabulary",
-      "question": "What is the meaning of 'available'?",
+      "id": "q12184",
+      "category": "Customer Experience",
+      "question": "Customer Experience 04: A repeat complaint may indicate?",
       "options": [
-        "not possible to use",
-        "ready or able to be used",
-        "very expensive",
-        "already broken"
+        "share the information publicly",
+        "a problem that has not been fully resolved",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
       ],
       "answer": 1,
-      "explanation": "Available means ready for use or accessible."
+      "explanation": "Option B is correct: a problem that has not been fully resolved."
     },
     {
-      "id": "q066",
-      "category": "Workplace English",
-      "question": "A professional way to ask for a file is:",
+      "id": "q12185",
+      "category": "Customer Experience",
+      "question": "Customer Experience 05: Customer effort refers to?",
       "options": [
-        "Give file now.",
-        "Could you please share the file?",
-        "File give me.",
-        "You must file."
-      ],
-      "answer": 1,
-      "explanation": "Could you please is a polite and professional request."
-    },
-    {
-      "id": "q103",
-      "category": "Determiners",
-      "question": "I have ___ friends in this city.",
-      "options": [
-        "a little",
-        "a few",
-        "much",
-        "anyone"
-      ],
-      "answer": 1,
-      "explanation": "A few is used with countable plural nouns."
-    },
-    {
-      "id": "q025",
-      "category": "Vocabulary",
-      "question": "A person you can trust is ___.",
-      "options": [
-        "reliable",
-        "careless",
-        "silent",
-        "narrow"
+        "how easy or difficult it is to complete a task",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
       ],
       "answer": 0,
-      "explanation": "Reliable means dependable or trustworthy."
+      "explanation": "Option A is correct: how easy or difficult it is to complete a task."
     },
     {
-      "id": "q062",
-      "category": "Reading",
-      "question": "Read: 'The shop closes at 9 p.m., but it opens at 10 a.m.' When does it open?",
+      "id": "q12186",
+      "category": "Customer Experience",
+      "question": "Customer Experience 06: A service queue should be managed?",
       "options": [
-        "9 a.m.",
-        "10 a.m.",
-        "9 p.m.",
-        "10 p.m."
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "fairly and transparently"
+      ],
+      "answer": 3,
+      "explanation": "Option D is correct: fairly and transparently."
+    },
+    {
+      "id": "q12187",
+      "category": "Customer Experience",
+      "question": "Customer Experience 07: A customer survey should use?",
+      "options": [
+        "make an unsupported assumption",
+        "share the information publicly",
+        "clear and unbiased questions",
+        "ignore the issue and continue"
+      ],
+      "answer": 2,
+      "explanation": "Option C is correct: clear and unbiased questions."
+    },
+    {
+      "id": "q12188",
+      "category": "Customer Experience",
+      "question": "Customer Experience 08: An escalation process helps?",
+      "options": [
+        "share the information publicly",
+        "route complex issues to the right authority",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
       ],
       "answer": 1,
-      "explanation": "The opening time given is 10 a.m."
+      "explanation": "Option B is correct: route complex issues to the right authority."
+    },
+    {
+      "id": "q12189",
+      "category": "Customer Experience",
+      "question": "Customer Experience 09: A service promise should be?",
+      "options": [
+        "realistic and achievable",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: realistic and achievable."
+    },
+    {
+      "id": "q12190",
+      "category": "Customer Experience",
+      "question": "Customer Experience 10: Customer experience improves when organisations?",
+      "options": [
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "act on feedback and remove avoidable obstacles"
+      ],
+      "answer": 3,
+      "explanation": "Option D is correct: act on feedback and remove avoidable obstacles."
     }
   ]
 }
