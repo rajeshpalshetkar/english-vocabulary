@@ -3,139 +3,139 @@
   "slug": "quiz-0932",
   "title": "English Practice Quiz 0932",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q090",
-      "category": "Conditionals",
-      "question": "If I were you, I ___ apologise.",
+      "id": "q10611",
+      "category": "Leadership Skills",
+      "question": "A good team leader should set ___.",
       "options": [
-        "will",
-        "would",
-        "am",
-        "did"
-      ],
-      "answer": 1,
-      "explanation": "If I were you is followed by would for advice."
-    },
-    {
-      "id": "q101",
-      "category": "Determiners",
-      "question": "There isn't ___ milk left.",
-      "options": [
-        "many",
-        "much",
-        "few",
-        "several"
-      ],
-      "answer": 1,
-      "explanation": "Milk is uncountable, so use much in a negative sentence."
-    },
-    {
-      "id": "q112",
-      "category": "Gerunds",
-      "question": "He decided ___ early.",
-      "options": [
-        "leave",
-        "leaving",
-        "to leave",
-        "leaves"
-      ],
-      "answer": 2,
-      "explanation": "Decide is commonly followed by a to-infinitive."
-    },
-    {
-      "id": "q008",
-      "category": "Grammar",
-      "question": "This is the woman ___ helped me.",
-      "options": [
-        "which",
-        "who",
-        "where",
-        "when"
-      ],
-      "answer": 1,
-      "explanation": "Who is used for people."
-    },
-    {
-      "id": "q019",
-      "category": "Tenses",
-      "question": "She ___ in this hospital for five years.",
-      "options": [
-        "works",
-        "worked",
-        "has worked",
-        "is work"
-      ],
-      "answer": 2,
-      "explanation": "The present perfect can describe a situation continuing to the present."
-    },
-    {
-      "id": "q030",
-      "category": "Vocabulary",
-      "question": "Choose the best word: The road is very ___. There are many cars.",
-      "options": [
-        "crowded",
-        "empty",
-        "quietly",
-        "soft"
+        "clear expectations and priorities",
+        "unexplained rules",
+        "different standards for friends",
+        "goals that cannot be understood"
       ],
       "answer": 0,
-      "explanation": "Crowded means filled with many people or things; it can describe busy roads."
+      "explanation": "Clear expectations help team members understand their responsibilities."
     },
     {
-      "id": "q041",
-      "category": "Modals",
-      "question": "___ I borrow your pen, please?",
+      "id": "q10612",
+      "category": "Leadership Skills",
+      "question": "Delegation means ___.",
       "options": [
-        "May",
-        "Must",
-        "Should",
-        "Would have"
+        "assigning responsibility or tasks to others appropriately",
+        "doing every task alone",
+        "avoiding accountability",
+        "transferring blame"
       ],
       "answer": 0,
-      "explanation": "May is a polite way to ask permission."
+      "explanation": "Delegation distributes work while the leader remains accountable for oversight."
     },
     {
-      "id": "q052",
-      "category": "Conversation",
-      "question": "You did not hear someone. You say:",
+      "id": "q10613",
+      "category": "Leadership Skills",
+      "question": "A leader who welcomes suggestions demonstrates ___.",
       "options": [
-        "Speak now!",
-        "Could you repeat that, please?",
-        "What your problem?",
-        "I don't hear you yesterday."
+        "openness to feedback",
+        "fear of discussion",
+        "unfair favouritism",
+        "lack of interest"
       ],
-      "answer": 1,
-      "explanation": "Could you repeat that, please? is a polite request."
+      "answer": 0,
+      "explanation": "Welcoming suggestions encourages participation and improvement."
     },
     {
-      "id": "q063",
-      "category": "Reading",
-      "question": "Read: 'Ravi practises English for twenty minutes every evening.' How long does he practise?",
+      "id": "q10614",
+      "category": "Leadership Skills",
+      "question": "When a team member performs well, a leader should ___.",
       "options": [
-        "Ten minutes",
-        "Twenty minutes",
-        "Thirty minutes",
-        "One hour"
+        "recognise the achievement sincerely",
+        "take credit for the work",
+        "ignore the contribution",
+        "criticise unrelated matters"
       ],
-      "answer": 1,
-      "explanation": "The passage states twenty minutes."
+      "answer": 0,
+      "explanation": "Recognition reinforces positive performance."
     },
     {
-      "id": "q074",
-      "category": "Questions",
-      "question": "Which question asks for a reason?",
+      "id": "q10615",
+      "category": "Leadership Skills",
+      "question": "A team leader should address poor performance by ___.",
       "options": [
-        "What happened?",
-        "Where are you?",
-        "Why are you late?",
-        "When is lunch?"
+        "discussing specific concerns and support needed",
+        "insulting the employee publicly",
+        "changing records secretly",
+        "ignoring the issue indefinitely"
       ],
-      "answer": 2,
-      "explanation": "Why asks for a reason."
+      "answer": 0,
+      "explanation": "Specific feedback and support make improvement more achievable."
+    },
+    {
+      "id": "q10616",
+      "category": "Leadership Skills",
+      "question": "Leading by example means ___.",
+      "options": [
+        "demonstrating the standards expected from the team",
+        "asking others to follow rules you ignore",
+        "avoiding difficult duties",
+        "giving instructions without action"
+      ],
+      "answer": 0,
+      "explanation": "A leader's behaviour should reflect the standards they expect."
+    },
+    {
+      "id": "q10617",
+      "category": "Leadership Skills",
+      "question": "A team objective is most effective when it is ___.",
+      "options": [
+        "understood and shared by team members",
+        "known only to the manager",
+        "unrelated to daily work",
+        "changed without explanation"
+      ],
+      "answer": 0,
+      "explanation": "Shared objectives help align team effort."
+    },
+    {
+      "id": "q10618",
+      "category": "Leadership Skills",
+      "question": "A leader should make decisions using ___.",
+      "options": [
+        "relevant facts and fair judgement",
+        "personal rumours",
+        "favouritism alone",
+        "pressure without evidence"
+      ],
+      "answer": 0,
+      "explanation": "Facts and fair judgement support sound decisions."
+    },
+    {
+      "id": "q10619",
+      "category": "Leadership Skills",
+      "question": "Coaching at work focuses on helping an employee ___.",
+      "options": [
+        "develop skills and improve performance",
+        "avoid every responsibility",
+        "hide mistakes",
+        "replace all procedures"
+      ],
+      "answer": 0,
+      "explanation": "Coaching supports learning and development."
+    },
+    {
+      "id": "q10620",
+      "category": "Leadership Skills",
+      "question": "When a team faces a setback, a constructive leader should ___.",
+      "options": [
+        "review the cause and agree on next steps",
+        "blame one person immediately",
+        "stop communicating",
+        "hide the outcome"
+      ],
+      "answer": 0,
+      "explanation": "A review helps the team learn and recover."
     }
   ]
 }
