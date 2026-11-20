@@ -3,139 +3,139 @@
   "slug": "quiz-0905",
   "title": "English Practice Quiz 0905",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q091",
-      "category": "Passive Voice",
-      "question": "Choose the passive form: 'They clean the room.'",
+      "id": "q10941",
+      "category": "Digital Workplace Skills",
+      "question": "A spreadsheet cell is identified by its ___.",
       "options": [
-        "The room cleaned them.",
-        "The room is cleaned by them.",
-        "The room is cleaning.",
-        "The room has clean."
-      ],
-      "answer": 1,
-      "explanation": "Present simple passive: am/is/are + past participle."
-    },
-    {
-      "id": "q110",
-      "category": "Adverbs",
-      "question": "Please drive ___.",
-      "options": [
-        "careful",
-        "carefully",
-        "care",
-        "caring"
-      ],
-      "answer": 1,
-      "explanation": "Carefully is the adverb modifying drive."
-    },
-    {
-      "id": "q014",
-      "category": "Tenses",
-      "question": "I think it ___ tomorrow.",
-      "options": [
-        "rains",
-        "rained",
-        "will rain",
-        "raining"
-      ],
-      "answer": 2,
-      "explanation": "Will plus the base verb can express a future prediction."
-    },
-    {
-      "id": "q033",
-      "category": "Articles",
-      "question": "Please close ___ door.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 2,
-      "explanation": "The refers to a specific door known to the speaker and listener."
-    },
-    {
-      "id": "q052",
-      "category": "Conversation",
-      "question": "You did not hear someone. You say:",
-      "options": [
-        "Speak now!",
-        "Could you repeat that, please?",
-        "What your problem?",
-        "I don't hear you yesterday."
-      ],
-      "answer": 1,
-      "explanation": "Could you repeat that, please? is a polite request."
-    },
-    {
-      "id": "q071",
-      "category": "Questions",
-      "question": "Choose the correct WH question for a place.",
-      "options": [
-        "When do you live?",
-        "Where do you live?",
-        "Who do you live?",
-        "Why do you live?"
-      ],
-      "answer": 1,
-      "explanation": "Where asks about a place or location."
-    },
-    {
-      "id": "q090",
-      "category": "Conditionals",
-      "question": "If I were you, I ___ apologise.",
-      "options": [
-        "will",
-        "would",
-        "am",
-        "did"
-      ],
-      "answer": 1,
-      "explanation": "If I were you is followed by would for advice."
-    },
-    {
-      "id": "q109",
-      "category": "Adverbs",
-      "question": "She arrived ___.",
-      "options": [
-        "late",
-        "lately",
-        "latest",
-        "laterly"
+        "column letter and row number",
+        "file colour and size",
+        "author's initials only",
+        "date and time only"
       ],
       "answer": 0,
-      "explanation": "Late is the correct adverb meaning not on time."
+      "explanation": "column letter and row number is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q013",
-      "category": "Tenses",
-      "question": "At 8 p.m. yesterday, I ___ dinner.",
+      "id": "q10942",
+      "category": "Digital Workplace Skills",
+      "question": "Sorting spreadsheet data can ___.",
       "options": [
-        "cook",
-        "cooked",
-        "was cooking",
-        "am cooking"
+        "delete every formula",
+        "encrypt the workbook",
+        "print without a printer",
+        "arrange records by a selected field"
+      ],
+      "answer": 3,
+      "explanation": "arrange records by a selected field is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q10943",
+      "category": "Digital Workplace Skills",
+      "question": "A strong file name should be ___.",
+      "options": [
+        "random symbols only",
+        "the same for every file",
+        "descriptive and consistent",
+        "blank whenever possible"
       ],
       "answer": 2,
-      "explanation": "Use the past continuous for an action in progress at a specific past time."
+      "explanation": "descriptive and consistent is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q032",
-      "category": "Articles",
-      "question": "She is ___ university student.",
+      "id": "q10944",
+      "category": "Digital Workplace Skills",
+      "question": "A video conference microphone should be muted when ___.",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
+        "you need to ask a question",
+        "you are not speaking and background noise may disturb others",
+        "you are presenting",
+        "the host requests a response"
+      ],
+      "answer": 1,
+      "explanation": "you are not speaking and background noise may disturb others is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q10945",
+      "category": "Digital Workplace Skills",
+      "question": "A shared document permission of 'commenter' usually allows a user to ___.",
+      "options": [
+        "add comments without directly editing the main text",
+        "delete the account",
+        "change all access settings",
+        "publish automatically"
       ],
       "answer": 0,
-      "explanation": "University begins with the consonant sound /y/, so use a."
+      "explanation": "add comments without directly editing the main text is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q10946",
+      "category": "Digital Workplace Skills",
+      "question": "What is the purpose of a browser bookmark?",
+      "options": [
+        "To erase browsing history",
+        "To block every website",
+        "To change a file format",
+        "To save a webpage for easier future access"
+      ],
+      "answer": 3,
+      "explanation": "To save a webpage for easier future access is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q10947",
+      "category": "Digital Workplace Skills",
+      "question": "A compressed archive file is often used to ___.",
+      "options": [
+        "verify identity",
+        "replace a database",
+        "bundle files and reduce storage size",
+        "improve screen resolution"
+      ],
+      "answer": 2,
+      "explanation": "bundle files and reduce storage size is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q10948",
+      "category": "Digital Workplace Skills",
+      "question": "Before using a public computer for work, you should ___.",
+      "options": [
+        "leave accounts signed in",
+        "follow security rules and avoid saving credentials",
+        "disable security controls",
+        "store confidential files locally"
+      ],
+      "answer": 1,
+      "explanation": "follow security rules and avoid saving credentials is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q10949",
+      "category": "Digital Workplace Skills",
+      "question": "A spreadsheet filter helps users ___.",
+      "options": [
+        "display records matching selected conditions",
+        "change every value",
+        "remove data permanently",
+        "create an email account"
+      ],
+      "answer": 0,
+      "explanation": "display records matching selected conditions is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q10950",
+      "category": "Digital Workplace Skills",
+      "question": "Why back up important files regularly?",
+      "options": [
+        "To make files public",
+        "To remove access controls",
+        "To avoid naming files",
+        "To reduce the risk of permanent data loss"
+      ],
+      "answer": 3,
+      "explanation": "To reduce the risk of permanent data loss is the correct answer based on the meaning and context of the question."
     }
   ]
 }
