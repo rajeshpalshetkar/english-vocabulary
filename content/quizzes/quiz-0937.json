@@ -3,139 +3,139 @@
   "slug": "quiz-0937",
   "title": "English Practice Quiz 0937",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q060",
-      "category": "Pronunciation",
-      "question": "How many syllables are in 'computer'?",
+      "id": "q10661",
+      "category": "Business Correspondence",
+      "question": "A memorandum is generally used for ___.",
       "options": [
-        "one",
-        "two",
-        "three",
-        "four"
-      ],
-      "answer": 2,
-      "explanation": "Computer is commonly pronounced with three syllables: com-pu-ter."
-    },
-    {
-      "id": "q089",
-      "category": "Conditionals",
-      "question": "If she studies, she ___ the test.",
-      "options": [
-        "passes",
-        "passed",
-        "will pass",
-        "would passed"
-      ],
-      "answer": 2,
-      "explanation": "Use will + base verb in the main clause of the first conditional."
-    },
-    {
-      "id": "q003",
-      "category": "Grammar",
-      "question": "I ___ a new notebook yesterday.",
-      "options": [
-        "buy",
-        "buys",
-        "bought",
-        "buying"
-      ],
-      "answer": 2,
-      "explanation": "Yesterday signals the past simple. The past form of buy is bought."
-    },
-    {
-      "id": "q032",
-      "category": "Articles",
-      "question": "She is ___ university student.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
+        "formal communication within an organisation",
+        "advertising a public concert only",
+        "recording a personal diary",
+        "issuing a travel ticket"
       ],
       "answer": 0,
-      "explanation": "University begins with the consonant sound /y/, so use a."
+      "explanation": "A memo is a common form of internal business communication."
     },
     {
-      "id": "q061",
-      "category": "Reading",
-      "question": "Read: 'Mina takes the bus at 8 a.m. and reaches work at 8:45.' How does Mina travel?",
+      "id": "q10662",
+      "category": "Business Correspondence",
+      "question": "The abbreviation 'FYI' means ___.",
       "options": [
-        "By train",
-        "By bus",
-        "By car",
-        "On foot"
+        "for your information",
+        "final yearly invoice",
+        "file your identity",
+        "follow your instruction"
       ],
-      "answer": 1,
-      "explanation": "The passage clearly says Mina takes the bus."
+      "answer": 0,
+      "explanation": "FYI introduces information shared for someone's awareness."
     },
     {
-      "id": "q090",
-      "category": "Conditionals",
-      "question": "If I were you, I ___ apologise.",
+      "id": "q10663",
+      "category": "Business Correspondence",
+      "question": "A circular is commonly sent to ___.",
       "options": [
-        "will",
-        "would",
-        "am",
-        "did"
+        "inform a group of people about the same matter",
+        "request a private password",
+        "record a single phone call",
+        "replace an employment contract"
       ],
-      "answer": 1,
-      "explanation": "If I were you is followed by would for advice."
+      "answer": 0,
+      "explanation": "A circular communicates a common message to multiple recipients."
     },
     {
-      "id": "q004",
-      "category": "Grammar",
-      "question": "There ___ two chairs in the room.",
+      "id": "q10664",
+      "category": "Business Correspondence",
+      "question": "A formal letter's reference line helps identify ___.",
       "options": [
-        "is",
-        "are",
-        "am",
-        "was"
+        "the related file or correspondence",
+        "the sender's favourite subject",
+        "the paper's weight",
+        "the recipient's home furniture"
       ],
-      "answer": 1,
-      "explanation": "Use are with the plural noun chairs."
+      "answer": 0,
+      "explanation": "A reference line helps link the letter to a matter or file."
     },
     {
-      "id": "q033",
-      "category": "Articles",
-      "question": "Please close ___ door.",
+      "id": "q10665",
+      "category": "Business Correspondence",
+      "question": "The phrase 'with reference to' means ___.",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
+        "concerning or in relation to",
+        "without considering",
+        "in opposition to every fact",
+        "at a later time only"
       ],
-      "answer": 2,
-      "explanation": "The refers to a specific door known to the speaker and listener."
+      "answer": 0,
+      "explanation": "It introduces the subject or matter being discussed."
     },
     {
-      "id": "q062",
-      "category": "Reading",
-      "question": "Read: 'The shop closes at 9 p.m., but it opens at 10 a.m.' When does it open?",
+      "id": "q10666",
+      "category": "Business Correspondence",
+      "question": "An acknowledgement letter confirms that ___.",
       "options": [
-        "9 a.m.",
-        "10 a.m.",
-        "9 p.m.",
-        "10 p.m."
+        "a communication or item has been received",
+        "a payment is always refunded",
+        "a contract is cancelled",
+        "a meeting has been forgotten"
       ],
-      "answer": 1,
-      "explanation": "The opening time given is 10 a.m."
+      "answer": 0,
+      "explanation": "An acknowledgement confirms receipt."
     },
     {
-      "id": "q091",
-      "category": "Passive Voice",
-      "question": "Choose the passive form: 'They clean the room.'",
+      "id": "q10667",
+      "category": "Business Correspondence",
+      "question": "A formal notice should identify the action required and ___.",
       "options": [
-        "The room cleaned them.",
-        "The room is cleaned by them.",
-        "The room is cleaning.",
-        "The room has clean."
+        "the relevant date or deadline",
+        "the author's private password",
+        "unrelated personal opinions",
+        "unverified social media claims"
       ],
-      "answer": 1,
-      "explanation": "Present simple passive: am/is/are + past participle."
+      "answer": 0,
+      "explanation": "Clear dates help recipients understand when action is needed."
+    },
+    {
+      "id": "q10668",
+      "category": "Business Correspondence",
+      "question": "A letter marked 'urgent' should be handled ___.",
+      "options": [
+        "promptly according to its importance and procedure",
+        "after every routine task regardless of risk",
+        "without reading it",
+        "by forwarding it to unknown recipients"
+      ],
+      "answer": 0,
+      "explanation": "Urgent correspondence requires timely attention."
+    },
+    {
+      "id": "q10669",
+      "category": "Business Correspondence",
+      "question": "A copy notation such as 'CC' indicates ___.",
+      "options": [
+        "other recipients who receive a copy",
+        "the letter's paper size",
+        "the author's job grade",
+        "a confidential password"
+      ],
+      "answer": 0,
+      "explanation": "CC identifies additional copy recipients."
+    },
+    {
+      "id": "q10670",
+      "category": "Business Correspondence",
+      "question": "A business letter should use a tone that is ___.",
+      "options": [
+        "clear, respectful and appropriate",
+        "hostile and insulting",
+        "ambiguous and careless",
+        "overly familiar in every situation"
+      ],
+      "answer": 0,
+      "explanation": "Professional tone supports effective formal communication."
     }
   ]
 }
