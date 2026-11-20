@@ -3,139 +3,139 @@
   "slug": "quiz-0925",
   "title": "English Practice Quiz 0925",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q086",
-      "category": "Conditionals",
-      "question": "If it rains, we ___ indoors.",
+      "id": "q10741",
+      "category": "Inventory Control",
+      "question": "A stocktake involves ___.",
       "options": [
-        "stay",
-        "will stay",
-        "stayed",
-        "would stayed"
-      ],
-      "answer": 1,
-      "explanation": "The first conditional uses if + present simple, will + base verb."
-    },
-    {
-      "id": "q105",
-      "category": "Determiners",
-      "question": "___ student must bring an ID card.",
-      "options": [
-        "Each",
-        "Many",
-        "Few",
-        "Several"
+        "counting physical inventory",
+        "interviewing applicants",
+        "planning holidays",
+        "repairing computers"
       ],
       "answer": 0,
-      "explanation": "Each refers to every individual in a group."
+      "explanation": "counting physical inventory is correct. The sentence or passage provides the relevant meaning and context."
     },
     {
-      "id": "q009",
-      "category": "Grammar",
-      "question": "Choose the correct comparative form.",
+      "id": "q10742",
+      "category": "Inventory Control",
+      "question": "FIFO means ___.",
       "options": [
-        "more tall",
-        "taller",
-        "tallest than",
-        "most tall"
+        "Final Invoice For Orders",
+        "First In, First Out",
+        "Fast Inspection For Output",
+        "File In, File Out"
       ],
       "answer": 1,
-      "explanation": "The comparative form of the short adjective tall is taller."
+      "explanation": "First In, First Out is correct. The sentence or passage provides the relevant meaning and context."
     },
     {
-      "id": "q028",
-      "category": "Vocabulary",
-      "question": "A place where medicines are dispensed is a ___.",
+      "id": "q10743",
+      "category": "Inventory Control",
+      "question": "A reorder level indicates when stock should be ___.",
       "options": [
-        "bakery",
-        "pharmacy",
-        "library",
-        "garage"
-      ],
-      "answer": 1,
-      "explanation": "A pharmacy is a place where medicines are prepared or supplied."
-    },
-    {
-      "id": "q047",
-      "category": "Sentence Building",
-      "question": "Choose the correct question.",
-      "options": [
-        "Where you live?",
-        "Where do you live?",
-        "Where does you live?",
-        "Where are live you?"
-      ],
-      "answer": 1,
-      "explanation": "Use do + subject + base verb for present simple questions with you."
-    },
-    {
-      "id": "q066",
-      "category": "Workplace English",
-      "question": "A professional way to ask for a file is:",
-      "options": [
-        "Give file now.",
-        "Could you please share the file?",
-        "File give me.",
-        "You must file."
-      ],
-      "answer": 1,
-      "explanation": "Could you please is a polite and professional request."
-    },
-    {
-      "id": "q085",
-      "category": "Confusing Words",
-      "question": "The bus is ___ than the car today.",
-      "options": [
-        "fast",
-        "faster",
-        "fastest",
-        "more fast"
-      ],
-      "answer": 1,
-      "explanation": "Use the comparative form faster when comparing two things."
-    },
-    {
-      "id": "q104",
-      "category": "Determiners",
-      "question": "There is ___ water in the bottle.",
-      "options": [
-        "a few",
-        "many",
-        "a little",
-        "several"
+        "discarded",
+        "sent to payroll",
+        "replenished",
+        "removed from catalogue"
       ],
       "answer": 2,
-      "explanation": "A little is used with uncountable nouns."
+      "explanation": "replenished is correct. The sentence or passage provides the relevant meaning and context."
     },
     {
-      "id": "q008",
-      "category": "Grammar",
-      "question": "This is the woman ___ helped me.",
+      "id": "q10744",
+      "category": "Inventory Control",
+      "question": "A stock discrepancy should be ___.",
       "options": [
-        "which",
-        "who",
-        "where",
-        "when"
+        "ignored",
+        "guessed",
+        "hidden",
+        "investigated and documented"
       ],
-      "answer": 1,
-      "explanation": "Who is used for people."
+      "answer": 3,
+      "explanation": "investigated and documented is correct. The sentence or passage provides the relevant meaning and context."
     },
     {
-      "id": "q027",
-      "category": "Vocabulary",
-      "question": "Choose the correct word: Please ___ the details.",
+      "id": "q10745",
+      "category": "Inventory Control",
+      "question": "A batch number identifies ___.",
       "options": [
-        "confirm",
-        "crowded",
-        "repairing",
-        "hungry"
+        "a particular production or supply lot",
+        "a shift time",
+        "floor colour",
+        "driver's age"
       ],
       "answer": 0,
-      "explanation": "Confirm means to check or establish that something is correct."
+      "explanation": "a particular production or supply lot is correct. The sentence or passage provides the relevant meaning and context."
+    },
+    {
+      "id": "q10746",
+      "category": "Inventory Control",
+      "question": "Perishable goods must be stored according to ___.",
+      "options": [
+        "nearest shelf only",
+        "specified temperature and handling requirements",
+        "personal preference",
+        "packaging colour"
+      ],
+      "answer": 1,
+      "explanation": "specified temperature and handling requirements is correct. The sentence or passage provides the relevant meaning and context."
+    },
+    {
+      "id": "q10747",
+      "category": "Inventory Control",
+      "question": "Obsolete stock is stock that is ___.",
+      "options": [
+        "newly received",
+        "always expensive",
+        "no longer current or useful",
+        "counted twice"
+      ],
+      "answer": 2,
+      "explanation": "no longer current or useful is correct. The sentence or passage provides the relevant meaning and context."
+    },
+    {
+      "id": "q10748",
+      "category": "Inventory Control",
+      "question": "A goods received note records ___.",
+      "options": [
+        "staff attendance",
+        "complaints only",
+        "electricity bills",
+        "items delivered and received"
+      ],
+      "answer": 3,
+      "explanation": "items delivered and received is correct. The sentence or passage provides the relevant meaning and context."
+    },
+    {
+      "id": "q10749",
+      "category": "Inventory Control",
+      "question": "Stock rotation helps reduce ___.",
+      "options": [
+        "expiry and deterioration",
+        "record accuracy",
+        "safe storage",
+        "supplier contact"
+      ],
+      "answer": 0,
+      "explanation": "expiry and deterioration is correct. The sentence or passage provides the relevant meaning and context."
+    },
+    {
+      "id": "q10750",
+      "category": "Inventory Control",
+      "question": "A minimum stock level helps prevent ___.",
+      "options": [
+        "all purchases",
+        "shortages of essential items",
+        "staff training",
+        "supplier communication"
+      ],
+      "answer": 1,
+      "explanation": "shortages of essential items is correct. The sentence or passage provides the relevant meaning and context."
     }
   ]
 }
