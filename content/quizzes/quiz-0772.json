@@ -3,139 +3,139 @@
   "slug": "quiz-0772",
   "title": "English Practice Quiz 0772",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Conversation",
+  "category": "Practical English",
   "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q015",
-      "category": "Tenses",
-      "question": "She ___ the report before the manager arrived.",
+      "id": "q12211",
+      "category": "Food Safety and Hygiene",
+      "question": "Food Safety and Hygiene 01: The safest way to prevent cross-contamination is to?",
       "options": [
-        "finished",
-        "has finished",
-        "had finished",
-        "finishes"
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "keep raw and ready-to-eat foods separate"
       ],
-      "answer": 2,
-      "explanation": "Use the past perfect for an action completed before another past action."
+      "answer": 3,
+      "explanation": "Option D is correct: keep raw and ready-to-eat foods separate."
     },
     {
-      "id": "q026",
-      "category": "Vocabulary",
-      "question": "What does 'borrow' mean?",
+      "id": "q12212",
+      "category": "Food Safety and Hygiene",
+      "question": "Food Safety and Hygiene 02: Food handlers should wash their hands?",
       "options": [
-        "give something forever",
-        "take something temporarily and return it",
-        "break something",
-        "buy something"
-      ],
-      "answer": 1,
-      "explanation": "Borrow means to take something for a period and return it."
-    },
-    {
-      "id": "q037",
-      "category": "Prepositions",
-      "question": "My birthday is ___ July.",
-      "options": [
-        "at",
-        "in",
-        "on",
-        "from"
-      ],
-      "answer": 1,
-      "explanation": "Use in with months."
-    },
-    {
-      "id": "q048",
-      "category": "Sentence Building",
-      "question": "Choose the correct sentence.",
-      "options": [
-        "Because I was tired, I went to bed early.",
-        "Because I tired, went bed early.",
-        "I because was tired bed early.",
-        "Because tired I went early bed."
+        "before handling food and after contamination risks",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
       ],
       "answer": 0,
-      "explanation": "The subordinate clause beginning with because explains the reason."
+      "explanation": "Option A is correct: before handling food and after contamination risks."
     },
     {
-      "id": "q059",
-      "category": "Pronunciation",
-      "question": "Which word rhymes with 'light'?",
+      "id": "q12213",
+      "category": "Food Safety and Hygiene",
+      "question": "Food Safety and Hygiene 03: A food storage temperature should be?",
       "options": [
-        "late",
-        "lit",
-        "night",
-        "let"
+        "share the information publicly",
+        "checked against the applicable food safety requirement",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
+      ],
+      "answer": 1,
+      "explanation": "Option B is correct: checked against the applicable food safety requirement."
+    },
+    {
+      "id": "q12214",
+      "category": "Food Safety and Hygiene",
+      "question": "Food Safety and Hygiene 04: Perishable food left at an unsafe temperature should be?",
+      "options": [
+        "make an unsupported assumption",
+        "share the information publicly",
+        "handled according to food safety procedures",
+        "ignore the issue and continue"
       ],
       "answer": 2,
-      "explanation": "Light and night share the same ending sound."
+      "explanation": "Option C is correct: handled according to food safety procedures."
     },
     {
-      "id": "q070",
-      "category": "Workplace English",
-      "question": "To confirm an instruction, you can say:",
+      "id": "q12215",
+      "category": "Food Safety and Hygiene",
+      "question": "Food Safety and Hygiene 05: A clean food preparation surface should be?",
       "options": [
-        "Could you please confirm the details?",
-        "I not listen.",
-        "Confirm me now.",
-        "Details no."
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "sanitised using an approved method"
+      ],
+      "answer": 3,
+      "explanation": "Option D is correct: sanitised using an approved method."
+    },
+    {
+      "id": "q12216",
+      "category": "Food Safety and Hygiene",
+      "question": "Food Safety and Hygiene 06: Food allergies should be managed by?",
+      "options": [
+        "checking ingredients and preventing cross-contact",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
       ],
       "answer": 0,
-      "explanation": "Could you please confirm... is polite and precise."
+      "explanation": "Option A is correct: checking ingredients and preventing cross-contact."
     },
     {
-      "id": "q081",
-      "category": "Confusing Words",
-      "question": "Choose the correct word: ___ going to arrive soon.",
+      "id": "q12217",
+      "category": "Food Safety and Hygiene",
+      "question": "Food Safety and Hygiene 07: A use-by date indicates?",
       "options": [
-        "Their",
-        "There",
-        "They're",
-        "Theirs"
-      ],
-      "answer": 2,
-      "explanation": "They're is the contraction of they are."
-    },
-    {
-      "id": "q092",
-      "category": "Passive Voice",
-      "question": "Choose the passive form: 'The manager signed the letter.'",
-      "options": [
-        "The letter is signed.",
-        "The letter was signed by the manager.",
-        "The letter signed the manager.",
-        "The letter has sign."
+        "share the information publicly",
+        "the date after which the food may be unsafe",
+        "ignore the issue and continue",
+        "make an unsupported assumption"
       ],
       "answer": 1,
-      "explanation": "Past simple passive: was/were + past participle."
+      "explanation": "Option B is correct: the date after which the food may be unsafe."
     },
     {
-      "id": "q103",
-      "category": "Determiners",
-      "question": "I have ___ friends in this city.",
+      "id": "q12218",
+      "category": "Food Safety and Hygiene",
+      "question": "Food Safety and Hygiene 08: Food waste should be stored?",
       "options": [
-        "a little",
-        "a few",
-        "much",
-        "anyone"
-      ],
-      "answer": 1,
-      "explanation": "A few is used with countable plural nouns."
-    },
-    {
-      "id": "q114",
-      "category": "Gerunds",
-      "question": "They finished ___ the room.",
-      "options": [
-        "clean",
-        "to clean",
-        "cleaning",
-        "cleaned"
+        "make an unsupported assumption",
+        "share the information publicly",
+        "in suitable covered containers and removed regularly",
+        "ignore the issue and continue"
       ],
       "answer": 2,
-      "explanation": "Finish is followed by a gerund."
+      "explanation": "Option C is correct: in suitable covered containers and removed regularly."
+    },
+    {
+      "id": "q12219",
+      "category": "Food Safety and Hygiene",
+      "question": "Food Safety and Hygiene 09: A pest sighting in a food area should be?",
+      "options": [
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly",
+        "reported and addressed through pest control procedures"
+      ],
+      "answer": 3,
+      "explanation": "Option D is correct: reported and addressed through pest control procedures."
+    },
+    {
+      "id": "q12220",
+      "category": "Food Safety and Hygiene",
+      "question": "Food Safety and Hygiene 10: Protective clothing in food preparation helps?",
+      "options": [
+        "reduce contamination risks",
+        "ignore the issue and continue",
+        "make an unsupported assumption",
+        "share the information publicly"
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct: reduce contamination risks."
     }
   ]
 }
