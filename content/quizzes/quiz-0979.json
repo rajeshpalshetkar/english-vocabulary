@@ -3,139 +3,139 @@
   "slug": "quiz-0979",
   "title": "English Practice Quiz 0979",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q084",
-      "category": "Confusing Words",
-      "question": "I have ___ my keys.",
+      "id": "q10281",
+      "category": "Advanced Vocabulary",
+      "question": "A 'meticulous' person pays attention to ___.",
       "options": [
-        "loose",
-        "lose",
-        "lost",
-        "loss"
+        "small details",
+        "only distant events",
+        "unrelated rumours",
+        "nothing at all"
       ],
-      "answer": 2,
-      "explanation": "Lost is the past participle of lose."
+      "answer": 0,
+      "explanation": "Meticulous means very careful and attentive to detail."
     },
     {
-      "id": "q006",
-      "category": "Grammar",
-      "question": "He is ___ honest man.",
+      "id": "q10282",
+      "category": "Advanced Vocabulary",
+      "question": "To 'mitigate' a risk is to ___.",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
+        "reduce its severity or likelihood",
+        "make it unavoidable",
+        "conceal every warning",
+        "increase its impact"
       ],
-      "answer": 1,
-      "explanation": "Use an before a vowel sound. Honest begins with a silent h."
+      "answer": 0,
+      "explanation": "Mitigate means make something less harmful or serious."
     },
     {
-      "id": "q043",
-      "category": "Modals",
-      "question": "When I was five, I ___ swim.",
+      "id": "q10283",
+      "category": "Advanced Vocabulary",
+      "question": "An 'ambiguous' statement is ___.",
       "options": [
-        "can",
-        "could",
-        "may",
-        "must"
+        "open to more than one interpretation",
+        "completely precise",
+        "written in a foreign alphabet only",
+        "always false"
       ],
-      "answer": 1,
-      "explanation": "Could expresses past ability."
+      "answer": 0,
+      "explanation": "Ambiguous wording can be understood in different ways."
     },
     {
-      "id": "q080",
-      "category": "Punctuation",
-      "question": "Choose the correctly written date phrase.",
+      "id": "q10284",
+      "category": "Advanced Vocabulary",
+      "question": "A 'plausible' explanation is one that ___.",
       "options": [
-        "on monday",
-        "on Monday",
-        "On monday",
-        "on Monday."
+        "seems reasonable or believable",
+        "is impossible by definition",
+        "contains no meaning",
+        "is always proven"
       ],
-      "answer": 1,
-      "explanation": "Days of the week begin with a capital letter."
+      "answer": 0,
+      "explanation": "Plausible means appearing reasonable or likely."
     },
     {
-      "id": "q002",
-      "category": "Grammar",
-      "question": "They ___ ready for the meeting.",
+      "id": "q10285",
+      "category": "Advanced Vocabulary",
+      "question": "The word 'inevitable' describes something that ___.",
       "options": [
-        "is",
-        "am",
-        "are",
-        "be"
+        "cannot be avoided",
+        "can be postponed forever",
+        "is unlikely to happen",
+        "has already been forgotten"
       ],
-      "answer": 2,
-      "explanation": "Use are with the plural subject they."
+      "answer": 0,
+      "explanation": "Inevitable means certain to happen or unavoidable."
     },
     {
-      "id": "q039",
-      "category": "Prepositions",
-      "question": "She is interested ___ music.",
+      "id": "q10286",
+      "category": "Advanced Vocabulary",
+      "question": "To 'scrutinise' a document is to ___.",
       "options": [
-        "on",
-        "at",
-        "in",
-        "for"
+        "examine it very carefully",
+        "destroy it immediately",
+        "translate it without reading",
+        "file it without checking"
       ],
-      "answer": 2,
-      "explanation": "The adjective interested is followed by in."
+      "answer": 0,
+      "explanation": "Scrutinise means inspect closely and critically."
     },
     {
-      "id": "q076",
-      "category": "Punctuation",
-      "question": "Choose the correctly punctuated sentence.",
+      "id": "q10287",
+      "category": "Advanced Vocabulary",
+      "question": "A 'coherent' argument is ___.",
       "options": [
-        "where are you.",
-        "Where are you?",
-        "Where are you,",
-        "where are you!"
+        "logical and well organised",
+        "full of unrelated points",
+        "impossible to follow",
+        "based only on insults"
       ],
-      "answer": 1,
-      "explanation": "Start with a capital letter and use a question mark."
+      "answer": 0,
+      "explanation": "Coherent ideas connect logically and clearly."
     },
     {
-      "id": "q113",
-      "category": "Gerunds",
-      "question": "She is good at ___.",
+      "id": "q10288",
+      "category": "Advanced Vocabulary",
+      "question": "The manager's decision was 'provisional', meaning it was ___.",
       "options": [
-        "swim",
-        "to swim",
-        "swimming",
-        "swam"
+        "temporary and subject to change",
+        "permanent under all circumstances",
+        "made without discussion",
+        "legally impossible"
       ],
-      "answer": 2,
-      "explanation": "A preposition such as at is followed by a noun or gerund."
+      "answer": 0,
+      "explanation": "Provisional describes an arrangement that may be changed later."
     },
     {
-      "id": "q035",
-      "category": "Articles",
-      "question": "Mount Everest is ___ highest mountain in the world.",
+      "id": "q10289",
+      "category": "Advanced Vocabulary",
+      "question": "To 'endorse' a proposal means to ___.",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
+        "publicly support or approve it",
+        "reject it without review",
+        "hide it from everyone",
+        "rewrite it in secret"
       ],
-      "answer": 2,
-      "explanation": "Use the with superlative adjectives."
+      "answer": 0,
+      "explanation": "Endorse means express support or approval."
     },
     {
-      "id": "q072",
-      "category": "Questions",
-      "question": "Which question asks about time?",
+      "id": "q10290",
+      "category": "Advanced Vocabulary",
+      "question": "A 'discrepancy' is a ___.",
       "options": [
-        "Who is calling?",
-        "When does the train leave?",
-        "Where is the station?",
-        "Why are you here?"
+        "difference or inconsistency",
+        "complete agreement",
+        "formal celebration",
+        "scheduled appointment"
       ],
-      "answer": 1,
-      "explanation": "When asks about time."
+      "answer": 0,
+      "explanation": "A discrepancy is a mismatch between details or records."
     }
   ]
 }
