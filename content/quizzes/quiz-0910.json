@@ -3,139 +3,139 @@
   "slug": "quiz-0910",
   "title": "English Practice Quiz 0910",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
+  "category": "Practical English",
   "level": "Advanced",
   "question_count": 10,
   "questions": [
     {
-      "id": "q061",
-      "category": "Reading",
-      "question": "Read: 'Mina takes the bus at 8 a.m. and reaches work at 8:45.' How does Mina travel?",
+      "id": "q10991",
+      "category": "Reading and Workplace Scenarios",
+      "question": "A notice says, 'Submit claims by 4 p.m. on Friday.' When is the deadline?",
       "options": [
-        "By train",
-        "By bus",
-        "By car",
-        "On foot"
+        "4 a.m. on Friday",
+        "4 p.m. on Friday",
+        "4 p.m. on Thursday",
+        "Friday at midnight"
       ],
       "answer": 1,
-      "explanation": "The passage clearly says Mina takes the bus."
+      "explanation": "4 p.m. on Friday is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q068",
-      "category": "Workplace English",
-      "question": "You need to report a problem. You say:",
+      "id": "q10992",
+      "category": "Reading and Workplace Scenarios",
+      "question": "A visitor has no appointment but asks to meet a staff member. What should reception do?",
       "options": [
-        "There is an issue with the printer.",
-        "Printer bad you.",
-        "I issue printer.",
-        "No printer yesterday."
+        "Follow the visitor access and approval procedure",
+        "Allow entry without checks",
+        "Share the staff member's private number",
+        "Ignore the visitor"
       ],
       "answer": 0,
-      "explanation": "There is an issue with... clearly introduces a problem."
+      "explanation": "Follow the visitor access and approval procedure is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q075",
-      "category": "Questions",
-      "question": "Choose the correct question tag: 'You are ready, ___?'",
+      "id": "q10993",
+      "category": "Reading and Workplace Scenarios",
+      "question": "A report states that output rose from 40 to 55 units. What is the increase?",
       "options": [
-        "are you",
-        "aren't you",
-        "do you",
-        "don't you"
+        "10 units",
+        "40 units",
+        "95 units",
+        "15 units"
       ],
-      "answer": 1,
-      "explanation": "A positive statement with are usually takes the negative tag aren't you."
+      "answer": 3,
+      "explanation": "15 units is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q082",
-      "category": "Confusing Words",
-      "question": "The weather can ___ your travel plans.",
+      "id": "q10994",
+      "category": "Reading and Workplace Scenarios",
+      "question": "A delivery note lists 12 boxes but only 10 arrive. What should receiving staff do?",
       "options": [
-        "affect",
-        "effect",
-        "infect",
-        "effort"
-      ],
-      "answer": 0,
-      "explanation": "Affect is usually a verb meaning to influence."
-    },
-    {
-      "id": "q089",
-      "category": "Conditionals",
-      "question": "If she studies, she ___ the test.",
-      "options": [
-        "passes",
-        "passed",
-        "will pass",
-        "would passed"
+        "Sign for all 12 without checking",
+        "Delete the delivery note",
+        "Record and report the shortage",
+        "Ignore the difference"
       ],
       "answer": 2,
-      "explanation": "Use will + base verb in the main clause of the first conditional."
+      "explanation": "Record and report the shortage is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q096",
-      "category": "Reported Speech",
-      "question": "He said, 'I am tired.' Reported speech:",
+      "id": "q10995",
+      "category": "Reading and Workplace Scenarios",
+      "question": "A colleague asks you to share your login to finish a task. What is appropriate?",
       "options": [
-        "He said that he was tired.",
-        "He said I am tired.",
-        "He says that I tired.",
-        "He said he is tire."
+        "Share the password",
+        "Decline and direct them to their own authorised access",
+        "Write it on a public notice",
+        "Use a shared personal account"
+      ],
+      "answer": 1,
+      "explanation": "Decline and direct them to their own authorised access is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q10996",
+      "category": "Reading and Workplace Scenarios",
+      "question": "A meeting action is assigned to Priya with a due date. What does this establish?",
+      "options": [
+        "Who is responsible and when the task is due",
+        "Who may ignore the task",
+        "The meeting venue",
+        "The employee's salary"
       ],
       "answer": 0,
-      "explanation": "In standard backshift, am changes to was after a past reporting verb."
+      "explanation": "Who is responsible and when the task is due is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q103",
-      "category": "Determiners",
-      "question": "I have ___ friends in this city.",
+      "id": "q10997",
+      "category": "Reading and Workplace Scenarios",
+      "question": "A customer says the invoice amount differs from the quotation. What should you do?",
       "options": [
-        "a little",
-        "a few",
-        "much",
-        "anyone"
+        "Change the invoice without checking",
+        "Dismiss the customer",
+        "Ask them to pay twice",
+        "Compare the documents and investigate the difference"
       ],
-      "answer": 1,
-      "explanation": "A few is used with countable plural nouns."
+      "answer": 3,
+      "explanation": "Compare the documents and investigate the difference is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q110",
-      "category": "Adverbs",
-      "question": "Please drive ___.",
+      "id": "q10998",
+      "category": "Reading and Workplace Scenarios",
+      "question": "A warning says, 'Do not operate; maintenance in progress.' What should staff do?",
       "options": [
-        "careful",
-        "carefully",
-        "care",
-        "caring"
-      ],
-      "answer": 1,
-      "explanation": "Carefully is the adverb modifying drive."
-    },
-    {
-      "id": "q002",
-      "category": "Grammar",
-      "question": "They ___ ready for the meeting.",
-      "options": [
-        "is",
-        "am",
-        "are",
-        "be"
+        "Test it immediately",
+        "Remove the warning",
+        "Keep the equipment out of use until cleared",
+        "Allow visitors to operate it"
       ],
       "answer": 2,
-      "explanation": "Use are with the plural subject they."
+      "explanation": "Keep the equipment out of use until cleared is the correct answer based on the meaning and context of the question."
     },
     {
-      "id": "q009",
-      "category": "Grammar",
-      "question": "Choose the correct comparative form.",
+      "id": "q10999",
+      "category": "Reading and Workplace Scenarios",
+      "question": "A schedule lists three tasks with the earliest deadline today. Which should be reviewed first?",
       "options": [
-        "more tall",
-        "taller",
-        "tallest than",
-        "most tall"
+        "The task due next month",
+        "The task due today, considering its importance",
+        "A task with no deadline automatically",
+        "A task unrelated to the schedule"
       ],
       "answer": 1,
-      "explanation": "The comparative form of the short adjective tall is taller."
+      "explanation": "The task due today, considering its importance is the correct answer based on the meaning and context of the question."
+    },
+    {
+      "id": "q11000",
+      "category": "Reading and Workplace Scenarios",
+      "question": "A message says a meeting is postponed, not cancelled. What does this mean?",
+      "options": [
+        "It will take place at a later time or date",
+        "It will never happen",
+        "It has already finished",
+        "It has moved to another building automatically"
+      ],
+      "answer": 0,
+      "explanation": "It will take place at a later time or date is the correct answer based on the meaning and context of the question."
     }
   ]
 }
