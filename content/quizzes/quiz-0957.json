@@ -3,139 +3,139 @@
   "slug": "quiz-0957",
   "title": "English Practice Quiz 0957",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q055",
-      "category": "Conversation",
-      "question": "A colleague asks for help. A polite reply is:",
+      "id": "q10461",
+      "category": "Idioms and Expressions",
+      "question": "The expression 'on the same page' means ___.",
       "options": [
-        "Certainly. What do you need?",
-        "Never ask me.",
-        "You do yourself.",
-        "No speaking."
+        "having a shared understanding",
+        "reading the same newspaper only",
+        "being in different buildings",
+        "avoiding a discussion"
       ],
       "answer": 0,
-      "explanation": "Certainly. What do you need? is helpful and polite."
+      "explanation": "It means people understand and agree about a situation."
     },
     {
-      "id": "q084",
-      "category": "Confusing Words",
-      "question": "I have ___ my keys.",
+      "id": "q10462",
+      "category": "Idioms and Expressions",
+      "question": "If someone is 'under the weather', they feel ___.",
       "options": [
-        "loose",
-        "lose",
-        "lost",
-        "loss"
-      ],
-      "answer": 2,
-      "explanation": "Lost is the past participle of lose."
-    },
-    {
-      "id": "q113",
-      "category": "Gerunds",
-      "question": "She is good at ___.",
-      "options": [
-        "swim",
-        "to swim",
-        "swimming",
-        "swam"
-      ],
-      "answer": 2,
-      "explanation": "A preposition such as at is followed by a noun or gerund."
-    },
-    {
-      "id": "q027",
-      "category": "Vocabulary",
-      "question": "Choose the correct word: Please ___ the details.",
-      "options": [
-        "confirm",
-        "crowded",
-        "repairing",
-        "hungry"
+        "slightly ill",
+        "very wealthy",
+        "extremely confident",
+        "ready to travel"
       ],
       "answer": 0,
-      "explanation": "Confirm means to check or establish that something is correct."
+      "explanation": "Under the weather is an informal expression meaning unwell."
     },
     {
-      "id": "q056",
-      "category": "Pronunciation",
-      "question": "Which word has a different beginning sound?",
+      "id": "q10463",
+      "category": "Idioms and Expressions",
+      "question": "To 'get the ball rolling' means to ___.",
       "options": [
-        "think",
-        "three",
-        "this",
-        "thank"
+        "start an activity or process",
+        "stop a project",
+        "lose a competition",
+        "change a vehicle's tyre"
       ],
-      "answer": 2,
-      "explanation": "This begins with the voiced /ð/ sound; the others begin with the unvoiced /θ/ sound."
+      "answer": 0,
+      "explanation": "The phrase means begin something."
     },
     {
-      "id": "q085",
-      "category": "Confusing Words",
-      "question": "The bus is ___ than the car today.",
+      "id": "q10464",
+      "category": "Idioms and Expressions",
+      "question": "The expression 'in the long run' refers to ___.",
       "options": [
-        "fast",
-        "faster",
-        "fastest",
-        "more fast"
+        "over a long period of time",
+        "during a short break",
+        "before breakfast",
+        "at the end of a queue"
       ],
-      "answer": 1,
-      "explanation": "Use the comparative form faster when comparing two things."
+      "answer": 0,
+      "explanation": "It refers to the eventual or long-term result."
     },
     {
-      "id": "q114",
-      "category": "Gerunds",
-      "question": "They finished ___ the room.",
+      "id": "q10465",
+      "category": "Idioms and Expressions",
+      "question": "To 'call it a day' means to ___.",
       "options": [
-        "clean",
-        "to clean",
-        "cleaning",
-        "cleaned"
+        "stop working for the time being",
+        "telephone every colleague",
+        "start work early",
+        "cancel a calendar"
       ],
-      "answer": 2,
-      "explanation": "Finish is followed by a gerund."
+      "answer": 0,
+      "explanation": "The phrase means finish work or an activity for now."
     },
     {
-      "id": "q028",
-      "category": "Vocabulary",
-      "question": "A place where medicines are dispensed is a ___.",
+      "id": "q10466",
+      "category": "Idioms and Expressions",
+      "question": "If something happens 'at the eleventh hour', it happens ___.",
       "options": [
-        "bakery",
-        "pharmacy",
-        "library",
-        "garage"
+        "at the last possible moment",
+        "eleven hours after midnight exactly",
+        "very early",
+        "once every eleven years"
       ],
-      "answer": 1,
-      "explanation": "A pharmacy is a place where medicines are prepared or supplied."
+      "answer": 0,
+      "explanation": "It means just before a deadline or too late."
     },
     {
-      "id": "q057",
-      "category": "Pronunciation",
-      "question": "Which word has a silent 'k'?",
+      "id": "q10467",
+      "category": "Idioms and Expressions",
+      "question": "To 'keep someone posted' means to ___.",
       "options": [
-        "kite",
-        "know",
-        "keep",
-        "kind"
+        "keep them informed about developments",
+        "send them a postcard only",
+        "ask them to wait outside",
+        "remove them from a mailing list"
       ],
-      "answer": 1,
-      "explanation": "The k in know is silent."
+      "answer": 0,
+      "explanation": "Keep someone posted means provide updates."
     },
     {
-      "id": "q086",
-      "category": "Conditionals",
-      "question": "If it rains, we ___ indoors.",
+      "id": "q10468",
+      "category": "Idioms and Expressions",
+      "question": "The phrase 'back to square one' means ___.",
       "options": [
-        "stay",
-        "will stay",
-        "stayed",
-        "would stayed"
+        "return to the starting point",
+        "finish the final stage",
+        "win a prize",
+        "change the subject"
       ],
-      "answer": 1,
-      "explanation": "The first conditional uses if + present simple, will + base verb."
+      "answer": 0,
+      "explanation": "It means having to start again from the beginning."
+    },
+    {
+      "id": "q10469",
+      "category": "Idioms and Expressions",
+      "question": "To 'make ends meet' means to ___.",
+      "options": [
+        "manage financially with the money available",
+        "connect two ropes",
+        "complete a long speech",
+        "avoid paying attention"
+      ],
+      "answer": 0,
+      "explanation": "It means having enough money to cover basic expenses."
+    },
+    {
+      "id": "q10470",
+      "category": "Idioms and Expressions",
+      "question": "If a plan is 'up in the air', it is ___.",
+      "options": [
+        "not yet decided or settled",
+        "already completed",
+        "officially published",
+        "impossible to change"
+      ],
+      "answer": 0,
+      "explanation": "Up in the air means uncertain or undecided."
     }
   ]
 }
