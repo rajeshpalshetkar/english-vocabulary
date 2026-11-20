@@ -3,139 +3,139 @@
   "slug": "quiz-0967",
   "title": "English Practice Quiz 0967",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q110",
-      "category": "Adverbs",
-      "question": "Please drive ___.",
+      "id": "q10361",
+      "category": "Idioms and Phrasal Verbs",
+      "question": "The idiom 'once in a blue moon' means ___.",
       "options": [
-        "careful",
-        "carefully",
-        "care",
-        "caring"
-      ],
-      "answer": 1,
-      "explanation": "Carefully is the adverb modifying drive."
-    },
-    {
-      "id": "q024",
-      "category": "Vocabulary",
-      "question": "If a task is 'urgent', it needs ___.",
-      "options": [
-        "no attention",
-        "quick attention",
-        "a holiday",
-        "a receipt"
-      ],
-      "answer": 1,
-      "explanation": "Urgent means requiring immediate or prompt attention."
-    },
-    {
-      "id": "q053",
-      "category": "Conversation",
-      "question": "A visitor asks, 'Where is reception?' You say:",
-      "options": [
-        "It is near the main entrance.",
-        "I am reception.",
-        "Yesterday at home.",
-        "No, it isn't."
+        "very rarely",
+        "every morning",
+        "twice a day",
+        "without stopping"
       ],
       "answer": 0,
-      "explanation": "Give a clear location using a complete sentence."
+      "explanation": "It describes something that happens very rarely."
     },
     {
-      "id": "q082",
-      "category": "Confusing Words",
-      "question": "The weather can ___ your travel plans.",
+      "id": "q10362",
+      "category": "Idioms and Phrasal Verbs",
+      "question": "To 'look after' someone means to ___.",
       "options": [
-        "affect",
-        "effect",
-        "infect",
-        "effort"
+        "take care of them",
+        "search for their photograph",
+        "avoid speaking to them",
+        "criticise them"
       ],
       "answer": 0,
-      "explanation": "Affect is usually a verb meaning to influence."
+      "explanation": "Look after means care for or be responsible for someone."
     },
     {
-      "id": "q111",
-      "category": "Gerunds",
-      "question": "I enjoy ___ books.",
+      "id": "q10363",
+      "category": "Idioms and Phrasal Verbs",
+      "question": "If you 'run out of' something, you ___.",
       "options": [
-        "read",
-        "to read",
-        "reading",
-        "reads"
-      ],
-      "answer": 2,
-      "explanation": "Enjoy is followed by a gerund (-ing form)."
-    },
-    {
-      "id": "q025",
-      "category": "Vocabulary",
-      "question": "A person you can trust is ___.",
-      "options": [
-        "reliable",
-        "careless",
-        "silent",
-        "narrow"
+        "have none left",
+        "find a large supply",
+        "borrow it permanently",
+        "put it away safely"
       ],
       "answer": 0,
-      "explanation": "Reliable means dependable or trustworthy."
+      "explanation": "Run out of means use all of a supply."
     },
     {
-      "id": "q054",
-      "category": "Conversation",
-      "question": "You need a moment to think. You say:",
+      "id": "q10364",
+      "category": "Idioms and Phrasal Verbs",
+      "question": "The phrase 'break the ice' means to ___.",
       "options": [
-        "Let me think for a moment.",
-        "I no idea ever.",
-        "Wait your mouth.",
-        "I am think."
+        "make people feel more comfortable at the start",
+        "damage frozen water only",
+        "end a friendship",
+        "stop a meeting suddenly"
       ],
       "answer": 0,
-      "explanation": "This phrase politely signals that you need a little time."
+      "explanation": "It means ease initial awkwardness in a social situation."
     },
     {
-      "id": "q083",
-      "category": "Confusing Words",
-      "question": "Please ___ the correct answer.",
+      "id": "q10365",
+      "category": "Idioms and Phrasal Verbs",
+      "question": "To 'put off' a meeting means to ___.",
       "options": [
-        "choose",
-        "chose",
-        "choice",
-        "chosen"
+        "postpone it",
+        "start it early",
+        "attend it",
+        "record its minutes"
       ],
       "answer": 0,
-      "explanation": "Choose is the base verb used after please."
+      "explanation": "Put off means delay or postpone."
     },
     {
-      "id": "q112",
-      "category": "Gerunds",
-      "question": "He decided ___ early.",
+      "id": "q10366",
+      "category": "Idioms and Phrasal Verbs",
+      "question": "If someone says 'it's up to you', the decision is ___.",
       "options": [
-        "leave",
-        "leaving",
-        "to leave",
-        "leaves"
+        "yours to make",
+        "already cancelled",
+        "made by a stranger",
+        "not allowed"
       ],
-      "answer": 2,
-      "explanation": "Decide is commonly followed by a to-infinitive."
+      "answer": 0,
+      "explanation": "The phrase gives another person the choice or responsibility."
     },
     {
-      "id": "q026",
-      "category": "Vocabulary",
-      "question": "What does 'borrow' mean?",
+      "id": "q10367",
+      "category": "Idioms and Phrasal Verbs",
+      "question": "To 'carry on' means to ___.",
       "options": [
-        "give something forever",
-        "take something temporarily and return it",
-        "break something",
-        "buy something"
+        "continue",
+        "stop permanently",
+        "turn around",
+        "hand something over"
       ],
-      "answer": 1,
-      "explanation": "Borrow means to take something for a period and return it."
+      "answer": 0,
+      "explanation": "Carry on means continue doing something."
+    },
+    {
+      "id": "q10368",
+      "category": "Idioms and Phrasal Verbs",
+      "question": "The idiom 'a piece of cake' describes something ___.",
+      "options": [
+        "very easy",
+        "very expensive",
+        "impossible to explain",
+        "extremely dangerous"
+      ],
+      "answer": 0,
+      "explanation": "A piece of cake is an informal expression for an easy task."
+    },
+    {
+      "id": "q10369",
+      "category": "Idioms and Phrasal Verbs",
+      "question": "To 'find out' means to ___.",
+      "options": [
+        "discover information",
+        "hide a document",
+        "forget a name",
+        "make a promise"
+      ],
+      "answer": 0,
+      "explanation": "Find out means discover or learn information."
+    },
+    {
+      "id": "q10370",
+      "category": "Idioms and Phrasal Verbs",
+      "question": "If you 'keep an eye on' something, you ___.",
+      "options": [
+        "watch it carefully",
+        "close both eyes",
+        "throw it away",
+        "avoid checking it"
+      ],
+      "answer": 0,
+      "explanation": "Keep an eye on means monitor or watch carefully."
     }
   ]
 }
