@@ -3,139 +3,139 @@
   "slug": "quiz-0989",
   "title": "English Practice Quiz 0989",
   "description": "A ten-question English practice quiz covering grammar, vocabulary and practical communication.",
-  "category": "Workplace English",
-  "level": "Advanced",
+  "category": "Practical English",
+  "level": "Intermediate",
   "question_count": 10,
   "questions": [
     {
-      "id": "q024",
-      "category": "Vocabulary",
-      "question": "If a task is 'urgent', it needs ___.",
+      "id": "q10181",
+      "category": "Civic Awareness",
+      "question": "A 'municipality' is a local authority that manages ___.",
       "options": [
-        "no attention",
-        "quick attention",
-        "a holiday",
-        "a receipt"
-      ],
-      "answer": 1,
-      "explanation": "Urgent means requiring immediate or prompt attention."
-    },
-    {
-      "id": "q061",
-      "category": "Reading",
-      "question": "Read: 'Mina takes the bus at 8 a.m. and reaches work at 8:45.' How does Mina travel?",
-      "options": [
-        "By train",
-        "By bus",
-        "By car",
-        "On foot"
-      ],
-      "answer": 1,
-      "explanation": "The passage clearly says Mina takes the bus."
-    },
-    {
-      "id": "q098",
-      "category": "Reported Speech",
-      "question": "He asked, 'Where do you live?'",
-      "options": [
-        "He asked where I lived.",
-        "He asked where do I live.",
-        "He asked where did I lived.",
-        "He asked where I live do."
+        "urban civic services",
+        "international airlines",
+        "private family holidays",
+        "national sports teams"
       ],
       "answer": 0,
-      "explanation": "Reported questions use statement word order; do is removed."
+      "explanation": "Municipal bodies provide local services such as roads and sanitation."
     },
     {
-      "id": "q020",
-      "category": "Tenses",
-      "question": "By next June, he ___ the course.",
+      "id": "q10182",
+      "category": "Civic Awareness",
+      "question": "A public notice is usually displayed to ___.",
       "options": [
-        "completes",
-        "completed",
-        "will have completed",
-        "has complete"
-      ],
-      "answer": 2,
-      "explanation": "The future perfect describes an action completed before a future time."
-    },
-    {
-      "id": "q057",
-      "category": "Pronunciation",
-      "question": "Which word has a silent 'k'?",
-      "options": [
-        "kite",
-        "know",
-        "keep",
-        "kind"
-      ],
-      "answer": 1,
-      "explanation": "The k in know is silent."
-    },
-    {
-      "id": "q094",
-      "category": "Passive Voice",
-      "question": "English ___ in many countries.",
-      "options": [
-        "speaks",
-        "is spoken",
-        "spoken",
-        "is speaking"
-      ],
-      "answer": 1,
-      "explanation": "Present simple passive: is spoken."
-    },
-    {
-      "id": "q016",
-      "category": "Tenses",
-      "question": "Water ___ at 100°C at sea level.",
-      "options": [
-        "boil",
-        "boils",
-        "is boiling",
-        "boiled"
-      ],
-      "answer": 1,
-      "explanation": "Use the present simple for general facts."
-    },
-    {
-      "id": "q053",
-      "category": "Conversation",
-      "question": "A visitor asks, 'Where is reception?' You say:",
-      "options": [
-        "It is near the main entrance.",
-        "I am reception.",
-        "Yesterday at home.",
-        "No, it isn't."
+        "inform the community",
+        "hide official information",
+        "advertise private passwords",
+        "replace every law"
       ],
       "answer": 0,
-      "explanation": "Give a clear location using a complete sentence."
+      "explanation": "Public notices communicate information to people."
     },
     {
-      "id": "q090",
-      "category": "Conditionals",
-      "question": "If I were you, I ___ apologise.",
+      "id": "q10183",
+      "category": "Civic Awareness",
+      "question": "The word 'eligible' means ___.",
       "options": [
-        "will",
-        "would",
-        "am",
-        "did"
+        "qualified to meet stated conditions",
+        "too late to apply",
+        "not allowed under any rule",
+        "already cancelled"
       ],
-      "answer": 1,
-      "explanation": "If I were you is followed by would for advice."
+      "answer": 0,
+      "explanation": "Eligible means meeting the requirements for something."
     },
     {
-      "id": "q012",
-      "category": "Tenses",
-      "question": "We ___ here since 2022.",
+      "id": "q10184",
+      "category": "Civic Awareness",
+      "question": "A complaint should ideally include ___.",
       "options": [
-        "live",
-        "lived",
-        "have lived",
-        "are live"
+        "clear facts and relevant dates",
+        "personal insults only",
+        "unrelated rumours",
+        "guessed details"
       ],
-      "answer": 2,
-      "explanation": "Since gives a starting point; the present perfect connects the past to now."
+      "answer": 0,
+      "explanation": "Specific facts help the receiving office understand the issue."
+    },
+    {
+      "id": "q10185",
+      "category": "Civic Awareness",
+      "question": "A 'census' is an official count of ___.",
+      "options": [
+        "a population",
+        "road signs only",
+        "shop prices",
+        "rainy days"
+      ],
+      "answer": 0,
+      "explanation": "A census collects population and related demographic information."
+    },
+    {
+      "id": "q10186",
+      "category": "Civic Awareness",
+      "question": "To 'comply with' a rule means to ___.",
+      "options": [
+        "follow it",
+        "hide it",
+        "rewrite it secretly",
+        "ignore it"
+      ],
+      "answer": 0,
+      "explanation": "Comply means act according to a rule or request."
+    },
+    {
+      "id": "q10187",
+      "category": "Civic Awareness",
+      "question": "A 'certificate' is generally an official document that ___.",
+      "options": [
+        "confirms a fact or achievement",
+        "replaces a person's identity",
+        "guarantees a job",
+        "acts as cash"
+      ],
+      "answer": 0,
+      "explanation": "Certificates provide formal evidence of something."
+    },
+    {
+      "id": "q10188",
+      "category": "Civic Awareness",
+      "question": "Which action helps keep a public area clean?",
+      "options": [
+        "putting waste in the correct bin",
+        "leaving litter on a footpath",
+        "pouring oil into a drain",
+        "burning plastic in the open"
+      ],
+      "answer": 0,
+      "explanation": "Correct disposal helps maintain public cleanliness."
+    },
+    {
+      "id": "q10189",
+      "category": "Civic Awareness",
+      "question": "A 'grievance' is a ___.",
+      "options": [
+        "complaint about unfair treatment or a problem",
+        "celebration",
+        "travel document",
+        "payment receipt"
+      ],
+      "answer": 0,
+      "explanation": "A grievance is a concern or complaint requiring attention."
+    },
+    {
+      "id": "q10190",
+      "category": "Civic Awareness",
+      "question": "When filling an official form, you should provide ___.",
+      "options": [
+        "accurate information",
+        "invented details",
+        "another person's signature without permission",
+        "blank answers for every required field"
+      ],
+      "answer": 0,
+      "explanation": "Official forms should contain truthful and accurate details."
     }
   ]
 }
