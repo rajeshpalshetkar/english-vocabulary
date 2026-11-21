@@ -1,0 +1,52 @@
+name: Validate English Fluency Guide pull requests
+
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - "content/stories/**"
+      - "scripts/build_site.py"
+      - "scripts/common.py"
+      - "scripts/audit_quizzes.py"
+      - "site/**"
+      - ".github/workflows/**"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install build dependencies
+        run: pip install Markdown==3.10 bleach==6.3.0
+      - name: Audit quiz questions
+        run: python scripts/audit_quizzes.py
+      - name: Validate story data
+        run: |
+          python - <<'PY'
+          import json, re
+          from pathlib import Path
+          data = json.loads(Path("content/stories/stories.json").read_text(encoding="utf-8"))
+          stories = data.get("stories", [])
+          assert len(stories) == 100, f"Expected 100 stories, got {len(stories)}"
+          assert len({s["slug"] for s in stories}) == 100, "Story slugs must be unique"
+          assert len({s["title"] for s in stories}) == 100, "Story titles must be unique"
+          assert all(len(s.get("paragraphs", [])) >= 2 for s in stories), "Every story needs at least two paragraphs"
+          assert all(s.get("level") in {"Beginner", "Intermediate", "Advanced"} for s in stories), "Invalid story level"
+          assert not any("meaning_mr" in v for s in stories for v in s.get("vocabulary", [])), "Do not hardcode Marathi translations"
+          bad = re.compile(r"\bdecided to (returned|admitted|listened|kept|shared|offered|thanked|asked|waited|used)\b", re.I)
+          assert not any(bad.search(" ".join(s["paragraphs"])) for s in stories), "Found a known verb-form error"
+          print("Validated 100 stories, unique titles/slugs, levels and language-neutral vocabulary.")
+          PY
+      - name: Build static website
+        run: python scripts/build_site.py
+      - name: Verify generated story pages
+        run: |
+          test -f dist/stories/index.html
+          test "$(find dist/stories -mindepth 2 -name index.html | wc -l)" -eq 100
