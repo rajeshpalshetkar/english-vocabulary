@@ -212,6 +212,13 @@ def main():
     quote_body=f'<section class="hero"><span class="badge">Thoughtful words. Lasting value.</span><h1>Quotes for a Better Mindset</h1><p>A carefully written collection of original thoughts on life, courage, learning, discipline and human values.</p></section><section class="quotes-tools"><label for="quote-search">Find a quote</label><input id="quote-search" type="search" placeholder="Search words or ideas..."><div class="quote-filters">{category_buttons}</div><p id="quote-count" aria-live="polite">{len(quotes)} quotes</p></section><div class="quotes-grid" id="quotes-list">{"".join(quote_cards)}</div><p class="quote-note">These are original editorial quotes created for this collection. They are not attributed to public figures.</p><script defer src="/assets/quotes.js"></script>'
     write("quotes/index.html",page("Premium English Quotes | English Fluency Guide","A thoughtful collection of original English quotes on life, courage, learning, discipline and human values.",BASE+"/quotes/",quote_body,'<link rel="stylesheet" href="/assets/quotes.css">'))
     urls.append(BASE+"/quotes/")
+    # Daily Practice dashboard reuses the existing 52-week programme topics.
+    daily_topics=CAT.get("year_practice_52_weeks",[])
+    daily_body='<div id="daily-practice-app"><p>Loading your daily practice...</p></div>'
+    daily_head='<link rel="stylesheet" href="/assets/daily-practice.css"><script defer src="/assets/daily-practice.js"></script>'
+    daily_desc="A focused 10-minute English routine with vocabulary, useful sentences, a quick test and speaking practice."
+    write("daily-practice/index.html",page("Daily English Practice | English Fluency Guide",daily_desc,BASE+"/daily-practice/",daily_body,daily_head))
+    urls.append(BASE+"/daily-practice/")
     # Library home
     topics=[]
     for label,titles in CAT.get("core_library",{}).items():
