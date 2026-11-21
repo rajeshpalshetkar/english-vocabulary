@@ -25,8 +25,8 @@ def page(title,description,canonical,body,extra_head=""):
 <meta property="og:type" content="article"><meta property="og:title" content="{esc(title)}"><meta property="og:description" content="{esc(description)}"><meta property="og:url" content="{esc(canonical)}">
 <meta name="twitter:card" content="summary"><meta name="theme-color" content="#123b72">
 {extra_head}<link rel="stylesheet" href="/assets/style.css"></head>
-<body><header class="top"><a href="/" class="brand"><span class="brand-mark">E</span><span>English Fluency Guide</span></a><nav aria-label="Main navigation"><a href="/library/">Learning Library</a><a href="/30-day-challenge/">30-Day Challenge</a><a href="/365-day-practice/">365-Day Practice</a><a href="/quizzes/">Quizzes</a></nav></header>
-<main class="wrap">{body}</main><footer><p>© {CFG["site_name"]}. Learn, practise and improve every day.</p><a href="/about/">About</a> · <a href="/privacy/">Privacy</a> · <a href="/contact/">Contact</a></footer><nav class="mobile-nav" aria-label="App navigation"><a href="/"><span>⌂</span><small>Home</small></a><a href="/library/"><span>▦</span><small>Library</small></a><a href="/30-day-challenge/"><span>✓</span><small>30 Days</small></a><a href="/365-day-practice/"><span>◷</span><small>365 Days</small></a><a href="/quizzes/"><span>?</span><small>Quizzes</small></a></nav></body></html>"""
+<body><header class="top"><a href="/" class="brand"><span class="brand-mark">E</span><span>English Fluency Guide</span></a><nav aria-label="Main navigation"><a href="/library/">Learning Library</a><a href="/30-day-challenge/">30-Day Challenge</a><a href="/365-day-practice/">365-Day Practice</a><a href="/quizzes/">Quizzes</a><a href="/stories/">Stories</a></nav></header>
+<main class="wrap">{body}</main><footer><p>© {CFG["site_name"]}. Learn, practise and improve every day.</p><a href="/about/">About</a> · <a href="/privacy/">Privacy</a> · <a href="/contact/">Contact</a></footer><nav class="mobile-nav" aria-label="App navigation"><a href="/"><span>⌂</span><small>Home</small></a><a href="/library/"><span>▦</span><small>Library</small></a><a href="/30-day-challenge/"><span>✓</span><small>30 Days</small></a><a href="/365-day-practice/"><span>◷</span><small>365 Days</small></a><a href="/quizzes/"><span>?</span><small>Quizzes</small></a><a href="/stories/"><span>▤</span><small>Stories</small></a></nav></body></html>"""
 
 def write(rel,content):
     p=OUT/rel
@@ -154,11 +154,31 @@ def main():
     write("quizzes/index.html",page("1,000 English Quizzes | English Fluency Guide","Practise English with interactive quizzes and explanations.",BASE+"/quizzes/",quiz_index_body,qindex_head))
     urls.append(BASE+"/quizzes/")
     if quiz_files: shutil.copytree(QUIZZES,OUT/"data/quizzes",dirs_exist_ok=True)
+    # Independent short-story library and individual reading pages.
+    story_path=ROOT/"content/stories/stories.json"
+    story_data=json.loads(story_path.read_text(encoding="utf-8"))
+    stories=story_data.get("stories",[])
+    if len(stories)!=100: raise ValueError(f"Expected exactly 100 stories, found {len(stories)}")
+    story_cards=[]
+    story_urls=[]
+    for story in stories:
+        slug=slugify(story["slug"])
+        canonical=f"{BASE}/stories/{slug}/"
+        paragraphs="".join(f"<p>{esc(p)}</p>" for p in story.get("paragraphs",[]))
+        vocab="".join(f'<tr><td><strong>{esc(v["word"])}</strong></td><td>{esc(v["meaning_mr"])}</td><td>{esc(v["example"])}</td></tr>' for v in story.get("vocabulary",[]))
+        detail=f'<p class="crumb"><a href="/stories/">Story Library</a> / {esc(story["level"])}</p><article class="story-article"><span class="badge">{esc(story["level"])}</span><h1>{esc(story["title"])}</h1><p class="meta">{int(story.get("estimated_reading_minutes",2))} min read · Short English Story</p><div class="story-text">{paragraphs}</div><h2>Vocabulary</h2><div class="story-table-wrap"><table><thead><tr><th>Word</th><th>मराठी अर्थ</th><th>Example</th></tr></thead><tbody>{vocab}</tbody></table></div><section class="story-reflection"><h2>Think about the story</h2><p>{esc(story.get("reflection_question","What did you learn?"))}</p><p><strong>मराठी सारांश:</strong> {esc(story.get("summary_marathi",""))}</p></section><a class="story-back" href="/stories/">← Back to all stories</a></article>'
+        story_head='<link rel="stylesheet" href="/assets/stories.css">'
+        write(f"stories/{slug}/index.html",page(story["title"]+" | English Fluency Guide",story["description"],canonical,detail,story_head))
+        story_urls.append(canonical)
+        story_cards.append(f'<a class="card story-card" data-level="{esc(story["level"]).lower()}" data-title="{esc(story["title"]).lower()}" href="/stories/{slug}/"><span class="badge">{esc(story["level"])}</span><h2>{esc(story["title"])}</h2><p>{esc(story["description"])}</p><span class="more">Read story →</span></a>')
+    story_index_body=f'<section class="hero"><span class="badge">100 short stories</span><h1>Learn English Through Stories</h1><p>Build reading confidence with short stories, useful vocabulary and simple reflection activities.</p></section><section class="story-tools"><label for="story-search">Search stories</label><input id="story-search" type="search" placeholder="Search by story title..."><div class="story-filters"><button class="story-filter active" data-level="all">All levels</button><button class="story-filter" data-level="beginner">Beginner</button><button class="story-filter" data-level="intermediate">Intermediate</button><button class="story-filter" data-level="advanced">Advanced</button></div><p id="story-count" aria-live="polite">100 stories</p></section><div class="grid story-grid" id="story-list">{"".join(story_cards)}</div><script defer src="/assets/stories.js"></script>'
+    write("stories/index.html",page("100 Short English Stories | English Fluency Guide","Read 100 short English stories with vocabulary and Marathi meanings.",BASE+"/stories/",story_index_body,'<link rel="stylesheet" href="/assets/stories.css">'))
+    urls.extend(story_urls)
     # Library home
     topics=[]
     for label,titles in CAT.get("core_library",{}).items():
         topics.append(card(label,f"{len(titles)} planned lessons",f"/topics/{slugify(label)}/",f"{len(titles)} lessons"))
-    body=f'<section class="hero"><span class="badge">Learn at your own pace</span><h1>Build English Skills with Confidence</h1><p>Clear lessons, real-life examples, speaking tasks and regular practice.</p></section><h2>Explore Learning Topics</h2><div class="grid">{"".join(topics)}</div><section class="promo"><a href="/30-day-challenge/">Start the 30-Day Challenge →</a> <a href="/365-day-practice/">Explore 365-Day Practice →</a></section>'
+    body=f'<section class="hero"><span class="badge">Learn at your own pace</span><h1>Build English Skills with Confidence</h1><p>Clear lessons, real-life examples, speaking tasks and regular practice.</p></section><h2>Explore Learning Topics</h2><div class="grid">{"".join(topics)}</div><section class="promo"><a href="/stories/">Read 100 Short Stories →</a> <a href="/30-day-challenge/">Start the 30-Day Challenge →</a> <a href="/365-day-practice/">Explore 365-Day Practice →</a></section>'
     write("index.html",page("English Fluency Guide | Learn and Practise English",CFG["description"],BASE+"/",body))
     write("library/index.html",page("Learning Library | English Fluency Guide",CFG["description"],BASE+"/library/",f'<h1>Learning Library</h1><div class="grid">{"".join(topics)}</div>'))
     sitemap='<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join(f'<url><loc>{esc(u)}</loc></url>' for u in sorted(set(urls+[BASE+"/",BASE+"/library/"])))+'</urlset>'
