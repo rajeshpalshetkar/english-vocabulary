@@ -26,8 +26,8 @@ def page(title,description,canonical,body,extra_head=""):
 <meta property="og:type" content="article"><meta property="og:title" content="{esc(title)}"><meta property="og:description" content="{esc(description)}"><meta property="og:url" content="{esc(canonical)}">
 <meta name="twitter:card" content="summary"><meta name="theme-color" content="#123b72">
 {extra_head}<link rel="stylesheet" href="/assets/style.css"></head>
-<body><header class="top"><a href="/" class="brand"><span class="brand-mark">E</span><span>English Fluency Guide</span></a><nav aria-label="Main navigation"><a href="/library/">Learning Library</a><a href="/30-day-challenge/">30-Day Challenge</a><a href="/365-day-practice/">365-Day Practice</a><a href="/quizzes/">Quizzes</a><a href="/stories/">Stories</a><a href="/quotes/">Quotes</a></nav></header>
-<main class="wrap">{body}</main><footer><p>© {CFG["site_name"]}. Learn, practise and improve every day.</p><a href="/about/">About</a> · <a href="/privacy/">Privacy</a> · <a href="/contact/">Contact</a></footer><nav class="mobile-nav" aria-label="App navigation"><a href="/"><span>⌂</span><small>Home</small></a><a href="/library/"><span>▦</span><small>Library</small></a><a href="/30-day-challenge/"><span>✓</span><small>30 Days</small></a><a href="/365-day-practice/"><span>◷</span><small>365 Days</small></a><a href="/quizzes/"><span>?</span><small>Quizzes</small></a><a href="/stories/"><span>▤</span><small>Stories</small></a><a href="/quotes/"><span>❝</span><small>Quotes</small></a></nav></body></html>"""
+<body><header class="top"><button class="sidebar-toggle" type="button" aria-label="Open navigation" aria-expanded="false" aria-controls="site-sidebar">☰</button><a href="/" class="brand"><span class="brand-mark">E</span><span>English Fluency Guide</span></a></header><div class="sidebar-backdrop" data-sidebar-close></div><aside class="site-sidebar" id="site-sidebar" aria-label="Main navigation"><a href="/" class="sidebar-brand"><span class="brand-mark">E</span><span>English Fluency Guide</span></a><p class="sidebar-label">LEARN</p><nav><a href="/">⌂ <span>Home</span></a><a href="/daily-practice/">◷ <span>Daily Practice</span></a><a href="/library/">▦ <span>Learning Library</span></a><a href="/365-day-practice/">365 <span>365-Day Practice</span></a><a href="/topics/vocabulary/">Aa <span>Vocabulary</span></a><a href="/quizzes/">? <span>Quizzes</span></a><a href="/stories/">▤ <span>Stories</span></a><a href="/quotes/">❝ <span>Quotes</span></a></nav><p class="sidebar-label">YOUR LEARNING</p><a class="sidebar-progress" href="/daily-practice/#progress">◉ <span>My Progress</span></a><div class="sidebar-bottom">Learn a little. Improve every day.</div></aside>
+<main class="wrap">{body}</main><footer><p>© {CFG["site_name"]}. Learn, practise and improve every day.</p><a href="/about/">About</a> · <a href="/privacy/">Privacy</a> · <a href="/contact/">Contact</a></footer><script defer src="/assets/sidebar.js"></script></body></html>"""
 
 def write(rel,content):
     p=OUT/rel
@@ -212,6 +212,13 @@ def main():
     quote_body=f'<section class="hero"><span class="badge">Thoughtful words. Lasting value.</span><h1>Quotes for a Better Mindset</h1><p>A carefully written collection of original thoughts on life, courage, learning, discipline and human values.</p></section><section class="quotes-tools"><label for="quote-search">Find a quote</label><input id="quote-search" type="search" placeholder="Search words or ideas..."><div class="quote-filters">{category_buttons}</div><p id="quote-count" aria-live="polite">{len(quotes)} quotes</p></section><div class="quotes-grid" id="quotes-list">{"".join(quote_cards)}</div><p class="quote-note">These are original editorial quotes created for this collection. They are not attributed to public figures.</p><script defer src="/assets/quotes.js"></script>'
     write("quotes/index.html",page("Premium English Quotes | English Fluency Guide","A thoughtful collection of original English quotes on life, courage, learning, discipline and human values.",BASE+"/quotes/",quote_body,'<link rel="stylesheet" href="/assets/quotes.css">'))
     urls.append(BASE+"/quotes/")
+    # Daily Practice dashboard reuses the existing 52-week programme topics.
+    daily_topics=CAT.get("year_practice_52_weeks",[])
+    daily_body='<div id="daily-practice-app"><p>Loading your daily practice...</p></div>'
+    daily_head='<link rel="stylesheet" href="/assets/daily-practice.css"><script defer src="/assets/daily-practice.js"></script>'
+    daily_desc="A focused 10-minute English routine with vocabulary, useful sentences, a quick test and speaking practice."
+    write("daily-practice/index.html",page("Daily English Practice | English Fluency Guide",daily_desc,BASE+"/daily-practice/",daily_body,daily_head))
+    urls.append(BASE+"/daily-practice/")
     # Library home
     topics=[]
     for label,titles in CAT.get("core_library",{}).items():
