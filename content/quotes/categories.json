@@ -1,0 +1,44 @@
+{
+  "title": "Quote Categories",
+  "categories": [
+    {
+      "id": "all",
+      "name": "All Quotes"
+    },
+    {
+      "id": "mindset",
+      "name": "Mindset & Life",
+      "description": "Mindset & Life."
+    },
+    {
+      "id": "character",
+      "name": "Character & Values",
+      "description": "Character & Values."
+    },
+    {
+      "id": "growth",
+      "name": "Growth & Success",
+      "description": "Growth & Success."
+    },
+    {
+      "id": "discipline",
+      "name": "Discipline & Focus",
+      "description": "Discipline & Focus."
+    },
+    {
+      "id": "kindness",
+      "name": "Kindness & Humanity",
+      "description": "Kindness & Humanity."
+    },
+    {
+      "id": "learning",
+      "name": "Learning & Wisdom",
+      "description": "Learning & Wisdom."
+    },
+    {
+      "id": "resilience",
+      "name": "Courage & Resilience",
+      "description": "Courage & Resilience."
+    }
+  ]
+}

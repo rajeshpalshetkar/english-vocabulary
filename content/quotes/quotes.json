@@ -1,0 +1,433 @@
+{
+  "title": "Premium Original Quotes",
+  "language": "en",
+  "editorial_note": "Original editorial quotes written for English Fluency Guide; not attributed to public figures.",
+  "quotes": [
+    {
+      "id": "Q001",
+      "text": "A calm mind can see a door where panic sees only a wall.",
+      "category": "mindset",
+      "category_label": "Mindset & Life",
+      "tags": [
+        "calm",
+        "clarity"
+      ],
+      "credit": "Original thought"
+    },
+    {
+      "id": "Q002",
+      "text": "Small honest efforts become a life you can stand behind.",
+      "category": "character",
+      "category_label": "Character & Values",
+      "tags": [
+        "honesty",
+        "effort"
+      ],
+      "credit": "Original thought"
+    },
+    {
+      "id": "Q003",
+      "text": "You do not need a perfect beginning; you need a beginning you are willing to improve.",
+      "category": "growth",
+      "category_label": "Growth & Success",
+      "tags": [
+        "beginning",
+        "progress"
+      ],
+      "credit": "Original thought"
+    },
+    {
+      "id": "Q004",
+      "text": "Discipline is choosing what matters after the excitement has passed.",
+      "category": "discipline",
+      "category_label": "Discipline & Focus",
+      "tags": [
+        "consistency"
+      ],
+      "credit": "Original thought"
+    },
+    {
+      "id": "Q005",
+      "text": "A difficult day is a chapter, not the whole story.",
+      "category": "resilience",
+      "category_label": "Courage & Resilience",
+      "tags": [
+        "hope",
+        "difficulty"
+      ],
+      "credit": "Original thought"
+    },
+    {
+      "id": "Q006",
+      "text": "The quality of your questions shapes the quality of your learning.",
+      "category": "learning",
+      "category_label": "Learning & Wisdom",
+      "tags": [
+        "curiosity"
+      ],
+      "credit": "Original thought"
+    },
+    {
+      "id": "Q007",
+      "text": "Speak to people in a way that leaves their dignity intact.",
+      "category": "kindness",
+      "category_label": "Kindness & Humanity",
+      "tags": [
+        "respect"
+      ],
+      "credit": "Original thought"
+    },
+    {
+      "id": "Q008",
+      "text": "Your attention is a quiet investment; spend it where your life can grow.",
+      "category": "mindset",
+      "category_label": "Mindset & Life",
+      "tags": [
+        "attention",
+        "focus"
+      ],
+      "credit": "Original thought"
+    },
+    {
+      "id": "Q009",
+      "text": "A promise becomes character when you keep it without being watched.",
+      "category": "character",
+      "category_label": "Character & Values",
+      "tags": [
+        "integrity"
+      ],
+      "credit": "Original thought"
+    },
+    {
+      "id": "Q010",
+      "text": "Progress often arrives dressed as an ordinary day of practice.",
+      "category": "growth",
+      "category_label": "Growth & Success",
+      "tags": [
+        "practice"
+      ],
+      "credit": "Original thought"
+    },
+    {
+      "id": "Q011",
+      "text": "Courage is not the absence of doubt; it is the decision not to let doubt decide everything.",
+      "category": "resilience",
+      "category_label": "Courage & Resilience",
+      "tags": [
+        "courage"
+      ],
+      "credit": "Original thought"
+    },
+    {
+      "id": "Q012",
+      "text": "A useful skill can open a door; a willing attitude helps you walk through it.",
+      "category": "learning",
+      "category_label": "Learning & Wisdom",
+      "tags": [
+        "skills",
+        "attitude"
+      ],
+      "credit": "Original thought"
+    },
+    {
+      "id": "Q013",
+      "text": "The strongest reply is sometimes a thoughtful pause.",
+      "category": "mindset",
+      "category_label": "Mindset & Life",
+      "tags": [
+        "patience"
+      ],
+      "credit": "Original thought"
+    },
+    {
+      "id": "Q014",
+      "text": "Respect grows when your actions agree with your words.",
+      "category": "character",
+      "category_label": "Character & Values",
+      "tags": [
+        "trust"
+      ],
+      "credit": "Original thought"
+    },
+    {
+      "id": "Q015",
+      "text": "Do not measure a seed by the size of the tree it has not yet become.",
+      "category": "growth",
+      "category_label": "Growth & Success",
+      "tags": [
+        "potential"
+      ],
+      "credit": "Original thought"
+    },
+    {
+      "id": "Q016",
+      "text": "Consistency turns a modest ability into dependable strength.",
+      "category": "discipline",
+      "category_label": "Discipline & Focus",
+      "tags": [
+        "consistency"
+      ],
+      "credit": "Original thought"
+    },
+    {
+      "id": "Q017",
+      "text": "Kindness is not weakness; it is strength that has learned restraint.",
+      "category": "kindness",
+      "category_label": "Kindness & Humanity",
+      "tags": [
+        "strength"
+      ],
+      "credit": "Original thought"
+    },
+    {
+      "id": "Q018",
+      "text": "You cannot control every turn in the road, but you can choose how you travel it.",
+      "category": "resilience",
+      "category_label": "Courage & Resilience",
+      "tags": [
+        "choice"
+      ],
+      "credit": "Original thought"
+    },
+    {
+      "id": "Q019",
+      "text": "Learning begins when being right matters less than understanding more.",
+      "category": "learning",
+      "category_label": "Learning & Wisdom",
+      "tags": [
+        "humility"
+      ],
+      "credit": "Original thought"
+    },
+    {
+      "id": "Q020",
+      "text": "Protect your time with the same care you give your important promises.",
+      "category": "discipline",
+      "category_label": "Discipline & Focus",
+      "tags": [
+        "time"
+      ],
+      "credit": "Original thought"
+    },
+    {
+      "id": "Q021",
+      "text": "A good reputation is built in the moments when applause is absent.",
+      "category": "character",
+      "category_label": "Character & Values",
+      "tags": [
+        "reputation"
+      ],
+      "credit": "Original thought"
+    },
+    {
+      "id": "Q022",
+      "text": "Let your ambition make you useful, not merely visible.",
+      "category": "growth",
+      "category_label": "Growth & Success",
+      "tags": [
+        "purpose"
+      ],
+      "credit": "Original thought"
+    },
+    {
+      "id": "Q023",
+      "text": "Listen to understand the person, not just to prepare your answer.",
+      "category": "kindness",
+      "category_label": "Kindness & Humanity",
+      "tags": [
+        "listening"
+      ],
+      "credit": "Original thought"
+    },
+    {
+      "id": "Q024",
+      "text": "Peace is easier to keep when your priorities are clear.",
+      "category": "mindset",
+      "category_label": "Mindset & Life",
+      "tags": [
+        "peace"
+      ],
+      "credit": "Original thought"
+    },
+    {
+      "id": "Q025",
+      "text": "Failure can give directions, but it should never be allowed to choose your destination.",
+      "category": "resilience",
+      "category_label": "Courage & Resilience",
+      "tags": [
+        "failure"
+      ],
+      "credit": "Original thought"
+    },
+    {
+      "id": "Q026",
+      "text": "The next page of your life is written by the choices you repeat.",
+      "category": "discipline",
+      "category_label": "Discipline & Focus",
+      "tags": [
+        "habits"
+      ],
+      "credit": "Original thought"
+    },
+    {
+      "id": "Q027",
+      "text": "Knowledge becomes wisdom when it changes the way you act.",
+      "category": "learning",
+      "category_label": "Learning & Wisdom",
+      "tags": [
+        "wisdom"
+      ],
+      "credit": "Original thought"
+    },
+    {
+      "id": "Q028",
+      "text": "Be firm about your values and gentle with people who are still learning.",
+      "category": "kindness",
+      "category_label": "Kindness & Humanity",
+      "tags": [
+        "values"
+      ],
+      "credit": "Original thought"
+    },
+    {
+      "id": "Q029",
+      "text": "A meaningful life is measured less by what you collect than by what you contribute.",
+      "category": "character",
+      "category_label": "Character & Values",
+      "tags": [
+        "contribution"
+      ],
+      "credit": "Original thought"
+    },
+    {
+      "id": "Q030",
+      "text": "Do the quiet work well; results have a way of finding their voice.",
+      "category": "growth",
+      "category_label": "Growth & Success",
+      "tags": [
+        "work"
+      ],
+      "credit": "Original thought"
+    },
+    {
+      "id": "Q031",
+      "text": "Confidence grows when you keep evidence of promises made to yourself.",
+      "category": "mindset",
+      "category_label": "Mindset & Life",
+      "tags": [
+        "confidence"
+      ],
+      "credit": "Original thought"
+    },
+    {
+      "id": "Q032",
+      "text": "Patience is not standing still; it is moving without demanding instant proof.",
+      "category": "resilience",
+      "category_label": "Courage & Resilience",
+      "tags": [
+        "patience"
+      ],
+      "credit": "Original thought"
+    },
+    {
+      "id": "Q033",
+      "text": "Every new skill begins with the courage to look like a beginner.",
+      "category": "learning",
+      "category_label": "Learning & Wisdom",
+      "tags": [
+        "beginner"
+      ],
+      "credit": "Original thought"
+    },
+    {
+      "id": "Q034",
+      "text": "A routine is a small decision that saves you from making the same hard decision every day.",
+      "category": "discipline",
+      "category_label": "Discipline & Focus",
+      "tags": [
+        "routine"
+      ],
+      "credit": "Original thought"
+    },
+    {
+      "id": "Q035",
+      "text": "The way you treat someone who cannot benefit you reveals what guides you.",
+      "category": "character",
+      "category_label": "Character & Values",
+      "tags": [
+        "humanity"
+      ],
+      "credit": "Original thought"
+    },
+    {
+      "id": "Q036",
+      "text": "Make room for joy; a life of only obligations soon forgets its own purpose.",
+      "category": "mindset",
+      "category_label": "Mindset & Life",
+      "tags": [
+        "balance"
+      ],
+      "credit": "Original thought"
+    },
+    {
+      "id": "Q037",
+      "text": "You may not choose every challenge, but you can choose what it teaches you.",
+      "category": "resilience",
+      "category_label": "Courage & Resilience",
+      "tags": [
+        "lessons"
+      ],
+      "credit": "Original thought"
+    },
+    {
+      "id": "Q038",
+      "text": "Read to meet ideas; reflect to make them your own.",
+      "category": "learning",
+      "category_label": "Learning & Wisdom",
+      "tags": [
+        "reading"
+      ],
+      "credit": "Original thought"
+    },
+    {
+      "id": "Q039",
+      "text": "Good work respects both the result and the people who make it possible.",
+      "category": "character",
+      "category_label": "Character & Values",
+      "tags": [
+        "teamwork"
+      ],
+      "credit": "Original thought"
+    },
+    {
+      "id": "Q040",
+      "text": "A better future is built less by grand announcements than by dependable actions.",
+      "category": "growth",
+      "category_label": "Growth & Success",
+      "tags": [
+        "future"
+      ],
+      "credit": "Original thought"
+    },
+    {
+      "id": "Q041",
+      "text": "Kind words cost little, but careless words can make a long journey for someone else.",
+      "category": "kindness",
+      "category_label": "Kindness & Humanity",
+      "tags": [
+        "words"
+      ],
+      "credit": "Original thought"
+    },
+    {
+      "id": "Q042",
+      "text": "When your purpose is clear, you can stop confusing movement with progress.",
+      "category": "discipline",
+      "category_label": "Discipline & Focus",
+      "tags": [
+        "purpose"
+      ],
+      "credit": "Original thought"
+    }
+  ]
+}
