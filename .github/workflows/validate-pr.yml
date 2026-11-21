@@ -1,6 +1,8 @@
 name: Validate English Fluency Guide pull requests
 
 on:
+  push:
+    branches: ["feature/**"]
   pull_request:
     branches: [main]
     paths:
