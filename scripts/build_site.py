@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Build static, SEO-ready lesson and catalogue pages from GitHub JSON."""
 import json, re, shutil, html, os
+from urllib.parse import quote
 from pathlib import Path
 from common import markdown_to_safe_html, word_count
 
@@ -165,8 +166,9 @@ def main():
         slug=slugify(story["slug"])
         canonical=f"{BASE}/stories/{slug}/"
         paragraphs="".join(f"<p>{esc(p)}</p>" for p in story.get("paragraphs",[]))
-        vocab="".join(f'<tr><td><strong>{esc(v["word"])}</strong></td><td>{esc(v["meaning_mr"])}</td><td>{esc(v["example"])}</td></tr>' for v in story.get("vocabulary",[]))
-        detail=f'<p class="crumb"><a href="/stories/">Story Library</a> / {esc(story["level"])}</p><article class="story-article"><span class="badge">{esc(story["level"])}</span><h1>{esc(story["title"])}</h1><p class="meta">{int(story.get("estimated_reading_minutes",2))} min read · Short English Story</p><div class="story-text">{paragraphs}</div><h2>Vocabulary</h2><div class="story-table-wrap"><table><thead><tr><th>Word</th><th>मराठी अर्थ</th><th>Example</th></tr></thead><tbody>{vocab}</tbody></table></div><section class="story-reflection"><h2>Think about the story</h2><p>{esc(story.get("reflection_question","What did you learn?"))}</p><p><strong>मराठी सारांश:</strong> {esc(story.get("summary_marathi",""))}</p></section><a class="story-back" href="/stories/">← Back to all stories</a></article>'
+        vocab="".join(f'<tr><td><strong>{esc(v["word"])}</strong></td><td>{esc(v["example"])}</td></tr>' for v in story.get("vocabulary",[]))
+        translate_url=f"https://translate.google.com/translate?sl=en&tl=mr&u={quote(canonical,safe='')}"
+        detail=f'<p class="crumb"><a href="/stories/">Story Library</a> / {esc(story["level"])}</p><article class="story-article"><span class="badge">{esc(story["level"])}</span><h1>{esc(story["title"])}</h1><p class="meta">{int(story.get("estimated_reading_minutes",2))} min read · Short English Story</p><a class="story-translate" href="{esc(translate_url)}" target="_blank" rel="noopener noreferrer">Translate this story with Google Translate ↗</a><div class="story-text">{paragraphs}</div><h2>Vocabulary</h2><div class="story-table-wrap"><table><thead><tr><th>Word</th><th>Example</th></tr></thead><tbody>{vocab}</tbody></table></div><section class="story-reflection"><h2>Think about the story</h2><p>{esc(story.get("reflection_question","What did you learn?"))}</p></section><a class="story-back" href="/stories/">← Back to all stories</a></article>'
         story_head='<link rel="stylesheet" href="/assets/stories.css">'
         write(f"stories/{slug}/index.html",page(story["title"]+" | English Fluency Guide",story["description"],canonical,detail,story_head))
         story_urls.append(canonical)
