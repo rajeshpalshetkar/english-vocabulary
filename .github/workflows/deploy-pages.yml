@@ -7,6 +7,7 @@ on:
       - "content/data/**"
       - "content/lessons/**"
       - "content/quizzes/**"
+      - "content/stories/**"
       - "site/**"
       - "scripts/build_site.py"
       - "scripts/common.py"
