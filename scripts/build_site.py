@@ -26,8 +26,8 @@ def page(title,description,canonical,body,extra_head=""):
 <meta property="og:type" content="article"><meta property="og:title" content="{esc(title)}"><meta property="og:description" content="{esc(description)}"><meta property="og:url" content="{esc(canonical)}">
 <meta name="twitter:card" content="summary"><meta name="theme-color" content="#123b72">
 {extra_head}<link rel="stylesheet" href="/assets/style.css"></head>
-<body><header class="top"><a href="/" class="brand"><span class="brand-mark">E</span><span>English Fluency Guide</span></a><nav aria-label="Main navigation"><a href="/library/">Learning Library</a><a href="/30-day-challenge/">30-Day Challenge</a><a href="/365-day-practice/">365-Day Practice</a><a href="/quizzes/">Quizzes</a><a href="/stories/">Stories</a></nav></header>
-<main class="wrap">{body}</main><footer><p>© {CFG["site_name"]}. Learn, practise and improve every day.</p><a href="/about/">About</a> · <a href="/privacy/">Privacy</a> · <a href="/contact/">Contact</a></footer><nav class="mobile-nav" aria-label="App navigation"><a href="/"><span>⌂</span><small>Home</small></a><a href="/library/"><span>▦</span><small>Library</small></a><a href="/30-day-challenge/"><span>✓</span><small>30 Days</small></a><a href="/365-day-practice/"><span>◷</span><small>365 Days</small></a><a href="/quizzes/"><span>?</span><small>Quizzes</small></a><a href="/stories/"><span>▤</span><small>Stories</small></a></nav></body></html>"""
+<body><header class="top"><a href="/" class="brand"><span class="brand-mark">E</span><span>English Fluency Guide</span></a><nav aria-label="Main navigation"><a href="/library/">Learning Library</a><a href="/30-day-challenge/">30-Day Challenge</a><a href="/365-day-practice/">365-Day Practice</a><a href="/quizzes/">Quizzes</a><a href="/stories/">Stories</a><a href="/quotes/">Quotes</a></nav></header>
+<main class="wrap">{body}</main><footer><p>© {CFG["site_name"]}. Learn, practise and improve every day.</p><a href="/about/">About</a> · <a href="/privacy/">Privacy</a> · <a href="/contact/">Contact</a></footer><nav class="mobile-nav" aria-label="App navigation"><a href="/"><span>⌂</span><small>Home</small></a><a href="/library/"><span>▦</span><small>Library</small></a><a href="/30-day-challenge/"><span>✓</span><small>30 Days</small></a><a href="/365-day-practice/"><span>◷</span><small>365 Days</small></a><a href="/quizzes/"><span>?</span><small>Quizzes</small></a><a href="/stories/"><span>▤</span><small>Stories</small></a><a href="/quotes/"><span>❝</span><small>Quotes</small></a></nav></body></html>"""
 
 def write(rel,content):
     p=OUT/rel
@@ -193,11 +193,30 @@ def main():
     story_index_body=f'<section class="hero"><span class="badge">100 short stories</span><h1>Learn English Through Stories</h1><p>Build reading confidence with short stories, useful vocabulary and simple reflection activities.</p></section><section class="story-tools"><label for="story-search">Search stories</label><input id="story-search" type="search" placeholder="Search by story title..."><div class="story-filters"><button class="story-filter active" data-level="all">All levels</button><button class="story-filter" data-level="beginner">Beginner</button><button class="story-filter" data-level="intermediate">Intermediate</button><button class="story-filter" data-level="advanced">Advanced</button></div><p id="story-count" aria-live="polite">100 stories</p></section><div class="grid story-grid" id="story-list">{"".join(story_cards)}</div><script defer src="/assets/stories.js"></script>'
     write("stories/index.html",page("100 Short English Stories | English Fluency Guide","Read 100 short English stories with useful vocabulary and reflection questions.",BASE+"/stories/",story_index_body,'<link rel="stylesheet" href="/assets/stories.css">'))
     urls.extend(story_urls)
+    # Premium original quote collection.
+    quote_data=json.loads((ROOT/"content/quotes/quotes.json").read_text(encoding="utf-8"))
+    quote_categories=json.loads((ROOT/"content/quotes/categories.json").read_text(encoding="utf-8")).get("categories",[])
+    quotes=quote_data.get("quotes",[])
+    if not quotes: raise ValueError("Quote collection is empty")
+    if len({q["id"] for q in quotes})!=len(quotes): raise ValueError("Quote IDs must be unique")
+    quote_cards=[]
+    for q in quotes:
+        quote_cards.append(
+            f'<article class="quote-card" data-category="{esc(q["category"])}" data-search="{esc((q["text"]+" "+" ".join(q.get("tags",[]))).lower())}">'
+            f'<span class="quote-category">{esc(q["category_label"])}</span>'
+            f'<blockquote>“{esc(q["text"])}”</blockquote>'
+            f'<div class="quote-card-bottom"><span>{esc(q.get("credit","Original thought"))}</span>'
+            f'<button type="button" class="quote-copy" data-copy="{esc(q["text"])}">Copy quote</button></div></article>'
+        )
+    category_buttons=''.join(f'<button type="button" class="quote-filter{" active" if c["id"]=="all" else ""}" data-category="{esc(c["id"])}">{esc(c["name"])}</button>' for c in quote_categories)
+    quote_body=f'<section class="hero"><span class="badge">Thoughtful words. Lasting value.</span><h1>Quotes for a Better Mindset</h1><p>A carefully written collection of original thoughts on life, courage, learning, discipline and human values.</p></section><section class="quotes-tools"><label for="quote-search">Find a quote</label><input id="quote-search" type="search" placeholder="Search words or ideas..."><div class="quote-filters">{category_buttons}</div><p id="quote-count" aria-live="polite">{len(quotes)} quotes</p></section><div class="quotes-grid" id="quotes-list">{"".join(quote_cards)}</div><p class="quote-note">These are original editorial quotes created for this collection. They are not attributed to public figures.</p><script defer src="/assets/quotes.js"></script>'
+    write("quotes/index.html",page("Premium English Quotes | English Fluency Guide","A thoughtful collection of original English quotes on life, courage, learning, discipline and human values.",BASE+"/quotes/",quote_body,'<link rel="stylesheet" href="/assets/quotes.css">'))
+    urls.append(BASE+"/quotes/")
     # Library home
     topics=[]
     for label,titles in CAT.get("core_library",{}).items():
         topics.append(card(label,f"{len(titles)} planned lessons",f"/topics/{slugify(label)}/",f"{len(titles)} lessons"))
-    body=f'<section class="hero"><span class="badge">Learn at your own pace</span><h1>Build English Skills with Confidence</h1><p>Clear lessons, real-life examples, speaking tasks and regular practice.</p></section><h2>Explore Learning Topics</h2><div class="grid">{"".join(topics)}</div><section class="promo"><a href="/stories/">Read 100 Short Stories →</a> <a href="/30-day-challenge/">Start the 30-Day Challenge →</a> <a href="/365-day-practice/">Explore 365-Day Practice →</a></section>'
+    body=f'<section class="hero"><span class="badge">Learn at your own pace</span><h1>Build English Skills with Confidence</h1><p>Clear lessons, real-life examples, speaking tasks and regular practice.</p></section><h2>Explore Learning Topics</h2><div class="grid">{"".join(topics)}</div><section class="promo"><a href="/stories/">Read 100 Short Stories →</a> <a href="/quotes/">Explore Premium Quotes →</a> <a href="/30-day-challenge/">Start the 30-Day Challenge →</a> <a href="/365-day-practice/">Explore 365-Day Practice →</a></section>'
     write("index.html",page("English Fluency Guide | Learn and Practise English",CFG["description"],BASE+"/",body))
     write("library/index.html",page("Learning Library | English Fluency Guide",CFG["description"],BASE+"/library/",f'<h1>Learning Library</h1><div class="grid">{"".join(topics)}</div>'))
     sitemap='<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join(f'<url><loc>{esc(u)}</loc></url>' for u in sorted(set(urls+[BASE+"/",BASE+"/library/"])))+'</urlset>'

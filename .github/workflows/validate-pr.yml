@@ -1,10 +1,13 @@
 name: Validate English Fluency Guide pull requests
 
 on:
+  push:
+    branches: ["feature/**"]
   pull_request:
     branches: [main]
     paths:
       - "content/stories/**"
+      - "content/quotes/**"
       - "scripts/build_site.py"
       - "scripts/common.py"
       - "scripts/audit_quizzes.py"
@@ -44,8 +47,26 @@ jobs:
           assert not any(bad.search(" ".join(s["paragraphs"])) for s in stories), "Found a known verb-form error"
           print("Validated 100 stories, unique titles/slugs, levels and language-neutral vocabulary.")
           PY
+      - name: Validate quote collection
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          data=json.loads(Path("content/quotes/quotes.json").read_text(encoding="utf-8"))
+          cats=json.loads(Path("content/quotes/categories.json").read_text(encoding="utf-8"))
+          quotes=data.get("quotes",[])
+          assert len(quotes)>=1, "Quote collection must not be empty"
+          assert len({q["id"] for q in quotes})==len(quotes), "Quote IDs must be unique"
+          category_ids={c["id"] for c in cats["categories"] if c["id"]!="all"}
+          assert all(q["category"] in category_ids for q in quotes), "Unknown quote category"
+          assert all(len(q["text"].split())>=6 for q in quotes), "Quote text is unexpectedly short"
+          assert all(q.get("credit")=="Original thought" for q in quotes), "Original quotes must be labelled transparently"
+          print(f"Validated {len(quotes)} original quotes across {len(category_ids)} categories.")
+          PY
       - name: Build static website
         run: python scripts/build_site.py
+      - name: Verify generated quote page
+        run: test -f dist/quotes/index.html
       - name: Verify generated story pages
         run: |
           test -f dist/stories/index.html
