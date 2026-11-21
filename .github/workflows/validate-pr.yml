@@ -65,7 +65,9 @@ jobs:
           PY
       - name: Build static website
         run: python scripts/build_site.py
-      - name: Verify generated quote page\n        run: test -f dist/quotes/index.html\n      - name: Verify generated story pages
+      - name: Verify generated quote page
+        run: test -f dist/quotes/index.html
+      - name: Verify generated story pages
         run: |
           test -f dist/stories/index.html
           test "$(find dist/stories -mindepth 2 -name index.html | wc -l)" -eq 100
