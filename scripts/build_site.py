@@ -195,7 +195,7 @@ def main():
     urls.extend(story_urls)
     # Premium original quote collection.
     quote_data=json.loads((ROOT/"content/quotes/quotes.json").read_text(encoding="utf-8"))
-    quote_categories=json.loads((ROOT/"content/quotes/categories.json").read_text(encoding="utf-8"))
+    quote_categories=json.loads((ROOT/"content/quotes/categories.json").read_text(encoding="utf-8")).get("categories",[])
     quotes=quote_data.get("quotes",[])
     if not quotes: raise ValueError("Quote collection is empty")
     if len({q["id"] for q in quotes})!=len(quotes): raise ValueError("Quote IDs must be unique")
